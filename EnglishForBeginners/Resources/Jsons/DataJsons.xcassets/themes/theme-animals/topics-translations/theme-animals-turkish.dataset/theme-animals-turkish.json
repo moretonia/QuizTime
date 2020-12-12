@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "African Animals",
+    "word" : "Afrikalı Hayvanlar"
+  },
+  {
+    "id" : "Dog Breeds",
+    "word" : "Köpek Irkları"
+  },
+  {
+    "id" : "Farm Animals",
+    "word" : "Çiftlik Hayvanları"
+  },
+  {
+    "id" : "Fish",
+    "word" : "Balık"
+  },
+  {
+    "id" : "Marine Animals",
+    "word" : "Deniz Hayvanları"
+  },
+  {
+    "id" : "Pets",
+    "word" : "Evcil Hayvanlar"
+  }
+]

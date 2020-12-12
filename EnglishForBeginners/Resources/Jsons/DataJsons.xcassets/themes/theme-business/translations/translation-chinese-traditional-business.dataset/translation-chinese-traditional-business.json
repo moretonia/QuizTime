@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "優勢"
+  },
+  {
+    "id" : "business1",
+    "word" : "推廣"
+  },
+  {
+    "id" : "business2",
+    "word" : "賬單"
+  },
+  {
+    "id" : "business3",
+    "word" : "預算"
+  },
+  {
+    "id" : "business4",
+    "word" : "比較"
+  },
+  {
+    "id" : "business5",
+    "word" : "競爭對手"
+  },
+  {
+    "id" : "business6",
+    "word" : "確認"
+  },
+  {
+    "id" : "business7",
+    "word" : "客戶"
+  },
+  {
+    "id" : "business8",
+    "word" : "截止日期"
+  },
+  {
+    "id" : "business9",
+    "word" : "債務"
+  },
+  {
+    "id" : "business10",
+    "word" : "決定"
+  },
+  {
+    "id" : "business11",
+    "word" : "送货"
+  },
+  {
+    "id" : "business12",
+    "word" : "價格"
+  },
+  {
+    "id" : "business13",
+    "word" : "時間表"
+  },
+  {
+    "id" : "business14",
+    "word" : "團隊工作"
+  },
+  {
+    "id" : "business15",
+    "word" : "評估"
+  },
+  {
+    "id" : "business16",
+    "word" : "介紹"
+  },
+  {
+    "id" : "business17",
+    "word" : "配送"
+  },
+  {
+    "id" : "business18",
+    "word" : "雇員"
+  },
+  {
+    "id" : "business19",
+    "word" : "雇主"
+  },
+  {
+    "id" : "business20",
+    "word" : "工廠"
+  },
+  {
+    "id" : "business21",
+    "word" : "增長"
+  },
+  {
+    "id" : "business22",
+    "word" : "經理"
+  },
+  {
+    "id" : "business23",
+    "word" : "指示"
+  },
+  {
+    "id" : "business24",
+    "word" : "面試"
+  },
+  {
+    "id" : "business25",
+    "word" : "發票"
+  },
+  {
+    "id" : "business26",
+    "word" : "損失"
+  },
+  {
+    "id" : "business27",
+    "word" : "機械"
+  },
+  {
+    "id" : "business28",
+    "word" : "商品"
+  },
+  {
+    "id" : "business29",
+    "word" : "貯存"
+  },
+  {
+    "id" : "business30",
+    "word" : "取消"
+  },
+  {
+    "id" : "business31",
+    "word" : "兌換"
+  },
+  {
+    "id" : "business32",
+    "word" : "反饋"
+  },
+  {
+    "id" : "business33",
+    "word" : "安裝"
+  },
+  {
+    "id" : "business34",
+    "word" : "訂單"
+  },
+  {
+    "id" : "business35",
+    "word" : "付款"
+  },
+  {
+    "id" : "business36",
+    "word" : "罰款"
+  },
+  {
+    "id" : "business37",
+    "word" : "產品"
+  },
+  {
+    "id" : "business38",
+    "word" : "促銷"
+  },
+  {
+    "id" : "business39",
+    "word" : "拒絕"
+  },
+  {
+    "id" : "business40",
+    "word" : "修復"
+  },
+  {
+    "id" : "business41",
+    "word" : "報告"
+  },
+  {
+    "id" : "business42",
+    "word" : "薪資"
+  },
+  {
+    "id" : "business43",
+    "word" : "裝運"
+  },
+  {
+    "id" : "business44",
+    "word" : "目標"
+  },
+  {
+    "id" : "business45",
+    "word" : "古董"
+  },
+  {
+    "id" : "business46",
+    "word" : "人工制品"
+  },
+  {
+    "id" : "business47",
+    "word" : "漫畫"
+  },
+  {
+    "id" : "business48",
+    "word" : "鉆石"
+  },
+  {
+    "id" : "business49",
+    "word" : "塑像"
+  },
+  {
+    "id" : "business50",
+    "word" : "化石"
+  },
+  {
+    "id" : "business51",
+    "word" : "金幣"
+  },
+  {
+    "id" : "business52",
+    "word" : "模型車"
+  },
+  {
+    "id" : "business53",
+    "word" : "海報"
+  },
+  {
+    "id" : "business54",
+    "word" : "紅寶石"
+  },
+  {
+    "id" : "business55",
+    "word" : "藍寶石"
+  },
+  {
+    "id" : "business56",
+    "word" : "銀器"
+  },
+  {
+    "id" : "business57",
+    "word" : "郵票"
+  },
+  {
+    "id" : "business58",
+    "word" : "老爺車"
+  },
+  {
+    "id" : "business59",
+    "word" : "藝術作品"
+  },
+  {
+    "id" : "business60",
+    "word" : "現金"
+  },
+  {
+    "id" : "business61",
+    "word" : "出納員"
+  },
+  {
+    "id" : "business62",
+    "word" : "信用卡"
+  },
+  {
+    "id" : "business63",
+    "word" : "名錄"
+  },
+  {
+    "id" : "business64",
+    "word" : "試衣室"
+  },
+  {
+    "id" : "business65",
+    "word" : "鍵盤"
+  },
+  {
+    "id" : "business66",
+    "word" : "尋找"
+  },
+  {
+    "id" : "business67",
+    "word" : "支付"
+  },
+  {
+    "id" : "business68",
+    "word" : "價格標簽"
+  },
+  {
+    "id" : "business69",
+    "word" : "銷售"
+  },
+  {
+    "id" : "business70",
+    "word" : "購物袋"
+  },
+  {
+    "id" : "business71",
+    "word" : "購物"
+  },
+  {
+    "id" : "business72",
+    "word" : "交易"
+  },
+  {
+    "id" : "business73",
+    "word" : "試穿"
+  },
+  {
+    "id" : "business74",
+    "word" : "取款"
+  },
+  {
+    "id" : "business75",
+    "word" : "面包店"
+  },
+  {
+    "id" : "business76",
+    "word" : "書店"
+  },
+  {
+    "id" : "business77",
+    "word" : "肉店"
+  },
+  {
+    "id" : "business78",
+    "word" : "蛋糕店"
+  },
+  {
+    "id" : "business79",
+    "word" : "藥房"
+  },
+  {
+    "id" : "business80",
+    "word" : "服裝店"
+  },
+  {
+    "id" : "business81",
+    "word" : "炸魚薯條店"
+  },
+  {
+    "id" : "business82",
+    "word" : "花店"
+  },
+  {
+    "id" : "business83",
+    "word" : "水果店"
+  },
+  {
+    "id" : "business84",
+    "word" : "珠寶首飾"
+  },
+  {
+    "id" : "business85",
+    "word" : "市場"
+  },
+  {
+    "id" : "business86",
+    "word" : "網上商店"
+  },
+  {
+    "id" : "business87",
+    "word" : "鞋店"
+  },
+  {
+    "id" : "business88",
+    "word" : "玩具店"
+  },
+  {
+    "id" : "business89",
+    "word" : "旅行社"
+  }
+]

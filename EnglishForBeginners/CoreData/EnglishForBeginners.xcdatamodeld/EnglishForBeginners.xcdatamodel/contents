@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17E199" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="HistoryOfTracking" representedClassName="HistoryOfTracking" syncable="YES">
+        <attribute name="eventDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="eventName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uid" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="LearningSection" representedClassName="LearningSection" syncable="YES">
+        <attribute name="imageName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vocabularyItemIds" optional="YES" attributeType="Transformable" customClassName="NSArray" syncable="YES"/>
+    </entity>
+    <entity name="NativeWord" representedClassName="NativeWord" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="word" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="englishWord" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="VocabularyItem" inverseName="nativeWord" inverseEntity="VocabularyItem" syncable="YES"/>
+        <relationship name="theme" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Theme" inverseName="nativeWord" inverseEntity="Theme" syncable="YES"/>
+        <relationship name="topic" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Topic" inverseName="nativeWord" inverseEntity="Topic" syncable="YES"/>
+    </entity>
+    <entity name="Profile" representedClassName="Profile" syncable="YES">
+        <attribute name="experience" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="purchasedThemes" optional="YES" attributeType="Transformable" customClassName="[String]" syncable="YES"/>
+        <attribute name="starsInfo" optional="YES" attributeType="Transformable" customClassName="[String: Int]" syncable="YES"/>
+        <attribute name="unsynchronisedExperience" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="Stars" representedClassName="Stars" syncable="YES">
+        <attribute name="lessonType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="starCount" optional="YES" attributeType="Integer 16" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="topic" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Topic" inverseName="stars" inverseEntity="Topic" syncable="YES"/>
+    </entity>
+    <entity name="Theme" representedClassName="Theme" parentEntity="LearningSection" syncable="YES">
+        <attribute name="iCloudStarsCount" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="opened" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="passed" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="nativeWord" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="NativeWord" inverseName="theme" inverseEntity="NativeWord" syncable="YES"/>
+        <relationship name="topics" optional="YES" toMany="YES" deletionRule="Cascade" ordered="YES" destinationEntity="Topic" inverseName="theme" inverseEntity="Topic" syncable="YES"/>
+    </entity>
+    <entity name="Topic" representedClassName="Topic" parentEntity="LearningSection" syncable="YES">
+        <relationship name="nativeWord" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="NativeWord" inverseName="topic" inverseEntity="NativeWord" syncable="YES"/>
+        <relationship name="stars" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Stars" inverseName="topic" inverseEntity="Stars" syncable="YES"/>
+        <relationship name="theme" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Theme" inverseName="topics" inverseEntity="Theme" syncable="YES"/>
+    </entity>
+    <entity name="VocabularyItem" representedClassName="VocabularyItem" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="transcription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="word" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="nativeWord" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="NativeWord" inverseName="englishWord" inverseEntity="NativeWord" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="HistoryOfTracking" positionX="-90" positionY="9" width="128" height="90"/>
+        <element name="LearningSection" positionX="207" positionY="-27" width="128" height="90"/>
+        <element name="NativeWord" positionX="-288" positionY="42" width="128" height="120"/>
+        <element name="Profile" positionX="-90" positionY="9" width="128" height="105"/>
+        <element name="Stars" positionX="-90" positionY="9" width="128" height="90"/>
+        <element name="Theme" positionX="169" positionY="237" width="128" height="135"/>
+        <element name="Topic" positionX="-216" positionY="303" width="128" height="90"/>
+        <element name="VocabularyItem" positionX="-29" positionY="-135" width="128" height="120"/>
+    </elements>
+</model>

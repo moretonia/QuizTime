@@ -1,0 +1,205 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "Temas";
+"3-themes" = "3 temas";
+"6-topics" = "6 grupos";
+"90-words" = "90 palabras";
+"words" = "Palabras";
+"view" = "Ver";
+"main-buy-button" = "Comprar";
+
+// Topics
+"matching" = "Emparejar";
+"translation" = "Traducción";
+"pronunciation" = "Pronunciación";
+"spelling" = "Deletreo";
+"dictionary" = "Diccionario";
+"buy-theme" = "Comprar tema";
+"locked" = "bloqueado";
+
+// Quiz
+"some-theme-quiz" = "%@\nPrueba temática";
+"collect-stars-to-unlock" = "Consigue %d estrellas para desbloquear la prueba";
+"can-start-quiz" = "Puedes empezar la prueba";
+"quiz" = "Prueba";
+"pass-quiz-again" = "Aprueba el test de nuevo y consigue más experiencia";
+"repeat" = "Repetir";
+
+// Match Level
+"match" = "Empareja";
+"verify" = "Verificar";
+
+// Translate level
+"translate" = "Traduce";
+"wrong" = "Error";
+"next" = "Siguiente";
+
+// Spelling level
+"spell" = "Deletrea";
+"english-translation" = "Traducción en inglés";
+
+// Listen & Say level
+"listen-and-say" = "Escucha y repite";
+"try-again" = "Por favor, prueba de nuevo";
+
+// Alerts
+"warning" = "Aviso";
+"progress-lost" = "¿Quieres cerrar el nivel? Todo el progreso se perderá";
+"cancel" = "Cancelar";
+"close" = "Cerrar";
+"quiz-fail" = "Desafortunadamente has suspendido la prueba";
+"not-pass-level" = "Desafortunadamente no has aprobado el nivel";
+"back-to-theme" = "Volver al tema";
+"retry" = "Reintentar";
+
+// Profile
+/*"profile" = "Perfil";
+"experience" = "Experiencia";
+"skills" = "Habilidades";
+"next-level" = "Siguiente: %d";*/
+ 
+ 
+
+
+// Ranks
+/*"beginner" = "Principiante";
+"pupil" = "Alumno";
+"student" = "Estudiante";
+"connoisseur" = "Experto";
+"outstanding" = "Excepcional";
+"specialist" = "Especialista";
+"pro" = "Profesional";
+"master" = "Maestro";
+"magister" = "Licenciado";
+"guru" = "Gurú";
+"sage" = "Sabio";
+"enlightened" = "Erudito";
+"oracle" = "Oráculo";
+"genius" = "Genio";
+"higher-mind" = "Mente superior";
+"supermind" = "Superdotado"; */
+
+
+
+
+// Profile
+/*"leaderboard" = "Tabla de clasificaciones";
+"restore-purchases" = "Restaurar compras";
+"rate-us" = "Valóranos";
+"share" = "Compartir";
+"change-language" = "Cambiar idioma";
+"about-us" = "Acerca de nosotros";*/
+
+
+
+
+// Sharing
+"experience-and-rank-share" = "Tengo %d puntos de experiencia en Quiz Time y ahora mi rango es “%@”.";
+"new-rank-share" = "¡He alcanzado un nuevo rango “%@” en Quiz Time! ¡Pruébalo!";
+"experience-share" = "He obtenido %d puntos de experiencia en Quiz Time. ¡Mi nivel de inglés está mejorando cada día!";
+"1-star-share" = "He conseguido 1 estrella y %d puntos de experiencia. Estudio inglés con placer con la aplicación Quiz Time.";
+"2-stars-share" = "He ganado 2 estrellas y %d puntos de experiencia en Quiz Time. ¡Intenta superarme!";
+"3-stars-share" = "He ganado 3 estrellas y %d puntos de experiencia en Quiz Time. ¡Mi nivel de inglés está mejorando cada día!";
+
+// Language
+/*"my-language" = "Mi lengua materna";
+"ok" = "Vale";*/
+
+ 
+
+// Congratulations
+/*"congratulations" = "¡Enhorabuena!";
+"xp" = "+%d pe";
+"new-rank" = "Nuevo rango"; */
+
+
+// About us
+"about-us-title" = "Acerca de nosotros";
+"model-english-mission" = "La aplicación Quiz Time ampliará tu vocabulario, ayudándote a mejorar la pronunciación y el deletreo en forma de juegos.";
+"app-structure" = "En la aplicación, las palabras están divididas en temas, cada tema posee 6 grupos y una prueba de todo el tema. Cada grupo contiene un diccionario  _  de 15 palabras.";
+"about-mechanics-description" = "Una combinación única de distintas mecánicas de juego para ayudarte a dominar las palabras de forma rápida y eficiente:";
+"matching" = "Emparejar";
+"about-mechanics-matching-description" = "En este nivel deberás elegir la imagen correcta para la palabra";
+"translation" = "Traducción";
+"about-mechanics-translator-description" = "Elige la traducción correcta de una palabra";
+"pronunciation" = "Pronunciación";
+"about-mechanics-pronunciation-description" = "Escucha y pronuncia la palabra.";
+"spelling" = "Deletreo";
+"about-mechanics-spelling-description" = "Introduce la palabra con el teclado";
+"about-rewards-little-star-description" = "Al pasar los niveles con éxito recibes entre 1 y 3 estrellas pequeñas";
+"about-rewards-bronze-star-description" = "Obtendrás una estrella de bronce si consigues al menos 50 estrellas pequeñas";
+"about-rewards-silver-star-description" = "Lograrás una estrella de plata si consigues al menos 75 estrellas pequeñas";
+"about-rewards-golden-star-description" = "Recibirás una estrella de oro cuando consigas 100 estrellas pequeñas";
+"about-rewards-passed-exam-description" = "El gorro académico simboliza el éxito en la prueba de un tema";
+"about-rewards-description" = "Por aprobar cada nivel o prueba consigues experiencia y distintos rangos: Principiante, Maestro y otros. Puedes encontrar más información de tus logros en tu perfil  _ .";
+"copyright" = "Copyright © B. V. Rolandsen 2020";
+"design-and-development" = "Diseño y desarrollo por Bryan Rolandsen";
+
+// Alerts
+"correct" = "Correcto";
+"finish" = "Terminar";
+"error" = "Error";
+"error-load-leaderboard" = "Error al cargar la tabla de clasificaciones. Por favor, prueba de nuevo";
+"timeout" = "Tiempo agotado";
+"speech-recognition-unavailable" = "El reconocimiento de voz no está disponible";
+"device-settings-for-speech" = "1. Comprueba los ajustes del dispositivo (Ajustes -> General -> Teclado -> Habilitar dictado)";
+"check-internet-for-speech" = "2. Si el reconocimiento sigue sin funcionar por favor comprueba tu conexión a internet y prueba de nuevo";
+"already-cancel-auth" = "Por favor, regístrate en tu cuenta de Game Center utilizando los ajustes del dispositivo";
+"settings" = "Configuración";
+"micro-usage-cancel" = "Acceso al micrófono denegado. Por favor, comprueba los ajustes del dispositivo";
+"speech-usage-cancel" = "Acceso al reconocimiento de voz denegado. Por favor, comprueba los ajustes del dispositivo";
+"not-support-speech-recognition" = "Tu dispositivo no es compatible con el reconocimiento de voz";
+
+// Packs
+"main-pack-info" = "3 temas, 18 grupos, 270 palabras";
+
+// Other
+"topics-count" = "6 grupos, 90 palabras";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

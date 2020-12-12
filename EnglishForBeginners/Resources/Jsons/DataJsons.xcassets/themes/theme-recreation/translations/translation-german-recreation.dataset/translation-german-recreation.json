@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "das Backgammon"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "das Schiffe versenken"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "die Karten"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "das Damespiel"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "das Schachspiel"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "das Vier gewinnt"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "der Würfel"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "die Dominosteine"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "das Go"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "das Puzzle"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "das Ludo"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "das Mahjong"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "das Monopoly"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "das Scrabble"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "das Tic Tac Toe"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "das Badminton"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "das Bowlingspiel"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "das Klettern"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "das Dart"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "das Wurfringspiel"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "die Frisbee"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "das Hickelkasten"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "der Hula-Hoop-Reifen"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "das Bockspringen"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "das Limbo"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "der Flipper"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "das Pokerspiel"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "das Shuffleboard"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "das Tauziehen"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "das Jo-Jo"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "der Luftballon"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "der Boxhandschuh"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "der Cricketschläger"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "der Dartpfeil"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "die Hanteln"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "die Angelrolle"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "die Schwimmflossen"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "der Fußball"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "die Schutzbrille"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "der Golfschläger"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "der Eispickel"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "der Fallschirm"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "die Skier"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "die Fußballschuhe"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "der Tennisschläger"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "die Aerobic"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "der Baseball"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "der Basketball"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "das Rodeln"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "das Boxen"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "das Kricket"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "das Fußballspiel"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "das Turnen"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "der Handball"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "das Hockeyspiel"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "das Rugbyspiel"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "das Skilaufen"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "das Tennisspiel"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "das Volleyballspiel"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "das Windsurfen"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "das Bogenschießen"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "das Fahrradfahren"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "das Dressurreiten"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "der Golfsport"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "der Hochsprung"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "der Orientierungslauf"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "das Polo"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "das Rudern"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "das Tauchen"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "das Schießen"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "das Fallschirmspringen"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "das Snooker"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "das Tischtennis"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "das Wasserpolo"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "das Wrestling"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "das Base-Jumping"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "das BMX-Rad"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "das Bodysurfing"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "das Zelten"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "das Höhlenwandern"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "das Gärtnern"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "das Wandern"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "das Lanzenstechen"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "das Judo"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "das Kitesurfen"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "das Rafting"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "das Segeln"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "das Schnorcheln"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "das Snowboarden"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "das Tai Chi"
+  }
+]

@@ -1,0 +1,542 @@
+[
+ {
+   "id": "food0",
+   "word": "apple pie",
+   "transcription": "ˈæpəl ˈpaɪ",
+   "imageName": "food-apple pie"
+ },
+ {
+   "id": "food1",
+   "word": "baklava",
+   "transcription": "ˈbɑkləˌvɑ",
+   "imageName": "food-baklava"
+ },
+ {
+   "id": "food2",
+   "word": "cheesecake",
+   "transcription": "ˈtʃiːzˌkeɪk",
+   "imageName": "food-cheesecake"
+ },
+ {
+   "id": "food3",
+   "word": "cookies",
+   "transcription": "ˈkʊkiːz",
+   "imageName": "food-cookies"
+ },
+ {
+   "id": "food4",
+   "word": "cupcake",
+   "transcription": "ˈkʌpˌkeɪk",
+   "imageName": "food-cupcake"
+ },
+ {
+   "id": "food5",
+   "word": "doughnut",
+   "transcription": "ˈdoʊˌnʌt",
+   "imageName": "food-doughnut"
+ },
+ {
+   "id": "food6",
+   "word": "fruit cake",
+   "transcription": "ˈfruːt ˈkeɪk",
+   "imageName": "food-fruit cake"
+ },
+ {
+   "id": "food7",
+   "word": "fruit salad",
+   "transcription": "ˈfruːt ˈsæləd",
+   "imageName": "food-fruit salad"
+ },
+ {
+   "id": "food8",
+   "word": "ice cream",
+   "transcription": "ˌaɪs ˈkriːm",
+   "imageName": "food-ice cream"
+ },
+ {
+   "id": "food9",
+   "word": "mince pie",
+   "transcription": "ˈmɪns ˈpaɪ",
+   "imageName": "food-mince pie"
+ },
+ {
+   "id": "food10",
+   "word": "pancakes",
+   "transcription": "ˈpænˌkeɪks",
+   "imageName": "food-pancakes"
+ },
+ {
+   "id": "food11",
+   "word": "pavlova",
+   "transcription": "ˈpævləvə",
+   "imageName": "food-pavlova"
+ },
+ {
+   "id": "food12",
+   "word": "scones",
+   "transcription": "ˈskoʊnz",
+   "imageName": "food-scones"
+ },
+ {
+   "id": "food13",
+   "word": "sundae",
+   "transcription": "ˈsʌnˌdeɪ",
+   "imageName": "food-sundae"
+ },
+ {
+   "id": "food14",
+   "word": "waffles",
+   "transcription": "ˈwɑfəlz",
+   "imageName": "food-waffles"
+ },
+ {
+   "id": "food15",
+   "word": "chicken",
+   "transcription": "ˈtʃɪkn̩",
+   "imageName": "food-chicken"
+ },
+ {
+   "id": "food16",
+   "word": "chips",
+   "transcription": "ˈtʃɪps",
+   "imageName": "food-chips"
+ },
+ {
+   "id": "food17",
+   "word": "chocolate",
+   "transcription": "ˈtʃɑklət",
+   "imageName": "food-chocolate"
+ },
+ {
+   "id": "food18",
+   "word": "eggs",
+   "transcription": "ˈɛɡz",
+   "imageName": "food-eggs"
+ },
+ {
+   "id": "food19",
+   "word": "felafel",
+   "transcription": "fəˈlɑfəl",
+   "imageName": "food-felafel"
+ },
+ {
+   "id": "food20",
+   "word": "fish",
+   "transcription": "ˈfɪʃ",
+   "imageName": "food-fish"
+ },
+ {
+   "id": "food21",
+   "word": "fried rice",
+   "transcription": "ˈfraɪd ˈraɪs",
+   "imageName": "food-fried rice"
+ },
+ {
+   "id": "food22",
+   "word": "hamburger",
+   "transcription": "ˈhæmˌbɝɡɚ",
+   "imageName": "food-hamburger"
+ },
+ {
+   "id": "food23",
+   "word": "honey",
+   "transcription": "ˈhʌnɪ",
+   "imageName": "food-honey"
+ },
+ {
+   "id": "food24",
+   "word": "pie",
+   "transcription": "ˈpaɪ",
+   "imageName": "food-pie"
+ },
+ {
+   "id": "food25",
+   "word": "pizza",
+   "transcription": "ˈpiːtsə",
+   "imageName": "food-pizza"
+ },
+ {
+   "id": "food26",
+   "word": "sandwich",
+   "transcription": "ˈsændˌwɪtʃ",
+   "imageName": "food-sandwich"
+ },
+ {
+   "id": "food27",
+   "word": "sausages",
+   "transcription": "ˈsɔsɪdʒəz",
+   "imageName": "food-sausages"
+ },
+ {
+   "id": "food28",
+   "word": "steak",
+   "transcription": "ˈsteɪk",
+   "imageName": "food-steak"
+ },
+ {
+   "id": "food29",
+   "word": "tuna salad",
+   "transcription": "ˈtuːnə ˈsæləd",
+   "imageName": "food-tuna salad"
+ },
+ {
+   "id": "food30",
+   "word": "apple",
+   "transcription": "ˈæpəl",
+   "imageName": "food-apple"
+ },
+ {
+   "id": "food31",
+   "word": "apricot",
+   "transcription": "ˈæprəˌkɑt",
+   "imageName": "food-apricot"
+ },
+ {
+   "id": "food32",
+   "word": "banana",
+   "transcription": "bəˈnænə",
+   "imageName": "food-banana"
+ },
+ {
+   "id": "food33",
+   "word": "blueberries",
+   "transcription": "ˈbluːˌbɛriːz",
+   "imageName": "food-blueberries"
+ },
+ {
+   "id": "food34",
+   "word": "fig",
+   "transcription": "ˈfɪɡ",
+   "imageName": "food-fig"
+ },
+ {
+   "id": "food35",
+   "word": "grapefruit",
+   "transcription": "ˈɡreɪpˌfruːt",
+   "imageName": "food-grapefruit"
+ },
+ {
+   "id": "food36",
+   "word": "grapes",
+   "transcription": "ˈɡreɪps",
+   "imageName": "food-grapes"
+ },
+ {
+   "id": "food37",
+   "word": "lemon",
+   "transcription": "ˈlɛmən",
+   "imageName": "food-lemon"
+ },
+ {
+   "id": "food38",
+   "word": "orange",
+   "transcription": "ˈɑrɪndʒ",
+   "imageName": "food-orange"
+ },
+ {
+   "id": "food39",
+   "word": "passionfruit",
+   "transcription": "ˈpæʃən ˈfruːt",
+   "imageName": "food-passionfruit"
+ },
+ {
+   "id": "food40",
+   "word": "peach",
+   "transcription": "ˈpiːtʃ",
+   "imageName": "food-peach"
+ },
+ {
+   "id": "food41",
+   "word": "pineapple",
+   "transcription": "ˈpaɪˌnæpəl",
+   "imageName": "food-pineapple"
+ },
+ {
+   "id": "food42",
+   "word": "plum",
+   "transcription": "ˈplʌm",
+   "imageName": "food-plum"
+ },
+ {
+   "id": "food43",
+   "word": "strawberry",
+   "transcription": "ˈstrɔˌbɛrɪ",
+   "imageName": "food-strawberry"
+ },
+ {
+   "id": "food44",
+   "word": "tomato",
+   "transcription": "təˈmeɪtoʊ",
+   "imageName": "food-tomato"
+ },
+ {
+   "id": "food45",
+   "word": "avocado",
+   "transcription": "ˌɑvəˈkɑdoʊ",
+   "imageName": "food-avocado"
+ },
+ {
+   "id": "food46",
+   "word": "cherry",
+   "transcription": "ˈtʃɛrɪ",
+   "imageName": "food-cherry"
+ },
+ {
+   "id": "food47",
+   "word": "coconut",
+   "transcription": "ˈkoʊkəˌnʌt",
+   "imageName": "food-coconut"
+ },
+ {
+   "id": "food48",
+   "word": "dates",
+   "transcription": "ˈdeɪts",
+   "imageName": "food-dates"
+ },
+ {
+   "id": "food49",
+   "word": "dragonfruit",
+   "transcription": "ˈdræɡən ˈfruːt",
+   "imageName": "food-dragonfruit"
+ },
+ {
+   "id": "food50",
+   "word": "guava",
+   "transcription": "ˈɡwɑvə",
+   "imageName": "food-guava"
+ },
+ {
+   "id": "food51",
+   "word": "kiwi fruit",
+   "transcription": "ˈkiːˌwiː ˈfruːt",
+   "imageName": "food-kiwi fruit"
+ },
+ {
+   "id": "food52",
+   "word": "mandarin",
+   "transcription": "ˈmændɚrən",
+   "imageName": "food-mandarin"
+ },
+ {
+   "id": "food53",
+   "word": "mango",
+   "transcription": "ˈmæŋɡoʊ",
+   "imageName": "food-mango"
+ },
+ {
+   "id": "food54",
+   "word": "olives",
+   "transcription": "ˈɑlɪvz",
+   "imageName": "food-olives"
+ },
+ {
+   "id": "food55",
+   "word": "papaya",
+   "transcription": "pəˈpaɪə",
+   "imageName": "food-papaya"
+ },
+ {
+   "id": "food56",
+   "word": "pear",
+   "transcription": "ˈpɛr",
+   "imageName": "food-pear"
+ },
+ {
+   "id": "food57",
+   "word": "pomegranate",
+   "transcription": "ˈpɑməˌɡrænət",
+   "imageName": "food-pomegranate"
+ },
+ {
+   "id": "food58",
+   "word": "raspberry",
+   "transcription": "ˈræzˌbɛrɪ",
+   "imageName": "food-raspberry"
+ },
+ {
+   "id": "food59",
+   "word": "watermelon",
+   "transcription": "ˈwɔtɚˌmɛlən",
+   "imageName": "food-watermelon"
+ },
+ {
+   "id": "food60",
+   "word": "beans",
+   "transcription": "ˈbiːnz",
+   "imageName": "food-beans"
+ },
+ {
+   "id": "food61",
+   "word": "broccoli",
+   "transcription": "ˈbrɑkəlɪ",
+   "imageName": "food-broccoli"
+ },
+ {
+   "id": "food62",
+   "word": "cabbage",
+   "transcription": "ˈkæbɪdʒ",
+   "imageName": "food-cabbage"
+ },
+ {
+   "id": "food63",
+   "word": "carrot",
+   "transcription": "ˈkɛrət",
+   "imageName": "food-carrot"
+ },
+ {
+   "id": "food64",
+   "word": "cauliflower",
+   "transcription": "ˈkɔlɪˌflaʊɚ",
+   "imageName": "food-cauliflower"
+ },
+ {
+   "id": "food65",
+   "word": "celery",
+   "transcription": "ˈsɛlɚrɪ",
+   "imageName": "food-celery"
+ },
+ {
+   "id": "food66",
+   "word": "corn",
+   "transcription": "ˈkɔrn",
+   "imageName": "food-corn"
+ },
+ {
+   "id": "food67",
+   "word": "cucumber",
+   "transcription": "ˈkjuːˌkʌmbɚ",
+   "imageName": "food-cucumber"
+ },
+ {
+   "id": "food68",
+   "word": "eggplant",
+   "transcription": "ˈɛɡˌplænt",
+   "imageName": "food-eggplant"
+ },
+ {
+   "id": "food69",
+   "word": "leeks",
+   "transcription": "ˈliːks",
+   "imageName": "food-leeks"
+ },
+ {
+   "id": "food70",
+   "word": "lettuce",
+   "transcription": "ˈlɛtəs",
+   "imageName": "food-lettuce"
+ },
+ {
+   "id": "food71",
+   "word": "onion",
+   "transcription": "ˈʌnjən",
+   "imageName": "food-onion"
+ },
+ {
+   "id": "food72",
+   "word": "potatoes",
+   "transcription": "pəˈteɪtoz",
+   "imageName": "food-potatoes"
+ },
+ {
+   "id": "food73",
+   "word": "pumpkin",
+   "transcription": "ˈpʌmpkən",
+   "imageName": "food-pumpkin"
+ },
+ {
+   "id": "food74",
+   "word": "spinach",
+   "transcription": "ˈspɪnɪtʃ",
+   "imageName": "food-spinach"
+ },
+ {
+   "id": "food75",
+   "word": "artichoke",
+   "transcription": "ˈɑrtəˌtʃoʊk",
+   "imageName": "food-artichoke"
+ },
+ {
+   "id": "food76",
+   "word": "asparagus",
+   "transcription": "əˈspɛrəɡəs",
+   "imageName": "food-asparagus"
+ },
+ {
+   "id": "food77",
+   "word": "bamboo",
+   "transcription": "bæmˈbuː",
+   "imageName": "food-bamboo"
+ },
+ {
+   "id": "food78",
+   "word": "beetroot",
+   "transcription": "ˈbiːtˌruːt",
+   "imageName": "food-beetroot"
+ },
+ {
+   "id": "food79",
+   "word": "chard",
+   "transcription": "ˈtʃɑrd",
+   "imageName": "food-chard"
+ },
+ {
+   "id": "food80",
+   "word": "garlic",
+   "transcription": "ˈɡɑrlɪk",
+   "imageName": "food-garlic"
+ },
+ {
+   "id": "food81",
+   "word": "ginger",
+   "transcription": "ˈdʒɪndʒɚ",
+   "imageName": "food-ginger"
+ },
+ {
+   "id": "food82",
+   "word": "mushroom",
+   "transcription": "ˈmʌʃˌruːm",
+   "imageName": "food-mushroom"
+ },
+ {
+   "id": "food83",
+   "word": "parsnips",
+   "transcription": "ˈpɑrsnəps",
+   "imageName": "food-parsnips"
+ },
+ {
+   "id": "food84",
+   "word": "peas",
+   "transcription": "ˈpiːz",
+   "imageName": "food-peas"
+ },
+ {
+   "id": "food85",
+   "word": "peppers",
+   "transcription": "ˈpɛpɚz",
+   "imageName": "food-peppers"
+ },
+ {
+   "id": "food86",
+   "word": "radish",
+   "transcription": "ˈrædɪʃ",
+   "imageName": "food-radish"
+ },
+ {
+   "id": "food87",
+   "word": "sprouts",
+   "transcription": "ˈspraʊts",
+   "imageName": "food-sprouts"
+ },
+ {
+   "id": "food88",
+   "word": "turnips",
+   "transcription": "ˈtɝnəps",
+   "imageName": "food-turnips"
+ },
+ {
+   "id": "food89",
+   "word": "zucchini",
+   "transcription": "zʊˈkiːnɪ",
+   "imageName": "food-zucchini"
+ }
+]

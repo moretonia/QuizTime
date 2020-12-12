@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "탁발"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "성찬식"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "화장"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "졸업"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "메카 순례"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "향"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "카바 의식"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "전등"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "개회"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "기도"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "레드 카펫"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "은퇴"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "왕예포"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "송끄란"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "다도"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "초"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "크리스마스 카드"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "크리스마스 트리"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "요정"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "생강 쿠키"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "호랑가시 나무"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "성탄"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "선물"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "크리스마스 푸딩"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "순록"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "산타 할아버지"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "썰매"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "눈사람"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "양말"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "칠면조"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "제단"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "애프스"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "세례"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "십자가"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "성경"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "성배"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "성가대"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "신도들"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "장례식"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "묘지"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "신도석"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "전도사"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "설교단"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "첨탑"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "결혼"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "도토리"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "호박"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "클로버"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "행운을 빌다"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "수정"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "돌고래"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "풍수"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "말굽"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "레프러콘"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "금천죽"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "행운의 고양이"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "별똥별"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "무지개"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "스카라브"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "위시본"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "석가모니"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "대성당"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "공자"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "이맘"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "예수"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "수도원"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "수도승"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "모스크"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "수녀"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "신부"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "라비"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "신도"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "시크교도"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "유대교 회당"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "도교"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "물병자리"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "양자리"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "게자리"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "염소자리"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "수정 구슬"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "쌍둥이자리"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "별자리"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "사자자리"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "천칭자리"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "물고기자리"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "궁수자리"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "전갈자리"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "타로 카드"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "황소자리"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "처녀자리"
+  }
+]

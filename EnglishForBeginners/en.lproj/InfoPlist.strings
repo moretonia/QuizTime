@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  EnglishForBeginners
+
+  Created by Sergey Aleksandrov on 14/05/2018.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+"NSMicrophoneUsageDescription" = "The application uses the microphone to record your voice";
+"NSSpeechRecognitionUsageDescription" = "The application uses speech recognition to verify that your pronunciation is correct";

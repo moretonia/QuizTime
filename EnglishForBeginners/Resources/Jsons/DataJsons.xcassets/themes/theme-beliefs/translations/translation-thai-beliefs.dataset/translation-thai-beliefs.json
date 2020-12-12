@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "สังฆทาน"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "พิธีมหาสนิท"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "การฌาปนกิจ"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "พิธีสำเร็จการศึกษา"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "การแสวงบุญ"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "จุดธูปบูชา"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "พิธีคาวา"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "โคมลอย"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "งานเปิดตัว"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "สวดมนต์"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "งานพรมแดง"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "การปลดเกษียญ"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "ทำความเคารพราชวงศ์"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "วันสงกรานต์"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "พิธีชงชา"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "เทียน"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "การ์ดคริสต์มาส"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "ต้นคริสต์มาส"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "เอลฟ์"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "ขนมปังขิง"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "ต้นฮอลลี่"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "การประสูติของพระเยซู"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "ของขวัญ"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "พุดดิ้ง"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "กวางเรนเดียร์"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "ซานต้าคลอส"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "รถลากเลื่อน"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "ตุ๊กตาหิมะ"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "ถุงเท้ายาว"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "ไก่งวง"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "แท่นบูชา"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "มุขโค้งด้านสกัด"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "พิธีศีลล้างบาป"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "ไม้กางเขน"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "คัมภีร์ไบเบิ้ล"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "ถ้วยไวน์"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "คณะประสานเสียง"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "การชุมนุมในโบสถ์"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "พิธีศพ"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "สุสาน"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "ม้านั่ง"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "นักเทศน์"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "แท่นเทศน์"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "หอคอยโบสถ์"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "พิธีแต่งงาน"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "ลูกโอ๊ก"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "อำพัน"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "ใบโคลเวอร์"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "ไขว้นิ้ว"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "คริสตัล"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "โลมา"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "ฮวงจุ้ย"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "เกือกม้าเหล็ก"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "เลเปรอคอน"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "ไผ่กวนอิม"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "แมวกวัก"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "อุกาบาต"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "สายรุ้ง"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "ด้วงซเเคเเร็บ"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "กระดูกไก่นำโชค"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "พระพุทธเจ้า"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "อาสนวิหาร"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "ขงจื๊อ"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "อิหม่าม"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "พระเยซู"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "อาราม"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "พระสงฆ์"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "มัสยิด"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "แม่ชี"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "ภิกษุ"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "พระศาสนายูดาห์"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "ลิทธิชินโต"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "ผู้นับถือศาสนาซิกข์"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "ธรรมศาลา"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "ลัทธิเต๋า"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "ราศีกุมภ์"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "ราศีเมษ"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "ราศีกรกฎ"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "ราศีมกร"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "ลูกบอลคริสตัล"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "ราศีเมถุน"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "ดวงชะตาราศี"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "ราศีสิงห์"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "ราศีตุล"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "ราศีมีน"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "ราศีธนู"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "ราศีพิจิก"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "ไพ่ทาโรต์"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "ราศีพฤษภ"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "ราศีกันย์"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "종"
+  },
+  {
+    "id" : "transport1",
+    "word" : "브레이크"
+  },
+  {
+    "id" : "transport2",
+    "word" : "체인"
+  },
+  {
+    "id" : "transport3",
+    "word" : "사이클리스트"
+  },
+  {
+    "id" : "transport4",
+    "word" : "기어"
+  },
+  {
+    "id" : "transport5",
+    "word" : "핸들"
+  },
+  {
+    "id" : "transport6",
+    "word" : "헬멧"
+  },
+  {
+    "id" : "transport7",
+    "word" : "도로"
+  },
+  {
+    "id" : "transport8",
+    "word" : "페달"
+  },
+  {
+    "id" : "transport9",
+    "word" : "펌프"
+  },
+  {
+    "id" : "transport10",
+    "word" : "펑크"
+  },
+  {
+    "id" : "transport11",
+    "word" : "반사 장치"
+  },
+  {
+    "id" : "transport12",
+    "word" : "안장"
+  },
+  {
+    "id" : "transport13",
+    "word" : "바퀴살"
+  },
+  {
+    "id" : "transport14",
+    "word" : "바퀴"
+  },
+  {
+    "id" : "transport15",
+    "word" : "화물선"
+  },
+  {
+    "id" : "transport16",
+    "word" : "유람 여객선"
+  },
+  {
+    "id" : "transport17",
+    "word" : "연락선"
+  },
+  {
+    "id" : "transport18",
+    "word" : "어선"
+  },
+  {
+    "id" : "transport19",
+    "word" : "곤돌라"
+  },
+  {
+    "id" : "transport20",
+    "word" : "선상 가옥"
+  },
+  {
+    "id" : "transport21",
+    "word" : "수중익선"
+  },
+  {
+    "id" : "transport22",
+    "word" : "고무보트"
+  },
+  {
+    "id" : "transport23",
+    "word" : "제트 스키"
+  },
+  {
+    "id" : "transport24",
+    "word" : "정크"
+  },
+  {
+    "id" : "transport25",
+    "word" : "카약"
+  },
+  {
+    "id" : "transport26",
+    "word" : "아웃리거"
+  },
+  {
+    "id" : "transport27",
+    "word" : "외륜선"
+  },
+  {
+    "id" : "transport28",
+    "word" : "노 젓는 배"
+  },
+  {
+    "id" : "transport29",
+    "word" : "요트"
+  },
+  {
+    "id" : "transport30",
+    "word" : "차량 탈취"
+  },
+  {
+    "id" : "transport31",
+    "word" : "이동식 주택"
+  },
+  {
+    "id" : "transport32",
+    "word" : "계기판"
+  },
+  {
+    "id" : "transport33",
+    "word" : "엔진 오일"
+  },
+  {
+    "id" : "transport34",
+    "word" : "엔진"
+  },
+  {
+    "id" : "transport35",
+    "word" : "주유소"
+  },
+  {
+    "id" : "transport36",
+    "word" : "헤드라이트"
+  },
+  {
+    "id" : "transport37",
+    "word" : "고속도로"
+  },
+  {
+    "id" : "transport38",
+    "word" : "번호판"
+  },
+  {
+    "id" : "transport39",
+    "word" : "보행자"
+  },
+  {
+    "id" : "transport40",
+    "word" : "세단형 자동차"
+  },
+  {
+    "id" : "transport41",
+    "word" : "사이드 미러"
+  },
+  {
+    "id" : "transport42",
+    "word" : "스티어링 휠"
+  },
+  {
+    "id" : "transport43",
+    "word" : "후미등"
+  },
+  {
+    "id" : "transport44",
+    "word" : "트레일러"
+  },
+  {
+    "id" : "transport45",
+    "word" : "송아지"
+  },
+  {
+    "id" : "transport46",
+    "word" : "어린이"
+  },
+  {
+    "id" : "transport47",
+    "word" : "위험"
+  },
+  {
+    "id" : "transport48",
+    "word" : "교차로"
+  },
+  {
+    "id" : "transport49",
+    "word" : "철도 건널목"
+  },
+  {
+    "id" : "transport50",
+    "word" : "북극곰"
+  },
+  {
+    "id" : "transport51",
+    "word" : "로터리"
+  },
+  {
+    "id" : "transport52",
+    "word" : "미끄러움"
+  },
+  {
+    "id" : "transport53",
+    "word" : "눈"
+  },
+  {
+    "id" : "transport54",
+    "word" : "속도 제한"
+  },
+  {
+    "id" : "transport55",
+    "word" : "내리막 경사"
+  },
+  {
+    "id" : "transport56",
+    "word" : "신호등"
+  },
+  {
+    "id" : "transport57",
+    "word" : "구불구불한 도로"
+  },
+  {
+    "id" : "transport58",
+    "word" : "공사중"
+  },
+  {
+    "id" : "transport59",
+    "word" : "횡단보도"
+  },
+  {
+    "id" : "transport60",
+    "word" : "간이식당"
+  },
+  {
+    "id" : "transport61",
+    "word" : "징수원"
+  },
+  {
+    "id" : "transport62",
+    "word" : "통근자"
+  },
+  {
+    "id" : "transport63",
+    "word" : "안내원"
+  },
+  {
+    "id" : "transport64",
+    "word" : "화물 열차"
+  },
+  {
+    "id" : "transport65",
+    "word" : "화장실"
+  },
+  {
+    "id" : "transport66",
+    "word" : "기관차"
+  },
+  {
+    "id" : "transport67",
+    "word" : "플랫폼"
+  },
+  {
+    "id" : "transport68",
+    "word" : "레일 교량"
+  },
+  {
+    "id" : "transport69",
+    "word" : "혼잡 시간대"
+  },
+  {
+    "id" : "transport70",
+    "word" : "좌석"
+  },
+  {
+    "id" : "transport71",
+    "word" : "증기 기관차"
+  },
+  {
+    "id" : "transport72",
+    "word" : "손잡이"
+  },
+  {
+    "id" : "transport73",
+    "word" : "시간표"
+  },
+  {
+    "id" : "transport74",
+    "word" : "선로"
+  },
+  {
+    "id" : "transport75",
+    "word" : "자전거"
+  },
+  {
+    "id" : "transport76",
+    "word" : "버스"
+  },
+  {
+    "id" : "transport77",
+    "word" : "자동차"
+  },
+  {
+    "id" : "transport78",
+    "word" : "미니밴"
+  },
+  {
+    "id" : "transport79",
+    "word" : "모노레일"
+  },
+  {
+    "id" : "transport80",
+    "word" : "오토바이"
+  },
+  {
+    "id" : "transport81",
+    "word" : "스쿠터"
+  },
+  {
+    "id" : "transport82",
+    "word" : "인력거"
+  },
+  {
+    "id" : "transport83",
+    "word" : "롤러 블레이드"
+  },
+  {
+    "id" : "transport84",
+    "word" : "롤러 스쿠터"
+  },
+  {
+    "id" : "transport85",
+    "word" : "지하철"
+  },
+  {
+    "id" : "transport86",
+    "word" : "택시"
+  },
+  {
+    "id" : "transport87",
+    "word" : "기차"
+  },
+  {
+    "id" : "transport88",
+    "word" : "전차"
+  },
+  {
+    "id" : "transport89",
+    "word" : "트럭"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Desserts",
+    "word" : "Dezerty"
+  },
+  {
+    "id" : "Food",
+    "word" : "Jídlo"
+  },
+  {
+    "id" : "Fruit",
+    "word" : "Ovoce"
+  },
+  {
+    "id" : "Fruit II",
+    "word" : "Ovoce II"
+  },
+  {
+    "id" : "Vegetables",
+    "word" : "Zelenina"
+  },
+  {
+    "id" : "Vegetables II",
+    "word" : "Zelenina II"
+  }
+]

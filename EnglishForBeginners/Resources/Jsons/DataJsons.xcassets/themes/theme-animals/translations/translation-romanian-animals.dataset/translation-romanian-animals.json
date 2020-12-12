@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "babuin"
+  },
+  {
+    "id" : "animals1",
+    "word" : "bivol"
+  },
+  {
+    "id" : "animals2",
+    "word" : "Cămilă"
+  },
+  {
+    "id" : "animals3",
+    "word" : "Cimpanzeu"
+  },
+  {
+    "id" : "animals4",
+    "word" : "Crocodil"
+  },
+  {
+    "id" : "animals5",
+    "word" : "Elefant"
+  },
+  {
+    "id" : "animals6",
+    "word" : "girafă"
+  },
+  {
+    "id" : "animals7",
+    "word" : "Gorilă"
+  },
+  {
+    "id" : "animals8",
+    "word" : "Hipopotam"
+  },
+  {
+    "id" : "animals9",
+    "word" : "Hienă"
+  },
+  {
+    "id" : "animals10",
+    "word" : "Leopard"
+  },
+  {
+    "id" : "animals11",
+    "word" : "Leu"
+  },
+  {
+    "id" : "animals12",
+    "word" : "Struț"
+  },
+  {
+    "id" : "animals13",
+    "word" : "Rinocer"
+  },
+  {
+    "id" : "animals14",
+    "word" : "Gnu"
+  },
+  {
+    "id" : "animals15",
+    "word" : "Beagle"
+  },
+  {
+    "id" : "animals16",
+    "word" : "Boxer"
+  },
+  {
+    "id" : "animals17",
+    "word" : "chihuahua"
+  },
+  {
+    "id" : "animals18",
+    "word" : "Collie"
+  },
+  {
+    "id" : "animals19",
+    "word" : "Teckel"
+  },
+  {
+    "id" : "animals20",
+    "word" : "Dalmațian"
+  },
+  {
+    "id" : "animals21",
+    "word" : "Doberman"
+  },
+  {
+    "id" : "animals22",
+    "word" : "Ogar"
+  },
+  {
+    "id" : "animals23",
+    "word" : "Husky"
+  },
+  {
+    "id" : "animals24",
+    "word" : "Setter irlandez"
+  },
+  {
+    "id" : "animals25",
+    "word" : "Labrador"
+  },
+  {
+    "id" : "animals26",
+    "word" : "Maltez"
+  },
+  {
+    "id" : "animals27",
+    "word" : "Pudel"
+  },
+  {
+    "id" : "animals28",
+    "word" : "rottweiler"
+  },
+  {
+    "id" : "animals29",
+    "word" : "Câine de oi"
+  },
+  {
+    "id" : "animals30",
+    "word" : "Taur"
+  },
+  {
+    "id" : "animals31",
+    "word" : "Vițel"
+  },
+  {
+    "id" : "animals32",
+    "word" : "Pisică"
+  },
+  {
+    "id" : "animals33",
+    "word" : "Măgar"
+  },
+  {
+    "id" : "animals34",
+    "word" : "Rață"
+  },
+  {
+    "id" : "animals35",
+    "word" : "Mânz"
+  },
+  {
+    "id" : "animals36",
+    "word" : "Capră"
+  },
+  {
+    "id" : "animals37",
+    "word" : "Gâscă"
+  },
+  {
+    "id" : "animals38",
+    "word" : "Cal"
+  },
+  {
+    "id" : "animals39",
+    "word" : "Miel"
+  },
+  {
+    "id" : "animals40",
+    "word" : "Porc"
+  },
+  {
+    "id" : "animals41",
+    "word" : "Purceluș"
+  },
+  {
+    "id" : "animals42",
+    "word" : "Cocoș"
+  },
+  {
+    "id" : "animals43",
+    "word" : "Oaie"
+  },
+  {
+    "id" : "animals44",
+    "word" : "Curcan"
+  },
+  {
+    "id" : "animals45",
+    "word" : "Cod"
+  },
+  {
+    "id" : "animals46",
+    "word" : "Crab"
+  },
+  {
+    "id" : "animals47",
+    "word" : "Meduză"
+  },
+  {
+    "id" : "animals48",
+    "word" : "Homar"
+  },
+  {
+    "id" : "animals49",
+    "word" : "Caracatiță"
+  },
+  {
+    "id" : "animals50",
+    "word" : "Stridie"
+  },
+  {
+    "id" : "animals51",
+    "word" : "Crevete"
+  },
+  {
+    "id" : "animals52",
+    "word" : "Somon"
+  },
+  {
+    "id" : "animals53",
+    "word" : "Sardine"
+  },
+  {
+    "id" : "animals54",
+    "word" : "Cal de mare"
+  },
+  {
+    "id" : "animals55",
+    "word" : "Rechin"
+  },
+  {
+    "id" : "animals56",
+    "word" : "Calamar"
+  },
+  {
+    "id" : "animals57",
+    "word" : "Pește-spadă"
+  },
+  {
+    "id" : "animals58",
+    "word" : "Păstrăv"
+  },
+  {
+    "id" : "animals59",
+    "word" : "Ton"
+  },
+  {
+    "id" : "animals60",
+    "word" : "Albatros"
+  },
+  {
+    "id" : "animals61",
+    "word" : "Scoică"
+  },
+  {
+    "id" : "animals62",
+    "word" : "Coral"
+  },
+  {
+    "id" : "animals63",
+    "word" : "Delfin"
+  },
+  {
+    "id" : "animals64",
+    "word" : "Angilă"
+  },
+  {
+    "id" : "animals65",
+    "word" : "Pelican"
+  },
+  {
+    "id" : "animals66",
+    "word" : "Pinguin"
+  },
+  {
+    "id" : "animals67",
+    "word" : "Urs polar"
+  },
+  {
+    "id" : "animals68",
+    "word" : "Arici de mare"
+  },
+  {
+    "id" : "animals69",
+    "word" : "Focă"
+  },
+  {
+    "id" : "animals70",
+    "word" : "Pisică de mare"
+  },
+  {
+    "id" : "animals71",
+    "word" : "Broască țestoasă acvatică"
+  },
+  {
+    "id" : "animals72",
+    "word" : "Morsă"
+  },
+  {
+    "id" : "animals73",
+    "word" : "Balenă rechin"
+  },
+  {
+    "id" : "animals74",
+    "word" : "Balenă"
+  },
+  {
+    "id" : "animals75",
+    "word" : "Perus"
+  },
+  {
+    "id" : "animals76",
+    "word" : "Canar"
+  },
+  {
+    "id" : "animals77",
+    "word" : "Chinchilla"
+  },
+  {
+    "id" : "animals78",
+    "word" : "Dihor"
+  },
+  {
+    "id" : "animals79",
+    "word" : "Cinteză"
+  },
+  {
+    "id" : "animals80",
+    "word" : "Gecko"
+  },
+  {
+    "id" : "animals81",
+    "word" : "Peștișor auriu"
+  },
+  {
+    "id" : "animals82",
+    "word" : "Porcușor de Guinea"
+  },
+  {
+    "id" : "animals83",
+    "word" : "Crab de Crăciun"
+  },
+  {
+    "id" : "animals84",
+    "word" : "Pisoi"
+  },
+  {
+    "id" : "animals85",
+    "word" : "Papagal ara"
+  },
+  {
+    "id" : "animals86",
+    "word" : "Șoarece"
+  },
+  {
+    "id" : "animals87",
+    "word" : "Cățeluș"
+  },
+  {
+    "id" : "animals88",
+    "word" : "Iepure"
+  },
+  {
+    "id" : "animals89",
+    "word" : "Broască țestoasă terestră"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "機場"
+  },
+  {
+    "id" : "travel1",
+    "word" : "過道"
+  },
+  {
+    "id" : "travel2",
+    "word" : "行李"
+  },
+  {
+    "id" : "travel3",
+    "word" : "海關"
+  },
+  {
+    "id" : "travel4",
+    "word" : "自動扶梯"
+  },
+  {
+    "id" : "travel5",
+    "word" : "空乘人員"
+  },
+  {
+    "id" : "travel6",
+    "word" : "手提行李"
+  },
+  {
+    "id" : "travel7",
+    "word" : "機上餐點"
+  },
+  {
+    "id" : "travel8",
+    "word" : "護照"
+  },
+  {
+    "id" : "travel9",
+    "word" : "飛行員"
+  },
+  {
+    "id" : "travel10",
+    "word" : "飛機"
+  },
+  {
+    "id" : "travel11",
+    "word" : "飛機跑道"
+  },
+  {
+    "id" : "travel12",
+    "word" : "自動人行道"
+  },
+  {
+    "id" : "travel13",
+    "word" : "折疊式餐桌"
+  },
+  {
+    "id" : "travel14",
+    "word" : "窗口"
+  },
+  {
+    "id" : "travel15",
+    "word" : "泰銖"
+  },
+  {
+    "id" : "travel16",
+    "word" : "美元"
+  },
+  {
+    "id" : "travel17",
+    "word" : "歐元"
+  },
+  {
+    "id" : "travel18",
+    "word" : "比索"
+  },
+  {
+    "id" : "travel19",
+    "word" : "磅"
+  },
+  {
+    "id" : "travel20",
+    "word" : "南特"
+  },
+  {
+    "id" : "travel21",
+    "word" : "雷亞爾"
+  },
+  {
+    "id" : "travel22",
+    "word" : "盧布"
+  },
+  {
+    "id" : "travel23",
+    "word" : "盧比"
+  },
+  {
+    "id" : "travel24",
+    "word" : "印尼盾"
+  },
+  {
+    "id" : "travel25",
+    "word" : "謝克爾"
+  },
+  {
+    "id" : "travel26",
+    "word" : "瑞士法郎"
+  },
+  {
+    "id" : "travel27",
+    "word" : "韓元"
+  },
+  {
+    "id" : "travel28",
+    "word" : "日元"
+  },
+  {
+    "id" : "travel29",
+    "word" : "元"
+  },
+  {
+    "id" : "travel30",
+    "word" : "阿姆斯特丹"
+  },
+  {
+    "id" : "travel31",
+    "word" : "雅典"
+  },
+  {
+    "id" : "travel32",
+    "word" : "開羅"
+  },
+  {
+    "id" : "travel33",
+    "word" : "愛丁堡"
+  },
+  {
+    "id" : "travel34",
+    "word" : "香港"
+  },
+  {
+    "id" : "travel35",
+    "word" : "伊斯坦布爾"
+  },
+  {
+    "id" : "travel36",
+    "word" : "耶路撒冷"
+  },
+  {
+    "id" : "travel37",
+    "word" : "倫敦"
+  },
+  {
+    "id" : "travel38",
+    "word" : "莫斯科"
+  },
+  {
+    "id" : "travel39",
+    "word" : "紐約"
+  },
+  {
+    "id" : "travel40",
+    "word" : "巴黎"
+  },
+  {
+    "id" : "travel41",
+    "word" : "裏約熱內盧"
+  },
+  {
+    "id" : "travel42",
+    "word" : "羅馬"
+  },
+  {
+    "id" : "travel43",
+    "word" : "舊金山"
+  },
+  {
+    "id" : "travel44",
+    "word" : "悉尼"
+  },
+  {
+    "id" : "travel45",
+    "word" : "阿格拉"
+  },
+  {
+    "id" : "travel46",
+    "word" : "北京"
+  },
+  {
+    "id" : "travel47",
+    "word" : "柏林"
+  },
+  {
+    "id" : "travel48",
+    "word" : "布達佩斯"
+  },
+  {
+    "id" : "travel49",
+    "word" : "開普敦"
+  },
+  {
+    "id" : "travel50",
+    "word" : "哥本哈根"
+  },
+  {
+    "id" : "travel51",
+    "word" : "迪拜"
+  },
+  {
+    "id" : "travel52",
+    "word" : "好萊塢"
+  },
+  {
+    "id" : "travel53",
+    "word" : "吉隆坡"
+  },
+  {
+    "id" : "travel54",
+    "word" : "麥加"
+  },
+  {
+    "id" : "travel55",
+    "word" : "新加坡"
+  },
+  {
+    "id" : "travel56",
+    "word" : "聖彼得堡"
+  },
+  {
+    "id" : "travel57",
+    "word" : "東京"
+  },
+  {
+    "id" : "travel58",
+    "word" : "威尼斯"
+  },
+  {
+    "id" : "travel59",
+    "word" : "仰光"
+  },
+  {
+    "id" : "travel60",
+    "word" : "旅館侍者"
+  },
+  {
+    "id" : "travel61",
+    "word" : "雙層床"
+  },
+  {
+    "id" : "travel62",
+    "word" : "電梯"
+  },
+  {
+    "id" : "travel63",
+    "word" : "套房"
+  },
+  {
+    "id" : "travel64",
+    "word" : "門廳"
+  },
+  {
+    "id" : "travel65",
+    "word" : "按摩浴缸"
+  },
+  {
+    "id" : "travel66",
+    "word" : "泳池"
+  },
+  {
+    "id" : "travel67",
+    "word" : "接待處"
+  },
+  {
+    "id" : "travel68",
+    "word" : "房間鑰匙"
+  },
+  {
+    "id" : "travel69",
+    "word" : "房號"
+  },
+  {
+    "id" : "travel70",
+    "word" : "客房服務"
+  },
+  {
+    "id" : "travel71",
+    "word" : "保險櫃"
+  },
+  {
+    "id" : "travel72",
+    "word" : "手提箱"
+  },
+  {
+    "id" : "travel73",
+    "word" : "泊車員"
+  },
+  {
+    "id" : "travel74",
+    "word" : "景色"
+  },
+  {
+    "id" : "travel75",
+    "word" : "吳哥窟"
+  },
+  {
+    "id" : "travel76",
+    "word" : "大本鐘"
+  },
+  {
+    "id" : "travel77",
+    "word" : "藍色清真寺"
+  },
+  {
+    "id" : "travel78",
+    "word" : "羅馬競技場"
+  },
+  {
+    "id" : "travel79",
+    "word" : "埃菲爾鐵塔"
+  },
+  {
+    "id" : "travel80",
+    "word" : "科羅拉多大峽谷"
+  },
+  {
+    "id" : "travel81",
+    "word" : "長城"
+  },
+  {
+    "id" : "travel82",
+    "word" : "美人魚雕像"
+  },
+  {
+    "id" : "travel83",
+    "word" : "倫敦橋"
+  },
+  {
+    "id" : "travel84",
+    "word" : "盧浮宮"
+  },
+  {
+    "id" : "travel85",
+    "word" : "馬丘比丘"
+  },
+  {
+    "id" : "travel86",
+    "word" : "佩特拉"
+  },
+  {
+    "id" : "travel87",
+    "word" : "金字塔"
+  },
+  {
+    "id" : "travel88",
+    "word" : "獅身人面像"
+  },
+  {
+    "id" : "travel89",
+    "word" : "時代廣場"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Air Travel",
+    "word" : "viaje aéreo"
+  },
+  {
+    "id" : "Currency",
+    "word" : "divisa"
+  },
+  {
+    "id" : "Famous Cities",
+    "word" : "ciudades famosas"
+  },
+  {
+    "id" : "Famous Cities II",
+    "word" : "ciudades famosas II"
+  },
+  {
+    "id" : "Hotel",
+    "word" : "hotel"
+  },
+  {
+    "id" : "Tourist Sights",
+    "word" : "atracciones turísticas"
+  }
+]

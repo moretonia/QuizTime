@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Art",
+    "word" : "Umění"
+  },
+  {
+    "id" : "Musical Instruments",
+    "word" : "Hudební nástroje"
+  },
+  {
+    "id" : "School",
+    "word" : "Škola"
+  },
+  {
+    "id" : "School Subjects",
+    "word" : "Školní předměty"
+  },
+  {
+    "id" : "Stationery",
+    "word" : "Školní potřeby"
+  },
+  {
+    "id" : "Writing",
+    "word" : "Psaní"
+  }
+]

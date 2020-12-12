@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "施舍物"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "圣餐"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "火化仪式"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "毕业典礼"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "朝觐"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "香"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "卡瓦仪式"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "灯笼"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "开幕仪式"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "祈祷"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "红毯"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "退休"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "皇家敬礼仪式"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "泼水节"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "敬茶仪式"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "蜡烛"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "圣诞贺卡"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "圣诞树"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "精灵"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "姜饼"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "冬青"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "耶稣诞生"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "圣诞礼物"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "布丁"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "驯鹿"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "圣诞老人"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "雪橇"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "雪人"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "长筒袜"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "火鸡"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "圣坛"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "半圆形殿"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "洗礼"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "十字"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "圣经"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "圣餐杯"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "唱诗班"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "教堂集会"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "葬礼"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "墓地"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "教堂长凳"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "传教士"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "教堂讲坛"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "教堂尖塔"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "婚礼"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "橡子"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "琥珀"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "三叶草"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "交叉手指"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "水晶"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "海豚"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "风水"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "马蹄铁"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "矮精灵"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "富贵竹"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "招财猫"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "流星"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "彩虹"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "圣甲虫"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "如愿骨"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "佛"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "主教堂"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "孔子"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "伊玛目"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "耶稣"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "修道院"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "和尚"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "清真寺"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "修女"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "神父"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "拉比"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "神道教"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "锡克教徒"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "犹太教堂"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "道教"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "水瓶座"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "白羊座"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "巨蟹座"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "摩羯座"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "水晶球"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "双子座"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "占星术"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "狮子座"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "天秤座"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "双鱼座"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "射手座"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "天蝎座"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "塔罗牌"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "金牛座"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "处女座"
+  }
+]

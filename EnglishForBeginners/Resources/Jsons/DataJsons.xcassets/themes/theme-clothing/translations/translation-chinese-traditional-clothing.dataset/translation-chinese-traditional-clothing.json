@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "沙灘褲"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "外套"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "連衣裙"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "手套"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "夾克"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "牛仔褲"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "針織套衫"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "睡衣"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "襯衫"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "鞋子"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "短裙"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "便褲"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "墨鏡"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "T恤"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "制服"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "露背裝"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "比基尼"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "黑色連衣裙"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "晚禮服"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "弗拉門戈禮服"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "掛脖服"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "連體衣"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "莎麗服"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "抹胸裝"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "條紋"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "女士套裝"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "夏裝"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "托加袍"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "傳統"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "婚禮"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "須後水"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "皮帶"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "領結"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "衛生褲"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "袖扣"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "禮服襯衫"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "正裝皮鞋"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "跑步鞋"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "領帶"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "剃須刀"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "修面刷"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "拖鞋"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "短襪"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "西裝"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "長褲"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "無檐便帽"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "靴子"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "頭盔"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "溜冰鞋"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "運動衫"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "緊身體操服"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "馬球衫"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "短褲"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "滑雪服"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "智能手表"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "運動內衣"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "遊泳衣"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "運動服"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "潛水衣"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "腕帶"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "罩衫"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "胸罩"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "開襟毛衣"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "貼頸項鏈"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "時尚腰帶"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "帽子"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "高跟鞋"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "連身衣"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "和服"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "內褲"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "涼鞋"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "披肩"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "絲綢圍巾"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "緊身衣"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "拉鏈"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "手鐲"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "禮服戒指"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "耳環"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "手提包"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "鑰匙圈"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "口紅"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "睫毛膏"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "指甲銼"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "項鏈"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "香水"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "手袋"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "智能手機"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "面紙"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "錢包"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "手表"
+  }
+]

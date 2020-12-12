@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "repülőtér"
+  },
+  {
+    "id" : "travel1",
+    "word" : "folyosó"
+  },
+  {
+    "id" : "travel2",
+    "word" : "poggyász"
+  },
+  {
+    "id" : "travel3",
+    "word" : "vám"
+  },
+  {
+    "id" : "travel4",
+    "word" : "mozgólépcső"
+  },
+  {
+    "id" : "travel5",
+    "word" : "légiutaskísérő"
+  },
+  {
+    "id" : "travel6",
+    "word" : "kézipoggyász"
+  },
+  {
+    "id" : "travel7",
+    "word" : "repülőtéri étkezés"
+  },
+  {
+    "id" : "travel8",
+    "word" : "útlevél"
+  },
+  {
+    "id" : "travel9",
+    "word" : "pilóta"
+  },
+  {
+    "id" : "travel10",
+    "word" : "repülőgép"
+  },
+  {
+    "id" : "travel11",
+    "word" : "kifutópálya"
+  },
+  {
+    "id" : "travel12",
+    "word" : "mozgójárda"
+  },
+  {
+    "id" : "travel13",
+    "word" : "tálcaasztal"
+  },
+  {
+    "id" : "travel14",
+    "word" : "ablak"
+  },
+  {
+    "id" : "travel15",
+    "word" : "baht"
+  },
+  {
+    "id" : "travel16",
+    "word" : "dollár"
+  },
+  {
+    "id" : "travel17",
+    "word" : "euro"
+  },
+  {
+    "id" : "travel18",
+    "word" : "peso"
+  },
+  {
+    "id" : "travel19",
+    "word" : "font"
+  },
+  {
+    "id" : "travel20",
+    "word" : "rand"
+  },
+  {
+    "id" : "travel21",
+    "word" : "real"
+  },
+  {
+    "id" : "travel22",
+    "word" : "rubel"
+  },
+  {
+    "id" : "travel23",
+    "word" : "rúpia"
+  },
+  {
+    "id" : "travel24",
+    "word" : "rupiah"
+  },
+  {
+    "id" : "travel25",
+    "word" : "shekel"
+  },
+  {
+    "id" : "travel26",
+    "word" : "svájci frank"
+  },
+  {
+    "id" : "travel27",
+    "word" : "won"
+  },
+  {
+    "id" : "travel28",
+    "word" : "jen"
+  },
+  {
+    "id" : "travel29",
+    "word" : "yuan"
+  },
+  {
+    "id" : "travel30",
+    "word" : "Amszterdam"
+  },
+  {
+    "id" : "travel31",
+    "word" : "Athén"
+  },
+  {
+    "id" : "travel32",
+    "word" : "Kairó"
+  },
+  {
+    "id" : "travel33",
+    "word" : "Edinburgh"
+  },
+  {
+    "id" : "travel34",
+    "word" : "Hong Kong"
+  },
+  {
+    "id" : "travel35",
+    "word" : "Isztambul"
+  },
+  {
+    "id" : "travel36",
+    "word" : "Jeruzsálem"
+  },
+  {
+    "id" : "travel37",
+    "word" : "London"
+  },
+  {
+    "id" : "travel38",
+    "word" : "Moszkva"
+  },
+  {
+    "id" : "travel39",
+    "word" : "New York"
+  },
+  {
+    "id" : "travel40",
+    "word" : "Párizs"
+  },
+  {
+    "id" : "travel41",
+    "word" : "Rio de Janeiro"
+  },
+  {
+    "id" : "travel42",
+    "word" : "Róma"
+  },
+  {
+    "id" : "travel43",
+    "word" : "San Francisco"
+  },
+  {
+    "id" : "travel44",
+    "word" : "Sydney"
+  },
+  {
+    "id" : "travel45",
+    "word" : "Agra"
+  },
+  {
+    "id" : "travel46",
+    "word" : "Peking"
+  },
+  {
+    "id" : "travel47",
+    "word" : "Berlin"
+  },
+  {
+    "id" : "travel48",
+    "word" : "Budapest"
+  },
+  {
+    "id" : "travel49",
+    "word" : "Fokváros"
+  },
+  {
+    "id" : "travel50",
+    "word" : "Koppenhága"
+  },
+  {
+    "id" : "travel51",
+    "word" : "Dubai"
+  },
+  {
+    "id" : "travel52",
+    "word" : "Hollywood"
+  },
+  {
+    "id" : "travel53",
+    "word" : "Kuala Lumpur"
+  },
+  {
+    "id" : "travel54",
+    "word" : "Mekka"
+  },
+  {
+    "id" : "travel55",
+    "word" : "Szingapúr"
+  },
+  {
+    "id" : "travel56",
+    "word" : "Szentpétervár"
+  },
+  {
+    "id" : "travel57",
+    "word" : "Tokió"
+  },
+  {
+    "id" : "travel58",
+    "word" : "Velence"
+  },
+  {
+    "id" : "travel59",
+    "word" : "Yangon"
+  },
+  {
+    "id" : "travel60",
+    "word" : "londiner"
+  },
+  {
+    "id" : "travel61",
+    "word" : "hálófülke"
+  },
+  {
+    "id" : "travel62",
+    "word" : "lift"
+  },
+  {
+    "id" : "travel63",
+    "word" : "fürdőszobás"
+  },
+  {
+    "id" : "travel64",
+    "word" : "előcsarnok"
+  },
+  {
+    "id" : "travel65",
+    "word" : "jacuzzi"
+  },
+  {
+    "id" : "travel66",
+    "word" : "medence"
+  },
+  {
+    "id" : "travel67",
+    "word" : "recepció"
+  },
+  {
+    "id" : "travel68",
+    "word" : "szobakulcs"
+  },
+  {
+    "id" : "travel69",
+    "word" : "szoba szám"
+  },
+  {
+    "id" : "travel70",
+    "word" : "szobaszerviz"
+  },
+  {
+    "id" : "travel71",
+    "word" : "biztonságos"
+  },
+  {
+    "id" : "travel72",
+    "word" : "bőrönd"
+  },
+  {
+    "id" : "travel73",
+    "word" : "inas"
+  },
+  {
+    "id" : "travel74",
+    "word" : "kilátás"
+  },
+  {
+    "id" : "travel75",
+    "word" : "Angkor Wat"
+  },
+  {
+    "id" : "travel76",
+    "word" : "Big Ben"
+  },
+  {
+    "id" : "travel77",
+    "word" : "kék mecset"
+  },
+  {
+    "id" : "travel78",
+    "word" : "Kolosszeum"
+  },
+  {
+    "id" : "travel79",
+    "word" : "Eiffel-torony"
+  },
+  {
+    "id" : "travel80",
+    "word" : "Grand Canyon"
+  },
+  {
+    "id" : "travel81",
+    "word" : "nagy fal"
+  },
+  {
+    "id" : "travel82",
+    "word" : "kis hableány"
+  },
+  {
+    "id" : "travel83",
+    "word" : "London-híd"
+  },
+  {
+    "id" : "travel84",
+    "word" : "Louvre"
+  },
+  {
+    "id" : "travel85",
+    "word" : "Machu Picchu"
+  },
+  {
+    "id" : "travel86",
+    "word" : "petra"
+  },
+  {
+    "id" : "travel87",
+    "word" : "piramisok"
+  },
+  {
+    "id" : "travel88",
+    "word" : "szfinksz"
+  },
+  {
+    "id" : "travel89",
+    "word" : "Times Square"
+  }
+]

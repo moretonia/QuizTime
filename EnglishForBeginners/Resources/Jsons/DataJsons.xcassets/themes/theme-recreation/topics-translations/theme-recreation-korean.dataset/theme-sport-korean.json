@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Games",
+    "word" : "게임"
+  },
+  {
+    "id" : "Games II",
+    "word" : "게임 ll"
+  },
+  {
+    "id" : "Sporting Equipment",
+    "word" : "운동 장비"
+  },
+  {
+    "id" : "Sports",
+    "word" : "스포츠"
+  },
+  {
+    "id" : "Sports II",
+    "word" : "스포츠 ll"
+  },
+  {
+    "id" : "Leisure",
+    "word" : "레저"
+  }
+]

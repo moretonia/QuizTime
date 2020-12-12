@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "Teme";
+"3-themes" = "3 teme";
+"6-topics" = "6 subiecte";
+"90-words" = "90 de cuvinte";
+"words" = "Cuvinte";
+"view" = "Vezi";
+"main-buy-button" = "Cumpără";
+
+// Topics
+"matching" = "Potrivire";
+"translation" = "Traducere";
+"pronunciation" = "Pronunție";
+"spelling" = "Ortografie";
+"dictionary" = "Dicționar";
+"buy-theme" = "Cumpără tema";
+"locked" = "blocat";
+
+// Quiz
+"some-theme-quiz" = "Testul temei\n%@";
+"collect-stars-to-unlock" = "Adună %d stele pentru a debloca testul";
+"can-start-quiz" = "Poți începe testul";
+"quiz" = "Test";
+"pass-quiz-again" = "Repetă testul și câștigă mai multă experiență";
+"repeat" = "Repetă";
+
+// Match Level
+"match" = "Potrivește";
+"verify" = "Verificare";
+
+// Translate level
+"translate" = "Tradu";
+"wrong" = "Greșit";
+"next" = "Următorul";
+
+// Spelling level
+"spell" = "Scrie";
+"english-translation" = "Traducere în română";
+
+// Listen & Say level
+"listen-and-say" = "Ascultă & Repetă";
+"try-again" = "Încearcă din nou";
+
+// Alerts
+"warning" = "Avertisment";
+"progress-lost" = "Vrei să închizi nivelul? Progresul se va pierde în totalitate";
+"cancel" = "Anulare";
+"close" = "Închide";
+"quiz-fail" = "Din păcate ai picat testul";
+"not-pass-level" = "Din păcate nu ai trecut nivelul";
+"back-to-theme" = "Înapoi la temă";
+"retry" = "Reîncercare";
+
+// Profile
+/*"profile" = "Profil";
+"experience" = "Experiență";
+"skills" = "Aptitudini";
+"next-level" = "Următorul: %d";
+
+// Ranks
+"beginner" = "Începător";
+"pupil" = "Elev";
+"student" = "Student";
+"connoisseur" = "Cunoscător";
+"outstanding" = "Excepțional";
+"specialist" = "Specialist";
+"pro" = "Pro";
+"master" = "Maestru";
+"magister" = "Expert";
+"guru" = "Guru";
+"sage" = "Înțelept";
+"enlightened" = "Luminat";
+"oracle" = "Oracol";
+"genius" = "Geniu";
+"higher-mind" = "Gândire superioară";
+"supermind" = "Minte sclipitoare";
+
+// Profile
+"leaderboard" = "Clasament";
+"restore-purchases" = "Restaurare achiziții";
+"rate-us" = "Evaluează-ne";
+"share" = "Distribuie";
+"change-language" = "Schimbă limba";
+"about-us" = "Despre noi";*/
+
+// Sharing
+"experience-and-rank-share" = "Am %d experiență în Quiz Time și acum rangul meu este “%@”.";
+"new-rank-share" = "Am atins un nou rang “%@” în Quiz Time! Încearcă!";
+"experience-share" = "Am câștigat %d experiență în Quiz Time. Engleza mea devine mai bună în fiecare zi!";
+"1-star-share" = "Am câștigat 1 stea și %d experiență. Învăț engleza cu plăcere în aplicația Quiz Time.";
+"2-stars-share" = "Am câștigat 2 stele și %d experiență în Quiz Time. Încearcă să mă depășești!";
+"3-stars-share" = "Am câștigat 3 stele și %d experiență în Quiz Time. Engleza mea devine mai bună în fiecare zi!";
+
+// Language
+/*"my-language" = "Limba mea maternă";
+"ok" = "OK";
+
+// Congratulations
+"congratulations" = "Felicitări!";
+"xp" = "+%d xp";
+"new-rank" = "Rang nou";*/
+
+// About us
+"about-us-title" = "Despre noi";
+"model-english-mission" = "Aplicația Quiz Time îți va dezvolta vocabularul, te va ajuta să îți îmbunătățești pronunția și ortografia sub forma unui joc.";
+"app-structure" = "Cuvintele din aplicație sunt împărțite în teme, fiecare temă fiind formată din 6 subiecte și un test din întreaga temă. Fiecare subiect conține un dicționar  _  de 15 cuvinte.";
+"about-mechanics-description" = "Combinația unică a mai multor modalități de joc te va ajuta să stăpânești cuvintele rapid și eficient:";
+"matching" = "Potrivire";
+"about-mechanics-matching-description" = "În acest nivel trebuie să alegi imaginea corespunzătoare cuvântului.";
+"translation" = "Traducere";
+"about-mechanics-translator-description" = "Alege traducerea corectă a cuvântului.";
+"pronunciation" = "Pronunție";
+"about-mechanics-pronunciation-description" = "Ascultă și pronunță cuvântul. Asigură-te că microfonul este pornit.";
+"spelling" = "Ortografie";
+"about-mechanics-spelling-description" = "Scrie cuvântul la tastatură.";
+"about-rewards-little-star-description" = "Pentru trecerea cu succes a fiecărui nivel primești între 1 și 3 steluțe mici";
+"about-rewards-bronze-star-description" = "Primești o stea de bronz dacă obții cel puțin 50 de steluțe mici";
+"about-rewards-silver-star-description" = "Primești o stea de argint dacă obții cel puțin 75 de steluțe mici";
+"about-rewards-golden-star-description" = "Primești o stea de aur atunci când obții 100 de steluțe mici";
+"about-rewards-passed-exam-description" = "Pălăria academică simbolizează trecerea cu succes a testului temei";
+"about-rewards-description" = "Pentru trecerea fiecărui nivel sau test câștigi experiență și diferite grade: Începător, Maestru și altele. Mai multe informații despre realizările tale pot fi găsite pe profil  _ .";
+"copyright" = "Copyright © B. V. Rolandsen 2020";
+"design-and-development" = "Designul și dezvoltarea de către Bryan Rolandsen";
+
+// Alerts
+"correct" = "Corect";
+"finish" = "Sfârșit";
+"error" = "Eroare";
+"error-load-leaderboard" = "Eroare la încărcarea clasamentului. Încearcă mai târziu";
+"timeout" = "Pauza a expirat";
+"speech-recognition-unavailable" = "Recunoașterea vocală este indisponibilă";
+"device-settings-for-speech" = "1. Verifică setările dispozitivului (Setări -> General -> Tastatură -> Permite dictarea)";
+"check-internet-for-speech" = "2. Dacă recunoașterea tot nu funcționează, verifică-ți conexiunea la internet și încearcă din nou";
+"already-cancel-auth" = "Conectează-te la contul tău Game Center folosind setările dispozitivului";
+"settings" = "Setări";
+"micro-usage-cancel" = "Accesul la microfon a fost respins. Verifică setările dispozitivului";
+"speech-usage-cancel" = "Accesul pentru recunoașterea vocală a fost respins. Verifică setările dispozitivului";
+"not-support-speech-recognition" = "Dispozitivul tău nu suportă recunoașterea vocală";
+
+// Packs
+"main-pack-info" = "3 teme, 18 subiecte, 270 de cuvinte";
+
+// Other
+"topics-count" = "6 subiecte, 90 de cuvinte";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

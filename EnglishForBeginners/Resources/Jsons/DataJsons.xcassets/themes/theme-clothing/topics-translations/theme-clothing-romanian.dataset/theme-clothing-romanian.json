@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "Îmbrăcăminte"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "Îmbrăcăminte glamour"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "Produse bărbătești"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "Îmbrăcăminte sport"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "Îmbrăcăminte femei"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "Produse pentru femei"
+  }
+]

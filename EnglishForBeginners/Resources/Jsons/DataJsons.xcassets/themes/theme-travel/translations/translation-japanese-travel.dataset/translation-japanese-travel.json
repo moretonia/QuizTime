@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "空港"
+  },
+  {
+    "id" : "travel1",
+    "word" : "通路"
+  },
+  {
+    "id" : "travel2",
+    "word" : "荷物"
+  },
+  {
+    "id" : "travel3",
+    "word" : "関税"
+  },
+  {
+    "id" : "travel4",
+    "word" : "エスカレーター"
+  },
+  {
+    "id" : "travel5",
+    "word" : "客室乗務員"
+  },
+  {
+    "id" : "travel6",
+    "word" : "手荷物"
+  },
+  {
+    "id" : "travel7",
+    "word" : "機内食"
+  },
+  {
+    "id" : "travel8",
+    "word" : "パスポート"
+  },
+  {
+    "id" : "travel9",
+    "word" : "パイロット"
+  },
+  {
+    "id" : "travel10",
+    "word" : "飛行機"
+  },
+  {
+    "id" : "travel11",
+    "word" : "滑走路"
+  },
+  {
+    "id" : "travel12",
+    "word" : "動く歩道"
+  },
+  {
+    "id" : "travel13",
+    "word" : "トレーテーブル"
+  },
+  {
+    "id" : "travel14",
+    "word" : "窓"
+  },
+  {
+    "id" : "travel15",
+    "word" : "バーツ"
+  },
+  {
+    "id" : "travel16",
+    "word" : "ドル"
+  },
+  {
+    "id" : "travel17",
+    "word" : "ユーロ"
+  },
+  {
+    "id" : "travel18",
+    "word" : "ペソ"
+  },
+  {
+    "id" : "travel19",
+    "word" : "ポンド"
+  },
+  {
+    "id" : "travel20",
+    "word" : "ランド"
+  },
+  {
+    "id" : "travel21",
+    "word" : "リアル"
+  },
+  {
+    "id" : "travel22",
+    "word" : "ルーブル"
+  },
+  {
+    "id" : "travel23",
+    "word" : "ルピー"
+  },
+  {
+    "id" : "travel24",
+    "word" : "ルピア"
+  },
+  {
+    "id" : "travel25",
+    "word" : "シェケル"
+  },
+  {
+    "id" : "travel26",
+    "word" : "スイスフラン"
+  },
+  {
+    "id" : "travel27",
+    "word" : "ウォン"
+  },
+  {
+    "id" : "travel28",
+    "word" : "円"
+  },
+  {
+    "id" : "travel29",
+    "word" : "元"
+  },
+  {
+    "id" : "travel30",
+    "word" : "アムステルダム"
+  },
+  {
+    "id" : "travel31",
+    "word" : "アテネ"
+  },
+  {
+    "id" : "travel32",
+    "word" : "カイロ"
+  },
+  {
+    "id" : "travel33",
+    "word" : "エジンバラ"
+  },
+  {
+    "id" : "travel34",
+    "word" : "香港"
+  },
+  {
+    "id" : "travel35",
+    "word" : "イスタンブール"
+  },
+  {
+    "id" : "travel36",
+    "word" : "エルサレム"
+  },
+  {
+    "id" : "travel37",
+    "word" : "ロンドン"
+  },
+  {
+    "id" : "travel38",
+    "word" : "モスクワ"
+  },
+  {
+    "id" : "travel39",
+    "word" : "ニューヨーク"
+  },
+  {
+    "id" : "travel40",
+    "word" : "パリ"
+  },
+  {
+    "id" : "travel41",
+    "word" : "リオデジャネイロ"
+  },
+  {
+    "id" : "travel42",
+    "word" : "ローマ"
+  },
+  {
+    "id" : "travel43",
+    "word" : "サンフランシスコ"
+  },
+  {
+    "id" : "travel44",
+    "word" : "シドニー"
+  },
+  {
+    "id" : "travel45",
+    "word" : "アグラ"
+  },
+  {
+    "id" : "travel46",
+    "word" : "北京"
+  },
+  {
+    "id" : "travel47",
+    "word" : "ベルリン"
+  },
+  {
+    "id" : "travel48",
+    "word" : "ブダペスト"
+  },
+  {
+    "id" : "travel49",
+    "word" : "ケープタウン"
+  },
+  {
+    "id" : "travel50",
+    "word" : "コペンハーゲン"
+  },
+  {
+    "id" : "travel51",
+    "word" : "ドバイ"
+  },
+  {
+    "id" : "travel52",
+    "word" : "ハリウッド"
+  },
+  {
+    "id" : "travel53",
+    "word" : "クアラルンプール"
+  },
+  {
+    "id" : "travel54",
+    "word" : "メッカ"
+  },
+  {
+    "id" : "travel55",
+    "word" : "シンガポール"
+  },
+  {
+    "id" : "travel56",
+    "word" : "サンクトペテルブルク"
+  },
+  {
+    "id" : "travel57",
+    "word" : "東京"
+  },
+  {
+    "id" : "travel58",
+    "word" : "ヴェネツィア"
+  },
+  {
+    "id" : "travel59",
+    "word" : "ヤンゴン"
+  },
+  {
+    "id" : "travel60",
+    "word" : "ベルボーイ"
+  },
+  {
+    "id" : "travel61",
+    "word" : "二段ベッド"
+  },
+  {
+    "id" : "travel62",
+    "word" : "エレベーター"
+  },
+  {
+    "id" : "travel63",
+    "word" : "エンスイート"
+  },
+  {
+    "id" : "travel64",
+    "word" : "玄関"
+  },
+  {
+    "id" : "travel65",
+    "word" : "ジャグジー"
+  },
+  {
+    "id" : "travel66",
+    "word" : "プール"
+  },
+  {
+    "id" : "travel67",
+    "word" : "受付"
+  },
+  {
+    "id" : "travel68",
+    "word" : "ルームキー"
+  },
+  {
+    "id" : "travel69",
+    "word" : "部屋番号"
+  },
+  {
+    "id" : "travel70",
+    "word" : "ルームサービス"
+  },
+  {
+    "id" : "travel71",
+    "word" : "金庫"
+  },
+  {
+    "id" : "travel72",
+    "word" : "スーツケース"
+  },
+  {
+    "id" : "travel73",
+    "word" : "駐車係"
+  },
+  {
+    "id" : "travel74",
+    "word" : "景色"
+  },
+  {
+    "id" : "travel75",
+    "word" : "アンコールワット"
+  },
+  {
+    "id" : "travel76",
+    "word" : "ビッグベン"
+  },
+  {
+    "id" : "travel77",
+    "word" : "ブルーモスク"
+  },
+  {
+    "id" : "travel78",
+    "word" : "コロッセオ"
+  },
+  {
+    "id" : "travel79",
+    "word" : "エッフェル塔"
+  },
+  {
+    "id" : "travel80",
+    "word" : "グランドキャニオン"
+  },
+  {
+    "id" : "travel81",
+    "word" : "万里の長城"
+  },
+  {
+    "id" : "travel82",
+    "word" : "小さな人魚"
+  },
+  {
+    "id" : "travel83",
+    "word" : "ロンドンブリッジ"
+  },
+  {
+    "id" : "travel84",
+    "word" : "ルーバー"
+  },
+  {
+    "id" : "travel85",
+    "word" : "マチュピチュ"
+  },
+  {
+    "id" : "travel86",
+    "word" : "ペトラ"
+  },
+  {
+    "id" : "travel87",
+    "word" : "ピラミッド"
+  },
+  {
+    "id" : "travel88",
+    "word" : "スフィンクス"
+  },
+  {
+    "id" : "travel89",
+    "word" : "タイムズスクエア"
+  }
+]

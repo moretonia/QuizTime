@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "aeroport"
+  },
+  {
+    "id" : "travel1",
+    "word" : "culoar"
+  },
+  {
+    "id" : "travel2",
+    "word" : "bagaj"
+  },
+  {
+    "id" : "travel3",
+    "word" : "vamă"
+  },
+  {
+    "id" : "travel4",
+    "word" : "scară rulantă"
+  },
+  {
+    "id" : "travel5",
+    "word" : "însoțitoare de zbor"
+  },
+  {
+    "id" : "travel6",
+    "word" : "bagaj de mână"
+  },
+  {
+    "id" : "travel7",
+    "word" : "masă pe timpul zborului"
+  },
+  {
+    "id" : "travel8",
+    "word" : "pașaport"
+  },
+  {
+    "id" : "travel9",
+    "word" : "pilot"
+  },
+  {
+    "id" : "travel10",
+    "word" : "avion"
+  },
+  {
+    "id" : "travel11",
+    "word" : "pistă de decolare"
+  },
+  {
+    "id" : "travel12",
+    "word" : "pistă rulantă"
+  },
+  {
+    "id" : "travel13",
+    "word" : "tavă de masă"
+  },
+  {
+    "id" : "travel14",
+    "word" : "masă pliantă"
+  },
+  {
+    "id" : "travel15",
+    "word" : "baht"
+  },
+  {
+    "id" : "travel16",
+    "word" : "dolar"
+  },
+  {
+    "id" : "travel17",
+    "word" : "euro"
+  },
+  {
+    "id" : "travel18",
+    "word" : "peso"
+  },
+  {
+    "id" : "travel19",
+    "word" : "livră"
+  },
+  {
+    "id" : "travel20",
+    "word" : "rand"
+  },
+  {
+    "id" : "travel21",
+    "word" : "real"
+  },
+  {
+    "id" : "travel22",
+    "word" : "rublă"
+  },
+  {
+    "id" : "travel23",
+    "word" : "rupie"
+  },
+  {
+    "id" : "travel24",
+    "word" : "rupiah"
+  },
+  {
+    "id" : "travel25",
+    "word" : "shekel"
+  },
+  {
+    "id" : "travel26",
+    "word" : "franc elvețian"
+  },
+  {
+    "id" : "travel27",
+    "word" : "won"
+  },
+  {
+    "id" : "travel28",
+    "word" : "yen"
+  },
+  {
+    "id" : "travel29",
+    "word" : "yuan"
+  },
+  {
+    "id" : "travel30",
+    "word" : "Amsterdam"
+  },
+  {
+    "id" : "travel31",
+    "word" : "Atena"
+  },
+  {
+    "id" : "travel32",
+    "word" : "Cairo"
+  },
+  {
+    "id" : "travel33",
+    "word" : "Edinburg"
+  },
+  {
+    "id" : "travel34",
+    "word" : "Hong Kong"
+  },
+  {
+    "id" : "travel35",
+    "word" : "Istambul"
+  },
+  {
+    "id" : "travel36",
+    "word" : "Ierusalim"
+  },
+  {
+    "id" : "travel37",
+    "word" : "Londra"
+  },
+  {
+    "id" : "travel38",
+    "word" : "Moscova"
+  },
+  {
+    "id" : "travel39",
+    "word" : "New York"
+  },
+  {
+    "id" : "travel40",
+    "word" : "Paris"
+  },
+  {
+    "id" : "travel41",
+    "word" : "Rio de Janeiro"
+  },
+  {
+    "id" : "travel42",
+    "word" : "Roma"
+  },
+  {
+    "id" : "travel43",
+    "word" : "San Francisco"
+  },
+  {
+    "id" : "travel44",
+    "word" : "Sydney"
+  },
+  {
+    "id" : "travel45",
+    "word" : "Agra"
+  },
+  {
+    "id" : "travel46",
+    "word" : "Beijing"
+  },
+  {
+    "id" : "travel47",
+    "word" : "Berlin"
+  },
+  {
+    "id" : "travel48",
+    "word" : "Budapesta"
+  },
+  {
+    "id" : "travel49",
+    "word" : "Capetown"
+  },
+  {
+    "id" : "travel50",
+    "word" : "Copenhaga"
+  },
+  {
+    "id" : "travel51",
+    "word" : "Dubai"
+  },
+  {
+    "id" : "travel52",
+    "word" : "Hollywood"
+  },
+  {
+    "id" : "travel53",
+    "word" : "Kuala Lumpur"
+  },
+  {
+    "id" : "travel54",
+    "word" : "Mecca"
+  },
+  {
+    "id" : "travel55",
+    "word" : "Singapore"
+  },
+  {
+    "id" : "travel56",
+    "word" : "St. Petersburg"
+  },
+  {
+    "id" : "travel57",
+    "word" : "Tokio"
+  },
+  {
+    "id" : "travel58",
+    "word" : "Veneția"
+  },
+  {
+    "id" : "travel59",
+    "word" : "Yangon"
+  },
+  {
+    "id" : "travel60",
+    "word" : "băiat de serviciu"
+  },
+  {
+    "id" : "travel61",
+    "word" : "paturi etajate"
+  },
+  {
+    "id" : "travel62",
+    "word" : "lift"
+  },
+  {
+    "id" : "travel63",
+    "word" : "ensuite"
+  },
+  {
+    "id" : "travel64",
+    "word" : "foaier"
+  },
+  {
+    "id" : "travel65",
+    "word" : "jacuzzi"
+  },
+  {
+    "id" : "travel66",
+    "word" : "piscină"
+  },
+  {
+    "id" : "travel67",
+    "word" : "recepţie"
+  },
+  {
+    "id" : "travel68",
+    "word" : "cheia camerei"
+  },
+  {
+    "id" : "travel69",
+    "word" : "numărul camerei"
+  },
+  {
+    "id" : "travel70",
+    "word" : "serviciu in cameră"
+  },
+  {
+    "id" : "travel71",
+    "word" : "seif"
+  },
+  {
+    "id" : "travel72",
+    "word" : "valiză"
+  },
+  {
+    "id" : "travel73",
+    "word" : "valet"
+  },
+  {
+    "id" : "travel74",
+    "word" : "vedere"
+  },
+  {
+    "id" : "travel75",
+    "word" : "Angkor Wat"
+  },
+  {
+    "id" : "travel76",
+    "word" : "Big Ben"
+  },
+  {
+    "id" : "travel77",
+    "word" : "Moscheea Albastra"
+  },
+  {
+    "id" : "travel78",
+    "word" : "Colosseum"
+  },
+  {
+    "id" : "travel79",
+    "word" : "Turnul Eiffel"
+  },
+  {
+    "id" : "travel80",
+    "word" : "Marele Canion"
+  },
+  {
+    "id" : "travel81",
+    "word" : "Marele Zid"
+  },
+  {
+    "id" : "travel82",
+    "word" : "Mica Sirenă"
+  },
+  {
+    "id" : "travel83",
+    "word" : "Podul Londrei"
+  },
+  {
+    "id" : "travel84",
+    "word" : "Luvru"
+  },
+  {
+    "id" : "travel85",
+    "word" : "Machu Picchu"
+  },
+  {
+    "id" : "travel86",
+    "word" : "Petra"
+  },
+  {
+    "id" : "travel87",
+    "word" : "piramide"
+  },
+  {
+    "id" : "travel88",
+    "word" : "Sfinx"
+  },
+  {
+    "id" : "travel89",
+    "word" : "Times Square"
+  }
+]

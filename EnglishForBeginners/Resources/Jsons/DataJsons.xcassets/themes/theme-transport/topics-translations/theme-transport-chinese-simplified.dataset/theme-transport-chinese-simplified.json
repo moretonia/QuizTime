@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bicycles",
+    "word" : "自行车"
+  },
+  {
+    "id" : "Boats",
+    "word" : "船"
+  },
+  {
+    "id" : "Driving",
+    "word" : "驾驶"
+  },
+  {
+    "id" : "Road Signs",
+    "word" : "路标"
+  },
+  {
+    "id" : "Trains",
+    "word" : "火车"
+  },
+  {
+    "id" : "Transportation",
+    "word" : "交通工具"
+  }
+]

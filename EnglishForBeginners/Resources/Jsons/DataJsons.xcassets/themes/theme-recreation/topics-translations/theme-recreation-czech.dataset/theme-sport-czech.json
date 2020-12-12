@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Games",
+    "word" : "Hry"
+  },
+  {
+    "id" : "Games II",
+    "word" : "Hry II"
+  },
+  {
+    "id" : "Sporting Equipment",
+    "word" : "Sportovní vybavení"
+  },
+  {
+    "id" : "Sports",
+    "word" : "Sporty"
+  },
+  {
+    "id" : "Sports II",
+    "word" : "Sporty II"
+  },
+  {
+    "id" : "Leisure",
+    "word" : "Volný čas"
+  }
+]

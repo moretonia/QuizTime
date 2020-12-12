@@ -1,0 +1,133 @@
+{
+   "id": 10,
+   "name": "School",
+   "imageName": "school",
+   "topics": [
+      {
+         "name": "Art",
+         "imageName": "school-topic-1",
+         "vocabularyItemIds": [
+            "school0",
+            "school1",
+            "school2",
+            "school3",
+            "school4",
+            "school5",
+            "school6",
+            "school7",
+            "school8",
+            "school9",
+            "school10",
+            "school11",
+            "school12",
+            "school13",
+            "school14"
+         ]
+      },
+      {
+         "name": "Musical Instruments",
+         "imageName": "school-topic-2",
+         "vocabularyItemIds": [
+            "school15",
+            "school16",
+            "school17",
+            "school18",
+            "school19",
+            "school20",
+            "school21",
+            "school22",
+            "school23",
+            "school24",
+            "school25",
+            "school26",
+            "school27",
+            "school28",
+            "school29"
+         ]
+      },
+      {
+         "name": "School",
+         "imageName": "school-topic-3",
+         "vocabularyItemIds": [
+            "school30",
+            "school31",
+            "school32",
+            "school33",
+            "school34",
+            "school35",
+            "school36",
+            "school37",
+            "school38",
+            "school39",
+            "school40",
+            "school41",
+            "school42",
+            "school43",
+            "school44"
+         ]
+      },
+      {
+         "name": "School Subjects",
+         "imageName": "school-topic-4",
+         "vocabularyItemIds": [
+            "school45",
+            "school46",
+            "school47",
+            "school48",
+            "school49",
+            "school50",
+            "school51",
+            "school52",
+            "school53",
+            "school54",
+            "school55",
+            "school56",
+            "school57",
+            "school58",
+            "school59"
+         ]
+      },
+      {
+         "name": "Stationery",
+         "imageName": "school-topic-5",
+         "vocabularyItemIds": [
+            "school60",
+            "school61",
+            "school62",
+            "school63",
+            "school64",
+            "school65",
+            "school66",
+            "school67",
+            "school68",
+            "school69",
+            "school70",
+            "school71",
+            "school72",
+            "school73",
+            "school74"
+         ]
+      },
+      {
+         "name": "Writing",
+         "imageName": "school-topic-6",
+         "vocabularyItemIds": [
+            "school75",
+            "school76",
+            "school77",
+            "school78",
+            "school79",
+            "school80",
+            "school81",
+            "school82",
+            "school83",
+            "school84",
+            "school85",
+            "school86",
+            "school87",
+            "school88",
+            "school89"
+         ]
+      }
+   ]
+}

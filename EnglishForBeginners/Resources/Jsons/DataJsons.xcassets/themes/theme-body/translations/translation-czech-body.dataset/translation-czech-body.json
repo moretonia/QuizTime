@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "bench press"
+  },
+  {
+    "id" : "body1",
+    "word" : "cvičení bicepsu"
+  },
+  {
+    "id" : "body2",
+    "word" : "cvik vzhůru"
+  },
+  {
+    "id" : "body3",
+    "word" : "cviky"
+  },
+  {
+    "id" : "body4",
+    "word" : "mrtvý tah"
+  },
+  {
+    "id" : "body5",
+    "word" : "poklesy"
+  },
+  {
+    "id" : "body6",
+    "word" : "fitness míč"
+  },
+  {
+    "id" : "body7",
+    "word" : "nožní cviky"
+  },
+  {
+    "id" : "body8",
+    "word" : "výpady"
+  },
+  {
+    "id" : "body9",
+    "word" : "boxovací pytel"
+  },
+  {
+    "id" : "body10",
+    "word" : "kliky"
+  },
+  {
+    "id" : "body11",
+    "word" : "veslování"
+  },
+  {
+    "id" : "body12",
+    "word" : "sklapovačky"
+  },
+  {
+    "id" : "body13",
+    "word" : "dřepy"
+  },
+  {
+    "id" : "body14",
+    "word" : "zvedání"
+  },
+  {
+    "id" : "body15",
+    "word" : "biceps"
+  },
+  {
+    "id" : "body16",
+    "word" : "zadek"
+  },
+  {
+    "id" : "body17",
+    "word" : "prsa"
+  },
+  {
+    "id" : "body18",
+    "word" : "lýtko"
+  },
+  {
+    "id" : "body19",
+    "word" : "hruď"
+  },
+  {
+    "id" : "body20",
+    "word" : "boky"
+  },
+  {
+    "id" : "body21",
+    "word" : "kloub"
+  },
+  {
+    "id" : "body22",
+    "word" : "holeň"
+  },
+  {
+    "id" : "body23",
+    "word" : "rameno"
+  },
+  {
+    "id" : "body24",
+    "word" : "chodidlo"
+  },
+  {
+    "id" : "body25",
+    "word" : "břicho"
+  },
+  {
+    "id" : "body26",
+    "word" : "stehno"
+  },
+  {
+    "id" : "body27",
+    "word" : "hrdlo"
+  },
+  {
+    "id" : "body28",
+    "word" : "pas"
+  },
+  {
+    "id" : "body29",
+    "word" : "zápěstí"
+  },
+  {
+    "id" : "body30",
+    "word" : "kotník"
+  },
+  {
+    "id" : "body31",
+    "word" : "paže"
+  },
+  {
+    "id" : "body32",
+    "word" : "palec nohy"
+  },
+  {
+    "id" : "body33",
+    "word" : "loket"
+  },
+  {
+    "id" : "body34",
+    "word" : "prst"
+  },
+  {
+    "id" : "body35",
+    "word" : "pěst"
+  },
+  {
+    "id" : "body36",
+    "word" : "chodidlo"
+  },
+  {
+    "id" : "body37",
+    "word" : "předloktí"
+  },
+  {
+    "id" : "body38",
+    "word" : "ruka"
+  },
+  {
+    "id" : "body39",
+    "word" : "hlava"
+  },
+  {
+    "id" : "body40",
+    "word" : "koleno"
+  },
+  {
+    "id" : "body41",
+    "word" : "noha"
+  },
+  {
+    "id" : "body42",
+    "word" : "pupek"
+  },
+  {
+    "id" : "body43",
+    "word" : "dlaň"
+  },
+  {
+    "id" : "body44",
+    "word" : "palec"
+  },
+  {
+    "id" : "body45",
+    "word" : "modré oči"
+  },
+  {
+    "id" : "body46",
+    "word" : "hnědé oči"
+  },
+  {
+    "id" : "body47",
+    "word" : "pihy"
+  },
+  {
+    "id" : "body48",
+    "word" : "plnovous"
+  },
+  {
+    "id" : "body49",
+    "word" : "brýle"
+  },
+  {
+    "id" : "body50",
+    "word" : "kozí bradka"
+  },
+  {
+    "id" : "body51",
+    "word" : "zelené oči"
+  },
+  {
+    "id" : "body52",
+    "word" : "pigmentová skvrna"
+  },
+  {
+    "id" : "body53",
+    "word" : "knír"
+  },
+  {
+    "id" : "body54",
+    "word" : "pupínek"
+  },
+  {
+    "id" : "body55",
+    "word" : "jizva"
+  },
+  {
+    "id" : "body56",
+    "word" : "opálení"
+  },
+  {
+    "id" : "body57",
+    "word" : "tetování"
+  },
+  {
+    "id" : "body58",
+    "word" : "štíhlý obličej"
+  },
+  {
+    "id" : "body59",
+    "word" : "vrásky"
+  },
+  {
+    "id" : "body60",
+    "word" : "tvář"
+  },
+  {
+    "id" : "body61",
+    "word" : "brada"
+  },
+  {
+    "id" : "body62",
+    "word" : "důlek"
+  },
+  {
+    "id" : "body63",
+    "word" : "ušní lalůček"
+  },
+  {
+    "id" : "body64",
+    "word" : "ucho"
+  },
+  {
+    "id" : "body65",
+    "word" : "oko"
+  },
+  {
+    "id" : "body66",
+    "word" : "obočí"
+  },
+  {
+    "id" : "body67",
+    "word" : "řasy"
+  },
+  {
+    "id" : "body68",
+    "word" : "čelo"
+  },
+  {
+    "id" : "body69",
+    "word" : "mračení"
+  },
+  {
+    "id" : "body70",
+    "word" : "rty"
+  },
+  {
+    "id" : "body71",
+    "word" : "krk"
+  },
+  {
+    "id" : "body72",
+    "word" : "nos"
+  },
+  {
+    "id" : "body73",
+    "word" : "zuby"
+  },
+  {
+    "id" : "body74",
+    "word" : "jazyk"
+  },
+  {
+    "id" : "body75",
+    "word" : "afro"
+  },
+  {
+    "id" : "body76",
+    "word" : "plešatý"
+  },
+  {
+    "id" : "body77",
+    "word" : "drdol"
+  },
+  {
+    "id" : "body78",
+    "word" : "vlasy na ježka"
+  },
+  {
+    "id" : "body79",
+    "word" : "kudrnatý"
+  },
+  {
+    "id" : "body80",
+    "word" : "rozcuchaný"
+  },
+  {
+    "id" : "body81",
+    "word" : "dredy"
+  },
+  {
+    "id" : "body82",
+    "word" : "dlouhé vlasy"
+  },
+  {
+    "id" : "body83",
+    "word" : "kohout"
+  },
+  {
+    "id" : "body84",
+    "word" : "culík"
+  },
+  {
+    "id" : "body85",
+    "word" : "oholený"
+  },
+  {
+    "id" : "body86",
+    "word" : "krátký"
+  },
+  {
+    "id" : "body87",
+    "word" : "ježaté"
+  },
+  {
+    "id" : "body88",
+    "word" : "rovný"
+  },
+  {
+    "id" : "body89",
+    "word" : "vlnitý"
+  }
+]

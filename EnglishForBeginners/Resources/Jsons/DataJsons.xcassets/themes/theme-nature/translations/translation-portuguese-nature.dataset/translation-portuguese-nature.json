@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "chuva ácida"
+  },
+  {
+    "id" : "nature1",
+    "word" : "desflorestamento"
+  },
+  {
+    "id" : "nature2",
+    "word" : "mina de carvão"
+  },
+  {
+    "id" : "nature3",
+    "word" : "coral morto"
+  },
+  {
+    "id" : "nature4",
+    "word" : "deserto"
+  },
+  {
+    "id" : "nature5",
+    "word" : "erosão"
+  },
+  {
+    "id" : "nature6",
+    "word" : "esgotamento"
+  },
+  {
+    "id" : "nature7",
+    "word" : "combustível fóssil"
+  },
+  {
+    "id" : "nature8",
+    "word" : "lixo"
+  },
+  {
+    "id" : "nature9",
+    "word" : "derramamento de óleo"
+  },
+  {
+    "id" : "nature10",
+    "word" : "poço de petróleo"
+  },
+  {
+    "id" : "nature11",
+    "word" : "poluição"
+  },
+  {
+    "id" : "nature12",
+    "word" : "poluição atmosférica"
+  },
+  {
+    "id" : "nature13",
+    "word" : "painel solar"
+  },
+  {
+    "id" : "nature14",
+    "word" : "parque eólico"
+  },
+  {
+    "id" : "nature15",
+    "word" : "celeiro"
+  },
+  {
+    "id" : "nature16",
+    "word" : "galinheiro"
+  },
+  {
+    "id" : "nature17",
+    "word" : "agricultor"
+  },
+  {
+    "id" : "nature18",
+    "word" : "cerca"
+  },
+  {
+    "id" : "nature19",
+    "word" : "portão"
+  },
+  {
+    "id" : "nature20",
+    "word" : "colheitadeira"
+  },
+  {
+    "id" : "nature21",
+    "word" : "irrigação"
+  },
+  {
+    "id" : "nature22",
+    "word" : "arado"
+  },
+  {
+    "id" : "nature23",
+    "word" : "lago"
+  },
+  {
+    "id" : "nature24",
+    "word" : "espantalho"
+  },
+  {
+    "id" : "nature25",
+    "word" : "estábulo"
+  },
+  {
+    "id" : "nature26",
+    "word" : "trator"
+  },
+  {
+    "id" : "nature27",
+    "word" : "vilarejo"
+  },
+  {
+    "id" : "nature28",
+    "word" : "poço"
+  },
+  {
+    "id" : "nature29",
+    "word" : "moinho de vento"
+  },
+  {
+    "id" : "nature30",
+    "word" : "aster"
+  },
+  {
+    "id" : "nature31",
+    "word" : "cravo"
+  },
+  {
+    "id" : "nature32",
+    "word" : "narciso"
+  },
+  {
+    "id" : "nature33",
+    "word" : "dália"
+  },
+  {
+    "id" : "nature34",
+    "word" : "margarida"
+  },
+  {
+    "id" : "nature35",
+    "word" : "jasmim-manga"
+  },
+  {
+    "id" : "nature36",
+    "word" : "frésia"
+  },
+  {
+    "id" : "nature37",
+    "word" : "gerânio"
+  },
+  {
+    "id" : "nature38",
+    "word" : "gerbera"
+  },
+  {
+    "id" : "nature39",
+    "word" : "hibisco"
+  },
+  {
+    "id" : "nature40",
+    "word" : "lírio"
+  },
+  {
+    "id" : "nature41",
+    "word" : "magnólia"
+  },
+  {
+    "id" : "nature42",
+    "word" : "orquídea"
+  },
+  {
+    "id" : "nature43",
+    "word" : "rosa"
+  },
+  {
+    "id" : "nature44",
+    "word" : "tulipa"
+  },
+  {
+    "id" : "nature45",
+    "word" : "formiga"
+  },
+  {
+    "id" : "nature46",
+    "word" : "abelha"
+  },
+  {
+    "id" : "nature47",
+    "word" : "besouro"
+  },
+  {
+    "id" : "nature48",
+    "word" : "bortoleta"
+  },
+  {
+    "id" : "nature49",
+    "word" : "barata"
+  },
+  {
+    "id" : "nature50",
+    "word" : "grilo"
+  },
+  {
+    "id" : "nature51",
+    "word" : "libélula"
+  },
+  {
+    "id" : "nature52",
+    "word" : "mosca"
+  },
+  {
+    "id" : "nature53",
+    "word" : "gafanhoto"
+  },
+  {
+    "id" : "nature54",
+    "word" : "joaninha"
+  },
+  {
+    "id" : "nature55",
+    "word" : "louva-a-deus"
+  },
+  {
+    "id" : "nature56",
+    "word" : "mosquito"
+  },
+  {
+    "id" : "nature57",
+    "word" : "traça"
+  },
+  {
+    "id" : "nature58",
+    "word" : "térmitas"
+  },
+  {
+    "id" : "nature59",
+    "word" : "vespa"
+  },
+  {
+    "id" : "nature60",
+    "word" : "fetos"
+  },
+  {
+    "id" : "nature61",
+    "word" : "jardim"
+  },
+  {
+    "id" : "nature62",
+    "word" : "pasto"
+  },
+  {
+    "id" : "nature63",
+    "word" : "relva"
+  },
+  {
+    "id" : "nature64",
+    "word" : "folha"
+  },
+  {
+    "id" : "nature65",
+    "word" : "palma"
+  },
+  {
+    "id" : "nature66",
+    "word" : "pétalas"
+  },
+  {
+    "id" : "nature67",
+    "word" : "floresta de pinheiros"
+  },
+  {
+    "id" : "nature68",
+    "word" : "floresta tropical"
+  },
+  {
+    "id" : "nature69",
+    "word" : "raízes"
+  },
+  {
+    "id" : "nature70",
+    "word" : "muda"
+  },
+  {
+    "id" : "nature71",
+    "word" : "sementes"
+  },
+  {
+    "id" : "nature72",
+    "word" : "espinhos"
+  },
+  {
+    "id" : "nature73",
+    "word" : "árvore"
+  },
+  {
+    "id" : "nature74",
+    "word" : "tronco"
+  },
+  {
+    "id" : "nature75",
+    "word" : "ciclone"
+  },
+  {
+    "id" : "nature76",
+    "word" : "seca"
+  },
+  {
+    "id" : "nature77",
+    "word" : "inundação"
+  },
+  {
+    "id" : "nature78",
+    "word" : "nevoeiro"
+  },
+  {
+    "id" : "nature79",
+    "word" : "previsão"
+  },
+  {
+    "id" : "nature80",
+    "word" : "onda de calor"
+  },
+  {
+    "id" : "nature81",
+    "word" : "gelo"
+  },
+  {
+    "id" : "nature82",
+    "word" : "relâmpago"
+  },
+  {
+    "id" : "nature83",
+    "word" : "poça"
+  },
+  {
+    "id" : "nature84",
+    "word" : "chuva"
+  },
+  {
+    "id" : "nature85",
+    "word" : "gabardina"
+  },
+  {
+    "id" : "nature86",
+    "word" : "tempestade de areia"
+  },
+  {
+    "id" : "nature87",
+    "word" : "neve"
+  },
+  {
+    "id" : "nature88",
+    "word" : "tornado"
+  },
+  {
+    "id" : "nature89",
+    "word" : "guarda-chuva"
+  }
+]

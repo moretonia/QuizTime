@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "výhoda"
+  },
+  {
+    "id" : "business1",
+    "word" : "inzerovat"
+  },
+  {
+    "id" : "business2",
+    "word" : "účet"
+  },
+  {
+    "id" : "business3",
+    "word" : "rozpočet"
+  },
+  {
+    "id" : "business4",
+    "word" : "srovnání"
+  },
+  {
+    "id" : "business5",
+    "word" : "konkurent"
+  },
+  {
+    "id" : "business6",
+    "word" : "potvrzení"
+  },
+  {
+    "id" : "business7",
+    "word" : "zákazník"
+  },
+  {
+    "id" : "business8",
+    "word" : "uzávěrka"
+  },
+  {
+    "id" : "business9",
+    "word" : "dluh"
+  },
+  {
+    "id" : "business10",
+    "word" : "rozhodnutí"
+  },
+  {
+    "id" : "business11",
+    "word" : "dodávka"
+  },
+  {
+    "id" : "business12",
+    "word" : "cena"
+  },
+  {
+    "id" : "business13",
+    "word" : "plán"
+  },
+  {
+    "id" : "business14",
+    "word" : "týmová práce"
+  },
+  {
+    "id" : "business15",
+    "word" : "posouzení"
+  },
+  {
+    "id" : "business16",
+    "word" : "prezentace"
+  },
+  {
+    "id" : "business17",
+    "word" : "distribuce"
+  },
+  {
+    "id" : "business18",
+    "word" : "zaměstnanci"
+  },
+  {
+    "id" : "business19",
+    "word" : "zaměstnavatel"
+  },
+  {
+    "id" : "business20",
+    "word" : "továrna"
+  },
+  {
+    "id" : "business21",
+    "word" : "růst"
+  },
+  {
+    "id" : "business22",
+    "word" : "manažer"
+  },
+  {
+    "id" : "business23",
+    "word" : "instrukce"
+  },
+  {
+    "id" : "business24",
+    "word" : "rozhovor"
+  },
+  {
+    "id" : "business25",
+    "word" : "faktura"
+  },
+  {
+    "id" : "business26",
+    "word" : "ztráta"
+  },
+  {
+    "id" : "business27",
+    "word" : "stroje"
+  },
+  {
+    "id" : "business28",
+    "word" : "zboží"
+  },
+  {
+    "id" : "business29",
+    "word" : "skladiště"
+  },
+  {
+    "id" : "business30",
+    "word" : "zrušit"
+  },
+  {
+    "id" : "business31",
+    "word" : "výměna"
+  },
+  {
+    "id" : "business32",
+    "word" : "zpětná vazba"
+  },
+  {
+    "id" : "business33",
+    "word" : "instalace"
+  },
+  {
+    "id" : "business34",
+    "word" : "objednávka"
+  },
+  {
+    "id" : "business35",
+    "word" : "platba"
+  },
+  {
+    "id" : "business36",
+    "word" : "penále"
+  },
+  {
+    "id" : "business37",
+    "word" : "produkty"
+  },
+  {
+    "id" : "business38",
+    "word" : "povýšení"
+  },
+  {
+    "id" : "business39",
+    "word" : "odmítnout"
+  },
+  {
+    "id" : "business40",
+    "word" : "opravy"
+  },
+  {
+    "id" : "business41",
+    "word" : "report"
+  },
+  {
+    "id" : "business42",
+    "word" : "plat"
+  },
+  {
+    "id" : "business43",
+    "word" : "náklad"
+  },
+  {
+    "id" : "business44",
+    "word" : "cíl"
+  },
+  {
+    "id" : "business45",
+    "word" : "starožitnosti"
+  },
+  {
+    "id" : "business46",
+    "word" : "artefakty"
+  },
+  {
+    "id" : "business47",
+    "word" : "komiksy"
+  },
+  {
+    "id" : "business48",
+    "word" : "diamanty"
+  },
+  {
+    "id" : "business49",
+    "word" : "figurky"
+  },
+  {
+    "id" : "business50",
+    "word" : "fosílie"
+  },
+  {
+    "id" : "business51",
+    "word" : "zlaté mince"
+  },
+  {
+    "id" : "business52",
+    "word" : "modely aut"
+  },
+  {
+    "id" : "business53",
+    "word" : "plakáty"
+  },
+  {
+    "id" : "business54",
+    "word" : "rubíny"
+  },
+  {
+    "id" : "business55",
+    "word" : "safíry"
+  },
+  {
+    "id" : "business56",
+    "word" : "stříbrné nádobí"
+  },
+  {
+    "id" : "business57",
+    "word" : "razítka"
+  },
+  {
+    "id" : "business58",
+    "word" : "stará auta"
+  },
+  {
+    "id" : "business59",
+    "word" : "umělecká díla"
+  },
+  {
+    "id" : "business60",
+    "word" : "hotovost"
+  },
+  {
+    "id" : "business61",
+    "word" : "pokladní"
+  },
+  {
+    "id" : "business62",
+    "word" : "kreditní karta"
+  },
+  {
+    "id" : "business63",
+    "word" : "rozcestník"
+  },
+  {
+    "id" : "business64",
+    "word" : "zkušební kabinka"
+  },
+  {
+    "id" : "business65",
+    "word" : "klávesnice"
+  },
+  {
+    "id" : "business66",
+    "word" : "prohlížení"
+  },
+  {
+    "id" : "business67",
+    "word" : "placení"
+  },
+  {
+    "id" : "business68",
+    "word" : "cenovka"
+  },
+  {
+    "id" : "business69",
+    "word" : "sleva"
+  },
+  {
+    "id" : "business70",
+    "word" : "nákupní taška"
+  },
+  {
+    "id" : "business71",
+    "word" : "nakupování"
+  },
+  {
+    "id" : "business72",
+    "word" : "transakce"
+  },
+  {
+    "id" : "business73",
+    "word" : "zkoušení"
+  },
+  {
+    "id" : "business74",
+    "word" : "výběr"
+  },
+  {
+    "id" : "business75",
+    "word" : "pekařství"
+  },
+  {
+    "id" : "business76",
+    "word" : "knihkupectví"
+  },
+  {
+    "id" : "business77",
+    "word" : "řeznictví"
+  },
+  {
+    "id" : "business78",
+    "word" : "cukrárna"
+  },
+  {
+    "id" : "business79",
+    "word" : "lékárna"
+  },
+  {
+    "id" : "business80",
+    "word" : "obchod s oblečením"
+  },
+  {
+    "id" : "business81",
+    "word" : "fish and chips"
+  },
+  {
+    "id" : "business82",
+    "word" : "květinářství"
+  },
+  {
+    "id" : "business83",
+    "word" : "obchod s ovocem"
+  },
+  {
+    "id" : "business84",
+    "word" : "šperky"
+  },
+  {
+    "id" : "business85",
+    "word" : "tržiště"
+  },
+  {
+    "id" : "business86",
+    "word" : "internetový obchod"
+  },
+  {
+    "id" : "business87",
+    "word" : "obuvnictví"
+  },
+  {
+    "id" : "business88",
+    "word" : "hračkářství"
+  },
+  {
+    "id" : "business89",
+    "word" : "cestovní kancelář"
+  }
+]

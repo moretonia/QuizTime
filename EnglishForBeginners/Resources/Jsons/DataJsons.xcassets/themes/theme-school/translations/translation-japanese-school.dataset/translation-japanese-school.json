@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "画廊"
+  },
+  {
+    "id" : "school1",
+    "word" : "ブラシ"
+  },
+  {
+    "id" : "school2",
+    "word" : "木炭画"
+  },
+  {
+    "id" : "school3",
+    "word" : "画架"
+  },
+  {
+    "id" : "school4",
+    "word" : "風景"
+  },
+  {
+    "id" : "school5",
+    "word" : "壁画"
+  },
+  {
+    "id" : "school6",
+    "word" : "油絵"
+  },
+  {
+    "id" : "school7",
+    "word" : "パレット"
+  },
+  {
+    "id" : "school8",
+    "word" : "岩面陰刻"
+  },
+  {
+    "id" : "school9",
+    "word" : "写真"
+  },
+  {
+    "id" : "school10",
+    "word" : "肖像画"
+  },
+  {
+    "id" : "school11",
+    "word" : "彫刻"
+  },
+  {
+    "id" : "school12",
+    "word" : "スケッチ"
+  },
+  {
+    "id" : "school13",
+    "word" : "静物"
+  },
+  {
+    "id" : "school14",
+    "word" : "水辺風景"
+  },
+  {
+    "id" : "school15",
+    "word" : "アコーディオン"
+  },
+  {
+    "id" : "school16",
+    "word" : "バンジョー"
+  },
+  {
+    "id" : "school17",
+    "word" : "バグル"
+  },
+  {
+    "id" : "school18",
+    "word" : "シンバル"
+  },
+  {
+    "id" : "school19",
+    "word" : "ダブルベース"
+  },
+  {
+    "id" : "school20",
+    "word" : "ドラム"
+  },
+  {
+    "id" : "school21",
+    "word" : "フルート"
+  },
+  {
+    "id" : "school22",
+    "word" : "ギター"
+  },
+  {
+    "id" : "school23",
+    "word" : "ハーモニカ"
+  },
+  {
+    "id" : "school24",
+    "word" : "オルガン"
+  },
+  {
+    "id" : "school25",
+    "word" : "ピアノ"
+  },
+  {
+    "id" : "school26",
+    "word" : "シンセサイザー"
+  },
+  {
+    "id" : "school27",
+    "word" : "トロンボーン"
+  },
+  {
+    "id" : "school28",
+    "word" : "トランペット"
+  },
+  {
+    "id" : "school29",
+    "word" : "バイオリン"
+  },
+  {
+    "id" : "school30",
+    "word" : "集会"
+  },
+  {
+    "id" : "school31",
+    "word" : "黒板"
+  },
+  {
+    "id" : "school32",
+    "word" : "食堂"
+  },
+  {
+    "id" : "school33",
+    "word" : "クラス"
+  },
+  {
+    "id" : "school34",
+    "word" : "教室"
+  },
+  {
+    "id" : "school35",
+    "word" : "机"
+  },
+  {
+    "id" : "school36",
+    "word" : "地球儀"
+  },
+  {
+    "id" : "school37",
+    "word" : "体育館"
+  },
+  {
+    "id" : "school38",
+    "word" : "理科室"
+  },
+  {
+    "id" : "school39",
+    "word" : "お弁当箱"
+  },
+  {
+    "id" : "school40",
+    "word" : "学生帽"
+  },
+  {
+    "id" : "school41",
+    "word" : "校庭"
+  },
+  {
+    "id" : "school42",
+    "word" : "学校のネクタイ"
+  },
+  {
+    "id" : "school43",
+    "word" : "教科書"
+  },
+  {
+    "id" : "school44",
+    "word" : "ホワイトボード"
+  },
+  {
+    "id" : "school45",
+    "word" : "美術"
+  },
+  {
+    "id" : "school46",
+    "word" : "生物学"
+  },
+  {
+    "id" : "school47",
+    "word" : "化学"
+  },
+  {
+    "id" : "school48",
+    "word" : "ダンス"
+  },
+  {
+    "id" : "school49",
+    "word" : "英語"
+  },
+  {
+    "id" : "school50",
+    "word" : "試験用紙"
+  },
+  {
+    "id" : "school51",
+    "word" : "試験"
+  },
+  {
+    "id" : "school52",
+    "word" : "体育"
+  },
+  {
+    "id" : "school53",
+    "word" : "フランス語"
+  },
+  {
+    "id" : "school54",
+    "word" : "地理"
+  },
+  {
+    "id" : "school55",
+    "word" : "幾何学"
+  },
+  {
+    "id" : "school56",
+    "word" : "数学"
+  },
+  {
+    "id" : "school57",
+    "word" : "物理"
+  },
+  {
+    "id" : "school58",
+    "word" : "ロボット工学"
+  },
+  {
+    "id" : "school59",
+    "word" : "研究"
+  },
+  {
+    "id" : "school60",
+    "word" : "電卓"
+  },
+  {
+    "id" : "school61",
+    "word" : "コンパス"
+  },
+  {
+    "id" : "school62",
+    "word" : "クレヨン"
+  },
+  {
+    "id" : "school63",
+    "word" : "封筒"
+  },
+  {
+    "id" : "school64",
+    "word" : "消しゴム"
+  },
+  {
+    "id" : "school65",
+    "word" : "ノート"
+  },
+  {
+    "id" : "school66",
+    "word" : "ペーパークリップ"
+  },
+  {
+    "id" : "school67",
+    "word" : "ペン"
+  },
+  {
+    "id" : "school68",
+    "word" : "鉛筆"
+  },
+  {
+    "id" : "school69",
+    "word" : "プリント"
+  },
+  {
+    "id" : "school70",
+    "word" : "分度器"
+  },
+  {
+    "id" : "school71",
+    "word" : "定規"
+  },
+  {
+    "id" : "school72",
+    "word" : "ホッチキス"
+  },
+  {
+    "id" : "school73",
+    "word" : "尖筆"
+  },
+  {
+    "id" : "school74",
+    "word" : "タブレット"
+  },
+  {
+    "id" : "school75",
+    "word" : "アルファベット"
+  },
+  {
+    "id" : "school76",
+    "word" : "本"
+  },
+  {
+    "id" : "school77",
+    "word" : "書道"
+  },
+  {
+    "id" : "school78",
+    "word" : "辞書"
+  },
+  {
+    "id" : "school79",
+    "word" : "電子ブック"
+  },
+  {
+    "id" : "school80",
+    "word" : "手書き"
+  },
+  {
+    "id" : "school81",
+    "word" : "索引"
+  },
+  {
+    "id" : "school82",
+    "word" : "雑誌"
+  },
+  {
+    "id" : "school83",
+    "word" : "音楽"
+  },
+  {
+    "id" : "school84",
+    "word" : "新聞"
+  },
+  {
+    "id" : "school85",
+    "word" : "手帳"
+  },
+  {
+    "id" : "school86",
+    "word" : "作詞作家"
+  },
+  {
+    "id" : "school87",
+    "word" : "付箋"
+  },
+  {
+    "id" : "school88",
+    "word" : "数独"
+  },
+  {
+    "id" : "school89",
+    "word" : "タイピング"
+  }
+]

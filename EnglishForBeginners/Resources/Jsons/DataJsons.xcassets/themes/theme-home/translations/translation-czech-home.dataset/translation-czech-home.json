@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "home0",
+    "word" : "vana"
+  },
+  {
+    "id" : "home1",
+    "word" : "hřeben"
+  },
+  {
+    "id" : "home2",
+    "word" : "kohoutek"
+  },
+  {
+    "id" : "home3",
+    "word" : "rohožka"
+  },
+  {
+    "id" : "home4",
+    "word" : "zrcadlo"
+  },
+  {
+    "id" : "home5",
+    "word" : "zástrčka"
+  },
+  {
+    "id" : "home6",
+    "word" : "šampon"
+  },
+  {
+    "id" : "home7",
+    "word" : "sprchový gel"
+  },
+  {
+    "id" : "home8",
+    "word" : "sprcha"
+  },
+  {
+    "id" : "home9",
+    "word" : "mýdlo"
+  },
+  {
+    "id" : "home10",
+    "word" : "kartáček na zuby"
+  },
+  {
+    "id" : "home11",
+    "word" : "zubní pasta"
+  },
+  {
+    "id" : "home12",
+    "word" : "věšák na ručníky"
+  },
+  {
+    "id" : "home13",
+    "word" : "ručník"
+  },
+  {
+    "id" : "home14",
+    "word" : "umývadlo"
+  },
+  {
+    "id" : "home15",
+    "word" : "miska"
+  },
+  {
+    "id" : "home16",
+    "word" : "nůž na máslo"
+  },
+  {
+    "id" : "home17",
+    "word" : "tyčinky"
+  },
+  {
+    "id" : "home18",
+    "word" : "pohár"
+  },
+  {
+    "id" : "home19",
+    "word" : "váza"
+  },
+  {
+    "id" : "home20",
+    "word" : "ubrousek"
+  },
+  {
+    "id" : "home21",
+    "word" : "vidlička"
+  },
+  {
+    "id" : "home22",
+    "word" : "sklenka"
+  },
+  {
+    "id" : "home23",
+    "word" : "džbán"
+  },
+  {
+    "id" : "home24",
+    "word" : "nůž"
+  },
+  {
+    "id" : "home25",
+    "word" : "džbánek"
+  },
+  {
+    "id" : "home26",
+    "word" : "talíř"
+  },
+  {
+    "id" : "home27",
+    "word" : "solnička"
+  },
+  {
+    "id" : "home28",
+    "word" : "podšálek"
+  },
+  {
+    "id" : "home29",
+    "word" : "lžíce"
+  },
+  {
+    "id" : "home30",
+    "word" : "křeslo"
+  },
+  {
+    "id" : "home31",
+    "word" : "postel"
+  },
+  {
+    "id" : "home32",
+    "word" : "knihovna"
+  },
+  {
+    "id" : "home33",
+    "word" : "židle"
+  },
+  {
+    "id" : "home34",
+    "word" : "hodiny"
+  },
+  {
+    "id" : "home35",
+    "word" : "dětská postýlka"
+  },
+  {
+    "id" : "home36",
+    "word" : "záclony"
+  },
+  {
+    "id" : "home37",
+    "word" : "polštář"
+  },
+  {
+    "id" : "home38",
+    "word" : "krb"
+  },
+  {
+    "id" : "home39",
+    "word" : "stínidlo"
+  },
+  {
+    "id" : "home40",
+    "word" : "koberec"
+  },
+  {
+    "id" : "home41",
+    "word" : "gauč"
+  },
+  {
+    "id" : "home42",
+    "word" : "stolička"
+  },
+  {
+    "id" : "home43",
+    "word" : "televize"
+  },
+  {
+    "id" : "home44",
+    "word" : "skříň"
+  },
+  {
+    "id" : "home45",
+    "word" : "ptačí koupel"
+  },
+  {
+    "id" : "home46",
+    "word" : "kbelík"
+  },
+  {
+    "id" : "home47",
+    "word" : "komín"
+  },
+  {
+    "id" : "home48",
+    "word" : "dveře"
+  },
+  {
+    "id" : "home49",
+    "word" : "trpaslík"
+  },
+  {
+    "id" : "home50",
+    "word" : "poštovní schránka"
+  },
+  {
+    "id" : "home51",
+    "word" : "cesta"
+  },
+  {
+    "id" : "home52",
+    "word" : "krytý vchod"
+  },
+  {
+    "id" : "home53",
+    "word" : "střecha"
+  },
+  {
+    "id" : "home54",
+    "word" : "rozprašovač"
+  },
+  {
+    "id" : "home55",
+    "word" : "schody"
+  },
+  {
+    "id" : "home56",
+    "word" : "pípa"
+  },
+  {
+    "id" : "home57",
+    "word" : "veranda"
+  },
+  {
+    "id" : "home58",
+    "word" : "nádrž na vodu"
+  },
+  {
+    "id" : "home59",
+    "word" : "okno"
+  },
+  {
+    "id" : "home60",
+    "word" : "zástěra"
+  },
+  {
+    "id" : "home61",
+    "word" : "láhev"
+  },
+  {
+    "id" : "home62",
+    "word" : "nádobí"
+  },
+  {
+    "id" : "home63",
+    "word" : "čisticí prostředek"
+  },
+  {
+    "id" : "home64",
+    "word" : "konvice"
+  },
+  {
+    "id" : "home65",
+    "word" : "pánev"
+  },
+  {
+    "id" : "home66",
+    "word" : "hrnec"
+  },
+  {
+    "id" : "home67",
+    "word" : "lednička"
+  },
+  {
+    "id" : "home68",
+    "word" : "váleček"
+  },
+  {
+    "id" : "home69",
+    "word" : "dřez"
+  },
+  {
+    "id" : "home70",
+    "word" : "sporák"
+  },
+  {
+    "id" : "home71",
+    "word" : "ubrus"
+  },
+  {
+    "id" : "home72",
+    "word" : "utěrka"
+  },
+  {
+    "id" : "home73",
+    "word" : "konvice na čaj"
+  },
+  {
+    "id" : "home74",
+    "word" : "wok"
+  },
+  {
+    "id" : "home75",
+    "word" : "hliník"
+  },
+  {
+    "id" : "home76",
+    "word" : "cihly"
+  },
+  {
+    "id" : "home77",
+    "word" : "lepenka"
+  },
+  {
+    "id" : "home78",
+    "word" : "keramika"
+  },
+  {
+    "id" : "home79",
+    "word" : "beton"
+  },
+  {
+    "id" : "home80",
+    "word" : "bavlna"
+  },
+  {
+    "id" : "home81",
+    "word" : "sklo"
+  },
+  {
+    "id" : "home82",
+    "word" : "papír"
+  },
+  {
+    "id" : "home83",
+    "word" : "plast"
+  },
+  {
+    "id" : "home84",
+    "word" : "guma"
+  },
+  {
+    "id" : "home85",
+    "word" : "písek"
+  },
+  {
+    "id" : "home86",
+    "word" : "ocel"
+  },
+  {
+    "id" : "home87",
+    "word" : "kameny"
+  },
+  {
+    "id" : "home88",
+    "word" : "dřevo"
+  },
+  {
+    "id" : "home89",
+    "word" : "vlna"
+  }
+]

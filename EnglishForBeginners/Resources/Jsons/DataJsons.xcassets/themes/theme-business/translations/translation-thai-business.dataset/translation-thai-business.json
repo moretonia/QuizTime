@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "ข้อได้เปรียบ"
+  },
+  {
+    "id" : "business1",
+    "word" : "โฆษณา"
+  },
+  {
+    "id" : "business2",
+    "word" : "ใบแจ้งค่าบริการ"
+  },
+  {
+    "id" : "business3",
+    "word" : "งบประมาณ"
+  },
+  {
+    "id" : "business4",
+    "word" : "การเปรียบเทียบ"
+  },
+  {
+    "id" : "business5",
+    "word" : "คู่แข่ง"
+  },
+  {
+    "id" : "business6",
+    "word" : "การยืนยัน"
+  },
+  {
+    "id" : "business7",
+    "word" : "ลูกค้า"
+  },
+  {
+    "id" : "business8",
+    "word" : "วันกำหนดส่ง"
+  },
+  {
+    "id" : "business9",
+    "word" : "หนี้สิน"
+  },
+  {
+    "id" : "business10",
+    "word" : "การตัดสินใจ"
+  },
+  {
+    "id" : "business11",
+    "word" : "บริการขนส่ง"
+  },
+  {
+    "id" : "business12",
+    "word" : "ราคา"
+  },
+  {
+    "id" : "business13",
+    "word" : "ตารางเวลา"
+  },
+  {
+    "id" : "business14",
+    "word" : "ทำงานเป็นทีม"
+  },
+  {
+    "id" : "business15",
+    "word" : "การประเมิน"
+  },
+  {
+    "id" : "business16",
+    "word" : "การเสนอ"
+  },
+  {
+    "id" : "business17",
+    "word" : "การเเจกจ่ายสินค้า"
+  },
+  {
+    "id" : "business18",
+    "word" : "พนักงาน"
+  },
+  {
+    "id" : "business19",
+    "word" : "นายจ้าง"
+  },
+  {
+    "id" : "business20",
+    "word" : "โรงงาน"
+  },
+  {
+    "id" : "business21",
+    "word" : "การเติบโต"
+  },
+  {
+    "id" : "business22",
+    "word" : "ผู้จัดการ"
+  },
+  {
+    "id" : "business23",
+    "word" : "ข้อปฏิบัติ"
+  },
+  {
+    "id" : "business24",
+    "word" : "การสัมภาษณ์"
+  },
+  {
+    "id" : "business25",
+    "word" : "ใบแจ้งหนี้"
+  },
+  {
+    "id" : "business26",
+    "word" : "การขาดทุน"
+  },
+  {
+    "id" : "business27",
+    "word" : "เครื่องจักร"
+  },
+  {
+    "id" : "business28",
+    "word" : "สินค้า"
+  },
+  {
+    "id" : "business29",
+    "word" : "คลังสินค้า"
+  },
+  {
+    "id" : "business30",
+    "word" : "การยกเลิก"
+  },
+  {
+    "id" : "business31",
+    "word" : "การแลกเปลี่ยน"
+  },
+  {
+    "id" : "business32",
+    "word" : "คำติชม"
+  },
+  {
+    "id" : "business33",
+    "word" : "การติดตั้ง"
+  },
+  {
+    "id" : "business34",
+    "word" : "คำสั่ง"
+  },
+  {
+    "id" : "business35",
+    "word" : "การจ่ายเงิน"
+  },
+  {
+    "id" : "business36",
+    "word" : "บทลงโทษ"
+  },
+  {
+    "id" : "business37",
+    "word" : "ผลิตภัณฑ์"
+  },
+  {
+    "id" : "business38",
+    "word" : "การโปรโมท"
+  },
+  {
+    "id" : "business39",
+    "word" : "ปฏิเสธ"
+  },
+  {
+    "id" : "business40",
+    "word" : "ซ่อมแซม"
+  },
+  {
+    "id" : "business41",
+    "word" : "รายงาน"
+  },
+  {
+    "id" : "business42",
+    "word" : "เงินเดือน"
+  },
+  {
+    "id" : "business43",
+    "word" : "การส่งสินค้า"
+  },
+  {
+    "id" : "business44",
+    "word" : "เป้าหมาย"
+  },
+  {
+    "id" : "business45",
+    "word" : "ของเก่า"
+  },
+  {
+    "id" : "business46",
+    "word" : "โบราณวัตถุ"
+  },
+  {
+    "id" : "business47",
+    "word" : "หนังสือการ์ตูน"
+  },
+  {
+    "id" : "business48",
+    "word" : "เพชร"
+  },
+  {
+    "id" : "business49",
+    "word" : "รูปแกะสลัก"
+  },
+  {
+    "id" : "business50",
+    "word" : "กระดูกดึกดำบรรพ์"
+  },
+  {
+    "id" : "business51",
+    "word" : "เหรียญทอง"
+  },
+  {
+    "id" : "business52",
+    "word" : "โมเดลรถ"
+  },
+  {
+    "id" : "business53",
+    "word" : "แผ่นป้าย"
+  },
+  {
+    "id" : "business54",
+    "word" : "ทับทิม"
+  },
+  {
+    "id" : "business55",
+    "word" : "ไพลิน"
+  },
+  {
+    "id" : "business56",
+    "word" : "เครื่องเงิน"
+  },
+  {
+    "id" : "business57",
+    "word" : "สแตมป์"
+  },
+  {
+    "id" : "business58",
+    "word" : "รถโบราณ"
+  },
+  {
+    "id" : "business59",
+    "word" : "งานศิลปะ"
+  },
+  {
+    "id" : "business60",
+    "word" : "เงินสด"
+  },
+  {
+    "id" : "business61",
+    "word" : "พนักงานรับจ่ายเงิน"
+  },
+  {
+    "id" : "business62",
+    "word" : "บัตรเครดิต"
+  },
+  {
+    "id" : "business63",
+    "word" : "รายการสินค้า"
+  },
+  {
+    "id" : "business64",
+    "word" : "ห้องลองชุด"
+  },
+  {
+    "id" : "business65",
+    "word" : "แผงพิมพ์ตัวเลข"
+  },
+  {
+    "id" : "business66",
+    "word" : "ดูสินค้า"
+  },
+  {
+    "id" : "business67",
+    "word" : "จ่ายเงิน"
+  },
+  {
+    "id" : "business68",
+    "word" : "ป้ายราคา"
+  },
+  {
+    "id" : "business69",
+    "word" : "ลดราคา"
+  },
+  {
+    "id" : "business70",
+    "word" : "ถุงซื้อของ"
+  },
+  {
+    "id" : "business71",
+    "word" : "ซื้อของ"
+  },
+  {
+    "id" : "business72",
+    "word" : "ธุรกรรม"
+  },
+  {
+    "id" : "business73",
+    "word" : "ลองสินค้า"
+  },
+  {
+    "id" : "business74",
+    "word" : "ถอนเงิน"
+  },
+  {
+    "id" : "business75",
+    "word" : "ร้านขายขนมปัง"
+  },
+  {
+    "id" : "business76",
+    "word" : "ร้านหนังสือ"
+  },
+  {
+    "id" : "business77",
+    "word" : "ร้านขายเนื้อ"
+  },
+  {
+    "id" : "business78",
+    "word" : "ร้านขายเค้ก"
+  },
+  {
+    "id" : "business79",
+    "word" : "ร้านขายยา"
+  },
+  {
+    "id" : "business80",
+    "word" : "ร้านขายเสื้อผ้า"
+  },
+  {
+    "id" : "business81",
+    "word" : "ปลาทอดกับมันฝรั่งทอด"
+  },
+  {
+    "id" : "business82",
+    "word" : "ร้านขายดอกไม้"
+  },
+  {
+    "id" : "business83",
+    "word" : "ร้านขายผลไม้"
+  },
+  {
+    "id" : "business84",
+    "word" : "เครื่องเพชร"
+  },
+  {
+    "id" : "business85",
+    "word" : "ตลาด"
+  },
+  {
+    "id" : "business86",
+    "word" : "ร้านค้าออนไลน์"
+  },
+  {
+    "id" : "business87",
+    "word" : "ร้านขายรองเท้า"
+  },
+  {
+    "id" : "business88",
+    "word" : "ร้านขายของเล่น"
+  },
+  {
+    "id" : "business89",
+    "word" : "บริษัทท่องเที่ยว"
+  }
+]

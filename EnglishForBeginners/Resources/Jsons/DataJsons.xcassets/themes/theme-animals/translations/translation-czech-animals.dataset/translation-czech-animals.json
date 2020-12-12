@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "pavián"
+  },
+  {
+    "id" : "animals1",
+    "word" : "buvol"
+  },
+  {
+    "id" : "animals2",
+    "word" : "velbloud"
+  },
+  {
+    "id" : "animals3",
+    "word" : "šimpanz"
+  },
+  {
+    "id" : "animals4",
+    "word" : "krokodýl"
+  },
+  {
+    "id" : "animals5",
+    "word" : "slon"
+  },
+  {
+    "id" : "animals6",
+    "word" : "žirafa"
+  },
+  {
+    "id" : "animals7",
+    "word" : "gorila"
+  },
+  {
+    "id" : "animals8",
+    "word" : "hroch"
+  },
+  {
+    "id" : "animals9",
+    "word" : "hyena"
+  },
+  {
+    "id" : "animals10",
+    "word" : "leopard"
+  },
+  {
+    "id" : "animals11",
+    "word" : "lev"
+  },
+  {
+    "id" : "animals12",
+    "word" : "pštros"
+  },
+  {
+    "id" : "animals13",
+    "word" : "nosorožec"
+  },
+  {
+    "id" : "animals14",
+    "word" : "pakůň"
+  },
+  {
+    "id" : "animals15",
+    "word" : "bígl"
+  },
+  {
+    "id" : "animals16",
+    "word" : "boxer"
+  },
+  {
+    "id" : "animals17",
+    "word" : "čivava"
+  },
+  {
+    "id" : "animals18",
+    "word" : "kolie"
+  },
+  {
+    "id" : "animals19",
+    "word" : "jezevčík"
+  },
+  {
+    "id" : "animals20",
+    "word" : "dalmatin"
+  },
+  {
+    "id" : "animals21",
+    "word" : "dobrman"
+  },
+  {
+    "id" : "animals22",
+    "word" : "chrt"
+  },
+  {
+    "id" : "animals23",
+    "word" : "husky"
+  },
+  {
+    "id" : "animals24",
+    "word" : "irský setr"
+  },
+  {
+    "id" : "animals25",
+    "word" : "labrador"
+  },
+  {
+    "id" : "animals26",
+    "word" : "maltézský psík"
+  },
+  {
+    "id" : "animals27",
+    "word" : "pudl"
+  },
+  {
+    "id" : "animals28",
+    "word" : "rotvajler"
+  },
+  {
+    "id" : "animals29",
+    "word" : "ovčák"
+  },
+  {
+    "id" : "animals30",
+    "word" : "býk"
+  },
+  {
+    "id" : "animals31",
+    "word" : "tele"
+  },
+  {
+    "id" : "animals32",
+    "word" : "kočka"
+  },
+  {
+    "id" : "animals33",
+    "word" : "osel"
+  },
+  {
+    "id" : "animals34",
+    "word" : "kachna"
+  },
+  {
+    "id" : "animals35",
+    "word" : "hříbě"
+  },
+  {
+    "id" : "animals36",
+    "word" : "koza"
+  },
+  {
+    "id" : "animals37",
+    "word" : "husa"
+  },
+  {
+    "id" : "animals38",
+    "word" : "kůň"
+  },
+  {
+    "id" : "animals39",
+    "word" : "jehně"
+  },
+  {
+    "id" : "animals40",
+    "word" : "prase"
+  },
+  {
+    "id" : "animals41",
+    "word" : "sele"
+  },
+  {
+    "id" : "animals42",
+    "word" : "kohout"
+  },
+  {
+    "id" : "animals43",
+    "word" : "ovce"
+  },
+  {
+    "id" : "animals44",
+    "word" : "krocan"
+  },
+  {
+    "id" : "animals45",
+    "word" : "treska"
+  },
+  {
+    "id" : "animals46",
+    "word" : "krab"
+  },
+  {
+    "id" : "animals47",
+    "word" : "medúza"
+  },
+  {
+    "id" : "animals48",
+    "word" : "humr"
+  },
+  {
+    "id" : "animals49",
+    "word" : "chobotnice"
+  },
+  {
+    "id" : "animals50",
+    "word" : "ústřice"
+  },
+  {
+    "id" : "animals51",
+    "word" : "kreveta"
+  },
+  {
+    "id" : "animals52",
+    "word" : "losos"
+  },
+  {
+    "id" : "animals53",
+    "word" : "sardinky"
+  },
+  {
+    "id" : "animals54",
+    "word" : "mořský koník"
+  },
+  {
+    "id" : "animals55",
+    "word" : "žralok"
+  },
+  {
+    "id" : "animals56",
+    "word" : "oliheň"
+  },
+  {
+    "id" : "animals57",
+    "word" : "mečoun"
+  },
+  {
+    "id" : "animals58",
+    "word" : "pstruh"
+  },
+  {
+    "id" : "animals59",
+    "word" : "tuňák"
+  },
+  {
+    "id" : "animals60",
+    "word" : "albatros"
+  },
+  {
+    "id" : "animals61",
+    "word" : "škeble"
+  },
+  {
+    "id" : "animals62",
+    "word" : "korál"
+  },
+  {
+    "id" : "animals63",
+    "word" : "delfín"
+  },
+  {
+    "id" : "animals64",
+    "word" : "úhoř"
+  },
+  {
+    "id" : "animals65",
+    "word" : "pelikán"
+  },
+  {
+    "id" : "animals66",
+    "word" : "tučňák"
+  },
+  {
+    "id" : "animals67",
+    "word" : "lední medvěd"
+  },
+  {
+    "id" : "animals68",
+    "word" : "mořský ježek"
+  },
+  {
+    "id" : "animals69",
+    "word" : "lachtan"
+  },
+  {
+    "id" : "animals70",
+    "word" : "rejnok"
+  },
+  {
+    "id" : "animals71",
+    "word" : "vodní želva"
+  },
+  {
+    "id" : "animals72",
+    "word" : "mrož"
+  },
+  {
+    "id" : "animals73",
+    "word" : "žralok velrybí"
+  },
+  {
+    "id" : "animals74",
+    "word" : "velryba"
+  },
+  {
+    "id" : "animals75",
+    "word" : "andulka"
+  },
+  {
+    "id" : "animals76",
+    "word" : "kanárek"
+  },
+  {
+    "id" : "animals77",
+    "word" : "činčila"
+  },
+  {
+    "id" : "animals78",
+    "word" : "fretka"
+  },
+  {
+    "id" : "animals79",
+    "word" : "pěnkava"
+  },
+  {
+    "id" : "animals80",
+    "word" : "gekon"
+  },
+  {
+    "id" : "animals81",
+    "word" : "zlatá rybka"
+  },
+  {
+    "id" : "animals82",
+    "word" : "morče"
+  },
+  {
+    "id" : "animals83",
+    "word" : "krab poustevník"
+  },
+  {
+    "id" : "animals84",
+    "word" : "kotě"
+  },
+  {
+    "id" : "animals85",
+    "word" : "ara"
+  },
+  {
+    "id" : "animals86",
+    "word" : "myš"
+  },
+  {
+    "id" : "animals87",
+    "word" : "štěně"
+  },
+  {
+    "id" : "animals88",
+    "word" : "králík"
+  },
+  {
+    "id" : "animals89",
+    "word" : "suchozemská želva"
+  }
+]

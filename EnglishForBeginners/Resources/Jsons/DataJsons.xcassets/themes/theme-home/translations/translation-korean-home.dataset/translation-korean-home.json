@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "home0",
+    "word" : "욕조"
+  },
+  {
+    "id" : "home1",
+    "word" : "빗"
+  },
+  {
+    "id" : "home2",
+    "word" : "수전"
+  },
+  {
+    "id" : "home3",
+    "word" : "매트"
+  },
+  {
+    "id" : "home4",
+    "word" : "거울"
+  },
+  {
+    "id" : "home5",
+    "word" : "플러그"
+  },
+  {
+    "id" : "home6",
+    "word" : "샴푸"
+  },
+  {
+    "id" : "home7",
+    "word" : "샤워 젤"
+  },
+  {
+    "id" : "home8",
+    "word" : "샤워"
+  },
+  {
+    "id" : "home9",
+    "word" : "비누"
+  },
+  {
+    "id" : "home10",
+    "word" : "칫솔"
+  },
+  {
+    "id" : "home11",
+    "word" : "치약"
+  },
+  {
+    "id" : "home12",
+    "word" : "수건 걸이"
+  },
+  {
+    "id" : "home13",
+    "word" : "수건"
+  },
+  {
+    "id" : "home14",
+    "word" : "세면대"
+  },
+  {
+    "id" : "home15",
+    "word" : "그릇"
+  },
+  {
+    "id" : "home16",
+    "word" : "버터 나이프"
+  },
+  {
+    "id" : "home17",
+    "word" : "젓가락"
+  },
+  {
+    "id" : "home18",
+    "word" : "컵"
+  },
+  {
+    "id" : "home19",
+    "word" : "병 장식"
+  },
+  {
+    "id" : "home20",
+    "word" : "냅킨"
+  },
+  {
+    "id" : "home21",
+    "word" : "포크"
+  },
+  {
+    "id" : "home22",
+    "word" : "유리잔"
+  },
+  {
+    "id" : "home23",
+    "word" : "저그"
+  },
+  {
+    "id" : "home24",
+    "word" : "칼"
+  },
+  {
+    "id" : "home25",
+    "word" : "머그잔"
+  },
+  {
+    "id" : "home26",
+    "word" : "접시"
+  },
+  {
+    "id" : "home27",
+    "word" : "소금통"
+  },
+  {
+    "id" : "home28",
+    "word" : "커피잔 받침"
+  },
+  {
+    "id" : "home29",
+    "word" : "숟가락"
+  },
+  {
+    "id" : "home30",
+    "word" : "안락의자"
+  },
+  {
+    "id" : "home31",
+    "word" : "침대"
+  },
+  {
+    "id" : "home32",
+    "word" : "책꽂이"
+  },
+  {
+    "id" : "home33",
+    "word" : "의자"
+  },
+  {
+    "id" : "home34",
+    "word" : "시계"
+  },
+  {
+    "id" : "home35",
+    "word" : "아기 침대"
+  },
+  {
+    "id" : "home36",
+    "word" : "커튼"
+  },
+  {
+    "id" : "home37",
+    "word" : "쿠션"
+  },
+  {
+    "id" : "home38",
+    "word" : "벽난로"
+  },
+  {
+    "id" : "home39",
+    "word" : "램프 갓"
+  },
+  {
+    "id" : "home40",
+    "word" : "러그"
+  },
+  {
+    "id" : "home41",
+    "word" : "쇼파"
+  },
+  {
+    "id" : "home42",
+    "word" : "발판"
+  },
+  {
+    "id" : "home43",
+    "word" : "텔레비전"
+  },
+  {
+    "id" : "home44",
+    "word" : "옷장"
+  },
+  {
+    "id" : "home45",
+    "word" : "새 물통"
+  },
+  {
+    "id" : "home46",
+    "word" : "양동이"
+  },
+  {
+    "id" : "home47",
+    "word" : "굴뚝"
+  },
+  {
+    "id" : "home48",
+    "word" : "문"
+  },
+  {
+    "id" : "home49",
+    "word" : "땅의 요정"
+  },
+  {
+    "id" : "home50",
+    "word" : "우편함"
+  },
+  {
+    "id" : "home51",
+    "word" : "길"
+  },
+  {
+    "id" : "home52",
+    "word" : "현관"
+  },
+  {
+    "id" : "home53",
+    "word" : "지붕"
+  },
+  {
+    "id" : "home54",
+    "word" : "스프링클러"
+  },
+  {
+    "id" : "home55",
+    "word" : "계단"
+  },
+  {
+    "id" : "home56",
+    "word" : "수도꼭지"
+  },
+  {
+    "id" : "home57",
+    "word" : "베란다"
+  },
+  {
+    "id" : "home58",
+    "word" : "물 탱크"
+  },
+  {
+    "id" : "home59",
+    "word" : "창문"
+  },
+  {
+    "id" : "home60",
+    "word" : "앞치마"
+  },
+  {
+    "id" : "home61",
+    "word" : "병"
+  },
+  {
+    "id" : "home62",
+    "word" : "오지그릇"
+  },
+  {
+    "id" : "home63",
+    "word" : "세제"
+  },
+  {
+    "id" : "home64",
+    "word" : "전기 주전자"
+  },
+  {
+    "id" : "home65",
+    "word" : "팬"
+  },
+  {
+    "id" : "home66",
+    "word" : "냄비"
+  },
+  {
+    "id" : "home67",
+    "word" : "냉장고"
+  },
+  {
+    "id" : "home68",
+    "word" : "밀대"
+  },
+  {
+    "id" : "home69",
+    "word" : "싱크대"
+  },
+  {
+    "id" : "home70",
+    "word" : "스토브"
+  },
+  {
+    "id" : "home71",
+    "word" : "식탁보"
+  },
+  {
+    "id" : "home72",
+    "word" : "마른 행주"
+  },
+  {
+    "id" : "home73",
+    "word" : "차 주전자"
+  },
+  {
+    "id" : "home74",
+    "word" : "볶음용 팬"
+  },
+  {
+    "id" : "home75",
+    "word" : "알루미늄"
+  },
+  {
+    "id" : "home76",
+    "word" : "벽돌"
+  },
+  {
+    "id" : "home77",
+    "word" : "판지"
+  },
+  {
+    "id" : "home78",
+    "word" : "세라믹"
+  },
+  {
+    "id" : "home79",
+    "word" : "콘크리트"
+  },
+  {
+    "id" : "home80",
+    "word" : "면"
+  },
+  {
+    "id" : "home81",
+    "word" : "유리"
+  },
+  {
+    "id" : "home82",
+    "word" : "종이"
+  },
+  {
+    "id" : "home83",
+    "word" : "플라스틱"
+  },
+  {
+    "id" : "home84",
+    "word" : "고무"
+  },
+  {
+    "id" : "home85",
+    "word" : "모래"
+  },
+  {
+    "id" : "home86",
+    "word" : "강철"
+  },
+  {
+    "id" : "home87",
+    "word" : "돌"
+  },
+  {
+    "id" : "home88",
+    "word" : "나무"
+  },
+  {
+    "id" : "home89",
+    "word" : "양모"
+  }
+]

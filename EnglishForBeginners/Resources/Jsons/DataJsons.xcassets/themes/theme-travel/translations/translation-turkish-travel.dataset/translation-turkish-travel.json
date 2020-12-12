@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "havalimanı"
+  },
+  {
+    "id" : "travel1",
+    "word" : "koridor"
+  },
+  {
+    "id" : "travel2",
+    "word" : "bagaj"
+  },
+  {
+    "id" : "travel3",
+    "word" : "gümrük"
+  },
+  {
+    "id" : "travel4",
+    "word" : "yürüyen merdiven"
+  },
+  {
+    "id" : "travel5",
+    "word" : "uçuş görevlisi"
+  },
+  {
+    "id" : "travel6",
+    "word" : "el bagajı"
+  },
+  {
+    "id" : "travel7",
+    "word" : "uçuş yemeği"
+  },
+  {
+    "id" : "travel8",
+    "word" : "pasaport"
+  },
+  {
+    "id" : "travel9",
+    "word" : "pilot"
+  },
+  {
+    "id" : "travel10",
+    "word" : "uçak"
+  },
+  {
+    "id" : "travel11",
+    "word" : "koşu yolu"
+  },
+  {
+    "id" : "travel12",
+    "word" : "yürüyen kaldırım"
+  },
+  {
+    "id" : "travel13",
+    "word" : "tepsi"
+  },
+  {
+    "id" : "travel14",
+    "word" : "pencere"
+  },
+  {
+    "id" : "travel15",
+    "word" : "baht"
+  },
+  {
+    "id" : "travel16",
+    "word" : "dolar"
+  },
+  {
+    "id" : "travel17",
+    "word" : "euro"
+  },
+  {
+    "id" : "travel18",
+    "word" : "pezo"
+  },
+  {
+    "id" : "travel19",
+    "word" : "pound"
+  },
+  {
+    "id" : "travel20",
+    "word" : "rand"
+  },
+  {
+    "id" : "travel21",
+    "word" : "real"
+  },
+  {
+    "id" : "travel22",
+    "word" : "ruble"
+  },
+  {
+    "id" : "travel23",
+    "word" : "rupi"
+  },
+  {
+    "id" : "travel24",
+    "word" : "rupiahı"
+  },
+  {
+    "id" : "travel25",
+    "word" : "şekel"
+  },
+  {
+    "id" : "travel26",
+    "word" : "isviçre frangı"
+  },
+  {
+    "id" : "travel27",
+    "word" : "won"
+  },
+  {
+    "id" : "travel28",
+    "word" : "yen"
+  },
+  {
+    "id" : "travel29",
+    "word" : "yuan"
+  },
+  {
+    "id" : "travel30",
+    "word" : "amsterdam"
+  },
+  {
+    "id" : "travel31",
+    "word" : "atina"
+  },
+  {
+    "id" : "travel32",
+    "word" : "kahire"
+  },
+  {
+    "id" : "travel33",
+    "word" : "edinburg"
+  },
+  {
+    "id" : "travel34",
+    "word" : "Kong Kong"
+  },
+  {
+    "id" : "travel35",
+    "word" : "istanbul"
+  },
+  {
+    "id" : "travel36",
+    "word" : "kudüs"
+  },
+  {
+    "id" : "travel37",
+    "word" : "londra"
+  },
+  {
+    "id" : "travel38",
+    "word" : "moskova"
+  },
+  {
+    "id" : "travel39",
+    "word" : "new York"
+  },
+  {
+    "id" : "travel40",
+    "word" : "paris"
+  },
+  {
+    "id" : "travel41",
+    "word" : "Rio de Janeiro"
+  },
+  {
+    "id" : "travel42",
+    "word" : "roma"
+  },
+  {
+    "id" : "travel43",
+    "word" : "San Francisco"
+  },
+  {
+    "id" : "travel44",
+    "word" : "sidney"
+  },
+  {
+    "id" : "travel45",
+    "word" : "agra"
+  },
+  {
+    "id" : "travel46",
+    "word" : "pekin"
+  },
+  {
+    "id" : "travel47",
+    "word" : "berlin"
+  },
+  {
+    "id" : "travel48",
+    "word" : "budapeşte"
+  },
+  {
+    "id" : "travel49",
+    "word" : "capetown"
+  },
+  {
+    "id" : "travel50",
+    "word" : "kopenhag"
+  },
+  {
+    "id" : "travel51",
+    "word" : "dubai"
+  },
+  {
+    "id" : "travel52",
+    "word" : "hollywood"
+  },
+  {
+    "id" : "travel53",
+    "word" : "Kuala Lumpur"
+  },
+  {
+    "id" : "travel54",
+    "word" : "mekke"
+  },
+  {
+    "id" : "travel55",
+    "word" : "Singapur"
+  },
+  {
+    "id" : "travel56",
+    "word" : "St Peterburg"
+  },
+  {
+    "id" : "travel57",
+    "word" : "tokyo"
+  },
+  {
+    "id" : "travel58",
+    "word" : "venedik"
+  },
+  {
+    "id" : "travel59",
+    "word" : "yangon"
+  },
+  {
+    "id" : "travel60",
+    "word" : "bell boy"
+  },
+  {
+    "id" : "travel61",
+    "word" : "ranzalar"
+  },
+  {
+    "id" : "travel62",
+    "word" : "asansör"
+  },
+  {
+    "id" : "travel63",
+    "word" : "ebeveyn"
+  },
+  {
+    "id" : "travel64",
+    "word" : "giriş salonu"
+  },
+  {
+    "id" : "travel65",
+    "word" : "jakuzi"
+  },
+  {
+    "id" : "travel66",
+    "word" : "havuz"
+  },
+  {
+    "id" : "travel67",
+    "word" : "resepsiyon"
+  },
+  {
+    "id" : "travel68",
+    "word" : "oda anahtarı"
+  },
+  {
+    "id" : "travel69",
+    "word" : "oda numarası"
+  },
+  {
+    "id" : "travel70",
+    "word" : "oda servisi"
+  },
+  {
+    "id" : "travel71",
+    "word" : "kasa"
+  },
+  {
+    "id" : "travel72",
+    "word" : "bavul"
+  },
+  {
+    "id" : "travel73",
+    "word" : "vale"
+  },
+  {
+    "id" : "travel74",
+    "word" : "manzara"
+  },
+  {
+    "id" : "travel75",
+    "word" : "Angkor Wat"
+  },
+  {
+    "id" : "travel76",
+    "word" : "Big Ben"
+  },
+  {
+    "id" : "travel77",
+    "word" : "Sultanahmet Camii"
+  },
+  {
+    "id" : "travel78",
+    "word" : "kolezyum"
+  },
+  {
+    "id" : "travel79",
+    "word" : "Eyfel Kulesi"
+  },
+  {
+    "id" : "travel80",
+    "word" : "Büyük Kanyon"
+  },
+  {
+    "id" : "travel81",
+    "word" : "çin Seddi"
+  },
+  {
+    "id" : "travel82",
+    "word" : "küçük Deniz Kızı"
+  },
+  {
+    "id" : "travel83",
+    "word" : "Londra Köprüsü"
+  },
+  {
+    "id" : "travel84",
+    "word" : "louvre"
+  },
+  {
+    "id" : "travel85",
+    "word" : "Machu Picchu"
+  },
+  {
+    "id" : "travel86",
+    "word" : "petra"
+  },
+  {
+    "id" : "travel87",
+    "word" : "piramitler"
+  },
+  {
+    "id" : "travel88",
+    "word" : "sfenks"
+  },
+  {
+    "id" : "travel89",
+    "word" : "Time Meydanı"
+  }
+]

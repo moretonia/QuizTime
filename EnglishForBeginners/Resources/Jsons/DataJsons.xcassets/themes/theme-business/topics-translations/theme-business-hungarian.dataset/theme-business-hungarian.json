@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "Üzlet I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "Üzlet II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "Üzlet III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "Gyűjtemények"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "Bevásárlás"
+  },
+  {
+    "id" : "Shops",
+    "word" : "Üzletek"
+  }
+]

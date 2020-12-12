@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "galerie umění"
+  },
+  {
+    "id" : "school1",
+    "word" : "štětec"
+  },
+  {
+    "id" : "school2",
+    "word" : "uhlí"
+  },
+  {
+    "id" : "school3",
+    "word" : "stojan"
+  },
+  {
+    "id" : "school4",
+    "word" : "krajina"
+  },
+  {
+    "id" : "school5",
+    "word" : "nástěnná malba"
+  },
+  {
+    "id" : "school6",
+    "word" : "olejomalba"
+  },
+  {
+    "id" : "school7",
+    "word" : "paleta"
+  },
+  {
+    "id" : "school8",
+    "word" : "petroglyf"
+  },
+  {
+    "id" : "school9",
+    "word" : "fotky"
+  },
+  {
+    "id" : "school10",
+    "word" : "portrét"
+  },
+  {
+    "id" : "school11",
+    "word" : "socha"
+  },
+  {
+    "id" : "school12",
+    "word" : "skica"
+  },
+  {
+    "id" : "school13",
+    "word" : "zátiší"
+  },
+  {
+    "id" : "school14",
+    "word" : "malba vodní plochy"
+  },
+  {
+    "id" : "school15",
+    "word" : "akordeon"
+  },
+  {
+    "id" : "school16",
+    "word" : "bendžo"
+  },
+  {
+    "id" : "school17",
+    "word" : "lesní roh"
+  },
+  {
+    "id" : "school18",
+    "word" : "činely"
+  },
+  {
+    "id" : "school19",
+    "word" : "kontrabas"
+  },
+  {
+    "id" : "school20",
+    "word" : "bicí"
+  },
+  {
+    "id" : "school21",
+    "word" : "flétna"
+  },
+  {
+    "id" : "school22",
+    "word" : "kytara"
+  },
+  {
+    "id" : "school23",
+    "word" : "harmonika"
+  },
+  {
+    "id" : "school24",
+    "word" : "varhany"
+  },
+  {
+    "id" : "school25",
+    "word" : "klavír"
+  },
+  {
+    "id" : "school26",
+    "word" : "syntetizér"
+  },
+  {
+    "id" : "school27",
+    "word" : "pozoun"
+  },
+  {
+    "id" : "school28",
+    "word" : "trubka"
+  },
+  {
+    "id" : "school29",
+    "word" : "housle"
+  },
+  {
+    "id" : "school30",
+    "word" : "shromáždění"
+  },
+  {
+    "id" : "school31",
+    "word" : "Černá tabule"
+  },
+  {
+    "id" : "school32",
+    "word" : "jídelna"
+  },
+  {
+    "id" : "school33",
+    "word" : "třída"
+  },
+  {
+    "id" : "school34",
+    "word" : "učebna"
+  },
+  {
+    "id" : "school35",
+    "word" : "lavice"
+  },
+  {
+    "id" : "school36",
+    "word" : "globus"
+  },
+  {
+    "id" : "school37",
+    "word" : "tělocvična"
+  },
+  {
+    "id" : "school38",
+    "word" : "laboratoř"
+  },
+  {
+    "id" : "school39",
+    "word" : "krabička na oběd"
+  },
+  {
+    "id" : "school40",
+    "word" : "absolventská čepice"
+  },
+  {
+    "id" : "school41",
+    "word" : "hřiště"
+  },
+  {
+    "id" : "school42",
+    "word" : "školní kravata"
+  },
+  {
+    "id" : "school43",
+    "word" : "učebnice"
+  },
+  {
+    "id" : "school44",
+    "word" : "tabule"
+  },
+  {
+    "id" : "school45",
+    "word" : "výtvarná výchova"
+  },
+  {
+    "id" : "school46",
+    "word" : "biologie"
+  },
+  {
+    "id" : "school47",
+    "word" : "chemie"
+  },
+  {
+    "id" : "school48",
+    "word" : "tanec"
+  },
+  {
+    "id" : "school49",
+    "word" : "angličtina"
+  },
+  {
+    "id" : "school50",
+    "word" : "test"
+  },
+  {
+    "id" : "school51",
+    "word" : "zkouška"
+  },
+  {
+    "id" : "school52",
+    "word" : "tělesná výchova"
+  },
+  {
+    "id" : "school53",
+    "word" : "francouzština"
+  },
+  {
+    "id" : "school54",
+    "word" : "zeměpis"
+  },
+  {
+    "id" : "school55",
+    "word" : "geometrie"
+  },
+  {
+    "id" : "school56",
+    "word" : "matematika"
+  },
+  {
+    "id" : "school57",
+    "word" : "fyzika"
+  },
+  {
+    "id" : "school58",
+    "word" : "robotika"
+  },
+  {
+    "id" : "school59",
+    "word" : "učení"
+  },
+  {
+    "id" : "school60",
+    "word" : "kalkulačka"
+  },
+  {
+    "id" : "school61",
+    "word" : "kompas"
+  },
+  {
+    "id" : "school62",
+    "word" : "pastelka"
+  },
+  {
+    "id" : "school63",
+    "word" : "obálka"
+  },
+  {
+    "id" : "school64",
+    "word" : "guma"
+  },
+  {
+    "id" : "school65",
+    "word" : "sešit"
+  },
+  {
+    "id" : "school66",
+    "word" : "kancelářská svorka"
+  },
+  {
+    "id" : "school67",
+    "word" : "pero"
+  },
+  {
+    "id" : "school68",
+    "word" : "tužka"
+  },
+  {
+    "id" : "school69",
+    "word" : "tisk"
+  },
+  {
+    "id" : "school70",
+    "word" : "úhloměr"
+  },
+  {
+    "id" : "school71",
+    "word" : "pravítko"
+  },
+  {
+    "id" : "school72",
+    "word" : "sešívačka"
+  },
+  {
+    "id" : "school73",
+    "word" : "stylus"
+  },
+  {
+    "id" : "school74",
+    "word" : "tablet"
+  },
+  {
+    "id" : "school75",
+    "word" : "abeceda"
+  },
+  {
+    "id" : "school76",
+    "word" : "kniha"
+  },
+  {
+    "id" : "school77",
+    "word" : "kaligrafie"
+  },
+  {
+    "id" : "school78",
+    "word" : "slovník"
+  },
+  {
+    "id" : "school79",
+    "word" : "ekniha"
+  },
+  {
+    "id" : "school80",
+    "word" : "rukopis"
+  },
+  {
+    "id" : "school81",
+    "word" : "index"
+  },
+  {
+    "id" : "school82",
+    "word" : "časopisy"
+  },
+  {
+    "id" : "school83",
+    "word" : "hudba"
+  },
+  {
+    "id" : "school84",
+    "word" : "noviny"
+  },
+  {
+    "id" : "school85",
+    "word" : "plánovač"
+  },
+  {
+    "id" : "school86",
+    "word" : "skladatel"
+  },
+  {
+    "id" : "school87",
+    "word" : "poznámkové papírky"
+  },
+  {
+    "id" : "school88",
+    "word" : "sudoku"
+  },
+  {
+    "id" : "school89",
+    "word" : "psaní"
+  }
+]

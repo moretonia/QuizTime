@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "Giyinme"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "Cazibe"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "Erkek Eşyaları"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "Spor Giyim"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "Kadın Kıyafetleri"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "Kadın Eşyaları"
+  }
+]

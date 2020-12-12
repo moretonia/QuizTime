@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "กางเกงว่ายน้ำขาสั้น"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "เสื้อคลุม"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "ชุดกระโปรง"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "ถุงมือ"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "เสื้อแจ็คเก็ต"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "กางเกงยีนส์"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "เสื้อยืดแขนยาว"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "เสื้อกางเกงนอน"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "เสื้อเชิ้ต"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "รองเท้า"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "กระโปรง"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "กางเกงสแล็ค"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "แว่นกันแดด"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "เสื้อยืด"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "เครื่องแบบ"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "ชุดเดรสเปลือยหลัง"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "บิกินี่"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "ชุดกระโปรงดำ"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "ชุดราตรี"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "ชุดระบำฟลาเมงโก"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "ชุดคล้องคอ"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "ชุดว่ายน้ำชิ้นเดียว"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "ชุดส่าหรี"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "ชุดเดรสเกาะอก"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "เสื้อลายแถบ"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "ชุดเสื้อผ้า"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "ชุดกระโปรงใส่สบาย"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "ชุดตอกา"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "ชุดประจำชาติ"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "ชุดแต่งงาน"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "โลชั่นทาหลังโกนหนวด"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "เข็มขัด"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "หูกระต่าย"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "กางเกงชั้นใน (ชาย)"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "กระดุมข้อมือเสื้อ"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "เสื้อเดร๊สเชิ้ต"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "รองเท้าหนังหุ้มส้น"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "รองเท้าวิ่ง"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "เนคไท"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "เครื่องโกนหนวด"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "แปรงโกนหนวด"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "แตะ"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "ถุงเท้า"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "ชุดสูท"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "กางเกงขายาว"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "หมวกไหมพรม"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "รองเท้าบูท"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "หมวกกันน็อค"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "รองเท้าสเก็ตน้ำแข็ง"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "เสื้อรัดรูป"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "ชุดรัดรูป"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "เสื้อโปโล"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "กางเกงขาสั้น"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "ชุดสกี"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "นาฬิกาอัจฉริยะ"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "สปอร์ตบรา"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "ชุดว่ายน้ำ"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "ชุดวอร์มกีฬา"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "ชุดหนัง"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "สายรัดข้อมือ"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "เสื้อครึ่งตัว"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "ยกทรง"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "เสื้อคลุมแขนยาว"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "สร้อยติดรอบคอ"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "เข็มขัดแฟชั่น"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "หมวก"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "รองเท้าส้นสูง"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "ชุดสวมแขนขายาว"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "ชุดกิโมโน"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "กางเกงชั้นใน (หญิง)"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "รองเท้าแตะ"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "ผ้าคลุมไหล่"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "ผ้าพันคอไหม"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "ถุงน่อง"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "ซิป"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "กำไล"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "แหวนประดับพลอย"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "ต่างหู"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "กระเป๋าถือ"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "พวงกุญแจ"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "ลิปสติก"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "มาสคาร่า"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "ที่ตะไบเล็บ"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "สร้อยคอ"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "น้ำหอม"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "กระเป๋าใส่เงิน"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "โทรศัพท์สมาร์ทโฟน"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "กระดาษทิชชู่"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "กระเป๋าสตางค์"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "นาฬิกาข้อมือ"
+  }
+]

@@ -1,0 +1,542 @@
+[
+ {
+   "id": "travel0",
+   "word": "airport",
+   "transcription": "ˈɛrˌpɔrt",
+   "imageName": "travel-airport"
+ },
+ {
+   "id": "travel1",
+   "word": "aisle",
+   "transcription": "ˈaɪəl",
+   "imageName": "travel-aisle"
+ },
+ {
+   "id": "travel2",
+   "word": "baggage",
+   "transcription": "ˈbæɡɪdʒ",
+   "imageName": "travel-baggage"
+ },
+ {
+   "id": "travel3",
+   "word": "customs",
+   "transcription": "ˈkʌstəmz",
+   "imageName": "travel-customs"
+ },
+ {
+   "id": "travel4",
+   "word": "escalator",
+   "transcription": "ˈɛskəˌleɪtɚ",
+   "imageName": "travel-escalator"
+ },
+ {
+   "id": "travel5",
+   "word": "flight attendant",
+   "transcription": "ˈflaɪt əˈtɛndənt",
+   "imageName": "travel-flight attendant"
+ },
+ {
+   "id": "travel6",
+   "word": "hand luggage",
+   "transcription": "ˈhænd ˈlʌɡɪdʒ",
+   "imageName": "travel-hand luggage"
+ },
+ {
+   "id": "travel7",
+   "word": "inflight meal",
+   "transcription": "ˈɪnˈflaɪt ˈmiːl",
+   "imageName": "travel-inflight meal"
+ },
+ {
+   "id": "travel8",
+   "word": "passport",
+   "transcription": "ˈpæsˌpɔrt",
+   "imageName": "travel-passport"
+ },
+ {
+   "id": "travel9",
+   "word": "pilot",
+   "transcription": "ˈpaɪlət",
+   "imageName": "travel-pilot"
+ },
+ {
+   "id": "travel10",
+   "word": "plane",
+   "transcription": "ˈpleɪn",
+   "imageName": "travel-plane"
+ },
+ {
+   "id": "travel11",
+   "word": "runway",
+   "transcription": "ˈrʌnˌweɪ",
+   "imageName": "travel-runway"
+ },
+ {
+   "id": "travel12",
+   "word": "travelator",
+   "transcription": "ˈtrævəˌleɪtɚ",
+   "imageName": "travel-travelator"
+ },
+ {
+   "id": "travel13",
+   "word": "tray table",
+   "transcription": "ˈtreɪ ˈteɪbəl",
+   "imageName": "travel-tray table"
+ },
+ {
+   "id": "travel14",
+   "word": "window",
+   "transcription": "ˈwɪndoʊ",
+   "imageName": "travel-window"
+ },
+ {
+   "id": "travel15",
+   "word": "baht",
+   "transcription": "ˈbɑt",
+   "imageName": "travel-baht"
+ },
+ {
+   "id": "travel16",
+   "word": "dollar",
+   "transcription": "ˈdɑlɚ",
+   "imageName": "travel-dollar"
+ },
+ {
+   "id": "travel17",
+   "word": "euro",
+   "transcription": "ˈjʊroʊ",
+   "imageName": "travel-euro"
+ },
+ {
+   "id": "travel18",
+   "word": "peso",
+   "transcription": "ˈpeɪsoʊ",
+   "imageName": "travel-peso"
+ },
+ {
+   "id": "travel19",
+   "word": "pound",
+   "transcription": "ˈpaʊnd",
+   "imageName": "travel-pound"
+ },
+ {
+   "id": "travel20",
+   "word": "rand",
+   "transcription": "ˈrænd",
+   "imageName": "travel-rand"
+ },
+ {
+   "id": "travel21",
+   "word": "real",
+   "transcription": "ˈriːəl",
+   "imageName": "travel-real"
+ },
+ {
+   "id": "travel22",
+   "word": "rouble",
+   "transcription": "ˈruːbəl",
+   "imageName": "travel-rouble"
+ },
+ {
+   "id": "travel23",
+   "word": "rupee",
+   "transcription": "ruːˈpiː",
+   "imageName": "travel-rupee"
+ },
+ {
+   "id": "travel24",
+   "word": "rupiah",
+   "transcription": "ruːˈpiːə",
+   "imageName": "travel-rupiah"
+ },
+ {
+   "id": "travel25",
+   "word": "shekel",
+   "transcription": "ˈʃɛkəl",
+   "imageName": "travel-shekel"
+ },
+ {
+   "id": "travel26",
+   "word": "swiss franc",
+   "transcription": "ˈswɪs ˈfræŋk",
+   "imageName": "travel-swiss franc"
+ },
+ {
+   "id": "travel27",
+   "word": "won",
+   "transcription": "ˈwʌn",
+   "imageName": "travel-won"
+ },
+ {
+   "id": "travel28",
+   "word": "yen",
+   "transcription": "ˈjɛn",
+   "imageName": "travel-yen"
+ },
+ {
+   "id": "travel29",
+   "word": "yuan",
+   "transcription": "ˈjuːən",
+   "imageName": "travel-yuan"
+ },
+ {
+   "id": "travel30",
+   "word": "amsterdam",
+   "transcription": "ˈæmstɚˌdæm",
+   "imageName": "travel-amsterdam"
+ },
+ {
+   "id": "travel31",
+   "word": "athens",
+   "transcription": "ˈæθənz",
+   "imageName": "travel-athens"
+ },
+ {
+   "id": "travel32",
+   "word": "cairo",
+   "transcription": "ˈkaɪroʊ",
+   "imageName": "travel-cairo"
+ },
+ {
+   "id": "travel33",
+   "word": "edinburgh",
+   "transcription": "ˈɛdn̩ˌbɝrə",
+   "imageName": "travel-edinburgh"
+ },
+ {
+   "id": "travel34",
+   "word": "Hong Kong",
+   "transcription": "ˈhɑŋ ˈkɑŋ",
+   "imageName": "travel-hong kong"
+ },
+ {
+   "id": "travel35",
+   "word": "istanbul",
+   "transcription": "ˌɪstənˈbuːl",
+   "imageName": "travel-istanbul"
+ },
+ {
+   "id": "travel36",
+   "word": "jerusalem",
+   "transcription": "dʒɚˈruːsələm",
+   "imageName": "travel-jerusalem"
+ },
+ {
+   "id": "travel37",
+   "word": "london",
+   "transcription": "ˈlʌndən",
+   "imageName": "travel-london"
+ },
+ {
+   "id": "travel38",
+   "word": "moscow",
+   "transcription": "ˈmɑskoʊ",
+   "imageName": "travel-moscow"
+ },
+ {
+   "id": "travel39",
+   "word": "New York",
+   "transcription": "ˈnuː ˈjɔrk",
+   "imageName": "travel-new york"
+ },
+ {
+   "id": "travel40",
+   "word": "paris",
+   "transcription": "ˈpɛrəs",
+   "imageName": "travel-paris"
+ },
+ {
+   "id": "travel41",
+   "word": "Rio de Janeiro",
+   "transcription": "ˌriːəʊ də dʒəˈnɪərəʊ",
+   "imageName": "travel-rio de janeiro"
+ },
+ {
+   "id": "travel42",
+   "word": "rome",
+   "transcription": "ˈroʊm",
+   "imageName": "travel-rome"
+ },
+ {
+   "id": "travel43",
+   "word": "San Francisco",
+   "transcription": "ˌsæn frənˈsɪskoʊ",
+   "imageName": "travel-san francisco"
+ },
+ {
+   "id": "travel44",
+   "word": "sydney",
+   "transcription": "ˈsɪdnɪ",
+   "imageName": "travel-sydney"
+ },
+ {
+   "id": "travel45",
+   "word": "agra",
+   "transcription": "ˈɑɡrə",
+   "imageName": "travel-agra"
+ },
+ {
+   "id": "travel46",
+   "word": "beijing",
+   "transcription": "ˈbeɪˈdʒɪŋ",
+   "imageName": "travel-beijing"
+ },
+ {
+   "id": "travel47",
+   "word": "berlin",
+   "transcription": "bɚˈlɪn",
+   "imageName": "travel-berlin"
+ },
+ {
+   "id": "travel48",
+   "word": "budapest",
+   "transcription": "ˈbuːdəˌpɛst",
+   "imageName": "travel-budapest"
+ },
+ {
+   "id": "travel49",
+   "word": "capetown",
+   "transcription": "ˈkeɪp ˈtaʊn",
+   "imageName": "travel-capetown"
+ },
+ {
+   "id": "travel50",
+   "word": "copenhagen",
+   "transcription": "ˌkoʊpənˈheɪɡən",
+   "imageName": "travel-copenhagen"
+ },
+ {
+   "id": "travel51",
+   "word": "dubai",
+   "transcription": "duːˈbaɪ",
+   "imageName": "travel-dubai"
+ },
+ {
+   "id": "travel52",
+   "word": "hollywood",
+   "transcription": "ˈhɑliːˌwʊd",
+   "imageName": "travel-hollywood"
+ },
+ {
+   "id": "travel53",
+   "word": "Kuala Lumpur",
+   "transcription": "kwɑːləˈlʊmpɔ",
+   "imageName": "travel-kuala lumpur"
+ },
+ {
+   "id": "travel54",
+   "word": "mecca",
+   "transcription": "ˈmɛkə",
+   "imageName": "travel-mecca"
+ },
+ {
+   "id": "travel55",
+   "word": "singapore",
+   "transcription": "ˈsɪŋəˌpɔr",
+   "imageName": "travel-singapore"
+ },
+ {
+   "id": "travel56",
+   "word": "St Petersburg",
+   "transcription": "ˈseɪnt ˈpiːtɚzˌbɝɡ",
+   "imageName": "travel-st petersburg"
+ },
+ {
+   "id": "travel57",
+   "word": "tokyo",
+   "transcription": "ˈtoʊkiːˌoʊ",
+   "imageName": "travel-tokyo"
+ },
+ {
+   "id": "travel58",
+   "word": "venice",
+   "transcription": "ˈvɛnəs",
+   "imageName": "travel-venice"
+ },
+ {
+   "id": "travel59",
+   "word": "yangon",
+   "transcription": "ˌjɑŋˈɡoʊn",
+   "imageName": "travel-yangon"
+ },
+ {
+   "id": "travel60",
+   "word": "bell boy",
+   "transcription": "ˈbɛl ˈbɔɪ",
+   "imageName": "travel-bell boy"
+ },
+ {
+   "id": "travel61",
+   "word": "bunks",
+   "transcription": "ˈbʌŋks",
+   "imageName": "travel-bunks"
+ },
+ {
+   "id": "travel62",
+   "word": "elevator",
+   "transcription": "ˈɛləˌveɪtɚ",
+   "imageName": "travel-elevator"
+ },
+ {
+   "id": "travel63",
+   "word": "ensuite",
+   "transcription": "ˈɔn ˈswiːt",
+   "imageName": "travel-ensuite"
+ },
+ {
+   "id": "travel64",
+   "word": "foyer",
+   "transcription": "ˈfɔɪɚ",
+   "imageName": "travel-foyer"
+ },
+ {
+   "id": "travel65",
+   "word": "jacuzzi",
+   "transcription": "dʒəˈkuːzɪ",
+   "imageName": "travel-jacuzzi"
+ },
+ {
+   "id": "travel66",
+   "word": "pool",
+   "transcription": "ˈpuːl",
+   "imageName": "travel-pool"
+ },
+ {
+   "id": "travel67",
+   "word": "reception",
+   "transcription": "rɪˈsɛpʃən",
+   "imageName": "travel-reception"
+ },
+ {
+   "id": "travel68",
+   "word": "room key",
+   "transcription": "ˈruːm ˈkiː",
+   "imageName": "travel-room key"
+ },
+ {
+   "id": "travel69",
+   "word": "room number",
+   "transcription": "ˈruːm ˈnʌmbɚ",
+   "imageName": "travel-room number"
+ },
+ {
+   "id": "travel70",
+   "word": "room service",
+   "transcription": "ˈruːm ˈsɝvəs",
+   "imageName": "travel-room service"
+ },
+ {
+   "id": "travel71",
+   "word": "safe",
+   "transcription": "ˈseɪf",
+   "imageName": "travel-safe"
+ },
+ {
+   "id": "travel72",
+   "word": "suitcase",
+   "transcription": "ˈsuːtˌkeɪs",
+   "imageName": "travel-suitcase"
+ },
+ {
+   "id": "travel73",
+   "word": "valet",
+   "transcription": "ˈvæˌleɪ",
+   "imageName": "travel-valet"
+ },
+ {
+   "id": "travel74",
+   "word": "view",
+   "transcription": "ˈvjuː",
+   "imageName": "travel-view"
+ },
+ {
+   "id": "travel75",
+   "word": "Angkor Wat",
+   "transcription": "ˈæŋˌkɔr ˈwɑt",
+   "imageName": "travel-angkor wat"
+ },
+ {
+   "id": "travel76",
+   "word": "Big Ben",
+   "transcription": "ˈbɪɡ ˈbɛn",
+   "imageName": "travel-big ben"
+ },
+ {
+   "id": "travel77",
+   "word": "Blue Mosque",
+   "transcription": "ˈbluː ˈmɑsk",
+   "imageName": "travel-blue mosque"
+ },
+ {
+   "id": "travel78",
+   "word": "colosseum",
+   "transcription": "ˌkɑləˈsiːəm",
+   "imageName": "travel-colosseum"
+ },
+ {
+   "id": "travel79",
+   "word": "Eiffel Tower",
+   "transcription": "ˈaɪfəl ˈtaʊɚ",
+   "imageName": "travel-eiffel tower"
+ },
+ {
+   "id": "travel80",
+   "word": "Grand Canyon",
+   "transcription": "ˈɡrænd ˈkænjən",
+   "imageName": "travel-grand canyon"
+ },
+ {
+   "id": "travel81",
+   "word": "Great Wall",
+   "transcription": "ˈɡreɪt ˈwɔl",
+   "imageName": "travel-great wall"
+ },
+ {
+   "id": "travel82",
+   "word": "Little Mermaid",
+   "transcription": "ˈlɪtl̩ ˈmɝˌmeɪd",
+   "imageName": "travel-little mermaid"
+ },
+ {
+   "id": "travel83",
+   "word": "London Bridge",
+   "transcription": "ˈlʌndən ˈbrɪdʒ",
+   "imageName": "travel-london bridge"
+ },
+ {
+   "id": "travel84",
+   "word": "louvre",
+   "transcription": "ˈluːvɚ",
+   "imageName": "travel-louvre"
+ },
+ {
+   "id": "travel85",
+   "word": "Machu Picchu",
+   "transcription": "ˌmɑːtʃuː ˈpiːtʃuː",
+   "imageName": "travel-machu picchu"
+ },
+ {
+   "id": "travel86",
+   "word": "petra",
+   "transcription": "ˈpiːtrə",
+   "imageName": "travel-petra"
+ },
+ {
+   "id": "travel87",
+   "word": "pyramids",
+   "transcription": "ˈpɪrəˌmɪdz",
+   "imageName": "travel-pyramids"
+ },
+ {
+   "id": "travel88",
+   "word": "sphinx",
+   "transcription": "ˈsfɪŋks",
+   "imageName": "travel-sphinx"
+ },
+ {
+   "id": "travel89",
+   "word": "Times Square",
+   "transcription": "ˈtaɪmz ˈskwɛr",
+   "imageName": "travel-times square"
+ }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Air Travel",
+    "word" : "Călătorii aeriene"
+  },
+  {
+    "id" : "Currency",
+    "word" : "Valută"
+  },
+  {
+    "id" : "Famous Cities",
+    "word" : "Orașe celebre"
+  },
+  {
+    "id" : "Famous Cities II",
+    "word" : "Orașe celebre II"
+  },
+  {
+    "id" : "Hotel",
+    "word" : "Hotel"
+  },
+  {
+    "id" : "Tourist Sights",
+    "word" : "Atracții turistice"
+  }
+]

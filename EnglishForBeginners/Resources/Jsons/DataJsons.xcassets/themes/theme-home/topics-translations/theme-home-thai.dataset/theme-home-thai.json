@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "ห้องน้ำ"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "ห้องกินข้าว"
+  },
+  {
+    "id" : "Home",
+    "word" : "ในบ้าน"
+  },
+  {
+    "id" : "House",
+    "word" : "นอกบ้าน"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "ห้องครัว"
+  },
+  {
+    "id" : "Materials",
+    "word" : "วัสดุ"
+  }
+]

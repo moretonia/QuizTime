@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "Baie"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "Sufragerie"
+  },
+  {
+    "id" : "Home",
+    "word" : "Casă"
+  },
+  {
+    "id" : "House",
+    "word" : "Casă"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "Cuhnie"
+  },
+  {
+    "id" : "Materials",
+    "word" : "Materiale"
+  }
+]

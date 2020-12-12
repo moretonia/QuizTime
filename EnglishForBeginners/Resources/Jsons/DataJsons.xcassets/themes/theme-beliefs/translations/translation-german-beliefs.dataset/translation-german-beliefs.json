@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "das Almosen"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "die Kommunion"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "die Einäscherung"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "der Abschluss"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "der Haddsch"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "der Weihrauch"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "die Kava-Zeremonie"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "die Laterne"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "die Eröffnung"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "beten"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "der Rote Teppich"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "die Rente"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "der Royal Salute"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "das Songkran-Fest"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "die Teezeremonie"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "die Kerze"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "die Weihnachtskarte"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "der Weihnachtsbaum"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "der Wichtel"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "der Lebkuchen"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "die Stechpalme"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "die Geburt Christi"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "die Geschenke"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "der Pudding"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "das Rentier"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "der Weihnachtsmann"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "der Schlitten"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "der Schneemann"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "der Strumpf"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "der Truthahn"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "der Altar"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "die Apsis"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "die Taufe"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "das Kreuz"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "die Bibel"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "der Kelch"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "der Chor"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "die Gemeinde"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "die Beerdigung"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "der Friedhof"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "die Bankreihe"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "der Prediger"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "Kanzel"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "der Kirchturm"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "die Hochzeit"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "die Eicheln"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "der Bernstein"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "der Klee"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "die Daumen drücken"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "der Kristall"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "der Delfin"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "das Feng Shui"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "das Hufeisen"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "das Heinzelmännchen"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "der Glücksbambus"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "die Glückskatze"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "die Meteore"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "der Regenbogen"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "der Skarabäus"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "die Wünschelrute"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "der Buddha"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "die Kathedrale"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "Konfuzius"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "der Imam"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "Jesus"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "das Kloster"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "der Mönch"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "die Moschee"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "die Nonne"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "der Priester"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "der Rabbi"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "der Schintoismus"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "der Sikh"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "die Synagoge"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "der Taoismus"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "der Wassermann"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "der Widder"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "der Krebs"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "der Steinbock"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "die Glaskugel"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "die Zwillinge"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "das Horoskop"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "der Löwe"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "die Waage"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "die Fische"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "der Schütze"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "der Skorpion"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "die Tarotkarten"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "der Stier"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "die Jungfrau"
+  }
+]

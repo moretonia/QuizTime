@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "Temalar";
+"3-themes" = "3 Tema";
+"6-topics" = "6 Konu";
+"90-words" = "90 Sözcük";
+"words" = "Sözcükler";
+"view" = "Görüntüle";
+"main-buy-button" = "Satın Al";
+
+// Topics
+"matching" = "Eşleşen";
+"translation" = "Çeviri";
+"pronunciation" = "Telaffuz";
+"spelling" = "Yazım";
+"dictionary" = "Sözlük";
+"buy-theme" = "Temayı Al";
+"locked" = "kilitli";
+
+// Quiz
+"some-theme-quiz" = "%@\nTema Quizi";
+"collect-stars-to-unlock" = "Quizi açmak için %d yıldız toplayın";
+"can-start-quiz" = "Quize başlayabilirsiniz";
+"quiz" = "Quiz";
+"pass-quiz-again" = "Quizi tekrar geçin ve daha fazla deneyim elde edin";
+"repeat" = "Tekrarla";
+
+// Match Level
+"match" = "Eşleştir";
+"verify" = "Doğrula";
+
+// Translate level
+"translate" = "Çevir";
+"wrong" = "Yanlış";
+"next" = "Sonraki";
+
+// Spelling level
+"spell" = "İmla";
+"english-translation" = "İngilizce çeviri";
+
+// Listen & Say level
+"listen-and-say" = "Dinleyin & Söyleyin";
+"try-again" = "Lütfen tekrar deneyin";
+
+// Alerts
+"warning" = "Uyarı";
+"progress-lost" = "Bu seviyeyi kapatmak istiyor musunuz? Tüm ilerleme silinir";
+"cancel" = "Vazgeç";
+"close" = "Kapat";
+"quiz-fail" = "Maalesef quizi geçemediniz";
+"not-pass-level" = "Maalesef seviyeyi geçemediniz";
+"back-to-theme" = "Temaya geri dön";
+"retry" = "Tekrar dene";
+
+// Profile
+/*"profile" = "Profil";
+"experience" = "Deneyim";
+"skills" = "Yetenekler";
+"next-level" = "Sıradaki: %d";
+
+// Ranks
+"beginner" = "Yeni başlayan";
+"pupil" = "Çırak";
+"student" = "Öğrenci";
+"connoisseur" = "Usta";
+"outstanding" = "Üstün";
+"specialist" = "Uzman";
+"pro" = "Pro";
+"master" = "Efendi";
+"magister" = "Yönetici";
+"guru" = "Guru";
+"sage" = "Bilge";
+"enlightened" = "Aydınlanmış";
+"oracle" = "Kahin";
+"genius" = "Dahi";
+"higher-mind" = "Yüksek akıl";
+"supermind" = "Süper Zeka";
+
+// Profile
+"leaderboard" = "Lider tablosu";
+"restore-purchases" = "Alımları geri getir";
+"rate-us" = "Bizi değerlendirin";
+"share" = "Paylaş";
+"change-language" = "Dili Değiştir";
+"about-us" = "Hakkımızda";*/
+
+// Sharing
+"experience-and-rank-share" = "Quiz Time’de %d deneyimim var ve şuanki rütbem “%@”.";
+"new-rank-share" = "Quiz Time’de “%@” rütbesine ulaştım! Siz de deneyin!";
+"experience-share" = "Quiz Time’de %d deneyim kazandım. İngilizcem her geçen gün iyiye gidiyor!";
+"1-star-share" = "1 yıldız ve %d deneyim kazandım. Quiz Time uygulaması sayesinde zevkle İngilizce çalışıyorum.";
+"2-stars-share" = "Quiz Time’de 2 yıldız ve %d deneyim kazandım. Beni geçmeye çalışın!";
+"3-stars-share" = "Quiz Time’de 3 yıldız ve %d deneyim kazandım. İngilizcem her geçen gün iyiye gidiyor!";
+
+// Language
+/*"my-language" = "Anadilim";
+"ok" = "TAMAM";
+
+// Congratulations
+"congratulations" = "Tebrikler!";
+"xp" = "+%d xp";
+"new-rank" = "Yeni rütbe";*/
+
+// About us
+"about-us-title" = "Hakkımızda";
+"model-english-mission" = "Quiz Time uygulaması kelime dağarcığınızı geliştirecek, oyun formunda telaffuz ve yazımın geliştirilmesine yardımcı olacaktır.";
+"app-structure" = "Uygulamadaki kelimeler temalara ayrılmıştır. Her tema 6 konudan ve bir sınavdan oluşmaktadır. Her bir konu 15 kelimeden oluşan bir sözlük  _  içerir.";
+"about-mechanics-description" = "Farklı oyun mekaniklerinin benzersiz kombinasyonu, kelimeleri hızlı ve verimli bir şekilde yönetmenize yardımcı olacak:";
+"matching" = "Eşleştirme";
+"about-mechanics-matching-description" = "Bu seviyede kelime için doğru görüntüyü seçmeniz gerekir";
+"translation" = "Çeviri";
+"about-mechanics-translator-description" = "Kelimenin doğru çevirisini seçin";
+"pronunciation" = "Telaffuz";
+"about-mechanics-pronunciation-description" = "Kelimeyi dinleyin ve telaffuz edin. Mikrofonunuzun açık olduğundan emin olun.";
+"spelling" = "Yazım";
+"about-mechanics-spelling-description" = "Klavyenizle sözcüğü yazın";
+"about-rewards-little-star-description" = "Seviyeyi başarılı bir şekilde geçtiğinizde 1 ila 3 arası küçük yıldız elde edersiniz";
+"about-rewards-bronze-star-description" = "En az 50 küçük yıldız toplamanız halinde bir bronz yıldız elde edersiniz";
+"about-rewards-silver-star-description" = "En az 75 küçük yıldız toplamanız halinde bir gümüş yıldız elde edersiniz";
+"about-rewards-golden-star-description" = "En az 100 küçük yıldız toplamanız halinde bir altın yıldız elde edersiniz";
+"about-rewards-passed-exam-description" = "Akademik kep, temanın quizini başarıyla geçtiğinizi gösterir.";
+"about-rewards-description" = "Her seviyeyi veya quizi geçtiğinize deneyim ve farklı rütbeler elde edersiniz: Yeni başlayan, Efendi vb. Başarımlarınız hakkında daha fazla bilgiyi profilinizde  _  bulabilirsiniz.";
+"copyright" = "Telif Hakkı © B. V. Rolandsen 2020";
+"design-and-development" = "Tasarım ve Geliştirme Bryan Rolandsen tarafından gerçekleştirildi";
+
+// Alerts
+"correct" = "Doğru";
+"finish" = "Tamamla";
+"error" = "Hata";
+"error-load-leaderboard" = "Lider tablosu yüklenirken bir hata oluştu. Lütfen daha sonra tekrar deneyin";
+"timeout" = "Mola bitti";
+"speech-recognition-unavailable" = "Ses tanıma mevcut değil";
+"device-settings-for-speech" = "1. Cihaz ayarlarınızı kontrol edin (Ayarlar -> Genel -> Klavye -> İmlaya İzin Ver)";
+"check-internet-for-speech" = "2. Tanıma hala çalışmıyorsa lütfen internet bağlantınızı kontrol edin ve tekrar deneyin";
+"already-cancel-auth" = "Lütfen cihaz ayarlarınızı kullanarak Oyun Merkezi’nde oturum açın";
+"settings" = "Ayarlar";
+"micro-usage-cancel" = "Mikrofon erişimi reddedildi. Lütfen cihaz ayarlarınızı kontrol edin.";
+"speech-usage-cancel" = "Ses tanıma erişimi reddedildi. Lütfen cihaz ayarlarınızı kontrol edin.";
+"not-support-speech-recognition" = "Cihazınız ses tanıma özelliğini desteklememektedir";
+
+// Packs
+"main-pack-info" = "3 Tema, 18 Konu, 270 Sözcük";
+
+// Other
+"topics-count" = "6 Konu, 90 Sözcük";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

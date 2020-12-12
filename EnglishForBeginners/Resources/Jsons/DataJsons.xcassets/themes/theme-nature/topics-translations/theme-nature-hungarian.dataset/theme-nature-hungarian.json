@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Environment",
+    "word" : "Környezet"
+  },
+  {
+    "id" : "Farm",
+    "word" : "Farm"
+  },
+  {
+    "id" : "Flowers",
+    "word" : "Virágok"
+  },
+  {
+    "id" : "Insects",
+    "word" : "Rovarok"
+  },
+  {
+    "id" : "Plants",
+    "word" : "Növények"
+  },
+  {
+    "id" : "Weather",
+    "word" : "Időjárás"
+  }
+]

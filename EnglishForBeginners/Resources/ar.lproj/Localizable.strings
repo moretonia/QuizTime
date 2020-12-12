@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "موضوعات";
+"3-themes" = "3 موضوعات";
+"6-topics" = "6 موضوعات";
+"90-words" = "90 كلمة";
+"words" = "الكلمات";
+"view" = "عرض";
+"main-buy-button" = "شراء";
+
+// Topics
+"matching" = "مطابقة";
+"translation" = "الترجمة";
+"pronunciation" = "النطق";
+"spelling" = "التهجئة";
+"dictionary" = "القاموس";
+"buy-theme" = "اشتري موضوع";
+"locked" = "مغلق";
+
+// Quiz
+"some-theme-quiz" = "%@\nاختبار الموضوع .";
+"collect-stars-to-unlock" = "نجوم لفتح الاختبار%dاجمع";
+"can-start-quiz" = "يمكنك بدأ الاختبار";
+"quiz" = "اختبار";
+"pass-quiz-again" = "إجتز الاختبار مرة أخري لتكتسب مزيد من الخبرة";
+"repeat" = "اعادة";
+
+// Match Level
+"match" = "مطابقة";
+"verify" = "تأكيد";
+
+// Translate level
+"translate" = "ترجم";
+"wrong" = "خطأ";
+"next" = "التالي";
+
+// Spelling level
+"spell" = "تهجئ";
+"english-translation" = "الترجمة الانجليزية";
+
+// Listen & Say level
+"listen-and-say" = "استمع &ردد";
+"try-again" = "من فضلك حاول مرة أخري";
+
+// Alerts
+"warning" = "تحذير";
+"progress-lost" = "هل تريد أن تغلق المستوي؟ستفقد تقدمك";
+"cancel" = "الغاء";
+"close" = "أغلق";
+"quiz-fail" = "للأسف فشلت في الاختبار";
+"not-pass-level" = "للأسف لم تجتاز المستوي";
+"back-to-theme" = "العودة للموضوع";
+"retry" = "حاول مرة أخري";
+
+// Profile
+/*"profile" = "الحساب الشخصي";
+"experience" = "الخبرة";
+"skills" = "المهارات";
+"next-level" = "التالي: %d";
+
+// Ranks
+"beginner" = "مبتدئ";
+"pupil" = "تلميذ";
+"student" = "طالب";
+"connoisseur" = "خبير";
+"outstanding" = "ممتاز";
+"specialist" = "متخصص";
+"pro" = "محترف";
+"master" = "سيد";
+"magister" = "ماجستير";
+"guru" = "معلم";
+"sage" = "حكيم";
+"enlightened" = "مثقف";
+"oracle" = "العراف";
+"genius" = "عبقري";
+"higher-mind" = "متفوق عقليا";
+"supermind" = "فائق";
+
+// Profile
+"leaderboard" = "المتصدرين";
+"restore-purchases" = "استعادة المشتريات";
+"rate-us" = "قيمنا";
+"share" = "شارك";
+"change-language" = "غير اللغة";
+"about-us" = "معلومات عنا";*/
+
+// Sharing
+"experience-and-rank-share" = "لقد اكتسبت %d خبرة في Quiz Time والآن رتبتي \"%@\"";
+"new-rank-share" = "لقد وصلت الي رتبة أعلي \"%@\" في Quiz Time ! جرب هذا !";
+"experience-share" = "لقد اكتسبت %d خبرة في Quiz Time.مستوي الانجليزي لدي يتحسن كل يوم!";
+"1-star-share" = "لقد اكتسبت نجمة واحدة و%d خبرة .أنا أدرس الانجليزية بسعادة مع تطبيق Quiz Time";
+"2-stars-share" = "لقد اكتسبت 2 نجوم و %d خبرة في Quiz Time. حاول أن تتفوق عليّ !";
+"3-stars-share" = "لقد اكتسبت 3 نجوم و %d خبرة في Quiz Time. مستوي الانجليزي لدي يتحسن كل يوم";
+
+// Language
+/*"my-language" = "لغتي الأم";
+"ok" = "حسنا";
+
+// Congratulations
+"congratulations" = "تهانينا !";
+"xp" = "%d+ xp";
+"new-rank" = "رتبة جديدة";*/
+
+// About us
+"about-us-title" = "معلومات عنا";
+"model-english-mission" = "تطبيق Quiz Time سيحسن من مفرداتك,يساعدك علي تحسين نطقك للكلمات وتهجئتك بأسلوب الألعاب";
+"app-structure" = "الكلمات في التطبيق مقسمة الي موضوعات كل موضوع مقسم الي 6 موضوعات فرعية واختبار يتضمن الموضوع بالكامل. كل موضوع يتضمن قاموس  _  من 15 كلمة";
+"about-mechanics-description" = "مجموعة فريدة من أساليب اللعب ستساعدك علي إتقان الكلمات بسرعة وكفائة";
+"matching" = "المطابقة";
+"about-mechanics-matching-description" = "في هذا المستوي يجب عليك أن تختار الكلمة المناسبة لكل صورة";
+"translation" = "الترجمة";
+"about-mechanics-translator-description" = "اختر الترجمة الصحيحة لهذه الكلمة";
+"pronunciation" = "النطق";
+"about-mechanics-pronunciation-description" = "اسمع وانطق الكلمة . تأكد أن الميكروفون يعمل";
+"spelling" = "التهجئة";
+"about-mechanics-spelling-description" = "اكتب الكلمة باستخدام لوحة المفاتيح";
+"about-rewards-little-star-description" = "لقد حصلت علي عدد من 1 الي 3 نجوم مكافأة علي تخطيك المستويات بنجاح";
+"about-rewards-bronze-star-description" = "ستحصل علي نجمة برونزية اذا أحرزت 50 نجمة صغيرة علي الأقل";
+"about-rewards-silver-star-description" = "ستحصل علي نجمة فضية اذا أحرزت 75 نجمة صغيرة علي الأقل";
+"about-rewards-golden-star-description" = "ستكافأ بنجمة ذهبية عندما تحصل علي 100 نجمة صغيرة";
+"about-rewards-passed-exam-description" = "قبعة التخرج ترمز لخطيك اختبار الموضوع بنجاح";
+"about-rewards-description" = "عندما تتخطي كل مستوي أو اختبار تكتسب خبرة ورتب مختلفة: مبتدئ وسيد وأخري. معلومات أكثر عن انجازاتك توجد في حسابك الشخصي _ ";
+"copyright" = "حقوق الملكية© B. V. Rolandsen 2020";
+"design-and-development" = "تصميم وتطوير Bryan Rolandsen";
+
+// Alerts
+"correct" = "صحح";
+"finish" = "انهاء";
+"error" = "خطأ";
+"error-load-leaderboard" = "خطأ في تحميل قائمة المتصدرين .يرجي المحاولة لاحقا";
+"timeout" = "انتهت المهلة";
+"speech-recognition-unavailable" = "خاصية التعرف علي الكلام غير متوفرة";
+"device-settings-for-speech" = "تمكين الاملاء)< لوحة المفاتيح -< عام -<1- تفقد اعدادات الجهاز (الاعدادات -";
+"check-internet-for-speech" = "2-اذا كانت خاصية التعرف علي الكلام لا تعمل من فضلك تفقد اتصال الانترنت وحاول مجددا";
+"already-cancel-auth" = "رجااء سجل دخولك الي حساب مركز الألعاب عن طريق اعدادات جهازك";
+"settings" = "الاعدادات";
+"micro-usage-cancel" = "تم رفض الوصول للميكروفون.من فضلك تأكد من اعدادات جهازك";
+"speech-usage-cancel" = "تم رفض الوصول لخاصية التعرف علي الكلام من فضلك تأكد من اعدادات جهازك";
+"not-support-speech-recognition" = "جهازك لا يدعم خاصية التعرف علي الكلام";
+
+// Packs
+"main-pack-info" = "3 موضوعات ، 18 موضوعات ، 270 كلمة";
+
+// Other
+"topics-count" = "6 موضوعات ، 90 كلمة";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

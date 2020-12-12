@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "kyselý déšť"
+  },
+  {
+    "id" : "nature1",
+    "word" : "revitalizace stromů"
+  },
+  {
+    "id" : "nature2",
+    "word" : "uhelný důl"
+  },
+  {
+    "id" : "nature3",
+    "word" : "mrtvý korál"
+  },
+  {
+    "id" : "nature4",
+    "word" : "poušť"
+  },
+  {
+    "id" : "nature5",
+    "word" : "eroze"
+  },
+  {
+    "id" : "nature6",
+    "word" : "výfuk"
+  },
+  {
+    "id" : "nature7",
+    "word" : "fosilní palivo"
+  },
+  {
+    "id" : "nature8",
+    "word" : "smetí"
+  },
+  {
+    "id" : "nature9",
+    "word" : "ropná skvrna"
+  },
+  {
+    "id" : "nature10",
+    "word" : "ropný vrt"
+  },
+  {
+    "id" : "nature11",
+    "word" : "znečištění"
+  },
+  {
+    "id" : "nature12",
+    "word" : "smog"
+  },
+  {
+    "id" : "nature13",
+    "word" : "solární panel"
+  },
+  {
+    "id" : "nature14",
+    "word" : "větrná farma"
+  },
+  {
+    "id" : "nature15",
+    "word" : "stodola"
+  },
+  {
+    "id" : "nature16",
+    "word" : "kurník"
+  },
+  {
+    "id" : "nature17",
+    "word" : "zemědělec"
+  },
+  {
+    "id" : "nature18",
+    "word" : "plot"
+  },
+  {
+    "id" : "nature19",
+    "word" : "brána"
+  },
+  {
+    "id" : "nature20",
+    "word" : "kombajn"
+  },
+  {
+    "id" : "nature21",
+    "word" : "zavlažování"
+  },
+  {
+    "id" : "nature22",
+    "word" : "pluh"
+  },
+  {
+    "id" : "nature23",
+    "word" : "rybník"
+  },
+  {
+    "id" : "nature24",
+    "word" : "strašák"
+  },
+  {
+    "id" : "nature25",
+    "word" : "stáj"
+  },
+  {
+    "id" : "nature26",
+    "word" : "traktor"
+  },
+  {
+    "id" : "nature27",
+    "word" : "vesnice"
+  },
+  {
+    "id" : "nature28",
+    "word" : "studna"
+  },
+  {
+    "id" : "nature29",
+    "word" : "větrný mlýn"
+  },
+  {
+    "id" : "nature30",
+    "word" : "astery"
+  },
+  {
+    "id" : "nature31",
+    "word" : "karafiát"
+  },
+  {
+    "id" : "nature32",
+    "word" : "narcis"
+  },
+  {
+    "id" : "nature33",
+    "word" : "jiřina"
+  },
+  {
+    "id" : "nature34",
+    "word" : "sedmikráska"
+  },
+  {
+    "id" : "nature35",
+    "word" : "plumérie"
+  },
+  {
+    "id" : "nature36",
+    "word" : "frézie"
+  },
+  {
+    "id" : "nature37",
+    "word" : "pelargónie"
+  },
+  {
+    "id" : "nature38",
+    "word" : "gerbera"
+  },
+  {
+    "id" : "nature39",
+    "word" : "ibišek"
+  },
+  {
+    "id" : "nature40",
+    "word" : "lilie"
+  },
+  {
+    "id" : "nature41",
+    "word" : "magnólie"
+  },
+  {
+    "id" : "nature42",
+    "word" : "orchidej"
+  },
+  {
+    "id" : "nature43",
+    "word" : "růže"
+  },
+  {
+    "id" : "nature44",
+    "word" : "tulipán"
+  },
+  {
+    "id" : "nature45",
+    "word" : "mravenec"
+  },
+  {
+    "id" : "nature46",
+    "word" : "včela"
+  },
+  {
+    "id" : "nature47",
+    "word" : "brouk"
+  },
+  {
+    "id" : "nature48",
+    "word" : "motýl"
+  },
+  {
+    "id" : "nature49",
+    "word" : "šváb"
+  },
+  {
+    "id" : "nature50",
+    "word" : "cvrček"
+  },
+  {
+    "id" : "nature51",
+    "word" : "vážka"
+  },
+  {
+    "id" : "nature52",
+    "word" : "moucha"
+  },
+  {
+    "id" : "nature53",
+    "word" : "saranče"
+  },
+  {
+    "id" : "nature54",
+    "word" : "slunéčko sedmitečné"
+  },
+  {
+    "id" : "nature55",
+    "word" : "kudlanka"
+  },
+  {
+    "id" : "nature56",
+    "word" : "komár"
+  },
+  {
+    "id" : "nature57",
+    "word" : "můra"
+  },
+  {
+    "id" : "nature58",
+    "word" : "termiti"
+  },
+  {
+    "id" : "nature59",
+    "word" : "vosa"
+  },
+  {
+    "id" : "nature60",
+    "word" : "kapradiny"
+  },
+  {
+    "id" : "nature61",
+    "word" : "zahrada"
+  },
+  {
+    "id" : "nature62",
+    "word" : "tráva"
+  },
+  {
+    "id" : "nature63",
+    "word" : "trávník"
+  },
+  {
+    "id" : "nature64",
+    "word" : "list"
+  },
+  {
+    "id" : "nature65",
+    "word" : "palma"
+  },
+  {
+    "id" : "nature66",
+    "word" : "lístky"
+  },
+  {
+    "id" : "nature67",
+    "word" : "borovicový les"
+  },
+  {
+    "id" : "nature68",
+    "word" : "deštný prales"
+  },
+  {
+    "id" : "nature69",
+    "word" : "kořeny"
+  },
+  {
+    "id" : "nature70",
+    "word" : "sazenice"
+  },
+  {
+    "id" : "nature71",
+    "word" : "semena"
+  },
+  {
+    "id" : "nature72",
+    "word" : "trní"
+  },
+  {
+    "id" : "nature73",
+    "word" : "strom"
+  },
+  {
+    "id" : "nature74",
+    "word" : "kmen"
+  },
+  {
+    "id" : "nature75",
+    "word" : "cyklón"
+  },
+  {
+    "id" : "nature76",
+    "word" : "sucho"
+  },
+  {
+    "id" : "nature77",
+    "word" : "záplava"
+  },
+  {
+    "id" : "nature78",
+    "word" : "mlha"
+  },
+  {
+    "id" : "nature79",
+    "word" : "předpověď"
+  },
+  {
+    "id" : "nature80",
+    "word" : "teplo"
+  },
+  {
+    "id" : "nature81",
+    "word" : "led"
+  },
+  {
+    "id" : "nature82",
+    "word" : "blesk"
+  },
+  {
+    "id" : "nature83",
+    "word" : "louže"
+  },
+  {
+    "id" : "nature84",
+    "word" : "déšť"
+  },
+  {
+    "id" : "nature85",
+    "word" : "pláštěnka"
+  },
+  {
+    "id" : "nature86",
+    "word" : "písečná bouře"
+  },
+  {
+    "id" : "nature87",
+    "word" : "sníh"
+  },
+  {
+    "id" : "nature88",
+    "word" : "tornádo"
+  },
+  {
+    "id" : "nature89",
+    "word" : "deštník"
+  }
+]

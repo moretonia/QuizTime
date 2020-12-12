@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "avantage"
+  },
+  {
+    "id" : "business1",
+    "word" : "faire de la publicité"
+  },
+  {
+    "id" : "business2",
+    "word" : "L’addition"
+  },
+  {
+    "id" : "business3",
+    "word" : "budget"
+  },
+  {
+    "id" : "business4",
+    "word" : "comparaison"
+  },
+  {
+    "id" : "business5",
+    "word" : "concurrent"
+  },
+  {
+    "id" : "business6",
+    "word" : "confirmation"
+  },
+  {
+    "id" : "business7",
+    "word" : "client"
+  },
+  {
+    "id" : "business8",
+    "word" : "délai"
+  },
+  {
+    "id" : "business9",
+    "word" : "dette"
+  },
+  {
+    "id" : "business10",
+    "word" : "décision"
+  },
+  {
+    "id" : "business11",
+    "word" : "livraison"
+  },
+  {
+    "id" : "business12",
+    "word" : "prix"
+  },
+  {
+    "id" : "business13",
+    "word" : "programme"
+  },
+  {
+    "id" : "business14",
+    "word" : "travail d'équipe"
+  },
+  {
+    "id" : "business15",
+    "word" : "évaluation"
+  },
+  {
+    "id" : "business16",
+    "word" : "présentation"
+  },
+  {
+    "id" : "business17",
+    "word" : "distribution"
+  },
+  {
+    "id" : "business18",
+    "word" : "employés"
+  },
+  {
+    "id" : "business19",
+    "word" : "employeur"
+  },
+  {
+    "id" : "business20",
+    "word" : "usine"
+  },
+  {
+    "id" : "business21",
+    "word" : "croissance"
+  },
+  {
+    "id" : "business22",
+    "word" : "directeur"
+  },
+  {
+    "id" : "business23",
+    "word" : "instructions"
+  },
+  {
+    "id" : "business24",
+    "word" : "entretien"
+  },
+  {
+    "id" : "business25",
+    "word" : "facture"
+  },
+  {
+    "id" : "business26",
+    "word" : "perte"
+  },
+  {
+    "id" : "business27",
+    "word" : "machine"
+  },
+  {
+    "id" : "business28",
+    "word" : "marchandise"
+  },
+  {
+    "id" : "business29",
+    "word" : "stockage"
+  },
+  {
+    "id" : "business30",
+    "word" : "annuler"
+  },
+  {
+    "id" : "business31",
+    "word" : "échange"
+  },
+  {
+    "id" : "business32",
+    "word" : "retour"
+  },
+  {
+    "id" : "business33",
+    "word" : "installation"
+  },
+  {
+    "id" : "business34",
+    "word" : "commande"
+  },
+  {
+    "id" : "business35",
+    "word" : "paiement"
+  },
+  {
+    "id" : "business36",
+    "word" : "pénalité"
+  },
+  {
+    "id" : "business37",
+    "word" : "produits"
+  },
+  {
+    "id" : "business38",
+    "word" : "promotion"
+  },
+  {
+    "id" : "business39",
+    "word" : "rejet"
+  },
+  {
+    "id" : "business40",
+    "word" : "réparations"
+  },
+  {
+    "id" : "business41",
+    "word" : "rapport"
+  },
+  {
+    "id" : "business42",
+    "word" : "salaire"
+  },
+  {
+    "id" : "business43",
+    "word" : "expédition"
+  },
+  {
+    "id" : "business44",
+    "word" : "cible"
+  },
+  {
+    "id" : "business45",
+    "word" : "antiquités"
+  },
+  {
+    "id" : "business46",
+    "word" : "artefacts"
+  },
+  {
+    "id" : "business47",
+    "word" : "bandes dessinées"
+  },
+  {
+    "id" : "business48",
+    "word" : "diamants"
+  },
+  {
+    "id" : "business49",
+    "word" : "figurines"
+  },
+  {
+    "id" : "business50",
+    "word" : "fossiles"
+  },
+  {
+    "id" : "business51",
+    "word" : "pièces d'or"
+  },
+  {
+    "id" : "business52",
+    "word" : "voitures miniatures"
+  },
+  {
+    "id" : "business53",
+    "word" : "affiches"
+  },
+  {
+    "id" : "business54",
+    "word" : "rubis"
+  },
+  {
+    "id" : "business55",
+    "word" : "saphirs"
+  },
+  {
+    "id" : "business56",
+    "word" : "argenterie"
+  },
+  {
+    "id" : "business57",
+    "word" : "timbres"
+  },
+  {
+    "id" : "business58",
+    "word" : "voitures de collection"
+  },
+  {
+    "id" : "business59",
+    "word" : "œuvres d'art"
+  },
+  {
+    "id" : "business60",
+    "word" : "espèces"
+  },
+  {
+    "id" : "business61",
+    "word" : "caissier"
+  },
+  {
+    "id" : "business62",
+    "word" : "carte de crédit"
+  },
+  {
+    "id" : "business63",
+    "word" : "annuaire"
+  },
+  {
+    "id" : "business64",
+    "word" : "cabine d'essayage"
+  },
+  {
+    "id" : "business65",
+    "word" : "clavier"
+  },
+  {
+    "id" : "business66",
+    "word" : "examiner"
+  },
+  {
+    "id" : "business67",
+    "word" : "payer"
+  },
+  {
+    "id" : "business68",
+    "word" : "étiquette de prix"
+  },
+  {
+    "id" : "business69",
+    "word" : "vente"
+  },
+  {
+    "id" : "business70",
+    "word" : "sac de courses"
+  },
+  {
+    "id" : "business71",
+    "word" : "faire les courses"
+  },
+  {
+    "id" : "business72",
+    "word" : "transactions"
+  },
+  {
+    "id" : "business73",
+    "word" : "essayer"
+  },
+  {
+    "id" : "business74",
+    "word" : "retrait"
+  },
+  {
+    "id" : "business75",
+    "word" : "boulangerie"
+  },
+  {
+    "id" : "business76",
+    "word" : "librairie"
+  },
+  {
+    "id" : "business77",
+    "word" : "boucherie"
+  },
+  {
+    "id" : "business78",
+    "word" : "pâtisserie"
+  },
+  {
+    "id" : "business79",
+    "word" : "pharmacie"
+  },
+  {
+    "id" : "business80",
+    "word" : "magasin de vêtements"
+  },
+  {
+    "id" : "business81",
+    "word" : "fish and chips"
+  },
+  {
+    "id" : "business82",
+    "word" : "fleuriste"
+  },
+  {
+    "id" : "business83",
+    "word" : "magasin de fruits"
+  },
+  {
+    "id" : "business84",
+    "word" : "bijouterie"
+  },
+  {
+    "id" : "business85",
+    "word" : "marché"
+  },
+  {
+    "id" : "business86",
+    "word" : "boutique en ligne"
+  },
+  {
+    "id" : "business87",
+    "word" : "magasin de chaussures"
+  },
+  {
+    "id" : "business88",
+    "word" : "magasin de jouets"
+  },
+  {
+    "id" : "business89",
+    "word" : "agence de voyage"
+  }
+]

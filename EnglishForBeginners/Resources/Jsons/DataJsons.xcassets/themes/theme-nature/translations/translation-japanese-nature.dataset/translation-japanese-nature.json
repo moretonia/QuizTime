@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "酸性雨"
+  },
+  {
+    "id" : "nature1",
+    "word" : "皆伐"
+  },
+  {
+    "id" : "nature2",
+    "word" : "炭鉱"
+  },
+  {
+    "id" : "nature3",
+    "word" : "死んだサンゴ"
+  },
+  {
+    "id" : "nature4",
+    "word" : "砂漠"
+  },
+  {
+    "id" : "nature5",
+    "word" : "侵食"
+  },
+  {
+    "id" : "nature6",
+    "word" : "排気"
+  },
+  {
+    "id" : "nature7",
+    "word" : "化石燃料"
+  },
+  {
+    "id" : "nature8",
+    "word" : "ゴミ"
+  },
+  {
+    "id" : "nature9",
+    "word" : "油流出"
+  },
+  {
+    "id" : "nature10",
+    "word" : "油井"
+  },
+  {
+    "id" : "nature11",
+    "word" : "汚染"
+  },
+  {
+    "id" : "nature12",
+    "word" : "スモッグ"
+  },
+  {
+    "id" : "nature13",
+    "word" : "ソーラーパネル"
+  },
+  {
+    "id" : "nature14",
+    "word" : "風力発電所"
+  },
+  {
+    "id" : "nature15",
+    "word" : "納屋"
+  },
+  {
+    "id" : "nature16",
+    "word" : "鶏舎"
+  },
+  {
+    "id" : "nature17",
+    "word" : "農夫"
+  },
+  {
+    "id" : "nature18",
+    "word" : "フェンス"
+  },
+  {
+    "id" : "nature19",
+    "word" : "ゲート"
+  },
+  {
+    "id" : "nature20",
+    "word" : "収穫機"
+  },
+  {
+    "id" : "nature21",
+    "word" : "灌漑"
+  },
+  {
+    "id" : "nature22",
+    "word" : "鋤"
+  },
+  {
+    "id" : "nature23",
+    "word" : "池"
+  },
+  {
+    "id" : "nature24",
+    "word" : "かかし"
+  },
+  {
+    "id" : "nature25",
+    "word" : "家畜小屋"
+  },
+  {
+    "id" : "nature26",
+    "word" : "トラクター"
+  },
+  {
+    "id" : "nature27",
+    "word" : "村"
+  },
+  {
+    "id" : "nature28",
+    "word" : "井戸"
+  },
+  {
+    "id" : "nature29",
+    "word" : "風車"
+  },
+  {
+    "id" : "nature30",
+    "word" : "アスター"
+  },
+  {
+    "id" : "nature31",
+    "word" : "カーネーション"
+  },
+  {
+    "id" : "nature32",
+    "word" : "水仙"
+  },
+  {
+    "id" : "nature33",
+    "word" : "ダリア"
+  },
+  {
+    "id" : "nature34",
+    "word" : "デイジー"
+  },
+  {
+    "id" : "nature35",
+    "word" : "フランケンパニー"
+  },
+  {
+    "id" : "nature36",
+    "word" : "フリージア"
+  },
+  {
+    "id" : "nature37",
+    "word" : "ゼラニウム"
+  },
+  {
+    "id" : "nature38",
+    "word" : "ガーベラ"
+  },
+  {
+    "id" : "nature39",
+    "word" : "ハイビスカス"
+  },
+  {
+    "id" : "nature40",
+    "word" : "ユリ"
+  },
+  {
+    "id" : "nature41",
+    "word" : "マグノリア"
+  },
+  {
+    "id" : "nature42",
+    "word" : "ラン"
+  },
+  {
+    "id" : "nature43",
+    "word" : "バラ"
+  },
+  {
+    "id" : "nature44",
+    "word" : "チューリップ"
+  },
+  {
+    "id" : "nature45",
+    "word" : "アリ"
+  },
+  {
+    "id" : "nature46",
+    "word" : "ハチ"
+  },
+  {
+    "id" : "nature47",
+    "word" : "カブトムシ"
+  },
+  {
+    "id" : "nature48",
+    "word" : "蝶"
+  },
+  {
+    "id" : "nature49",
+    "word" : "ゴキブリ"
+  },
+  {
+    "id" : "nature50",
+    "word" : "コオロギ"
+  },
+  {
+    "id" : "nature51",
+    "word" : "トンボ"
+  },
+  {
+    "id" : "nature52",
+    "word" : "ハエ"
+  },
+  {
+    "id" : "nature53",
+    "word" : "バッタ"
+  },
+  {
+    "id" : "nature54",
+    "word" : "テントウムシ"
+  },
+  {
+    "id" : "nature55",
+    "word" : "マイマイ"
+  },
+  {
+    "id" : "nature56",
+    "word" : "蚊"
+  },
+  {
+    "id" : "nature57",
+    "word" : "蛾"
+  },
+  {
+    "id" : "nature58",
+    "word" : "シロアリ"
+  },
+  {
+    "id" : "nature59",
+    "word" : "アブ"
+  },
+  {
+    "id" : "nature60",
+    "word" : "シダ"
+  },
+  {
+    "id" : "nature61",
+    "word" : "庭"
+  },
+  {
+    "id" : "nature62",
+    "word" : "草"
+  },
+  {
+    "id" : "nature63",
+    "word" : "芝生"
+  },
+  {
+    "id" : "nature64",
+    "word" : "葉"
+  },
+  {
+    "id" : "nature65",
+    "word" : "ヤシ"
+  },
+  {
+    "id" : "nature66",
+    "word" : "花弁"
+  },
+  {
+    "id" : "nature67",
+    "word" : "松林"
+  },
+  {
+    "id" : "nature68",
+    "word" : "ジャングル"
+  },
+  {
+    "id" : "nature69",
+    "word" : "根"
+  },
+  {
+    "id" : "nature70",
+    "word" : "苗"
+  },
+  {
+    "id" : "nature71",
+    "word" : "種子"
+  },
+  {
+    "id" : "nature72",
+    "word" : "棘"
+  },
+  {
+    "id" : "nature73",
+    "word" : "木"
+  },
+  {
+    "id" : "nature74",
+    "word" : "木の幹"
+  },
+  {
+    "id" : "nature75",
+    "word" : "サイクロン"
+  },
+  {
+    "id" : "nature76",
+    "word" : "干ばつ"
+  },
+  {
+    "id" : "nature77",
+    "word" : "洪水"
+  },
+  {
+    "id" : "nature78",
+    "word" : "霧"
+  },
+  {
+    "id" : "nature79",
+    "word" : "予報"
+  },
+  {
+    "id" : "nature80",
+    "word" : "熱波"
+  },
+  {
+    "id" : "nature81",
+    "word" : "氷"
+  },
+  {
+    "id" : "nature82",
+    "word" : "雷"
+  },
+  {
+    "id" : "nature83",
+    "word" : "水たまり"
+  },
+  {
+    "id" : "nature84",
+    "word" : "雨"
+  },
+  {
+    "id" : "nature85",
+    "word" : "レインコート"
+  },
+  {
+    "id" : "nature86",
+    "word" : "砂嵐"
+  },
+  {
+    "id" : "nature87",
+    "word" : "雪"
+  },
+  {
+    "id" : "nature88",
+    "word" : "竜巻"
+  },
+  {
+    "id" : "nature89",
+    "word" : "傘"
+  }
+]

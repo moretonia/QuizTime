@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Ceremonies",
+    "word" : "의식"
+  },
+  {
+    "id" : "Christmas",
+    "word" : "크리스마스"
+  },
+  {
+    "id" : "Church",
+    "word" : "교회"
+  },
+  {
+    "id" : "Good Luck",
+    "word" : "행운"
+  },
+  {
+    "id" : "Religion",
+    "word" : "종교"
+  },
+  {
+    "id" : "Zodiac",
+    "word" : "별자리"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "babun"
+  },
+  {
+    "id" : "animals1",
+    "word" : "bufalo"
+  },
+  {
+    "id" : "animals2",
+    "word" : "deve"
+  },
+  {
+    "id" : "animals3",
+    "word" : "şempaze"
+  },
+  {
+    "id" : "animals4",
+    "word" : "timsah"
+  },
+  {
+    "id" : "animals5",
+    "word" : "fil"
+  },
+  {
+    "id" : "animals6",
+    "word" : "zürafa"
+  },
+  {
+    "id" : "animals7",
+    "word" : "goril"
+  },
+  {
+    "id" : "animals8",
+    "word" : "su aygırı"
+  },
+  {
+    "id" : "animals9",
+    "word" : "sırtlan"
+  },
+  {
+    "id" : "animals10",
+    "word" : "leopar"
+  },
+  {
+    "id" : "animals11",
+    "word" : "aslan"
+  },
+  {
+    "id" : "animals12",
+    "word" : "deve kuşu"
+  },
+  {
+    "id" : "animals13",
+    "word" : "gergedan"
+  },
+  {
+    "id" : "animals14",
+    "word" : "afrika antilobu"
+  },
+  {
+    "id" : "animals15",
+    "word" : "Beagle"
+  },
+  {
+    "id" : "animals16",
+    "word" : "boxer"
+  },
+  {
+    "id" : "animals17",
+    "word" : "chihuahua"
+  },
+  {
+    "id" : "animals18",
+    "word" : "işkoç çoban köpeği"
+  },
+  {
+    "id" : "animals19",
+    "word" : "sosis köpek"
+  },
+  {
+    "id" : "animals20",
+    "word" : "dalmaçyalı"
+  },
+  {
+    "id" : "animals21",
+    "word" : "doberman"
+  },
+  {
+    "id" : "animals22",
+    "word" : "tazı"
+  },
+  {
+    "id" : "animals23",
+    "word" : "eskimo köpeği"
+  },
+  {
+    "id" : "animals24",
+    "word" : "İrlanda setteri"
+  },
+  {
+    "id" : "animals25",
+    "word" : "Labrador"
+  },
+  {
+    "id" : "animals26",
+    "word" : "maltız"
+  },
+  {
+    "id" : "animals27",
+    "word" : "kaniş"
+  },
+  {
+    "id" : "animals28",
+    "word" : "rottweiler"
+  },
+  {
+    "id" : "animals29",
+    "word" : "çoban köpeği"
+  },
+  {
+    "id" : "animals30",
+    "word" : "boğa"
+  },
+  {
+    "id" : "animals31",
+    "word" : "buzağı"
+  },
+  {
+    "id" : "animals32",
+    "word" : "kedi"
+  },
+  {
+    "id" : "animals33",
+    "word" : "eşek"
+  },
+  {
+    "id" : "animals34",
+    "word" : "ördek"
+  },
+  {
+    "id" : "animals35",
+    "word" : "tay"
+  },
+  {
+    "id" : "animals36",
+    "word" : "keçi"
+  },
+  {
+    "id" : "animals37",
+    "word" : "kaz"
+  },
+  {
+    "id" : "animals38",
+    "word" : "at"
+  },
+  {
+    "id" : "animals39",
+    "word" : "kuzu"
+  },
+  {
+    "id" : "animals40",
+    "word" : "domuz"
+  },
+  {
+    "id" : "animals41",
+    "word" : "domuz yavrusu"
+  },
+  {
+    "id" : "animals42",
+    "word" : "horoz"
+  },
+  {
+    "id" : "animals43",
+    "word" : "koyun"
+  },
+  {
+    "id" : "animals44",
+    "word" : "hindi"
+  },
+  {
+    "id" : "animals45",
+    "word" : "morina"
+  },
+  {
+    "id" : "animals46",
+    "word" : "yengeç"
+  },
+  {
+    "id" : "animals47",
+    "word" : "deniz anası"
+  },
+  {
+    "id" : "animals48",
+    "word" : "ıstakoz"
+  },
+  {
+    "id" : "animals49",
+    "word" : "ahtapot"
+  },
+  {
+    "id" : "animals50",
+    "word" : "istiridye"
+  },
+  {
+    "id" : "animals51",
+    "word" : "büyük karides"
+  },
+  {
+    "id" : "animals52",
+    "word" : "somon"
+  },
+  {
+    "id" : "animals53",
+    "word" : "sardalya"
+  },
+  {
+    "id" : "animals54",
+    "word" : "denizatı"
+  },
+  {
+    "id" : "animals55",
+    "word" : "köpekbalığı"
+  },
+  {
+    "id" : "animals56",
+    "word" : "kalamar"
+  },
+  {
+    "id" : "animals57",
+    "word" : "kılıçbalığı"
+  },
+  {
+    "id" : "animals58",
+    "word" : "alabalık"
+  },
+  {
+    "id" : "animals59",
+    "word" : "ton balığı"
+  },
+  {
+    "id" : "animals60",
+    "word" : "albatros"
+  },
+  {
+    "id" : "animals61",
+    "word" : "deniz tarağı"
+  },
+  {
+    "id" : "animals62",
+    "word" : "mercan"
+  },
+  {
+    "id" : "animals63",
+    "word" : "yunus"
+  },
+  {
+    "id" : "animals64",
+    "word" : "müren balığı"
+  },
+  {
+    "id" : "animals65",
+    "word" : "pelikan"
+  },
+  {
+    "id" : "animals66",
+    "word" : "penguen"
+  },
+  {
+    "id" : "animals67",
+    "word" : "kutup ayısı"
+  },
+  {
+    "id" : "animals68",
+    "word" : "deniz kestanesi"
+  },
+  {
+    "id" : "animals69",
+    "word" : "fok"
+  },
+  {
+    "id" : "animals70",
+    "word" : "vatoz"
+  },
+  {
+    "id" : "animals71",
+    "word" : "kaplumbağa"
+  },
+  {
+    "id" : "animals72",
+    "word" : "deniz aygırı"
+  },
+  {
+    "id" : "animals73",
+    "word" : "balina köpekbalığı"
+  },
+  {
+    "id" : "animals74",
+    "word" : "balina"
+  },
+  {
+    "id" : "animals75",
+    "word" : "muhabbet kuşu"
+  },
+  {
+    "id" : "animals76",
+    "word" : "kanarya"
+  },
+  {
+    "id" : "animals77",
+    "word" : "çinçilla"
+  },
+  {
+    "id" : "animals78",
+    "word" : "dağgelinciği"
+  },
+  {
+    "id" : "animals79",
+    "word" : "ispinoz"
+  },
+  {
+    "id" : "animals80",
+    "word" : "geko"
+  },
+  {
+    "id" : "animals81",
+    "word" : "akvaryum balığı"
+  },
+  {
+    "id" : "animals82",
+    "word" : "kobay"
+  },
+  {
+    "id" : "animals83",
+    "word" : "keşiş yengeci"
+  },
+  {
+    "id" : "animals84",
+    "word" : "kedi yavrusu"
+  },
+  {
+    "id" : "animals85",
+    "word" : "amerika papağanı"
+  },
+  {
+    "id" : "animals86",
+    "word" : "fare"
+  },
+  {
+    "id" : "animals87",
+    "word" : "yavru köpek"
+  },
+  {
+    "id" : "animals88",
+    "word" : "tavşan"
+  },
+  {
+    "id" : "animals89",
+    "word" : "tosbağa"
+  }
+]

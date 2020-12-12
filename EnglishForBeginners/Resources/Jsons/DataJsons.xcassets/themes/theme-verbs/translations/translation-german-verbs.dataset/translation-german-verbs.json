@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "balancieren"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "schlagen"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "kontrollieren"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "weinen"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "tanzen"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "fallen"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "springen"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "starten"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "laufen"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "singen"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "sitzen"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "schlafen"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "lächeln"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "stehen"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "gehen"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "bürsten"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "zerkleinern"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "putzen"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "kochen"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "zeichnen"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "trinken"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "trocknen"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "essen"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "üben"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "blinken"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "lesen"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "rasieren"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "aufwachen"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "waschen"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "schreiben"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "fahren"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "raspeln"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "helfen"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "einschlagen"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "melken"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "öffnen"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "abschicken"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "entspannen"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "rollen"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "hüpfen"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "sprechen"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "drücken"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "schwimmen"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "schwingen"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "eine Nachricht schreiben"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "applaudieren"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "backen"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "berechnen"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "jagen"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "dekorieren"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "eintreten"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "hämmern"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "joggen"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "knien"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "marschieren"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "spielen"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "umkehren"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "reiben"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "rauchen"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "winken"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "streiten"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "verhaften"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "campen"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "tragen"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "tropfen"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "trommeln"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "floaten"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "begrüßen"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "stricken"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "zeigen"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "pumpen"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "nähen"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "gleiten"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "schneien"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "verdrehen"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "beißen"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "segnen"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "bowlen"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "brennen"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "anfeuern"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "kämmen"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "kriechen"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "filmen"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "schweben"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "schmelzen"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "mischen"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "paddeln"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "picken"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "polieren"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "strecken"
+  }
+]

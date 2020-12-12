@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "letiště"
+  },
+  {
+    "id" : "travel1",
+    "word" : "ulička"
+  },
+  {
+    "id" : "travel2",
+    "word" : "zavazadla"
+  },
+  {
+    "id" : "travel3",
+    "word" : "celní kontrola"
+  },
+  {
+    "id" : "travel4",
+    "word" : "jezdící schody"
+  },
+  {
+    "id" : "travel5",
+    "word" : "letuška"
+  },
+  {
+    "id" : "travel6",
+    "word" : "příruční zavazadlo"
+  },
+  {
+    "id" : "travel7",
+    "word" : "jídlo na palubě"
+  },
+  {
+    "id" : "travel8",
+    "word" : "cestovní pas"
+  },
+  {
+    "id" : "travel9",
+    "word" : "pilot"
+  },
+  {
+    "id" : "travel10",
+    "word" : "letadlo"
+  },
+  {
+    "id" : "travel11",
+    "word" : "přistávací dráha"
+  },
+  {
+    "id" : "travel12",
+    "word" : "jezdící chodník"
+  },
+  {
+    "id" : "travel13",
+    "word" : "stůl"
+  },
+  {
+    "id" : "travel14",
+    "word" : "okno"
+  },
+  {
+    "id" : "travel15",
+    "word" : "baht"
+  },
+  {
+    "id" : "travel16",
+    "word" : "dolar"
+  },
+  {
+    "id" : "travel17",
+    "word" : "euro"
+  },
+  {
+    "id" : "travel18",
+    "word" : "peso"
+  },
+  {
+    "id" : "travel19",
+    "word" : "libra"
+  },
+  {
+    "id" : "travel20",
+    "word" : "rand"
+  },
+  {
+    "id" : "travel21",
+    "word" : "real"
+  },
+  {
+    "id" : "travel22",
+    "word" : "rubl"
+  },
+  {
+    "id" : "travel23",
+    "word" : "rupie"
+  },
+  {
+    "id" : "travel24",
+    "word" : "rupiah"
+  },
+  {
+    "id" : "travel25",
+    "word" : "šekel"
+  },
+  {
+    "id" : "travel26",
+    "word" : "švýcarský frank"
+  },
+  {
+    "id" : "travel27",
+    "word" : "won"
+  },
+  {
+    "id" : "travel28",
+    "word" : "jen"
+  },
+  {
+    "id" : "travel29",
+    "word" : "yuan"
+  },
+  {
+    "id" : "travel30",
+    "word" : "Amsterdam"
+  },
+  {
+    "id" : "travel31",
+    "word" : "Athény"
+  },
+  {
+    "id" : "travel32",
+    "word" : "Káhira"
+  },
+  {
+    "id" : "travel33",
+    "word" : "Edinburgh"
+  },
+  {
+    "id" : "travel34",
+    "word" : "Hongkong"
+  },
+  {
+    "id" : "travel35",
+    "word" : "Istanbul"
+  },
+  {
+    "id" : "travel36",
+    "word" : "Jeruzalém"
+  },
+  {
+    "id" : "travel37",
+    "word" : "Londýn"
+  },
+  {
+    "id" : "travel38",
+    "word" : "Moskva"
+  },
+  {
+    "id" : "travel39",
+    "word" : "New York"
+  },
+  {
+    "id" : "travel40",
+    "word" : "Paříž"
+  },
+  {
+    "id" : "travel41",
+    "word" : "Rio de Janeiro"
+  },
+  {
+    "id" : "travel42",
+    "word" : "Řím"
+  },
+  {
+    "id" : "travel43",
+    "word" : "San Francisco"
+  },
+  {
+    "id" : "travel44",
+    "word" : "Sydney"
+  },
+  {
+    "id" : "travel45",
+    "word" : "Agra"
+  },
+  {
+    "id" : "travel46",
+    "word" : "Peking"
+  },
+  {
+    "id" : "travel47",
+    "word" : "Berlín"
+  },
+  {
+    "id" : "travel48",
+    "word" : "Budapešť"
+  },
+  {
+    "id" : "travel49",
+    "word" : "Kapské město"
+  },
+  {
+    "id" : "travel50",
+    "word" : "Kodaň"
+  },
+  {
+    "id" : "travel51",
+    "word" : "Dubaj"
+  },
+  {
+    "id" : "travel52",
+    "word" : "Hollywood"
+  },
+  {
+    "id" : "travel53",
+    "word" : "Kuala Lumpur"
+  },
+  {
+    "id" : "travel54",
+    "word" : "Mekka"
+  },
+  {
+    "id" : "travel55",
+    "word" : "Singapur"
+  },
+  {
+    "id" : "travel56",
+    "word" : "Petrohrad"
+  },
+  {
+    "id" : "travel57",
+    "word" : "Tokio"
+  },
+  {
+    "id" : "travel58",
+    "word" : "Benátky"
+  },
+  {
+    "id" : "travel59",
+    "word" : "Jangon"
+  },
+  {
+    "id" : "travel60",
+    "word" : "portýr"
+  },
+  {
+    "id" : "travel61",
+    "word" : "patrové postele"
+  },
+  {
+    "id" : "travel62",
+    "word" : "výtah"
+  },
+  {
+    "id" : "travel63",
+    "word" : "pokoj"
+  },
+  {
+    "id" : "travel64",
+    "word" : "foyer"
+  },
+  {
+    "id" : "travel65",
+    "word" : "jacuzzi"
+  },
+  {
+    "id" : "travel66",
+    "word" : "bazén"
+  },
+  {
+    "id" : "travel67",
+    "word" : "recepce"
+  },
+  {
+    "id" : "travel68",
+    "word" : "pokojový klíč"
+  },
+  {
+    "id" : "travel69",
+    "word" : "číslo pokoje"
+  },
+  {
+    "id" : "travel70",
+    "word" : "pokojová služba"
+  },
+  {
+    "id" : "travel71",
+    "word" : "trezor"
+  },
+  {
+    "id" : "travel72",
+    "word" : "kufr"
+  },
+  {
+    "id" : "travel73",
+    "word" : "komorník"
+  },
+  {
+    "id" : "travel74",
+    "word" : "výhled"
+  },
+  {
+    "id" : "travel75",
+    "word" : "Angkor Wat"
+  },
+  {
+    "id" : "travel76",
+    "word" : "Big Ben"
+  },
+  {
+    "id" : "travel77",
+    "word" : "modrá mešita"
+  },
+  {
+    "id" : "travel78",
+    "word" : "Koloseum"
+  },
+  {
+    "id" : "travel79",
+    "word" : "Eiffelova věž"
+  },
+  {
+    "id" : "travel80",
+    "word" : "Grand Canyon"
+  },
+  {
+    "id" : "travel81",
+    "word" : "velká zeď"
+  },
+  {
+    "id" : "travel82",
+    "word" : "malá mořská víla"
+  },
+  {
+    "id" : "travel83",
+    "word" : "londýnský most"
+  },
+  {
+    "id" : "travel84",
+    "word" : "Louvre"
+  },
+  {
+    "id" : "travel85",
+    "word" : "Machu Picchu"
+  },
+  {
+    "id" : "travel86",
+    "word" : "petra"
+  },
+  {
+    "id" : "travel87",
+    "word" : "pyramidy"
+  },
+  {
+    "id" : "travel88",
+    "word" : "sfinga"
+  },
+  {
+    "id" : "travel89",
+    "word" : "Times Square"
+  }
+]

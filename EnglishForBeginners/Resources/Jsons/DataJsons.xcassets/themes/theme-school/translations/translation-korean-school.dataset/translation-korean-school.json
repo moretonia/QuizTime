@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "미술관"
+  },
+  {
+    "id" : "school1",
+    "word" : "붓"
+  },
+  {
+    "id" : "school2",
+    "word" : "목탄"
+  },
+  {
+    "id" : "school3",
+    "word" : "이젤"
+  },
+  {
+    "id" : "school4",
+    "word" : "풍경화"
+  },
+  {
+    "id" : "school5",
+    "word" : "벽화"
+  },
+  {
+    "id" : "school6",
+    "word" : "유화 물감"
+  },
+  {
+    "id" : "school7",
+    "word" : "팔레트"
+  },
+  {
+    "id" : "school8",
+    "word" : "암각화"
+  },
+  {
+    "id" : "school9",
+    "word" : "사진"
+  },
+  {
+    "id" : "school10",
+    "word" : "초상화"
+  },
+  {
+    "id" : "school11",
+    "word" : "조각"
+  },
+  {
+    "id" : "school12",
+    "word" : "스케치"
+  },
+  {
+    "id" : "school13",
+    "word" : "정물화"
+  },
+  {
+    "id" : "school14",
+    "word" : "수경화"
+  },
+  {
+    "id" : "school15",
+    "word" : "아코디언"
+  },
+  {
+    "id" : "school16",
+    "word" : "밴조"
+  },
+  {
+    "id" : "school17",
+    "word" : "나팔"
+  },
+  {
+    "id" : "school18",
+    "word" : "심벌즈"
+  },
+  {
+    "id" : "school19",
+    "word" : "더블 베이스"
+  },
+  {
+    "id" : "school20",
+    "word" : "드럼"
+  },
+  {
+    "id" : "school21",
+    "word" : "플루트"
+  },
+  {
+    "id" : "school22",
+    "word" : "기타"
+  },
+  {
+    "id" : "school23",
+    "word" : "하모니카"
+  },
+  {
+    "id" : "school24",
+    "word" : "오르간"
+  },
+  {
+    "id" : "school25",
+    "word" : "피아노"
+  },
+  {
+    "id" : "school26",
+    "word" : "신시사이저"
+  },
+  {
+    "id" : "school27",
+    "word" : "트롬본"
+  },
+  {
+    "id" : "school28",
+    "word" : "트럼펫"
+  },
+  {
+    "id" : "school29",
+    "word" : "바이올린"
+  },
+  {
+    "id" : "school30",
+    "word" : "조회"
+  },
+  {
+    "id" : "school31",
+    "word" : "칠판"
+  },
+  {
+    "id" : "school32",
+    "word" : "매점"
+  },
+  {
+    "id" : "school33",
+    "word" : "수업"
+  },
+  {
+    "id" : "school34",
+    "word" : "교실"
+  },
+  {
+    "id" : "school35",
+    "word" : "책상"
+  },
+  {
+    "id" : "school36",
+    "word" : "지구본"
+  },
+  {
+    "id" : "school37",
+    "word" : "체육관"
+  },
+  {
+    "id" : "school38",
+    "word" : "실험실"
+  },
+  {
+    "id" : "school39",
+    "word" : "도시락"
+  },
+  {
+    "id" : "school40",
+    "word" : "학사모"
+  },
+  {
+    "id" : "school41",
+    "word" : "운동장"
+  },
+  {
+    "id" : "school42",
+    "word" : "학생용 넥타이"
+  },
+  {
+    "id" : "school43",
+    "word" : "교과서"
+  },
+  {
+    "id" : "school44",
+    "word" : "화이트보드"
+  },
+  {
+    "id" : "school45",
+    "word" : "미술"
+  },
+  {
+    "id" : "school46",
+    "word" : "생물학"
+  },
+  {
+    "id" : "school47",
+    "word" : "화학"
+  },
+  {
+    "id" : "school48",
+    "word" : "춤"
+  },
+  {
+    "id" : "school49",
+    "word" : "영어"
+  },
+  {
+    "id" : "school50",
+    "word" : "시험지"
+  },
+  {
+    "id" : "school51",
+    "word" : "시험"
+  },
+  {
+    "id" : "school52",
+    "word" : "체육"
+  },
+  {
+    "id" : "school53",
+    "word" : "프랑스어"
+  },
+  {
+    "id" : "school54",
+    "word" : "지리학"
+  },
+  {
+    "id" : "school55",
+    "word" : "기하학"
+  },
+  {
+    "id" : "school56",
+    "word" : "수학"
+  },
+  {
+    "id" : "school57",
+    "word" : "물리학"
+  },
+  {
+    "id" : "school58",
+    "word" : "로봇 공학"
+  },
+  {
+    "id" : "school59",
+    "word" : "공부"
+  },
+  {
+    "id" : "school60",
+    "word" : "계산기"
+  },
+  {
+    "id" : "school61",
+    "word" : "컴퍼스"
+  },
+  {
+    "id" : "school62",
+    "word" : "크레용"
+  },
+  {
+    "id" : "school63",
+    "word" : "봉투"
+  },
+  {
+    "id" : "school64",
+    "word" : "지우개"
+  },
+  {
+    "id" : "school65",
+    "word" : "노트"
+  },
+  {
+    "id" : "school66",
+    "word" : "클립"
+  },
+  {
+    "id" : "school67",
+    "word" : "펜"
+  },
+  {
+    "id" : "school68",
+    "word" : "연필"
+  },
+  {
+    "id" : "school69",
+    "word" : "프린트"
+  },
+  {
+    "id" : "school70",
+    "word" : "각도기"
+  },
+  {
+    "id" : "school71",
+    "word" : "자"
+  },
+  {
+    "id" : "school72",
+    "word" : "스테이플러"
+  },
+  {
+    "id" : "school73",
+    "word" : "전자펜"
+  },
+  {
+    "id" : "school74",
+    "word" : "타블릿"
+  },
+  {
+    "id" : "school75",
+    "word" : "알파벳"
+  },
+  {
+    "id" : "school76",
+    "word" : "책"
+  },
+  {
+    "id" : "school77",
+    "word" : "캘리그라피"
+  },
+  {
+    "id" : "school78",
+    "word" : "사전"
+  },
+  {
+    "id" : "school79",
+    "word" : "전자책"
+  },
+  {
+    "id" : "school80",
+    "word" : "손글씨"
+  },
+  {
+    "id" : "school81",
+    "word" : "색인"
+  },
+  {
+    "id" : "school82",
+    "word" : "잡지"
+  },
+  {
+    "id" : "school83",
+    "word" : "음악"
+  },
+  {
+    "id" : "school84",
+    "word" : "신문"
+  },
+  {
+    "id" : "school85",
+    "word" : "플래너"
+  },
+  {
+    "id" : "school86",
+    "word" : "작사가"
+  },
+  {
+    "id" : "school87",
+    "word" : "포스트잇"
+  },
+  {
+    "id" : "school88",
+    "word" : "스도쿠"
+  },
+  {
+    "id" : "school89",
+    "word" : "타자"
+  }
+]

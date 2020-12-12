@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "艺术画廊"
+  },
+  {
+    "id" : "school1",
+    "word" : "画笔"
+  },
+  {
+    "id" : "school2",
+    "word" : "炭笔"
+  },
+  {
+    "id" : "school3",
+    "word" : "画架"
+  },
+  {
+    "id" : "school4",
+    "word" : "景观"
+  },
+  {
+    "id" : "school5",
+    "word" : "壁画"
+  },
+  {
+    "id" : "school6",
+    "word" : "油画"
+  },
+  {
+    "id" : "school7",
+    "word" : "调色板"
+  },
+  {
+    "id" : "school8",
+    "word" : "岩画"
+  },
+  {
+    "id" : "school9",
+    "word" : "照片"
+  },
+  {
+    "id" : "school10",
+    "word" : "肖像"
+  },
+  {
+    "id" : "school11",
+    "word" : "雕塑"
+  },
+  {
+    "id" : "school12",
+    "word" : "素描"
+  },
+  {
+    "id" : "school13",
+    "word" : "静物"
+  },
+  {
+    "id" : "school14",
+    "word" : "水上风景"
+  },
+  {
+    "id" : "school15",
+    "word" : "手风琴"
+  },
+  {
+    "id" : "school16",
+    "word" : "班卓琴"
+  },
+  {
+    "id" : "school17",
+    "word" : "军号"
+  },
+  {
+    "id" : "school18",
+    "word" : "钹"
+  },
+  {
+    "id" : "school19",
+    "word" : "低音提琴"
+  },
+  {
+    "id" : "school20",
+    "word" : "鼓"
+  },
+  {
+    "id" : "school21",
+    "word" : "长笛"
+  },
+  {
+    "id" : "school22",
+    "word" : "吉他"
+  },
+  {
+    "id" : "school23",
+    "word" : "口琴"
+  },
+  {
+    "id" : "school24",
+    "word" : "风琴"
+  },
+  {
+    "id" : "school25",
+    "word" : "钢琴"
+  },
+  {
+    "id" : "school26",
+    "word" : "合成器"
+  },
+  {
+    "id" : "school27",
+    "word" : "长号"
+  },
+  {
+    "id" : "school28",
+    "word" : "小号"
+  },
+  {
+    "id" : "school29",
+    "word" : "小提琴"
+  },
+  {
+    "id" : "school30",
+    "word" : "集会"
+  },
+  {
+    "id" : "school31",
+    "word" : "黑板"
+  },
+  {
+    "id" : "school32",
+    "word" : "食堂"
+  },
+  {
+    "id" : "school33",
+    "word" : "班级"
+  },
+  {
+    "id" : "school34",
+    "word" : "教室"
+  },
+  {
+    "id" : "school35",
+    "word" : "课桌"
+  },
+  {
+    "id" : "school36",
+    "word" : "地球仪"
+  },
+  {
+    "id" : "school37",
+    "word" : "体育馆"
+  },
+  {
+    "id" : "school38",
+    "word" : "实验室"
+  },
+  {
+    "id" : "school39",
+    "word" : "饭盒"
+  },
+  {
+    "id" : "school40",
+    "word" : "学士帽"
+  },
+  {
+    "id" : "school41",
+    "word" : "操场"
+  },
+  {
+    "id" : "school42",
+    "word" : "校服领带"
+  },
+  {
+    "id" : "school43",
+    "word" : "教科书"
+  },
+  {
+    "id" : "school44",
+    "word" : "白板"
+  },
+  {
+    "id" : "school45",
+    "word" : "艺术"
+  },
+  {
+    "id" : "school46",
+    "word" : "生物"
+  },
+  {
+    "id" : "school47",
+    "word" : "化学"
+  },
+  {
+    "id" : "school48",
+    "word" : "舞蹈"
+  },
+  {
+    "id" : "school49",
+    "word" : "英语"
+  },
+  {
+    "id" : "school50",
+    "word" : "试卷"
+  },
+  {
+    "id" : "school51",
+    "word" : "考试"
+  },
+  {
+    "id" : "school52",
+    "word" : "健身"
+  },
+  {
+    "id" : "school53",
+    "word" : "法语"
+  },
+  {
+    "id" : "school54",
+    "word" : "地理"
+  },
+  {
+    "id" : "school55",
+    "word" : "几何"
+  },
+  {
+    "id" : "school56",
+    "word" : "数学"
+  },
+  {
+    "id" : "school57",
+    "word" : "物理"
+  },
+  {
+    "id" : "school58",
+    "word" : "机器人科学技术"
+  },
+  {
+    "id" : "school59",
+    "word" : "研究"
+  },
+  {
+    "id" : "school60",
+    "word" : "计算器"
+  },
+  {
+    "id" : "school61",
+    "word" : "指南针"
+  },
+  {
+    "id" : "school62",
+    "word" : "蜡笔"
+  },
+  {
+    "id" : "school63",
+    "word" : "信封"
+  },
+  {
+    "id" : "school64",
+    "word" : "橡皮擦"
+  },
+  {
+    "id" : "school65",
+    "word" : "笔记本"
+  },
+  {
+    "id" : "school66",
+    "word" : "回形针"
+  },
+  {
+    "id" : "school67",
+    "word" : "笔"
+  },
+  {
+    "id" : "school68",
+    "word" : "铅笔"
+  },
+  {
+    "id" : "school69",
+    "word" : "打印"
+  },
+  {
+    "id" : "school70",
+    "word" : "量角器"
+  },
+  {
+    "id" : "school71",
+    "word" : "尺"
+  },
+  {
+    "id" : "school72",
+    "word" : "订书机"
+  },
+  {
+    "id" : "school73",
+    "word" : "触控笔"
+  },
+  {
+    "id" : "school74",
+    "word" : "平板电脑"
+  },
+  {
+    "id" : "school75",
+    "word" : "字母表"
+  },
+  {
+    "id" : "school76",
+    "word" : "书"
+  },
+  {
+    "id" : "school77",
+    "word" : "书法"
+  },
+  {
+    "id" : "school78",
+    "word" : "字典"
+  },
+  {
+    "id" : "school79",
+    "word" : "电子书"
+  },
+  {
+    "id" : "school80",
+    "word" : "手写"
+  },
+  {
+    "id" : "school81",
+    "word" : "索引"
+  },
+  {
+    "id" : "school82",
+    "word" : "杂志"
+  },
+  {
+    "id" : "school83",
+    "word" : "音乐"
+  },
+  {
+    "id" : "school84",
+    "word" : "报纸"
+  },
+  {
+    "id" : "school85",
+    "word" : "记事簿"
+  },
+  {
+    "id" : "school86",
+    "word" : "作曲家"
+  },
+  {
+    "id" : "school87",
+    "word" : "便利贴"
+  },
+  {
+    "id" : "school88",
+    "word" : "数独"
+  },
+  {
+    "id" : "school89",
+    "word" : "打字"
+  }
+]

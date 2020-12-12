@@ -1,0 +1,133 @@
+ {
+   "id": 3,
+   "name": "Beliefs",
+   "imageName": "beliefs",
+   "topics": [
+      {
+         "name": "Ceremonies",
+         "imageName": "beliefs-topic-1",
+         "vocabularyItemIds": [
+            "beliefs0",
+            "beliefs1",
+            "beliefs2",
+            "beliefs3",
+            "beliefs4",
+            "beliefs5",
+            "beliefs6",
+            "beliefs7",
+            "beliefs8",
+            "beliefs9",
+            "beliefs10",
+            "beliefs11",
+            "beliefs12",
+            "beliefs13",
+            "beliefs14"
+         ]
+      },
+      {
+         "name": "Christmas",
+         "imageName": "beliefs-topic-2",
+         "vocabularyItemIds": [
+            "beliefs15",
+            "beliefs16",
+            "beliefs17",
+            "beliefs18",
+            "beliefs19",
+            "beliefs20",
+            "beliefs21",
+            "beliefs22",
+            "beliefs23",
+            "beliefs24",
+            "beliefs25",
+            "beliefs26",
+            "beliefs27",
+            "beliefs28",
+            "beliefs29"
+         ]
+      },
+      {
+         "name": "Church",
+         "imageName": "beliefs-topic-3",
+         "vocabularyItemIds": [
+            "beliefs30",
+            "beliefs31",
+            "beliefs32",
+            "beliefs33",
+            "beliefs34",
+            "beliefs35",
+            "beliefs36",
+            "beliefs37",
+            "beliefs38",
+            "beliefs39",
+            "beliefs40",
+            "beliefs41",
+            "beliefs42",
+            "beliefs43",
+            "beliefs44"
+         ]
+      },
+      {
+         "name": "Good Luck",
+         "imageName": "beliefs-topic-4",
+         "vocabularyItemIds": [
+            "beliefs45",
+            "beliefs46",
+            "beliefs47",
+            "beliefs48",
+            "beliefs49",
+            "beliefs50",
+            "beliefs51",
+            "beliefs52",
+            "beliefs53",
+            "beliefs54",
+            "beliefs55",
+            "beliefs56",
+            "beliefs57",
+            "beliefs58",
+            "beliefs59"
+         ]
+      },
+      {
+         "name": "Religion",
+         "imageName": "beliefs-topic-5",
+         "vocabularyItemIds": [
+            "beliefs60",
+            "beliefs61",
+            "beliefs62",
+            "beliefs63",
+            "beliefs64",
+            "beliefs65",
+            "beliefs66",
+            "beliefs67",
+            "beliefs68",
+            "beliefs69",
+            "beliefs70",
+            "beliefs71",
+            "beliefs72",
+            "beliefs73",
+            "beliefs74"
+         ]
+      },
+      {
+         "name": "Zodiac",
+         "imageName": "beliefs-topic-6",
+         "vocabularyItemIds": [
+            "beliefs75",
+            "beliefs76",
+            "beliefs77",
+            "beliefs78",
+            "beliefs79",
+            "beliefs80",
+            "beliefs81",
+            "beliefs82",
+            "beliefs83",
+            "beliefs84",
+            "beliefs85",
+            "beliefs86",
+            "beliefs87",
+            "beliefs88",
+            "beliefs89"
+         ]
+      }
+   ]
+}

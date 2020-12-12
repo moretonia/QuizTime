@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "优势"
+  },
+  {
+    "id" : "business1",
+    "word" : "推广"
+  },
+  {
+    "id" : "business2",
+    "word" : "账单"
+  },
+  {
+    "id" : "business3",
+    "word" : "预算"
+  },
+  {
+    "id" : "business4",
+    "word" : "比较"
+  },
+  {
+    "id" : "business5",
+    "word" : "竞争对手"
+  },
+  {
+    "id" : "business6",
+    "word" : "确认"
+  },
+  {
+    "id" : "business7",
+    "word" : "客户"
+  },
+  {
+    "id" : "business8",
+    "word" : "截止日期"
+  },
+  {
+    "id" : "business9",
+    "word" : "债务"
+  },
+  {
+    "id" : "business10",
+    "word" : "决定"
+  },
+  {
+    "id" : "business11",
+    "word" : "送货"
+  },
+  {
+    "id" : "business12",
+    "word" : "价格"
+  },
+  {
+    "id" : "business13",
+    "word" : "时间表"
+  },
+  {
+    "id" : "business14",
+    "word" : "团队工作"
+  },
+  {
+    "id" : "business15",
+    "word" : "评估"
+  },
+  {
+    "id" : "business16",
+    "word" : "介绍"
+  },
+  {
+    "id" : "business17",
+    "word" : "配送"
+  },
+  {
+    "id" : "business18",
+    "word" : "雇员"
+  },
+  {
+    "id" : "business19",
+    "word" : "雇主"
+  },
+  {
+    "id" : "business20",
+    "word" : "工厂"
+  },
+  {
+    "id" : "business21",
+    "word" : "增长"
+  },
+  {
+    "id" : "business22",
+    "word" : "经理"
+  },
+  {
+    "id" : "business23",
+    "word" : "指示"
+  },
+  {
+    "id" : "business24",
+    "word" : "面试"
+  },
+  {
+    "id" : "business25",
+    "word" : "发票"
+  },
+  {
+    "id" : "business26",
+    "word" : "损失"
+  },
+  {
+    "id" : "business27",
+    "word" : "机械"
+  },
+  {
+    "id" : "business28",
+    "word" : "商品"
+  },
+  {
+    "id" : "business29",
+    "word" : "贮存"
+  },
+  {
+    "id" : "business30",
+    "word" : "取消"
+  },
+  {
+    "id" : "business31",
+    "word" : "兑换"
+  },
+  {
+    "id" : "business32",
+    "word" : "反馈"
+  },
+  {
+    "id" : "business33",
+    "word" : "安装"
+  },
+  {
+    "id" : "business34",
+    "word" : "订单"
+  },
+  {
+    "id" : "business35",
+    "word" : "付款"
+  },
+  {
+    "id" : "business36",
+    "word" : "罚款"
+  },
+  {
+    "id" : "business37",
+    "word" : "产品"
+  },
+  {
+    "id" : "business38",
+    "word" : "促销"
+  },
+  {
+    "id" : "business39",
+    "word" : "拒绝"
+  },
+  {
+    "id" : "business40",
+    "word" : "修复"
+  },
+  {
+    "id" : "business41",
+    "word" : "报告"
+  },
+  {
+    "id" : "business42",
+    "word" : "薪资"
+  },
+  {
+    "id" : "business43",
+    "word" : "装运"
+  },
+  {
+    "id" : "business44",
+    "word" : "目标"
+  },
+  {
+    "id" : "business45",
+    "word" : "古董"
+  },
+  {
+    "id" : "business46",
+    "word" : "人工制品"
+  },
+  {
+    "id" : "business47",
+    "word" : "漫画"
+  },
+  {
+    "id" : "business48",
+    "word" : "钻石"
+  },
+  {
+    "id" : "business49",
+    "word" : "塑像"
+  },
+  {
+    "id" : "business50",
+    "word" : "化石"
+  },
+  {
+    "id" : "business51",
+    "word" : "金币"
+  },
+  {
+    "id" : "business52",
+    "word" : "模型车"
+  },
+  {
+    "id" : "business53",
+    "word" : "海报"
+  },
+  {
+    "id" : "business54",
+    "word" : "红宝石"
+  },
+  {
+    "id" : "business55",
+    "word" : "蓝宝石"
+  },
+  {
+    "id" : "business56",
+    "word" : "银器"
+  },
+  {
+    "id" : "business57",
+    "word" : "邮票"
+  },
+  {
+    "id" : "business58",
+    "word" : "老爷车"
+  },
+  {
+    "id" : "business59",
+    "word" : "艺术作品"
+  },
+  {
+    "id" : "business60",
+    "word" : "现金"
+  },
+  {
+    "id" : "business61",
+    "word" : "出纳员"
+  },
+  {
+    "id" : "business62",
+    "word" : "信用卡"
+  },
+  {
+    "id" : "business63",
+    "word" : "名录"
+  },
+  {
+    "id" : "business64",
+    "word" : "试衣室"
+  },
+  {
+    "id" : "business65",
+    "word" : "键盘"
+  },
+  {
+    "id" : "business66",
+    "word" : "寻找"
+  },
+  {
+    "id" : "business67",
+    "word" : "支付"
+  },
+  {
+    "id" : "business68",
+    "word" : "价格标签"
+  },
+  {
+    "id" : "business69",
+    "word" : "销售"
+  },
+  {
+    "id" : "business70",
+    "word" : "购物袋"
+  },
+  {
+    "id" : "business71",
+    "word" : "购物"
+  },
+  {
+    "id" : "business72",
+    "word" : "交易"
+  },
+  {
+    "id" : "business73",
+    "word" : "试穿"
+  },
+  {
+    "id" : "business74",
+    "word" : "取款"
+  },
+  {
+    "id" : "business75",
+    "word" : "面包店"
+  },
+  {
+    "id" : "business76",
+    "word" : "书店"
+  },
+  {
+    "id" : "business77",
+    "word" : "肉店"
+  },
+  {
+    "id" : "business78",
+    "word" : "蛋糕店"
+  },
+  {
+    "id" : "business79",
+    "word" : "药房"
+  },
+  {
+    "id" : "business80",
+    "word" : "服装店"
+  },
+  {
+    "id" : "business81",
+    "word" : "炸鱼薯条店"
+  },
+  {
+    "id" : "business82",
+    "word" : "花店"
+  },
+  {
+    "id" : "business83",
+    "word" : "水果店"
+  },
+  {
+    "id" : "business84",
+    "word" : "珠宝首饰"
+  },
+  {
+    "id" : "business85",
+    "word" : "市场"
+  },
+  {
+    "id" : "business86",
+    "word" : "网上商店"
+  },
+  {
+    "id" : "business87",
+    "word" : "鞋店"
+  },
+  {
+    "id" : "business88",
+    "word" : "玩具店"
+  },
+  {
+    "id" : "business89",
+    "word" : "旅行社"
+  }
+]

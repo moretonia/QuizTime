@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "jałmużna"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "komunia"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "kremacja"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "ukończenie nauki"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "pielgrzymka"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "kadzidło"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "kava"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "puszczanie lampionów"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "otwarcie"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "modlitwa"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "czerwony dywan"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "przejście na emeryturę"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "królewski hołd"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "songkran"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "ceremonia herbaciana"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "świeca"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "kartka świąteczna"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "choinka"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "elf"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "piernik"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "ostrokrzew"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "Narodzenie"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "prezenty"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "pudding"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "renifer"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "Święty Mikołaj"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "sanie"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "bałwan"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "skarpeta"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "indyk"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "ołtarz"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "apsyda"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "chrzest"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "krzyż"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "biblia"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "kielich"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "chór"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "zgromadzenie"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "pogrzeb"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "cmentarz"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "nawy"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "kaznodzieja"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "pulpit"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "wieża kościelna"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "ślub"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "żołędzie"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "bursztyn"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "koniczyna"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "skrzyżowane palce"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "kryształ"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "delfiny"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "feng shui"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "podkowa"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "gnom"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "szczęśliwy bambus"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "szczęśliwy kot"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "meteory"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "tęcza"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "skarabeusz"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "kostka"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "Budda"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "katedra"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "Konfucjusz"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "imam"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "Jezus"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "monastyr"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "mnich"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "meczet"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "zakonnica"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "ksiądz"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "rabin"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "shinto"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "sikh"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "synagoga"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "taoizm"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "wodnik"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "baran"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "rak"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "koziorożec"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "szklana kula"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "bliźnięta"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "horoskop"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "lew"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "waga"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "ryby"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "strzelec"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "skorpion"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "karty tarota"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "byk"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "panna"
+  }
+]

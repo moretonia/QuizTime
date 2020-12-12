@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "Działy";
+"3-themes" = "3 Działy";
+"6-topics" = "6 Tematów";
+"90-words" = "90 Słów";
+"words" = "Słowa Zobacz";
+"view" = "Zobacz";
+"main-buy-button" = "Kup";
+
+// Topics
+"matching" = "Pasujące";
+"translation" = "Tłumaczenie";
+"pronunciation" = "Wymowa";
+"spelling" = "Pisownia";
+"dictionary" = "Słownik";
+"buy-theme" = "Kup Motyw";
+"locked" = "Zablokowany";
+
+// Quiz
+"some-theme-quiz" = "%@\nQuiz tematyczny";
+"collect-stars-to-unlock" = "Zdobądź %d gwiazdek aby odblokować quiz";
+"can-start-quiz" = "Możesz rozpocząć quiz";
+"quiz" = "Quiz";
+"pass-quiz-again" = "Zdaj quiz ponownie i zdobądź więcej doświadczenia";
+"repeat" = "Powtórz";
+
+// Match Level
+"match" = "Dopasuj";
+"verify" = "Sprawdź";
+
+// Translate level
+"translate" = "Tłumacz";
+"wrong" = "Źle";
+"next" = "Następny";
+
+// Spelling level
+"spell" = "Powiedz";
+"english-translation" = "Angielskie tłumaczenie";
+
+// Listen & Say level
+"listen-and-say" = "Słuchaj & Powtórz";
+"try-again" = "Proszę spróbuj ponownie";
+
+// Alerts
+"warning" = "Ostrzeżenie";
+"progress-lost" = "Czy chcesz zamknąć poziom? Wszystkie postępy zostaną utracone";
+"cancel" = "Anuluj";
+"close" = "Zamknij";
+"quiz-fail" = "Niestety nie zaliczyłeś quizu";
+"not-pass-level" = "Niestety nie zdałeś tego poziomu";
+"back-to-theme" = "Powrót do działu";
+"retry" = "Powtórz";
+
+// Profile
+/*"profile" = "Profil";
+"experience" = "Doświadczenie";
+"skills" = "Umiejętności";
+"next-level" = "Następny: %d";
+
+// Ranks
+"beginner" = "Początkujący";
+"pupil" = "Uczeń";
+"student" = "Student";
+"connoisseur" = "Koneser";
+"outstanding" = "Wybitny";
+"specialist" = "Specjalista";
+"pro" = "Pro";
+"master" = "Mistrz";
+"magister" = "Magister";
+"guru" = "Guru";
+"sage" = "Mędrzec";
+"enlightened" = "Oświecony";
+"oracle" = "Wyrocznia";
+"genius" = "Geniusz";
+"higher-mind" = "Wyższy umysł";
+"supermind" = "Supermózg";
+
+// Profile
+"leaderboard" = "Tablica wyników";
+"restore-purchases" = "Przywróć zakupy";
+"rate-us" = "Oceń nas";
+"share" = "Podziel się";
+"change-language" = "Zmień język";
+"about-us" = "O nas";*/
+
+// Sharing
+"experience-and-rank-share" = "Mam %d doświadczenia w Quiz Time, a moja ranga to \"%@\".";
+"new-rank-share" = "Osiągnąłem nową pozycję \"%@\" w Quiz Time! Spróbuj!";
+"experience-share" = "Zdobyłem %d doświadczenia w Quiz Time. Mój angielski jest coraz lepszy każdego dnia!";
+"1-star-share" = "Zdobyłem 1 gwiazdkę i %d doświadczenia. Uczę się angielskiego z przyjemnością w aplikacji Quiz Time.";
+"2-stars-share" = "Zdobyłem 2 gwiazdki i %d doświadczenia w Quiz Time. Spróbuj mnie prześcignąć!";
+"3-stars-share" = "Zdobyłem 3 gwiazdki i %d doświadczenia w Quiz Time. Mój angielski jest coraz lepszy każdego dnia!";
+
+// Language
+/*"my-language" = "Mój język ojczysty";
+"ok" = "OK";
+
+// Congratulations
+"congratulations" = "Gratulacje!";
+"xp" = "+%d PD";
+"new-rank" = "Nowa Ranga";*/
+
+// About us
+"about-us-title" = "O nas";
+"model-english-mission" = "Aplikacja Quiz Time wzbogaci twoje słownictwo, pomoże poprawić wymowę i ortografię w formie gry.";
+"app-structure" = "Słowa w aplikacji są podzielone na działy, każdy dział składa się z 6 tematów i quizu na końcu. Każdy temat zawiera słownik  _  zawierający 15 słów.";
+"about-mechanics-description" = "Unikalne połączenie kilku mechanik gry pomoże ci opanować słowa szybko i sprawnie:";
+"matching" = "Dopasowywanie";
+"about-mechanics-matching-description" = "Na tym poziomie musisz wybrać odpowiedni obraz do słowa";
+"translation" = "Tłumaczenie";
+"about-mechanics-translator-description" = "wybierz właściwe tłumaczenie słowa";
+"pronunciation" = "Wymowa";
+"about-mechanics-pronunciation-description" = "Posłuchaj i wymów słowo. Upewnij się, że mikrofon jest włączony.";
+"spelling" = "Pisownia";
+"about-mechanics-spelling-description" = "Wprowadź słowo za pomocą klawiatury";
+"about-rewards-little-star-description" = "Za udane przejście poziomów otrzymujesz od 1 do 3 małych gwiazdek";
+"about-rewards-bronze-star-description" = "Dostajesz brązową gwiazdę, jeśli zdobędziesz co najmniej 50 małych gwiazd";
+"about-rewards-silver-star-description" = "Otrzymujesz srebrną gwiazdę, jeśli twój wynik to co najmniej 75 małych gwiazd";
+"about-rewards-golden-star-description" = "Otrzymujesz złotą gwiazdkę, gdy zdobywasz 100 małe gwiazdki";
+"about-rewards-passed-exam-description" = "Kapelusz akademicki symbolizuje udane zdanie quizu na temat";
+"about-rewards-description" = "Za przejście przez każdy poziom lub quiz, zdobywasz doświadczenie i różne stopnie: początkujący, mistrz i inni. Więcej informacji o twoich osiągnięciach znajdziesz w profilu  _ .";
+"copyright" = "Prawa autorskie © B. V. Rolandsen 2020";
+"design-and-development" = "Projektowanie i rozwój Bryan Rolandsen";
+
+// Alerts
+"correct" = "Poprawnie";
+"finish" = "Zakończ";
+"error" = "Błąd";
+"error-load-leaderboard" = "Błąd ładowania tablicy wyników. Spróbuj ponownie później";
+"timeout" = "Limit czasu upłynął";
+"speech-recognition-unavailable" = "Rozpoznawanie mowy jest niedostępne";
+"device-settings-for-speech" = "1. Sprawdź ustawienia urządzenia (Ustawienia -> Ogólne -> Klawiatura -> Włącz dyktowanie)";
+"check-internet-for-speech" = "2. Jeśli rozpoznawanie nadal nie działa, sprawdź połączenie internetowe i spróbuj ponownie";
+"already-cancel-auth" = "Zaloguj się na swoje konto Game Center, używając ustawień urządzenia";
+"settings" = "Ustawienia";
+"micro-usage-cancel" = "Odmowa dostępu do mikrofonu. Sprawdź ustawienia urządzenia";
+"speech-usage-cancel" = "Odmowa dostępu do rozpoznawania mowy. Sprawdź ustawienia urządzenia";
+"not-support-speech-recognition" = "Twoje urządzenie nie obsługuje rozpoznawania mowy";
+
+// Packs
+"main-pack-info" = "3 działy, 18 tematów, 270 słów";
+
+// Other
+"topics-count" = "6 tematów, 90 słów";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "Ubrania"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "Szyk"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "Elementy męskiej garderoby"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "Odzież sportowa"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "Ubrania damskie"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "Elementy damskiej garderoby"
+  }
+]

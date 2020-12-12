@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "almás pite"
+  },
+  {
+    "id" : "food1",
+    "word" : "baklava"
+  },
+  {
+    "id" : "food2",
+    "word" : "sajttorta"
+  },
+  {
+    "id" : "food3",
+    "word" : "keksz"
+  },
+  {
+    "id" : "food4",
+    "word" : "muffin"
+  },
+  {
+    "id" : "food5",
+    "word" : "fánk"
+  },
+  {
+    "id" : "food6",
+    "word" : "gyümölcstorta"
+  },
+  {
+    "id" : "food7",
+    "word" : "gyümölcssaláta"
+  },
+  {
+    "id" : "food8",
+    "word" : "jégkrém"
+  },
+  {
+    "id" : "food9",
+    "word" : "vagdalt húst tartalmazó pite"
+  },
+  {
+    "id" : "food10",
+    "word" : "palacsinta"
+  },
+  {
+    "id" : "food11",
+    "word" : "pavlova"
+  },
+  {
+    "id" : "food12",
+    "word" : "pogácsa"
+  },
+  {
+    "id" : "food13",
+    "word" : "fagylaltkehely"
+  },
+  {
+    "id" : "food14",
+    "word" : "gofri"
+  },
+  {
+    "id" : "food15",
+    "word" : "csirke"
+  },
+  {
+    "id" : "food16",
+    "word" : "hasábburgonya"
+  },
+  {
+    "id" : "food17",
+    "word" : "csokoládé"
+  },
+  {
+    "id" : "food18",
+    "word" : "tojás"
+  },
+  {
+    "id" : "food19",
+    "word" : "falafel"
+  },
+  {
+    "id" : "food20",
+    "word" : "hal"
+  },
+  {
+    "id" : "food21",
+    "word" : "sült rizs"
+  },
+  {
+    "id" : "food22",
+    "word" : "hamburger"
+  },
+  {
+    "id" : "food23",
+    "word" : "méz"
+  },
+  {
+    "id" : "food24",
+    "word" : "pite"
+  },
+  {
+    "id" : "food25",
+    "word" : "pizza"
+  },
+  {
+    "id" : "food26",
+    "word" : "szendvics"
+  },
+  {
+    "id" : "food27",
+    "word" : "kolbász"
+  },
+  {
+    "id" : "food28",
+    "word" : "steak"
+  },
+  {
+    "id" : "food29",
+    "word" : "tonhal saláta"
+  },
+  {
+    "id" : "food30",
+    "word" : "alma"
+  },
+  {
+    "id" : "food31",
+    "word" : "sárgabarack"
+  },
+  {
+    "id" : "food32",
+    "word" : "banán"
+  },
+  {
+    "id" : "food33",
+    "word" : "áfonya"
+  },
+  {
+    "id" : "food34",
+    "word" : "füge"
+  },
+  {
+    "id" : "food35",
+    "word" : "grapefruit"
+  },
+  {
+    "id" : "food36",
+    "word" : "szőlő"
+  },
+  {
+    "id" : "food37",
+    "word" : "citrom"
+  },
+  {
+    "id" : "food38",
+    "word" : "narancs"
+  },
+  {
+    "id" : "food39",
+    "word" : "maracuja"
+  },
+  {
+    "id" : "food40",
+    "word" : "őszibarack"
+  },
+  {
+    "id" : "food41",
+    "word" : "ananász"
+  },
+  {
+    "id" : "food42",
+    "word" : "szilva"
+  },
+  {
+    "id" : "food43",
+    "word" : "eper"
+  },
+  {
+    "id" : "food44",
+    "word" : "paradicsom"
+  },
+  {
+    "id" : "food45",
+    "word" : "avokádó"
+  },
+  {
+    "id" : "food46",
+    "word" : "cseresznye"
+  },
+  {
+    "id" : "food47",
+    "word" : "kókuszdió"
+  },
+  {
+    "id" : "food48",
+    "word" : "datolya"
+  },
+  {
+    "id" : "food49",
+    "word" : "pitahaya"
+  },
+  {
+    "id" : "food50",
+    "word" : "gujávafa"
+  },
+  {
+    "id" : "food51",
+    "word" : "kivi"
+  },
+  {
+    "id" : "food52",
+    "word" : "mandarin"
+  },
+  {
+    "id" : "food53",
+    "word" : "mangó"
+  },
+  {
+    "id" : "food54",
+    "word" : "olívabogyó"
+  },
+  {
+    "id" : "food55",
+    "word" : "papaya"
+  },
+  {
+    "id" : "food56",
+    "word" : "körte"
+  },
+  {
+    "id" : "food57",
+    "word" : "gránátalma"
+  },
+  {
+    "id" : "food58",
+    "word" : "málna"
+  },
+  {
+    "id" : "food59",
+    "word" : "görögdinnye"
+  },
+  {
+    "id" : "food60",
+    "word" : "bab"
+  },
+  {
+    "id" : "food61",
+    "word" : "brokkoli"
+  },
+  {
+    "id" : "food62",
+    "word" : "fejes káposzta"
+  },
+  {
+    "id" : "food63",
+    "word" : "sárgarépa"
+  },
+  {
+    "id" : "food64",
+    "word" : "karfiol"
+  },
+  {
+    "id" : "food65",
+    "word" : "zeller"
+  },
+  {
+    "id" : "food66",
+    "word" : "kukorica"
+  },
+  {
+    "id" : "food67",
+    "word" : "uborka"
+  },
+  {
+    "id" : "food68",
+    "word" : "padlizsán"
+  },
+  {
+    "id" : "food69",
+    "word" : "póréhagyma"
+  },
+  {
+    "id" : "food70",
+    "word" : "saláta"
+  },
+  {
+    "id" : "food71",
+    "word" : "hagyma"
+  },
+  {
+    "id" : "food72",
+    "word" : "krumpli"
+  },
+  {
+    "id" : "food73",
+    "word" : "tök"
+  },
+  {
+    "id" : "food74",
+    "word" : "spenót"
+  },
+  {
+    "id" : "food75",
+    "word" : "articsóka"
+  },
+  {
+    "id" : "food76",
+    "word" : "spárga"
+  },
+  {
+    "id" : "food77",
+    "word" : "bambusz"
+  },
+  {
+    "id" : "food78",
+    "word" : "cékla"
+  },
+  {
+    "id" : "food79",
+    "word" : "mángold"
+  },
+  {
+    "id" : "food80",
+    "word" : "fokhagyma"
+  },
+  {
+    "id" : "food81",
+    "word" : "gyömbér"
+  },
+  {
+    "id" : "food82",
+    "word" : "gomba"
+  },
+  {
+    "id" : "food83",
+    "word" : "paszternák"
+  },
+  {
+    "id" : "food84",
+    "word" : "borsó"
+  },
+  {
+    "id" : "food85",
+    "word" : "paprika"
+  },
+  {
+    "id" : "food86",
+    "word" : "retek"
+  },
+  {
+    "id" : "food87",
+    "word" : "kelbimbó"
+  },
+  {
+    "id" : "food88",
+    "word" : "fehérrépa"
+  },
+  {
+    "id" : "food89",
+    "word" : "cukkini"
+  }
+]

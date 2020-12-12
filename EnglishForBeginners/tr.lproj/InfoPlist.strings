@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  EnglishForBeginners
+
+  Created by Sergey Aleksandrov on 14/05/2018.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+"NSMicrophoneUsageDescription" = "Uygulama sesinizi kaydetmek için mikrofonu kullanır";
+"NSSpeechRecognitionUsageDescription" = "Uygulama, telaffuzun doğruluğunu kontrol etmek için ses tanıma özelliğini kullanır";

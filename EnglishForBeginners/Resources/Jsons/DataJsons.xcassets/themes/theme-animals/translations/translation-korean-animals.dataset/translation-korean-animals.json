@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "개코 원숭이"
+  },
+  {
+    "id" : "animals1",
+    "word" : "물소"
+  },
+  {
+    "id" : "animals2",
+    "word" : "낙타"
+  },
+  {
+    "id" : "animals3",
+    "word" : "침팬지"
+  },
+  {
+    "id" : "animals4",
+    "word" : "악어"
+  },
+  {
+    "id" : "animals5",
+    "word" : "코끼리"
+  },
+  {
+    "id" : "animals6",
+    "word" : "기린"
+  },
+  {
+    "id" : "animals7",
+    "word" : "고릴라"
+  },
+  {
+    "id" : "animals8",
+    "word" : "하마"
+  },
+  {
+    "id" : "animals9",
+    "word" : "하이에나"
+  },
+  {
+    "id" : "animals10",
+    "word" : "표범"
+  },
+  {
+    "id" : "animals11",
+    "word" : "사자"
+  },
+  {
+    "id" : "animals12",
+    "word" : "타조"
+  },
+  {
+    "id" : "animals13",
+    "word" : "코뿔소"
+  },
+  {
+    "id" : "animals14",
+    "word" : "영양"
+  },
+  {
+    "id" : "animals15",
+    "word" : "비글"
+  },
+  {
+    "id" : "animals16",
+    "word" : "복서"
+  },
+  {
+    "id" : "animals17",
+    "word" : "치와와"
+  },
+  {
+    "id" : "animals18",
+    "word" : "콜리"
+  },
+  {
+    "id" : "animals19",
+    "word" : "닥스훈트"
+  },
+  {
+    "id" : "animals20",
+    "word" : "달마시안"
+  },
+  {
+    "id" : "animals21",
+    "word" : "도베르만"
+  },
+  {
+    "id" : "animals22",
+    "word" : "그레이 하운드"
+  },
+  {
+    "id" : "animals23",
+    "word" : "허스키"
+  },
+  {
+    "id" : "animals24",
+    "word" : "아이리시 세터"
+  },
+  {
+    "id" : "animals25",
+    "word" : "래브라도"
+  },
+  {
+    "id" : "animals26",
+    "word" : "말티즈"
+  },
+  {
+    "id" : "animals27",
+    "word" : "푸들"
+  },
+  {
+    "id" : "animals28",
+    "word" : "로트와일러"
+  },
+  {
+    "id" : "animals29",
+    "word" : "시프도그"
+  },
+  {
+    "id" : "animals30",
+    "word" : "수소"
+  },
+  {
+    "id" : "animals31",
+    "word" : "송아지"
+  },
+  {
+    "id" : "animals32",
+    "word" : "고양이"
+  },
+  {
+    "id" : "animals33",
+    "word" : "당나귀"
+  },
+  {
+    "id" : "animals34",
+    "word" : "오리"
+  },
+  {
+    "id" : "animals35",
+    "word" : "망아지"
+  },
+  {
+    "id" : "animals36",
+    "word" : "염소"
+  },
+  {
+    "id" : "animals37",
+    "word" : "거위"
+  },
+  {
+    "id" : "animals38",
+    "word" : "말"
+  },
+  {
+    "id" : "animals39",
+    "word" : "새끼 양"
+  },
+  {
+    "id" : "animals40",
+    "word" : "돼지"
+  },
+  {
+    "id" : "animals41",
+    "word" : "새끼 돼지"
+  },
+  {
+    "id" : "animals42",
+    "word" : "수탉"
+  },
+  {
+    "id" : "animals43",
+    "word" : "양"
+  },
+  {
+    "id" : "animals44",
+    "word" : "칠면조"
+  },
+  {
+    "id" : "animals45",
+    "word" : "대구"
+  },
+  {
+    "id" : "animals46",
+    "word" : "게"
+  },
+  {
+    "id" : "animals47",
+    "word" : "해파리"
+  },
+  {
+    "id" : "animals48",
+    "word" : "바닷가재"
+  },
+  {
+    "id" : "animals49",
+    "word" : "문어"
+  },
+  {
+    "id" : "animals50",
+    "word" : "굴"
+  },
+  {
+    "id" : "animals51",
+    "word" : "새우"
+  },
+  {
+    "id" : "animals52",
+    "word" : "연어"
+  },
+  {
+    "id" : "animals53",
+    "word" : "정어리"
+  },
+  {
+    "id" : "animals54",
+    "word" : "해마"
+  },
+  {
+    "id" : "animals55",
+    "word" : "상어"
+  },
+  {
+    "id" : "animals56",
+    "word" : "오징어"
+  },
+  {
+    "id" : "animals57",
+    "word" : "황새치"
+  },
+  {
+    "id" : "animals58",
+    "word" : "송어"
+  },
+  {
+    "id" : "animals59",
+    "word" : "참치"
+  },
+  {
+    "id" : "animals60",
+    "word" : "알바트로스"
+  },
+  {
+    "id" : "animals61",
+    "word" : "조개"
+  },
+  {
+    "id" : "animals62",
+    "word" : "산호"
+  },
+  {
+    "id" : "animals63",
+    "word" : "돌고래"
+  },
+  {
+    "id" : "animals64",
+    "word" : "곰치"
+  },
+  {
+    "id" : "animals65",
+    "word" : "펠리컨"
+  },
+  {
+    "id" : "animals66",
+    "word" : "펭귄"
+  },
+  {
+    "id" : "animals67",
+    "word" : "북극곰"
+  },
+  {
+    "id" : "animals68",
+    "word" : "성게"
+  },
+  {
+    "id" : "animals69",
+    "word" : "바다 표범"
+  },
+  {
+    "id" : "animals70",
+    "word" : "노랑 가오리"
+  },
+  {
+    "id" : "animals71",
+    "word" : "바다 거북"
+  },
+  {
+    "id" : "animals72",
+    "word" : "바다 코끼리"
+  },
+  {
+    "id" : "animals73",
+    "word" : "고래 상어"
+  },
+  {
+    "id" : "animals74",
+    "word" : "고래"
+  },
+  {
+    "id" : "animals75",
+    "word" : "작은 앵무새"
+  },
+  {
+    "id" : "animals76",
+    "word" : "카나리아"
+  },
+  {
+    "id" : "animals77",
+    "word" : "친칠라"
+  },
+  {
+    "id" : "animals78",
+    "word" : "족제비"
+  },
+  {
+    "id" : "animals79",
+    "word" : "되새"
+  },
+  {
+    "id" : "animals80",
+    "word" : "도마뱀붙이"
+  },
+  {
+    "id" : "animals81",
+    "word" : "금붕어"
+  },
+  {
+    "id" : "animals82",
+    "word" : "기니피그"
+  },
+  {
+    "id" : "animals83",
+    "word" : "소라게"
+  },
+  {
+    "id" : "animals84",
+    "word" : "새끼 고양이"
+  },
+  {
+    "id" : "animals85",
+    "word" : "마코 앵무새"
+  },
+  {
+    "id" : "animals86",
+    "word" : "쥐"
+  },
+  {
+    "id" : "animals87",
+    "word" : "새끼 강아지"
+  },
+  {
+    "id" : "animals88",
+    "word" : "토끼"
+  },
+  {
+    "id" : "animals89",
+    "word" : "거북이"
+  }
+]

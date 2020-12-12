@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "galerie d'art"
+  },
+  {
+    "id" : "school1",
+    "word" : "pinceau"
+  },
+  {
+    "id" : "school2",
+    "word" : "fusain"
+  },
+  {
+    "id" : "school3",
+    "word" : "chevalet"
+  },
+  {
+    "id" : "school4",
+    "word" : "paysage"
+  },
+  {
+    "id" : "school5",
+    "word" : "peinture murale"
+  },
+  {
+    "id" : "school6",
+    "word" : "peinture à l'huile"
+  },
+  {
+    "id" : "school7",
+    "word" : "palette"
+  },
+  {
+    "id" : "school8",
+    "word" : "pétroglyphe"
+  },
+  {
+    "id" : "school9",
+    "word" : "photos"
+  },
+  {
+    "id" : "school10",
+    "word" : "portrait"
+  },
+  {
+    "id" : "school11",
+    "word" : "sculpture"
+  },
+  {
+    "id" : "school12",
+    "word" : "croquis"
+  },
+  {
+    "id" : "school13",
+    "word" : "nature morte"
+  },
+  {
+    "id" : "school14",
+    "word" : "paysage côtier"
+  },
+  {
+    "id" : "school15",
+    "word" : "accordéon"
+  },
+  {
+    "id" : "school16",
+    "word" : "banjo"
+  },
+  {
+    "id" : "school17",
+    "word" : "clairon"
+  },
+  {
+    "id" : "school18",
+    "word" : "cymbales"
+  },
+  {
+    "id" : "school19",
+    "word" : "contrebasse"
+  },
+  {
+    "id" : "school20",
+    "word" : "tambours"
+  },
+  {
+    "id" : "school21",
+    "word" : "flûte"
+  },
+  {
+    "id" : "school22",
+    "word" : "guitare"
+  },
+  {
+    "id" : "school23",
+    "word" : "harmonica"
+  },
+  {
+    "id" : "school24",
+    "word" : "orgue"
+  },
+  {
+    "id" : "school25",
+    "word" : "piano"
+  },
+  {
+    "id" : "school26",
+    "word" : "synthétiseur"
+  },
+  {
+    "id" : "school27",
+    "word" : "trombone"
+  },
+  {
+    "id" : "school28",
+    "word" : "trompette"
+  },
+  {
+    "id" : "school29",
+    "word" : "violon"
+  },
+  {
+    "id" : "school30",
+    "word" : "réunion"
+  },
+  {
+    "id" : "school31",
+    "word" : "tableau noir"
+  },
+  {
+    "id" : "school32",
+    "word" : "cantine"
+  },
+  {
+    "id" : "school33",
+    "word" : "classe"
+  },
+  {
+    "id" : "school34",
+    "word" : "salle de classe"
+  },
+  {
+    "id" : "school35",
+    "word" : "bureau"
+  },
+  {
+    "id" : "school36",
+    "word" : "globe"
+  },
+  {
+    "id" : "school37",
+    "word" : "gymnase"
+  },
+  {
+    "id" : "school38",
+    "word" : "laboratoire"
+  },
+  {
+    "id" : "school39",
+    "word" : "panier-repas"
+  },
+  {
+    "id" : "school40",
+    "word" : "mortier"
+  },
+  {
+    "id" : "school41",
+    "word" : "cour de récréation"
+  },
+  {
+    "id" : "school42",
+    "word" : "cravate de l'école"
+  },
+  {
+    "id" : "school43",
+    "word" : "cahier de texte"
+  },
+  {
+    "id" : "school44",
+    "word" : "tableau blanc"
+  },
+  {
+    "id" : "school45",
+    "word" : "art"
+  },
+  {
+    "id" : "school46",
+    "word" : "biologie"
+  },
+  {
+    "id" : "school47",
+    "word" : "chimie"
+  },
+  {
+    "id" : "school48",
+    "word" : "danse"
+  },
+  {
+    "id" : "school49",
+    "word" : "anglais"
+  },
+  {
+    "id" : "school50",
+    "word" : "feuille d'examen"
+  },
+  {
+    "id" : "school51",
+    "word" : "contrôle"
+  },
+  {
+    "id" : "school52",
+    "word" : "éducation physique"
+  },
+  {
+    "id" : "school53",
+    "word" : "français"
+  },
+  {
+    "id" : "school54",
+    "word" : "géographie"
+  },
+  {
+    "id" : "school55",
+    "word" : "géométrie"
+  },
+  {
+    "id" : "school56",
+    "word" : "mathématiques"
+  },
+  {
+    "id" : "school57",
+    "word" : "physique"
+  },
+  {
+    "id" : "school58",
+    "word" : "robotique"
+  },
+  {
+    "id" : "school59",
+    "word" : "étudier"
+  },
+  {
+    "id" : "school60",
+    "word" : "calculatrice"
+  },
+  {
+    "id" : "school61",
+    "word" : "boussole"
+  },
+  {
+    "id" : "school62",
+    "word" : "crayon"
+  },
+  {
+    "id" : "school63",
+    "word" : "enveloppe"
+  },
+  {
+    "id" : "school64",
+    "word" : "gomme"
+  },
+  {
+    "id" : "school65",
+    "word" : "carnet"
+  },
+  {
+    "id" : "school66",
+    "word" : "agrafe"
+  },
+  {
+    "id" : "school67",
+    "word" : "stylo"
+  },
+  {
+    "id" : "school68",
+    "word" : "crayon à papier"
+  },
+  {
+    "id" : "school69",
+    "word" : "imprimer"
+  },
+  {
+    "id" : "school70",
+    "word" : "rapporteur"
+  },
+  {
+    "id" : "school71",
+    "word" : "règle"
+  },
+  {
+    "id" : "school72",
+    "word" : "agrafeuse"
+  },
+  {
+    "id" : "school73",
+    "word" : "stylet"
+  },
+  {
+    "id" : "school74",
+    "word" : "tablette"
+  },
+  {
+    "id" : "school75",
+    "word" : "alphabet"
+  },
+  {
+    "id" : "school76",
+    "word" : "livre"
+  },
+  {
+    "id" : "school77",
+    "word" : "caligraphie"
+  },
+  {
+    "id" : "school78",
+    "word" : "dictionnaire"
+  },
+  {
+    "id" : "school79",
+    "word" : "livre électronique"
+  },
+  {
+    "id" : "school80",
+    "word" : "écriture"
+  },
+  {
+    "id" : "school81",
+    "word" : "index"
+  },
+  {
+    "id" : "school82",
+    "word" : "magazines"
+  },
+  {
+    "id" : "school83",
+    "word" : "musique"
+  },
+  {
+    "id" : "school84",
+    "word" : "journal"
+  },
+  {
+    "id" : "school85",
+    "word" : "planificateur"
+  },
+  {
+    "id" : "school86",
+    "word" : "auteur-compositeur"
+  },
+  {
+    "id" : "school87",
+    "word" : "post-it"
+  },
+  {
+    "id" : "school88",
+    "word" : "sudoku"
+  },
+  {
+    "id" : "school89",
+    "word" : "dactylographie"
+  }
+]

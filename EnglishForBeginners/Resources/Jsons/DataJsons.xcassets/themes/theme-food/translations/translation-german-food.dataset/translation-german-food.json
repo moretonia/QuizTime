@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "der Apfelkuchen"
+  },
+  {
+    "id" : "food1",
+    "word" : "das Baklava"
+  },
+  {
+    "id" : "food2",
+    "word" : "der Käsekuchen"
+  },
+  {
+    "id" : "food3",
+    "word" : "die Kekse"
+  },
+  {
+    "id" : "food4",
+    "word" : "das Törtchen"
+  },
+  {
+    "id" : "food5",
+    "word" : "der Donut"
+  },
+  {
+    "id" : "food6",
+    "word" : "der Obstkuchen"
+  },
+  {
+    "id" : "food7",
+    "word" : "der Obstsalat"
+  },
+  {
+    "id" : "food8",
+    "word" : "die Eiscreme"
+  },
+  {
+    "id" : "food9",
+    "word" : "der Mince Pie"
+  },
+  {
+    "id" : "food10",
+    "word" : "der Pfannkuchen"
+  },
+  {
+    "id" : "food11",
+    "word" : "der Baiserkuchen"
+  },
+  {
+    "id" : "food12",
+    "word" : "das Teegebäck"
+  },
+  {
+    "id" : "food13",
+    "word" : "der Eisbecher"
+  },
+  {
+    "id" : "food14",
+    "word" : "die Waffeln"
+  },
+  {
+    "id" : "food15",
+    "word" : "das Hühnchen"
+  },
+  {
+    "id" : "food16",
+    "word" : "die Pommes"
+  },
+  {
+    "id" : "food17",
+    "word" : "die Schokolade"
+  },
+  {
+    "id" : "food18",
+    "word" : "die Eier"
+  },
+  {
+    "id" : "food19",
+    "word" : "das Falafel"
+  },
+  {
+    "id" : "food20",
+    "word" : "der Fisch"
+  },
+  {
+    "id" : "food21",
+    "word" : "der gebratene Reis"
+  },
+  {
+    "id" : "food22",
+    "word" : "der Hamburger"
+  },
+  {
+    "id" : "food23",
+    "word" : "der Honig"
+  },
+  {
+    "id" : "food24",
+    "word" : "der Kuchen"
+  },
+  {
+    "id" : "food25",
+    "word" : "die Pizza"
+  },
+  {
+    "id" : "food26",
+    "word" : "das Sandwich"
+  },
+  {
+    "id" : "food27",
+    "word" : "die Würstchen"
+  },
+  {
+    "id" : "food28",
+    "word" : "das Steak"
+  },
+  {
+    "id" : "food29",
+    "word" : "der Thunfischsalat"
+  },
+  {
+    "id" : "food30",
+    "word" : "der Apfel"
+  },
+  {
+    "id" : "food31",
+    "word" : "die Aprikose"
+  },
+  {
+    "id" : "food32",
+    "word" : "die Banane"
+  },
+  {
+    "id" : "food33",
+    "word" : "die Blaubeeren"
+  },
+  {
+    "id" : "food34",
+    "word" : "die Feige"
+  },
+  {
+    "id" : "food35",
+    "word" : "die Pampelmuse"
+  },
+  {
+    "id" : "food36",
+    "word" : "die Trauben"
+  },
+  {
+    "id" : "food37",
+    "word" : "die Zitrone"
+  },
+  {
+    "id" : "food38",
+    "word" : "die Orange"
+  },
+  {
+    "id" : "food39",
+    "word" : "die Passionsfrucht"
+  },
+  {
+    "id" : "food40",
+    "word" : "der Pfirsich"
+  },
+  {
+    "id" : "food41",
+    "word" : "die Ananas"
+  },
+  {
+    "id" : "food42",
+    "word" : "die Pflaume"
+  },
+  {
+    "id" : "food43",
+    "word" : "die Erdbeere"
+  },
+  {
+    "id" : "food44",
+    "word" : "die Tomate"
+  },
+  {
+    "id" : "food45",
+    "word" : "die Avocado"
+  },
+  {
+    "id" : "food46",
+    "word" : "die Kirsche"
+  },
+  {
+    "id" : "food47",
+    "word" : "die Kokosnuss"
+  },
+  {
+    "id" : "food48",
+    "word" : "die Dattel"
+  },
+  {
+    "id" : "food49",
+    "word" : "die Drachenfrucht"
+  },
+  {
+    "id" : "food50",
+    "word" : "die Guave"
+  },
+  {
+    "id" : "food51",
+    "word" : "die Kiwi"
+  },
+  {
+    "id" : "food52",
+    "word" : "die Mandarine"
+  },
+  {
+    "id" : "food53",
+    "word" : "die Mango"
+  },
+  {
+    "id" : "food54",
+    "word" : "die Oliven"
+  },
+  {
+    "id" : "food55",
+    "word" : "die Papaya"
+  },
+  {
+    "id" : "food56",
+    "word" : "die Birne"
+  },
+  {
+    "id" : "food57",
+    "word" : "der Granatapfel"
+  },
+  {
+    "id" : "food58",
+    "word" : "die Himbeere"
+  },
+  {
+    "id" : "food59",
+    "word" : "die Wassermelone"
+  },
+  {
+    "id" : "food60",
+    "word" : "die Bohnen"
+  },
+  {
+    "id" : "food61",
+    "word" : "der Brokkoli"
+  },
+  {
+    "id" : "food62",
+    "word" : "der Kohl"
+  },
+  {
+    "id" : "food63",
+    "word" : "die Karotte"
+  },
+  {
+    "id" : "food64",
+    "word" : "der Blumenkohl"
+  },
+  {
+    "id" : "food65",
+    "word" : "der Sellerie"
+  },
+  {
+    "id" : "food66",
+    "word" : "der Mais"
+  },
+  {
+    "id" : "food67",
+    "word" : "die Gurke"
+  },
+  {
+    "id" : "food68",
+    "word" : "die Aubergine"
+  },
+  {
+    "id" : "food69",
+    "word" : "der Lauch"
+  },
+  {
+    "id" : "food70",
+    "word" : "der Salat"
+  },
+  {
+    "id" : "food71",
+    "word" : "die Zwiebel"
+  },
+  {
+    "id" : "food72",
+    "word" : "die Kartoffel"
+  },
+  {
+    "id" : "food73",
+    "word" : "der Kürbis"
+  },
+  {
+    "id" : "food74",
+    "word" : "der Spinat"
+  },
+  {
+    "id" : "food75",
+    "word" : "die Artischocke"
+  },
+  {
+    "id" : "food76",
+    "word" : "der Spargel"
+  },
+  {
+    "id" : "food77",
+    "word" : "der Bambus"
+  },
+  {
+    "id" : "food78",
+    "word" : "die Rote Beete"
+  },
+  {
+    "id" : "food79",
+    "word" : "der Mangold"
+  },
+  {
+    "id" : "food80",
+    "word" : "der Knoblauch"
+  },
+  {
+    "id" : "food81",
+    "word" : "der Ingwer"
+  },
+  {
+    "id" : "food82",
+    "word" : "der Pilz"
+  },
+  {
+    "id" : "food83",
+    "word" : "die Pastinake"
+  },
+  {
+    "id" : "food84",
+    "word" : "die Erbsen"
+  },
+  {
+    "id" : "food85",
+    "word" : "die Paprikas"
+  },
+  {
+    "id" : "food86",
+    "word" : "der Rettich"
+  },
+  {
+    "id" : "food87",
+    "word" : "die Sprossen"
+  },
+  {
+    "id" : "food88",
+    "word" : "die Rüben"
+  },
+  {
+    "id" : "food89",
+    "word" : "die Zucchini"
+  }
+]

@@ -1,0 +1,133 @@
+{
+   "id": 6,
+   "name": "Clothing",
+   "imageName": "clothing",
+   "topics": [
+      {
+         "name": "Clothing",
+         "imageName": "clothing-topic-1",
+         "vocabularyItemIds": [
+            "clothing0",
+            "clothing1",
+            "clothing2",
+            "clothing3",
+            "clothing4",
+            "clothing5",
+            "clothing6",
+            "clothing7",
+            "clothing8",
+            "clothing9",
+            "clothing10",
+            "clothing11",
+            "clothing12",
+            "clothing13",
+            "clothing14"
+         ]
+      },
+      {
+         "name": "Glamour",
+         "imageName": "clothing-topic-2",
+         "vocabularyItemIds": [
+            "clothing15",
+            "clothing16",
+            "clothing17",
+            "clothing18",
+            "clothing19",
+            "clothing20",
+            "clothing21",
+            "clothing22",
+            "clothing23",
+            "clothing24",
+            "clothing25",
+            "clothing26",
+            "clothing27",
+            "clothing28",
+            "clothing29"
+         ]
+      },
+      {
+         "name": "Men's Items",
+         "imageName": "clothing-topic-3",
+         "vocabularyItemIds": [
+            "clothing30",
+            "clothing31",
+            "clothing32",
+            "clothing33",
+            "clothing34",
+            "clothing35",
+            "clothing36",
+            "clothing37",
+            "clothing38",
+            "clothing39",
+            "clothing40",
+            "clothing41",
+            "clothing42",
+            "clothing43",
+            "clothing44"
+         ]
+      },
+      {
+         "name": "Sportswear",
+         "imageName": "clothing-topic-4",
+         "vocabularyItemIds": [
+            "clothing45",
+            "clothing46",
+            "clothing47",
+            "clothing48",
+            "clothing49",
+            "clothing50",
+            "clothing51",
+            "clothing52",
+            "clothing53",
+            "clothing54",
+            "clothing55",
+            "clothing56",
+            "clothing57",
+            "clothing58",
+            "clothing59"
+         ]
+      },
+      {
+         "name": "Women's Clothes",
+         "imageName": "clothing-topic-5",
+         "vocabularyItemIds": [
+            "clothing60",
+            "clothing61",
+            "clothing62",
+            "clothing63",
+            "clothing64",
+            "clothing65",
+            "clothing66",
+            "clothing67",
+            "clothing68",
+            "clothing69",
+            "clothing70",
+            "clothing71",
+            "clothing72",
+            "clothing73",
+            "clothing74"
+         ]
+      },
+      {
+         "name": "Women's Items",
+         "imageName": "clothing-topic-6",
+         "vocabularyItemIds": [
+            "clothing75",
+            "clothing76",
+            "clothing77",
+            "clothing78",
+            "clothing79",
+            "clothing80",
+            "clothing81",
+            "clothing82",
+            "clothing83",
+            "clothing84",
+            "clothing85",
+            "clothing86",
+            "clothing87",
+            "clothing88",
+            "clothing89"
+         ]
+      }
+   ]
+}

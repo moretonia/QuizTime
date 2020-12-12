@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "服裝"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "魅力"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "男士用品"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "運動裝"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "女士服裝"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "女士用品"
+  }
+]

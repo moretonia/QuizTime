@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "テーマ";
+"3-themes" = "3つのテーマ";
+"6-topics" = "6つのトピック";
+"90-words" = "90の単語";
+"words" = "言葉";
+"view" = "観覧";
+"main-buy-button" = "購入";
+
+// Topics
+"matching" = "マッチング";
+"translation" = "翻訳";
+"pronunciation" = "発音";
+"spelling" = "つづり";
+"dictionary" = "辞書";
+"buy-theme" = "テーマの購入";
+"locked" = "ロックされています";
+
+// Quiz
+"some-theme-quiz" = "%@\nテーマのクイズ";
+"collect-stars-to-unlock" = "クイズのロックを解除するには%d個の星を集めて下さい";
+"can-start-quiz" = "クイズを始められます";
+"quiz" = "クイズ";
+"pass-quiz-again" = "クイズにもう一度合格し、より多くの経験をゲット";
+"repeat" = "リピート";
+
+// Match Level
+"match" = "マッチ";
+"verify" = "確認";
+
+// Translate level
+"translate" = "翻訳";
+"wrong" = "不正解";
+"next" = "次";
+
+// Spelling level
+"spell" = "つづり";
+"english-translation" = "英語翻訳";
+
+// Listen & Say level
+"listen-and-say" = "リスニング＆発音";
+"try-again" = "もう一回試してみましょう";
+
+// Alerts
+"warning" = "警告";
+"progress-lost" = "レベルを閉じますか？ すべての進歩が失われます";
+"cancel" = "キャンセル";
+"close" = "閉じる";
+"quiz-fail" = "残念ながら、クイズは不合格です";
+"not-pass-level" = "残念ながら、レベルを通過しませんでした";
+"back-to-theme" = "テーマに戻る";
+"retry" = "リトライ";
+
+// Profile
+/*"profile" = "プロフィール";
+"experience" = "経験";
+"skills" = "スキル";
+"next-level" = "次の: %d";
+
+// Ranks
+"beginner" = "初心者";
+"pupil" = "童子";
+"student" = "学生";
+"connoisseur" = "優等生";
+"outstanding" = "優秀";
+"specialist" = "スペシャリスト";
+"pro" = "プロ";
+"master" = "マスター";
+"magister" = "魔術師";
+"guru" = "グルー";
+"sage" = "セージ";
+"enlightened" = "エンライト";
+"oracle" = "オラクル";
+"genius" = "天才";
+"higher-mind" = "ハイマインド";
+"supermind" = "スーパーマインド";
+
+// Profile
+"leaderboard" = "リーダーボード";
+"restore-purchases" = "購入を復元";
+"rate-us" = "私たちを評価してください";
+"share" = "共有";
+"change-language" = "言語を変える";
+"about-us" = "私たちについて";*/
+
+// Sharing
+"experience-and-rank-share" = "私はQuiz Timeで %d 経験をゲットし、現在私のランクは「%@」です。";
+"new-rank-share" = "私はQuiz Timeで新しいランク「%@」に達しました！ 自分で試してみてください！";
+"experience-share" = "私はQuiz Timeで%d経験を積みました。 私の英語は毎日上達しています！";
+"1-star-share" = "私は1つ星と%d経験をゲットしました。 私はQuiz Timeのアプリケーションで喜んで英語を勉強します。";
+"2-stars-share" = "私はQuiz Timeで2つ星と%d経験を得ています。 これを超えられるか！";
+"3-stars-share" = "私はQuiz Timeで3つ星と%dの経験を得ています。 私の英語は毎日良くなっています！";
+
+// Language
+/*"my-language" = "母国語";
+"ok" = "はい";
+
+// Congratulations
+"congratulations" = "おめでとうございます！";
+"xp" = "+%d xp";
+"new-rank" = "新ランク";*/
+
+// About us
+"about-us-title" = "私たちについて";
+"model-english-mission" = "Quiz Timeアプリケーションは、あなたの語彙を強化し、ゲームの形で発音やスペルを向上させます。";
+"app-structure" = "アプリケーションの言葉はテーマに分割され、それぞれのテーマは6つのテーマとテーマ全体のクイズで構成されています。各トピックには15語の辞書 _ が含まれています。";
+"about-mechanics-description" = "いくつかのユニークなゲームの組み合わせは、単語を素早く効率的にマスターするのに役立ちます：";
+"matching" = "マッチング";
+"about-mechanics-matching-description" = "このレベルでは、単語の正しい写真を選択して下さい";
+"translation" = "翻訳";
+"about-mechanics-translator-description" = "単語の正しい翻訳を選択して下さい";
+"pronunciation" = "発音";
+"about-mechanics-pronunciation-description" = "聞いて、その言葉を発音。マイクがオンになっていることを確認して下さい。";
+"spelling" = "つづり";
+"about-mechanics-spelling-description" = "キーボードで単語を入力して下さい";
+"about-rewards-little-star-description" = "レベルに勝つには、1から3の小さな星をゲットして下さい";
+"about-rewards-bronze-star-description" = "少なくとも50個の小さな星を獲得すれば、青銅の星が得られます。";
+"about-rewards-silver-star-description" = "スコアが少なくとも75の小さな星であれば銀の星を手に入れらます";
+"about-rewards-golden-star-description" = "100個の小さな星を得ると、金の星を授与されます";
+"about-rewards-passed-exam-description" = "学問の帽子は、そのテーマに関するクイズの成功を象徴します";
+"about-rewards-description" = "各レベルまたはクイズの通過には、初心者、マスター、およびその他の経験を獲得しましょう。あなたの業績に関する詳細はプロフィール _ にあります。";
+"copyright" = "Copyright © B. V. Rolandsen 2020";
+"design-and-development" = "設計及び開発Bryan Rolandsen";
+
+// Alerts
+"correct" = "正しい";
+"finish" = "終了";
+"error" = "エラー";
+"error-load-leaderboard" = "リーダーボード読み込みエラー。 後でもう一度お試しください";
+"timeout" = "期限切れ";
+"speech-recognition-unavailable" = "音声認識は利用できません";
+"device-settings-for-speech" = "1.デバイスの設定を確認して下さい（設定 - >一般 - >キーボード - >音声認識を有効にする）";
+"check-internet-for-speech" = "2.それでも認識がうまくいかない場合は、インターネット接続を確認してもう一度お試しください";
+"already-cancel-auth" = "デバイス設定を使用してゲームセンターアカウントにログインしてください";
+"settings" = "設定";
+"micro-usage-cancel" = "マイクアクセスが拒否されました。 デバイスの設定を確認してください";
+"speech-usage-cancel" = "音声認識アクセスが拒否されました。 デバイスの設定を確認してください";
+"not-support-speech-recognition" = "お使いのデバイスは音声認識をサポートしていません";
+
+// Packs
+"main-pack-info" = "3つのテーマ、18つのトピック、270の単語";
+
+// Other
+"topics-count" = "6つのトピック、90の単語";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

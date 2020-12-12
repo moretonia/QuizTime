@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "Plăcintă cu mere"
+  },
+  {
+    "id" : "food1",
+    "word" : "Baclava"
+  },
+  {
+    "id" : "food2",
+    "word" : "Plăcintă cu brânză"
+  },
+  {
+    "id" : "food3",
+    "word" : "Prăjiturele"
+  },
+  {
+    "id" : "food4",
+    "word" : "Cupcake"
+  },
+  {
+    "id" : "food5",
+    "word" : "Gogoașă"
+  },
+  {
+    "id" : "food6",
+    "word" : "Prăjitură cu fructe"
+  },
+  {
+    "id" : "food7",
+    "word" : "Salată de fructe"
+  },
+  {
+    "id" : "food8",
+    "word" : "Înghețată"
+  },
+  {
+    "id" : "food9",
+    "word" : "Plăcintă umplută"
+  },
+  {
+    "id" : "food10",
+    "word" : "Clătite"
+  },
+  {
+    "id" : "food11",
+    "word" : "Pavlova"
+  },
+  {
+    "id" : "food12",
+    "word" : "Placite cu fructe"
+  },
+  {
+    "id" : "food13",
+    "word" : "sundae"
+  },
+  {
+    "id" : "food14",
+    "word" : "Gofre"
+  },
+  {
+    "id" : "food15",
+    "word" : "Pui"
+  },
+  {
+    "id" : "food16",
+    "word" : "cartofi prăjiți"
+  },
+  {
+    "id" : "food17",
+    "word" : "Ciocolată"
+  },
+  {
+    "id" : "food18",
+    "word" : "Ouă"
+  },
+  {
+    "id" : "food19",
+    "word" : "Falafel"
+  },
+  {
+    "id" : "food20",
+    "word" : "Pește"
+  },
+  {
+    "id" : "food21",
+    "word" : "Orez prăjit"
+  },
+  {
+    "id" : "food22",
+    "word" : "Hamburger"
+  },
+  {
+    "id" : "food23",
+    "word" : "Miere"
+  },
+  {
+    "id" : "food24",
+    "word" : "Plăcintă"
+  },
+  {
+    "id" : "food25",
+    "word" : "Pizza"
+  },
+  {
+    "id" : "food26",
+    "word" : "Sandwich"
+  },
+  {
+    "id" : "food27",
+    "word" : "Cârnați"
+  },
+  {
+    "id" : "food28",
+    "word" : "Friptură"
+  },
+  {
+    "id" : "food29",
+    "word" : "Salată de ton"
+  },
+  {
+    "id" : "food30",
+    "word" : "Măr"
+  },
+  {
+    "id" : "food31",
+    "word" : "Caisă"
+  },
+  {
+    "id" : "food32",
+    "word" : "Banană"
+  },
+  {
+    "id" : "food33",
+    "word" : "Afine"
+  },
+  {
+    "id" : "food34",
+    "word" : "Smochină"
+  },
+  {
+    "id" : "food35",
+    "word" : "Grefă"
+  },
+  {
+    "id" : "food36",
+    "word" : "Struguri"
+  },
+  {
+    "id" : "food37",
+    "word" : "Lămâie"
+  },
+  {
+    "id" : "food38",
+    "word" : "Portocală"
+  },
+  {
+    "id" : "food39",
+    "word" : "Fructul pasiunii"
+  },
+  {
+    "id" : "food40",
+    "word" : "Piersică"
+  },
+  {
+    "id" : "food41",
+    "word" : "Ananas"
+  },
+  {
+    "id" : "food42",
+    "word" : "Prună"
+  },
+  {
+    "id" : "food43",
+    "word" : "Căpșună"
+  },
+  {
+    "id" : "food44",
+    "word" : "Roșie"
+  },
+  {
+    "id" : "food45",
+    "word" : "Avocado"
+  },
+  {
+    "id" : "food46",
+    "word" : "Cireșe"
+  },
+  {
+    "id" : "food47",
+    "word" : "Cocos"
+  },
+  {
+    "id" : "food48",
+    "word" : "Curmale"
+  },
+  {
+    "id" : "food49",
+    "word" : "Fructul dragonului"
+  },
+  {
+    "id" : "food50",
+    "word" : "Guava"
+  },
+  {
+    "id" : "food51",
+    "word" : "Fruct kiwi"
+  },
+  {
+    "id" : "food52",
+    "word" : "Mandarină"
+  },
+  {
+    "id" : "food53",
+    "word" : "Mango"
+  },
+  {
+    "id" : "food54",
+    "word" : "Măsline"
+  },
+  {
+    "id" : "food55",
+    "word" : "Papaya"
+  },
+  {
+    "id" : "food56",
+    "word" : "Pară"
+  },
+  {
+    "id" : "food57",
+    "word" : "Rodie"
+  },
+  {
+    "id" : "food58",
+    "word" : "Zmeură"
+  },
+  {
+    "id" : "food59",
+    "word" : "Pepene roșu"
+  },
+  {
+    "id" : "food60",
+    "word" : "Fasole"
+  },
+  {
+    "id" : "food61",
+    "word" : "Brocoli"
+  },
+  {
+    "id" : "food62",
+    "word" : "Varză"
+  },
+  {
+    "id" : "food63",
+    "word" : "Morcov"
+  },
+  {
+    "id" : "food64",
+    "word" : "Conopidă"
+  },
+  {
+    "id" : "food65",
+    "word" : "Țelină"
+  },
+  {
+    "id" : "food66",
+    "word" : "Porumb"
+  },
+  {
+    "id" : "food67",
+    "word" : "Castravete"
+  },
+  {
+    "id" : "food68",
+    "word" : "Vânătă"
+  },
+  {
+    "id" : "food69",
+    "word" : "Praz"
+  },
+  {
+    "id" : "food70",
+    "word" : "Salată"
+  },
+  {
+    "id" : "food71",
+    "word" : "Ceapă"
+  },
+  {
+    "id" : "food72",
+    "word" : "Cartofi"
+  },
+  {
+    "id" : "food73",
+    "word" : "Dovleac"
+  },
+  {
+    "id" : "food74",
+    "word" : "Spanac"
+  },
+  {
+    "id" : "food75",
+    "word" : "Anghinare"
+  },
+  {
+    "id" : "food76",
+    "word" : "Asparagus"
+  },
+  {
+    "id" : "food77",
+    "word" : "Bambus"
+  },
+  {
+    "id" : "food78",
+    "word" : "Sfeclă roșie"
+  },
+  {
+    "id" : "food79",
+    "word" : "Sfeclă"
+  },
+  {
+    "id" : "food80",
+    "word" : "Usturoi"
+  },
+  {
+    "id" : "food81",
+    "word" : "Ghimbir"
+  },
+  {
+    "id" : "food82",
+    "word" : "Ciupercă"
+  },
+  {
+    "id" : "food83",
+    "word" : "Păstârnac"
+  },
+  {
+    "id" : "food84",
+    "word" : "Mazăre"
+  },
+  {
+    "id" : "food85",
+    "word" : "Ardei"
+  },
+  {
+    "id" : "food86",
+    "word" : "Ridiche"
+  },
+  {
+    "id" : "food87",
+    "word" : "Muguri"
+  },
+  {
+    "id" : "food88",
+    "word" : "Napi"
+  },
+  {
+    "id" : "food89",
+    "word" : "Dovlecei"
+  }
+]

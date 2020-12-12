@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "backgammon"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "statki"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "karty"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "warcaby"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "szachy"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "kropki"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "kości"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "domino"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "go"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "układanka"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "ludo"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "mahjong"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "monopol"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "scrabble"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "tic tac toe"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "badminton"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "kręgle"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "wspinanie"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "rzutki"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "talia kart"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "frisbee"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "gra w klasy"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "hula"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "przeskakiwanie"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "limbo"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "pinball"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "poker"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "cymbergaj"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "przeciąganie liny"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "jo jo"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "balon"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "rękawica bokserska"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "kij do krykieta"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "rzutka"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "hantel"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "wędka"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "płetwy"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "piłka do piłki nożnej"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "gogle"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "kij golfowy"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "siekerka do lodu"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "spadochron"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "narty"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "buty do piłki nożnej"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "rakieta tenisowa"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "aerobik"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "baseball"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "koszykówka"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "bobslej"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "boks"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "krykiet"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "piłka nożna"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "gimnastyka"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "piłka ręczna"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "hokej"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "rugby"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "narciarstwo"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "tenis"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "siatkówka"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "windsurfing"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "łucznictwo"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "kolarstwo"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "ujeżdżanie"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "golf"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "skok wzwyż"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "bieg na orientację"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "polo"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "wiosłowanie"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "skuba diving"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "strzelanie"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "skydiving"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "snooker"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "tenis stołowy"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "wodne polo"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "wrestling"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "base jumping"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "bmx"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "body surfing"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "kamping"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "wspinaczka jaskiniowa"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "ogrodnictwo"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "wspinaczka"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "turniej rycerski"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "judo"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "kite surfing"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "rafting"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "żeglarstwo"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "snorkeling"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "snowboarding"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "tai chi"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Ceremonies",
+    "word" : "Cérémonies"
+  },
+  {
+    "id" : "Christmas",
+    "word" : "Noël"
+  },
+  {
+    "id" : "Church",
+    "word" : "Église"
+  },
+  {
+    "id" : "Good Luck",
+    "word" : "La chance"
+  },
+  {
+    "id" : "Religion",
+    "word" : "Religion"
+  },
+  {
+    "id" : "Zodiac",
+    "word" : "Zodiaque"
+  }
+]

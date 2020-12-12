@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "狒狒"
+  },
+  {
+    "id" : "animals1",
+    "word" : "水牛"
+  },
+  {
+    "id" : "animals2",
+    "word" : "骆驼"
+  },
+  {
+    "id" : "animals3",
+    "word" : "黑猩猩"
+  },
+  {
+    "id" : "animals4",
+    "word" : "鳄鱼"
+  },
+  {
+    "id" : "animals5",
+    "word" : "大象"
+  },
+  {
+    "id" : "animals6",
+    "word" : "长颈鹿"
+  },
+  {
+    "id" : "animals7",
+    "word" : "大猩猩"
+  },
+  {
+    "id" : "animals8",
+    "word" : "河马"
+  },
+  {
+    "id" : "animals9",
+    "word" : "鬣狗"
+  },
+  {
+    "id" : "animals10",
+    "word" : "豹"
+  },
+  {
+    "id" : "animals11",
+    "word" : "狮子"
+  },
+  {
+    "id" : "animals12",
+    "word" : "鸵鸟"
+  },
+  {
+    "id" : "animals13",
+    "word" : "犀牛"
+  },
+  {
+    "id" : "animals14",
+    "word" : "角马"
+  },
+  {
+    "id" : "animals15",
+    "word" : "猎兔犬"
+  },
+  {
+    "id" : "animals16",
+    "word" : "拳师犬"
+  },
+  {
+    "id" : "animals17",
+    "word" : "吉娃娃"
+  },
+  {
+    "id" : "animals18",
+    "word" : "柯利犬"
+  },
+  {
+    "id" : "animals19",
+    "word" : "腊肠犬"
+  },
+  {
+    "id" : "animals20",
+    "word" : "大麦町犬"
+  },
+  {
+    "id" : "animals21",
+    "word" : "杜宾犬"
+  },
+  {
+    "id" : "animals22",
+    "word" : "灵𤟥犬"
+  },
+  {
+    "id" : "animals23",
+    "word" : "哈士奇"
+  },
+  {
+    "id" : "animals24",
+    "word" : "爱尔兰雪达犬"
+  },
+  {
+    "id" : "animals25",
+    "word" : "拉布拉多犬"
+  },
+  {
+    "id" : "animals26",
+    "word" : "马尔济斯犬"
+  },
+  {
+    "id" : "animals27",
+    "word" : "贵宾犬"
+  },
+  {
+    "id" : "animals28",
+    "word" : "罗威纳犬"
+  },
+  {
+    "id" : "animals29",
+    "word" : "牧羊犬"
+  },
+  {
+    "id" : "animals30",
+    "word" : "公牛"
+  },
+  {
+    "id" : "animals31",
+    "word" : "牛犊"
+  },
+  {
+    "id" : "animals32",
+    "word" : "猫"
+  },
+  {
+    "id" : "animals33",
+    "word" : "驴"
+  },
+  {
+    "id" : "animals34",
+    "word" : "鸭"
+  },
+  {
+    "id" : "animals35",
+    "word" : "马驹"
+  },
+  {
+    "id" : "animals36",
+    "word" : "山羊"
+  },
+  {
+    "id" : "animals37",
+    "word" : "鹅"
+  },
+  {
+    "id" : "animals38",
+    "word" : "马"
+  },
+  {
+    "id" : "animals39",
+    "word" : "羔羊"
+  },
+  {
+    "id" : "animals40",
+    "word" : "猪"
+  },
+  {
+    "id" : "animals41",
+    "word" : "猪仔"
+  },
+  {
+    "id" : "animals42",
+    "word" : "公鸡"
+  },
+  {
+    "id" : "animals43",
+    "word" : "绵羊"
+  },
+  {
+    "id" : "animals44",
+    "word" : "火鸡"
+  },
+  {
+    "id" : "animals45",
+    "word" : "鳕鱼"
+  },
+  {
+    "id" : "animals46",
+    "word" : "螃蟹"
+  },
+  {
+    "id" : "animals47",
+    "word" : "水母"
+  },
+  {
+    "id" : "animals48",
+    "word" : "龙虾"
+  },
+  {
+    "id" : "animals49",
+    "word" : "章鱼"
+  },
+  {
+    "id" : "animals50",
+    "word" : "牡蛎"
+  },
+  {
+    "id" : "animals51",
+    "word" : "虾"
+  },
+  {
+    "id" : "animals52",
+    "word" : "三文鱼"
+  },
+  {
+    "id" : "animals53",
+    "word" : "沙丁鱼"
+  },
+  {
+    "id" : "animals54",
+    "word" : "海马"
+  },
+  {
+    "id" : "animals55",
+    "word" : "鲨鱼"
+  },
+  {
+    "id" : "animals56",
+    "word" : "鱿鱼"
+  },
+  {
+    "id" : "animals57",
+    "word" : "剑鱼"
+  },
+  {
+    "id" : "animals58",
+    "word" : "鳟鱼"
+  },
+  {
+    "id" : "animals59",
+    "word" : "金枪鱼"
+  },
+  {
+    "id" : "animals60",
+    "word" : "信天翁"
+  },
+  {
+    "id" : "animals61",
+    "word" : "蛤蜊"
+  },
+  {
+    "id" : "animals62",
+    "word" : "珊瑚"
+  },
+  {
+    "id" : "animals63",
+    "word" : "海豚"
+  },
+  {
+    "id" : "animals64",
+    "word" : "海鳗"
+  },
+  {
+    "id" : "animals65",
+    "word" : "鹈鹕"
+  },
+  {
+    "id" : "animals66",
+    "word" : "企鹅"
+  },
+  {
+    "id" : "animals67",
+    "word" : "北极熊"
+  },
+  {
+    "id" : "animals68",
+    "word" : "海胆"
+  },
+  {
+    "id" : "animals69",
+    "word" : "海豹"
+  },
+  {
+    "id" : "animals70",
+    "word" : "黄貂鱼"
+  },
+  {
+    "id" : "animals71",
+    "word" : "海龟"
+  },
+  {
+    "id" : "animals72",
+    "word" : "海象"
+  },
+  {
+    "id" : "animals73",
+    "word" : "鲸鲨"
+  },
+  {
+    "id" : "animals74",
+    "word" : "鲸鱼"
+  },
+  {
+    "id" : "animals75",
+    "word" : "虎皮鹦鹉"
+  },
+  {
+    "id" : "animals76",
+    "word" : "金丝雀"
+  },
+  {
+    "id" : "animals77",
+    "word" : "毛丝鼠"
+  },
+  {
+    "id" : "animals78",
+    "word" : "雪貂"
+  },
+  {
+    "id" : "animals79",
+    "word" : "雀"
+  },
+  {
+    "id" : "animals80",
+    "word" : "壁虎"
+  },
+  {
+    "id" : "animals81",
+    "word" : "金鱼"
+  },
+  {
+    "id" : "animals82",
+    "word" : "豚鼠"
+  },
+  {
+    "id" : "animals83",
+    "word" : "寄居蟹"
+  },
+  {
+    "id" : "animals84",
+    "word" : "小猫"
+  },
+  {
+    "id" : "animals85",
+    "word" : "金刚鹦鹉"
+  },
+  {
+    "id" : "animals86",
+    "word" : "老鼠"
+  },
+  {
+    "id" : "animals87",
+    "word" : "幼犬"
+  },
+  {
+    "id" : "animals88",
+    "word" : "兔子"
+  },
+  {
+    "id" : "animals89",
+    "word" : "乌龟"
+  }
+]

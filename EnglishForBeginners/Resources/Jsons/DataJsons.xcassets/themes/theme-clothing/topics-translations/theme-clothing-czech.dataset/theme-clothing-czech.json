@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "Oblečení"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "Glamour"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "Mužské věci"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "Sportovní věci"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "Ženské oblečení"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "Ženské věci"
+  }
+]

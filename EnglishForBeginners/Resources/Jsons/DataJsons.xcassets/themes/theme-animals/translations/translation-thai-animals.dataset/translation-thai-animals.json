@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "ลิงทโมน"
+  },
+  {
+    "id" : "animals1",
+    "word" : "ควาย"
+  },
+  {
+    "id" : "animals2",
+    "word" : "อูฐ"
+  },
+  {
+    "id" : "animals3",
+    "word" : "ลิงชิบแปนซี"
+  },
+  {
+    "id" : "animals4",
+    "word" : "จระเข้"
+  },
+  {
+    "id" : "animals5",
+    "word" : "ช้าง"
+  },
+  {
+    "id" : "animals6",
+    "word" : "ยีราฟ"
+  },
+  {
+    "id" : "animals7",
+    "word" : "ลิงกอริลลา"
+  },
+  {
+    "id" : "animals8",
+    "word" : "ฮิปโปโปเตมัส"
+  },
+  {
+    "id" : "animals9",
+    "word" : "หมาใน"
+  },
+  {
+    "id" : "animals10",
+    "word" : "เสือดาว"
+  },
+  {
+    "id" : "animals11",
+    "word" : "สิงโต"
+  },
+  {
+    "id" : "animals12",
+    "word" : "นกกระจอกเทศ"
+  },
+  {
+    "id" : "animals13",
+    "word" : "แรด"
+  },
+  {
+    "id" : "animals14",
+    "word" : "วิลเดอบีสต์"
+  },
+  {
+    "id" : "animals15",
+    "word" : "บีเกิล"
+  },
+  {
+    "id" : "animals16",
+    "word" : "บ็อกเซอร์"
+  },
+  {
+    "id" : "animals17",
+    "word" : "ชิวาว่า"
+  },
+  {
+    "id" : "animals18",
+    "word" : "คอลลี่"
+  },
+  {
+    "id" : "animals19",
+    "word" : "ดัชชุน"
+  },
+  {
+    "id" : "animals20",
+    "word" : "ดัลเมเชี่ยน"
+  },
+  {
+    "id" : "animals21",
+    "word" : "โดเบอร์แมน"
+  },
+  {
+    "id" : "animals22",
+    "word" : "เกรย์ฮาวด์"
+  },
+  {
+    "id" : "animals23",
+    "word" : "ไซบีเรียนฮัสกี"
+  },
+  {
+    "id" : "animals24",
+    "word" : "ไอริช เซตเทอร์"
+  },
+  {
+    "id" : "animals25",
+    "word" : "ลาบราดอร์รีทรีฟเวอร์"
+  },
+  {
+    "id" : "animals26",
+    "word" : "มอลทีส เทอร์เรีย"
+  },
+  {
+    "id" : "animals27",
+    "word" : "พุดเดิ้ล"
+  },
+  {
+    "id" : "animals28",
+    "word" : "ร็อตไวเลอร์"
+  },
+  {
+    "id" : "animals29",
+    "word" : "ชีพด็อก"
+  },
+  {
+    "id" : "animals30",
+    "word" : "กระทิง"
+  },
+  {
+    "id" : "animals31",
+    "word" : "ลูกวัว"
+  },
+  {
+    "id" : "animals32",
+    "word" : "แมว"
+  },
+  {
+    "id" : "animals33",
+    "word" : "ลา"
+  },
+  {
+    "id" : "animals34",
+    "word" : "เป็ด"
+  },
+  {
+    "id" : "animals35",
+    "word" : "ลูกม้า"
+  },
+  {
+    "id" : "animals36",
+    "word" : "แพะ"
+  },
+  {
+    "id" : "animals37",
+    "word" : "ห่าน"
+  },
+  {
+    "id" : "animals38",
+    "word" : "ม้า"
+  },
+  {
+    "id" : "animals39",
+    "word" : "ลูกแกะ"
+  },
+  {
+    "id" : "animals40",
+    "word" : "หมู"
+  },
+  {
+    "id" : "animals41",
+    "word" : "ลูกหมู"
+  },
+  {
+    "id" : "animals42",
+    "word" : "ระกา"
+  },
+  {
+    "id" : "animals43",
+    "word" : "แกะ"
+  },
+  {
+    "id" : "animals44",
+    "word" : "ไก่งวง"
+  },
+  {
+    "id" : "animals45",
+    "word" : "ปลาดุก"
+  },
+  {
+    "id" : "animals46",
+    "word" : "ปู"
+  },
+  {
+    "id" : "animals47",
+    "word" : "แมงกระพรุน"
+  },
+  {
+    "id" : "animals48",
+    "word" : "กุ้งมังกร"
+  },
+  {
+    "id" : "animals49",
+    "word" : "หมึกยักษ์"
+  },
+  {
+    "id" : "animals50",
+    "word" : "หอยนางรม"
+  },
+  {
+    "id" : "animals51",
+    "word" : "กุ้ง"
+  },
+  {
+    "id" : "animals52",
+    "word" : "ปลาแซลมอน"
+  },
+  {
+    "id" : "animals53",
+    "word" : "ปลาซาร์ดีน"
+  },
+  {
+    "id" : "animals54",
+    "word" : "ม้าน้ำ"
+  },
+  {
+    "id" : "animals55",
+    "word" : "ฉลาม"
+  },
+  {
+    "id" : "animals56",
+    "word" : "ปลาหมึก"
+  },
+  {
+    "id" : "animals57",
+    "word" : "ปลาปากเเหลม"
+  },
+  {
+    "id" : "animals58",
+    "word" : "ปลาเทราต์"
+  },
+  {
+    "id" : "animals59",
+    "word" : "ปลาทูน่า"
+  },
+  {
+    "id" : "animals60",
+    "word" : "นกอัลบาทรอส"
+  },
+  {
+    "id" : "animals61",
+    "word" : "หอยกาบ"
+  },
+  {
+    "id" : "animals62",
+    "word" : "ปะการัง"
+  },
+  {
+    "id" : "animals63",
+    "word" : "โลมา"
+  },
+  {
+    "id" : "animals64",
+    "word" : "ปลาไหลมอเรย์"
+  },
+  {
+    "id" : "animals65",
+    "word" : "นกกระทุง"
+  },
+  {
+    "id" : "animals66",
+    "word" : "นกเพนกวิน"
+  },
+  {
+    "id" : "animals67",
+    "word" : "หมีขั้วโลก"
+  },
+  {
+    "id" : "animals68",
+    "word" : "เม่นทะเล"
+  },
+  {
+    "id" : "animals69",
+    "word" : "แมวน้ำ"
+  },
+  {
+    "id" : "animals70",
+    "word" : "ปลากระเบน"
+  },
+  {
+    "id" : "animals71",
+    "word" : "เต่า"
+  },
+  {
+    "id" : "animals72",
+    "word" : "วอลรัส"
+  },
+  {
+    "id" : "animals73",
+    "word" : "ฉลามวาฬ"
+  },
+  {
+    "id" : "animals74",
+    "word" : "ปลาวาฬ"
+  },
+  {
+    "id" : "animals75",
+    "word" : "นกเเก้ว"
+  },
+  {
+    "id" : "animals76",
+    "word" : "นกคีรีบูน"
+  },
+  {
+    "id" : "animals77",
+    "word" : "ชินชิล่า"
+  },
+  {
+    "id" : "animals78",
+    "word" : "เฟอเรท"
+  },
+  {
+    "id" : "animals79",
+    "word" : "นกฟินช์"
+  },
+  {
+    "id" : "animals80",
+    "word" : "ตุ๊กแก"
+  },
+  {
+    "id" : "animals81",
+    "word" : "ปลาทอง"
+  },
+  {
+    "id" : "animals82",
+    "word" : "หนูตะเภา"
+  },
+  {
+    "id" : "animals83",
+    "word" : "ปูเสฉวน"
+  },
+  {
+    "id" : "animals84",
+    "word" : "ลูกแมว"
+  },
+  {
+    "id" : "animals85",
+    "word" : "นกมาคอ"
+  },
+  {
+    "id" : "animals86",
+    "word" : "หนู"
+  },
+  {
+    "id" : "animals87",
+    "word" : "ลูกสุนัข"
+  },
+  {
+    "id" : "animals88",
+    "word" : "กระต่าย"
+  },
+  {
+    "id" : "animals89",
+    "word" : "เต่าบก"
+  }
+]

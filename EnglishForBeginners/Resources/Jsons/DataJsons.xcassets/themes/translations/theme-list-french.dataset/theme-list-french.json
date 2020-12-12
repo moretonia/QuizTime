@@ -1,0 +1,58 @@
+[
+ {
+   "id": "1",
+   "word": "Animaux"
+ },
+ {
+   "id": "2",
+   "word": "Récréation"
+ },
+ {
+   "id": "3",
+   "word": "Croyances"
+ },
+ {
+   "id": "4",
+   "word": "Corps"
+ },
+ {
+   "id": "5",
+   "word": "Entreprise"
+ },
+ {
+   "id": "6",
+   "word": "Vêtements"
+ },
+ {
+   "id": "7",
+   "word": "Nourriture"
+ },
+ {
+   "id": "8",
+   "word": "Maison"
+ },
+ {
+   "id": "9",
+   "word": "Nature"
+ },
+ {
+   "id": "10",
+   "word": "École"
+ },
+ {
+   "id": "11",
+   "word": "Transport"
+ },
+ {
+   "id": "12",
+   "word": "Voyage"
+ },
+ {
+   "id": "13",
+   "word": "Verbes"
+ },
+ {
+   "id": "14",
+   "word": "Travail"
+ }
+]

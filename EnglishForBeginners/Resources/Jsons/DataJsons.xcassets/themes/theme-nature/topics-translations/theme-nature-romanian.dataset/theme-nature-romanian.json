@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Environment",
+    "word" : "Mediu"
+  },
+  {
+    "id" : "Farm",
+    "word" : "Fermă"
+  },
+  {
+    "id" : "Flowers",
+    "word" : "Flori"
+  },
+  {
+    "id" : "Insects",
+    "word" : "Insecte"
+  },
+  {
+    "id" : "Plants",
+    "word" : "Plante"
+  },
+  {
+    "id" : "Weather",
+    "word" : "Vreme"
+  }
+]

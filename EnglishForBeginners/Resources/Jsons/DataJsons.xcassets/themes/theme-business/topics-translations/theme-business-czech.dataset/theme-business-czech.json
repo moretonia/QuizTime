@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "Byznys I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "Byznys II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "Byznys III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "Sběratelské předměty"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "Nakupování"
+  },
+  {
+    "id" : "Shops",
+    "word" : "Obchody"
+  }
+]

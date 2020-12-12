@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "vrhcáby"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "bitevní loď"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "karty"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "dáma"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "šachy"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "čtyři v řadě"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "kostky"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "domino"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "tah"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "puzzle"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "člověče nezlob se"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "mahjong"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "monopoly"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "scrabble"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "piškvorky"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "badminton"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "bowling"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "lezení"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "šipky"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "házení kruhů"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "létající talíř"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "skákání panáka"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "kruh"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "přeskakovaná"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "limbo"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "pinball"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "poker"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "shuffleboard"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "přetahování lanem"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "jo-jo"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "balón"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "boxerské rukavice"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "kriketová pálka"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "šipka"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "činky"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "rybářský naviják"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "ploutve"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "fotbalový míč"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "ochranné brýle"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "golfová hůl"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "cepín"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "padák"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "lyže"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "kopačky"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "tenisová raketa"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "aerobik"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "baseball"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "basketbal"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "boby"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "box"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "kriket"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "fotbal"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "gymnastika"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "házená"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "hokej"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "ragby"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "lyžování"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "tenis"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "volejbal"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "surfování"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "lukostřelba"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "cyklistika"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "drezura"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "golf"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "skok do výšky"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "orientační běh"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "pólo"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "veslování"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "potápění"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "střelba"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "parašutismus"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "snooker"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "stolní tenis"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "vodová pólo"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "wrestling"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "skoky z výšky"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "bmx"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "surfing tělo"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "kempování"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "záchranu"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "práce na zahradě"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "turistika"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "rytířský turnaj"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "judo"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "kiting"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "rafting"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "plachtění"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "šnorchlování"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "snowboarding"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "tajči"
+  }
+]

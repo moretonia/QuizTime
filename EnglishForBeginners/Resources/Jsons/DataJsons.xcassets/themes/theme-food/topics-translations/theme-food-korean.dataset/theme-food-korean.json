@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Desserts",
+    "word" : "디저트"
+  },
+  {
+    "id" : "Food",
+    "word" : "음식"
+  },
+  {
+    "id" : "Fruit",
+    "word" : "과일"
+  },
+  {
+    "id" : "Fruit II",
+    "word" : "과일 ll"
+  },
+  {
+    "id" : "Vegetables",
+    "word" : "채소"
+  },
+  {
+    "id" : "Vegetables II",
+    "word" : "야채 ll"
+  }
+]

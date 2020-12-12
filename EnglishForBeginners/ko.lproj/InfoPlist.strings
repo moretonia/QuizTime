@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  EnglishForBeginners
+
+  Created by Sergey Aleksandrov on 14/05/2018.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+"NSMicrophoneUsageDescription" = "이 앱은 목소리를 녹음하기 위해 마이크를 사용합니다.";
+"NSSpeechRecognitionUsageDescription" = "이 앱은 음성 인식을 사용하여 발음이 올바른지 확인합니다.";

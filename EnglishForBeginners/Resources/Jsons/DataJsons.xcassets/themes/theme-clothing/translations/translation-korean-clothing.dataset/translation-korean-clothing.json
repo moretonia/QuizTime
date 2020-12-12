@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "수영복 반바지"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "코트"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "원피스"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "장갑"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "자켓"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "청바지"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "스웨터"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "잠옷"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "셔츠"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "신발"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "치마"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "슬랙스"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "선글라스"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "티셔츠"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "유니폼"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "등이 깊이 파인"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "비키니"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "검은 원피스"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "야회복"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "플라멩코 드레스"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "홀터넥"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "원피스 수영복"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "사리"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "어깨끈이 없는"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "줄무늬"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "수트"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "선드레스"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "토가"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "전통적인"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "결혼"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "애프터 쉐이브 로션"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "벨트"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "나비 넥타이"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "팬티"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "커프스 단추"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "와이셔츠"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "정장 구두"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "운동화"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "넥타이"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "면도기"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "면도솔"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "슬리퍼"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "양말"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "정장"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "바지"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "비니"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "부츠"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "헬멧"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "스케이트화"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "저지"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "리어타드"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "폴로 셔츠"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "반바지"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "스키복"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "스마트 워치"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "스포츠 브라"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "수영복"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "트레이닝 복"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "잠수복"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "손목대"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "블라우스"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "브래지어"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "가디건"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "초커 목걸이"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "패션 벨트"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "모자"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "하이힐"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "점프 수트"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "기모노"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "여성 팬티"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "샌들"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "숄"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "실크 스카프"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "팬티스타킹"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "지퍼"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "팔찌"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "드레스 반지"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "귀걸이"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "핸드백"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "열쇠 고리"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "립스틱"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "마스카라"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "손톱 다듬는 줄"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "목걸이"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "향수"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "손가방"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "스마트폰"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "티슈"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "지갑"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "시계"
+  }
+]

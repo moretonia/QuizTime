@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "لعبة الطاولة"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "سفينة حربية"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "كوتشينة"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "لعبة الداما"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "شطرنج"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "كونكت فور"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "حجر النرد"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "الدومينو"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "لعبة جو"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "الصور المقطعة"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "لودو"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "الماهيونج"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "المونوبولي"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "سكرابل"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "إكس-أو"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "تنس الريشة"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "البولينج"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "التسلق"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "لرمي السهام"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "أونو"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "الطبق الطائر"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "الحجلة"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "لعبة هولا هوب"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "قفزة الضفدع"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "ليمبو"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "الكرة والدبابيس"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "البوكر"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "لالشفلبورد"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "شد الحبل"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "اليويو"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "المنطاد"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "قفازات الملاكمة"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "مضرب الكريكيت"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "سهم"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "الأثقال"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "بكرة الصيد"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "زعانف الغطس"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "الكرة"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "نظارات واقية"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "مضرب الجولف"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "فأس الجليد"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "مظلة هبوط"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "زلاجات"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "أحذية كرة قدم"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "مضرب التنس"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "التمارين الرياضية"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "البيسبول"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "كرة سلة"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "الزلاجة"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "الملاكمة"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "الكريكيت"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "لعبة كرة القدم"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "الجمباز"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "كرة يد"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "الهوكي"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "كرة القدم الامريكية"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "التزحلق"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "تنس"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "الكرة الطائرة"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "ركوب القوارب الشراعية"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "الرماية"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "ركوب الدراجات"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "الفروسية"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "الجولف"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "الوثب العالي"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "التزلج"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "لعبة البولو"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "تجديف"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "الغوص"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "التصويب بإطلاق الرصاص"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "القفز بالمظلات"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "البلياردو"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "تنس طاولة"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "كرة الماء"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "مصارعة"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "القفز بالمظلة"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "سباق دراجات هوائية"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "ركوب الأمواج"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "تخييم"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "استكشاف الكهوف"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "أعمال البستنة"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "التجول"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "المبارزة"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "الجودو"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "تزلج بالطائرات الورقية"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "التجديف"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "الإبحار"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "الغطس"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "التزلج على الجليد"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "تاي تشي"
+  }
+]

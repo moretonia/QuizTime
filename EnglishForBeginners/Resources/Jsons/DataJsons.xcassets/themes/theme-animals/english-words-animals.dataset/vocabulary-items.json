@@ -1,0 +1,542 @@
+[
+ {
+   "id": "animals0",
+   "word": "baboon",
+   "transcription": "bəˈbun",
+   "imageName": "animals-baboon"
+ },
+ {
+   "id": "animals1",
+   "word": "buffalo",
+   "transcription": "ˈbʌfəˌloʊ",
+   "imageName": "animals-buffalo"
+ },
+ {
+   "id": "animals2",
+   "word": "camel",
+   "transcription": "ˈkæməl",
+   "imageName": "animals-camel"
+ },
+ {
+   "id": "animals3",
+   "word": "chimpanzee",
+   "transcription": "ʧɪmˈpænzi",
+   "imageName": "animals-chimpanzee"
+ },
+ {
+   "id": "animals4",
+   "word": "crocodile",
+   "transcription": "ˈkrɑkəˌdaɪl",
+   "imageName": "animals-crocodile"
+ },
+ {
+   "id": "animals5",
+   "word": "elephant",
+   "transcription": "ˈɛləfənt",
+   "imageName": "animals-elephant"
+ },
+ {
+   "id": "animals6",
+   "word": "giraffe",
+   "transcription": "ʤəˈræf",
+   "imageName": "animals-giraffe"
+ },
+ {
+   "id": "animals7",
+   "word": "gorilla",
+   "transcription": "gəˈrɪlə",
+   "imageName": "animals-gorilla"
+ },
+ {
+   "id": "animals8",
+   "word": "hippopotamus",
+   "transcription": "ˌhɪpəˈpɑtəməs",
+   "imageName": "animals-hippopotamus"
+ },
+ {
+   "id": "animals9",
+   "word": "hyena",
+   "transcription": "haɪˈinə",
+   "imageName": "animals-hyena"
+ },
+ {
+   "id": "animals10",
+   "word": "leopard",
+   "transcription": "ˈlɛpərd",
+   "imageName": "animals-leopard"
+ },
+ {
+   "id": "animals11",
+   "word": "lion",
+   "transcription": "ˈlaɪən",
+   "imageName": "animals-lion"
+ },
+ {
+   "id": "animals12",
+   "word": "ostrich",
+   "transcription": "ˈɔstrɪʧ",
+   "imageName": "animals-ostrich"
+ },
+ {
+   "id": "animals13",
+   "word": "rhinoceros",
+   "transcription": "raɪˈnɑsərəs",
+   "imageName": "animals-rhinoceros"
+ },
+ {
+   "id": "animals14",
+   "word": "wildebeest",
+   "transcription": "ˈwɪldəbiːst",
+   "imageName": "animals-wildebeest"
+ },
+ {
+   "id": "animals15",
+   "word": "beagle",
+   "transcription": "ˈbiːɡəl",
+   "imageName": "animals-beagle"
+ },
+ {
+   "id": "animals16",
+   "word": "boxer",
+   "transcription": "ˈbɑksɚ",
+   "imageName": "animals-boxer"
+ },
+ {
+   "id": "animals17",
+   "word": "chihuahua",
+   "transcription": "tʃəˈwɑwɑ",
+   "imageName": "animals-chihuahua"
+ },
+ {
+   "id": "animals18",
+   "word": "collie",
+   "transcription": "ˈkɑlɪ",
+   "imageName": "animals-collie"
+ },
+ {
+   "id": "animals19",
+   "word": "dachshund",
+   "transcription": "ˈdɑksˌhʊnt",
+   "imageName": "animals-dachshund"
+ },
+ {
+   "id": "animals20",
+   "word": "dalmatian",
+   "transcription": "dælˈmeɪʃən",
+   "imageName": "animals-dalmatian"
+ },
+ {
+   "id": "animals21",
+   "word": "doberman",
+   "transcription": "ˈdoʊbɚ ˈmæn",
+   "imageName": "animals-doberman"
+ },
+ {
+   "id": "animals22",
+   "word": "greyhound",
+   "transcription": "ˈɡreɪˌhaʊnd",
+   "imageName": "animals-greyhound"
+ },
+ {
+   "id": "animals23",
+   "word": "husky",
+   "transcription": "ˈhʌskɪ",
+   "imageName": "animals-husky"
+ },
+ {
+   "id": "animals24",
+   "word": "irish setter",
+   "transcription": "ˈaɪrɪʃ ˈsɛtɚ",
+   "imageName": "animals-irish setter"
+ },
+ {
+   "id": "animals25",
+   "word": "labrador",
+   "transcription": "ˈlæbrəˌdɔr",
+   "imageName": "animals-labrador"
+ },
+ {
+   "id": "animals26",
+   "word": "maltese",
+   "transcription": "mɔlˈtiːz",
+   "imageName": "animals-maltese"
+ },
+ {
+   "id": "animals27",
+   "word": "poodle",
+   "transcription": "ˈpuːdl̩",
+   "imageName": "animals-poodle"
+ },
+ {
+   "id": "animals28",
+   "word": "rottweiler",
+   "transcription": "ˈrɑtˌwaɪlɚ",
+   "imageName": "animals-rottweiler"
+ },
+ {
+   "id": "animals29",
+   "word": "sheepdog",
+   "transcription": "ˈʃiːpˌdɔɡ",
+   "imageName": "animals-sheepdog"
+ },
+ {
+   "id": "animals30",
+   "word": "bull",
+   "transcription": "ˈbʊl",
+   "imageName": "animals-bull"
+ },
+ {
+   "id": "animals31",
+   "word": "calf",
+   "transcription": "ˈkæf",
+   "imageName": "animals-calf"
+ },
+ {
+   "id": "animals32",
+   "word": "cat",
+   "transcription": "ˈkæt",
+   "imageName": "animals-cat"
+ },
+ {
+   "id": "animals33",
+   "word": "donkey",
+   "transcription": "ˈdɑŋkɪ",
+   "imageName": "animals-donkey"
+ },
+ {
+   "id": "animals34",
+   "word": "duck",
+   "transcription": "ˈdʌk",
+   "imageName": "animals-duck"
+ },
+ {
+   "id": "animals35",
+   "word": "foal",
+   "transcription": "ˈfoʊl",
+   "imageName": "animals-foal"
+ },
+ {
+   "id": "animals36",
+   "word": "goat",
+   "transcription": "ˈɡoʊt",
+   "imageName": "animals-goat"
+ },
+ {
+   "id": "animals37",
+   "word": "goose",
+   "transcription": "ˈɡuːs",
+   "imageName": "animals-goose"
+ },
+ {
+   "id": "animals38",
+   "word": "horse",
+   "transcription": "ˈhɔrs",
+   "imageName": "animals-horse"
+ },
+ {
+   "id": "animals39",
+   "word": "lamb",
+   "transcription": "ˈlæm",
+   "imageName": "animals-lamb"
+ },
+ {
+   "id": "animals40",
+   "word": "pig",
+   "transcription": "ˈpɪɡ",
+   "imageName": "animals-pig"
+ },
+ {
+   "id": "animals41",
+   "word": "piglet",
+   "transcription": "ˈpɪɡlət",
+   "imageName": "animals-piglet"
+ },
+ {
+   "id": "animals42",
+   "word": "rooster",
+   "transcription": "ˈruːstɚ",
+   "imageName": "animals-rooster"
+ },
+ {
+   "id": "animals43",
+   "word": "sheep",
+   "transcription": "ˈʃiːp",
+   "imageName": "animals-sheep"
+ },
+ {
+   "id": "animals44",
+   "word": "turkey",
+   "transcription": "ˈtɝkɪ",
+   "imageName": "animals-turkey"
+ },
+ {
+   "id": "animals45",
+   "word": "cod",
+   "transcription": "ˈkɑd",
+   "imageName": "animals-cod"
+ },
+ {
+   "id": "animals46",
+   "word": "crab",
+   "transcription": "ˈkræb",
+   "imageName": "animals-crab"
+ },
+ {
+   "id": "animals47",
+   "word": "jellyfish",
+   "transcription": "ˈdʒɛliːˌfɪʃ",
+   "imageName": "animals-jellyfish"
+ },
+ {
+   "id": "animals48",
+   "word": "lobster",
+   "transcription": "ˈlɑbstɚ",
+   "imageName": "animals-lobster"
+ },
+ {
+   "id": "animals49",
+   "word": "octopus",
+   "transcription": "ˈɑktəˌpʊs",
+   "imageName": "animals-octopus"
+ },
+ {
+   "id": "animals50",
+   "word": "oyster",
+   "transcription": "ˈɔɪstɚ",
+   "imageName": "animals-oyster"
+ },
+ {
+   "id": "animals51",
+   "word": "prawn",
+   "transcription": "ˈprɔn",
+   "imageName": "animals-prawn"
+ },
+ {
+   "id": "animals52",
+   "word": "salmon",
+   "transcription": "ˈsæmən",
+   "imageName": "animals-salmon"
+ },
+ {
+   "id": "animals53",
+   "word": "sardines",
+   "transcription": "sɑrˈdiːnz",
+   "imageName": "animals-sardines"
+ },
+ {
+   "id": "animals54",
+   "word": "sea horse",
+   "transcription": "ˈsiː ˈhɔrs",
+   "imageName": "animals-sea horse"
+ },
+ {
+   "id": "animals55",
+   "word": "shark",
+   "transcription": "ˈʃɑrk",
+   "imageName": "animals-shark"
+ },
+ {
+   "id": "animals56",
+   "word": "squid",
+   "transcription": "ˈskwɪd",
+   "imageName": "animals-squid"
+ },
+ {
+   "id": "animals57",
+   "word": "swordfish",
+   "transcription": "ˈsɔrdˌfɪʃ",
+   "imageName": "animals-swordfish"
+ },
+ {
+   "id": "animals58",
+   "word": "trout",
+   "transcription": "ˈtraʊt",
+   "imageName": "animals-trout"
+ },
+ {
+   "id": "animals59",
+   "word": "tuna",
+   "transcription": "ˈtuːnə",
+   "imageName": "animals-tuna"
+ },
+ {
+   "id": "animals60",
+   "word": "albatross",
+   "transcription": "ˈælbəˌtrɔs",
+   "imageName": "animals-albatross"
+ },
+ {
+   "id": "animals61",
+   "word": "clam",
+   "transcription": "ˈklæm",
+   "imageName": "animals-clam"
+ },
+ {
+   "id": "animals62",
+   "word": "coral",
+   "transcription": "ˈkɔrəl",
+   "imageName": "animals-coral"
+ },
+ {
+   "id": "animals63",
+   "word": "dolphin",
+   "transcription": "ˈdɑlfən",
+   "imageName": "animals-dolphin"
+ },
+ {
+   "id": "animals64",
+   "word": "moray eel",
+   "transcription": "ˈmɝrɪ ˈiːl",
+   "imageName": "animals-moray eel"
+ },
+ {
+   "id": "animals65",
+   "word": "pelican",
+   "transcription": "ˈpɛlɪkən",
+   "imageName": "animals-pelican"
+ },
+ {
+   "id": "animals66",
+   "word": "penguin",
+   "transcription": "ˈpɛŋɡwən",
+   "imageName": "animals-penguin"
+ },
+ {
+   "id": "animals67",
+   "word": "polar bear",
+   "transcription": "ˈpoʊlɚ ˈbɛr",
+   "imageName": "animals-polar bear"
+ },
+ {
+   "id": "animals68",
+   "word": "sea urchin",
+   "transcription": "ˈsiː ˈɝtʃən",
+   "imageName": "animals-sea urchin"
+ },
+ {
+   "id": "animals69",
+   "word": "seal",
+   "transcription": "ˈsiːl",
+   "imageName": "animals-seal"
+ },
+ {
+   "id": "animals70",
+   "word": "stingray",
+   "transcription": "ˈstɪŋˌreɪ",
+   "imageName": "animals-stingray"
+ },
+ {
+   "id": "animals71",
+   "word": "turtle",
+   "transcription": "ˈtɝtl̩",
+   "imageName": "animals-turtle"
+ },
+ {
+   "id": "animals72",
+   "word": "walrus",
+   "transcription": "ˈwɔlrəs",
+   "imageName": "animals-walrus"
+ },
+ {
+   "id": "animals73",
+   "word": "whale shark",
+   "transcription": "ˈweɪl ˈʃɑrk",
+   "imageName": "animals-whale shark"
+ },
+ {
+   "id": "animals74",
+   "word": "whale",
+   "transcription": "ˈweɪl",
+   "imageName": "animals-whale"
+ },
+ {
+   "id": "animals75",
+   "word": "budgerigar",
+   "transcription": "ˈbʌdʒɚriːˌɡɑr",
+   "imageName": "animals-budgerigar"
+ },
+ {
+   "id": "animals76",
+   "word": "canary",
+   "transcription": "kəˈnɛrɪ",
+   "imageName": "animals-canary"
+ },
+ {
+   "id": "animals77",
+   "word": "chinchilla",
+   "transcription": "tʃɪnˈtʃɪlə",
+   "imageName": "animals-chinchilla"
+ },
+ {
+   "id": "animals78",
+   "word": "ferret",
+   "transcription": "ˈfɛrət",
+   "imageName": "animals-ferret"
+ },
+ {
+   "id": "animals79",
+   "word": "finch",
+   "transcription": "ˈfɪntʃ",
+   "imageName": "animals-finch"
+ },
+ {
+   "id": "animals80",
+   "word": "gecko",
+   "transcription": "ˈɡɛkoʊ",
+   "imageName": "animals-gecko"
+ },
+ {
+   "id": "animals81",
+   "word": "goldfish",
+   "transcription": "ˈɡoʊldˌfɪʃ",
+   "imageName": "animals-goldfish"
+ },
+ {
+   "id": "animals82",
+   "word": "guinea pig",
+   "transcription": "ˈɡɪnɪ ˈpɪɡ",
+   "imageName": "animals-guinea pig"
+ },
+ {
+   "id": "animals83",
+   "word": "hermit crab",
+   "transcription": "ˈhɝmət ˈkræb",
+   "imageName": "animals-hermit crab"
+ },
+ {
+   "id": "animals84",
+   "word": "kitten",
+   "transcription": "ˈkɪtn̩",
+   "imageName": "animals-kitten"
+ },
+ {
+   "id": "animals85",
+   "word": "macaw",
+   "transcription": "məˈkɔ",
+   "imageName": "animals-macaw"
+ },
+ {
+   "id": "animals86",
+   "word": "mouse",
+   "transcription": "ˈmaʊs",
+   "imageName": "animals-mouse"
+ },
+ {
+   "id": "animals87",
+   "word": "pup",
+   "transcription": "ˈpʌp",
+   "imageName": "animals-pup"
+ },
+ {
+   "id": "animals88",
+   "word": "rabbit",
+   "transcription": "ˈræbət",
+   "imageName": "animals-rabbit"
+ },
+ {
+   "id": "animals89",
+   "word": "tortoise",
+   "transcription": "ˈtɔrtəs",
+   "imageName": "animals-tortoise"
+ }
+]

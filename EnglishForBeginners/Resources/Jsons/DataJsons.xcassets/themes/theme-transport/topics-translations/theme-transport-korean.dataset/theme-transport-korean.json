@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bicycles",
+    "word" : "자전거"
+  },
+  {
+    "id" : "Boats",
+    "word" : "배"
+  },
+  {
+    "id" : "Driving",
+    "word" : "운전"
+  },
+  {
+    "id" : "Road Signs",
+    "word" : "도로 표지"
+  },
+  {
+    "id" : "Trains",
+    "word" : "기차"
+  },
+  {
+    "id" : "Transportation",
+    "word" : "교통 수단"
+  }
+]

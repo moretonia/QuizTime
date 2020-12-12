@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "قرد البابون"
+  },
+  {
+    "id" : "animals1",
+    "word" : "جاموس"
+  },
+  {
+    "id" : "animals2",
+    "word" : "جمل"
+  },
+  {
+    "id" : "animals3",
+    "word" : "شامبانزي"
+  },
+  {
+    "id" : "animals4",
+    "word" : "تمساح"
+  },
+  {
+    "id" : "animals5",
+    "word" : "فيل"
+  },
+  {
+    "id" : "animals6",
+    "word" : "زرافة"
+  },
+  {
+    "id" : "animals7",
+    "word" : "غوريلا"
+  },
+  {
+    "id" : "animals8",
+    "word" : "فرس النهر"
+  },
+  {
+    "id" : "animals9",
+    "word" : "ضبع"
+  },
+  {
+    "id" : "animals10",
+    "word" : "فهد"
+  },
+  {
+    "id" : "animals11",
+    "word" : "أسد"
+  },
+  {
+    "id" : "animals12",
+    "word" : "نعامة"
+  },
+  {
+    "id" : "animals13",
+    "word" : "وحيد القرن"
+  },
+  {
+    "id" : "animals14",
+    "word" : "الثور الأفريقي"
+  },
+  {
+    "id" : "animals15",
+    "word" : "كلب الصيد"
+  },
+  {
+    "id" : "animals16",
+    "word" : "البوكسر"
+  },
+  {
+    "id" : "animals17",
+    "word" : "شيواوا"
+  },
+  {
+    "id" : "animals18",
+    "word" : "الكلب الاسكتلندي"
+  },
+  {
+    "id" : "animals19",
+    "word" : "الكلب الألماني"
+  },
+  {
+    "id" : "animals20",
+    "word" : "الدلماسي"
+  },
+  {
+    "id" : "animals21",
+    "word" : "دوبرمان"
+  },
+  {
+    "id" : "animals22",
+    "word" : "السلوقي"
+  },
+  {
+    "id" : "animals23",
+    "word" : "كلب الاسكيمو"
+  },
+  {
+    "id" : "animals24",
+    "word" : "سيتر الإيرلندي"
+  },
+  {
+    "id" : "animals25",
+    "word" : "لابرادور"
+  },
+  {
+    "id" : "animals26",
+    "word" : "كلب مالطي"
+  },
+  {
+    "id" : "animals27",
+    "word" : "كلب بودل"
+  },
+  {
+    "id" : "animals28",
+    "word" : "الروت وايلر"
+  },
+  {
+    "id" : "animals29",
+    "word" : "كلب الراعي"
+  },
+  {
+    "id" : "animals30",
+    "word" : "ثور"
+  },
+  {
+    "id" : "animals31",
+    "word" : "عجل"
+  },
+  {
+    "id" : "animals32",
+    "word" : "قط"
+  },
+  {
+    "id" : "animals33",
+    "word" : "حمار"
+  },
+  {
+    "id" : "animals34",
+    "word" : "بطة"
+  },
+  {
+    "id" : "animals35",
+    "word" : "المُهر"
+  },
+  {
+    "id" : "animals36",
+    "word" : "ماعز"
+  },
+  {
+    "id" : "animals37",
+    "word" : "أوزة"
+  },
+  {
+    "id" : "animals38",
+    "word" : "حصان"
+  },
+  {
+    "id" : "animals39",
+    "word" : "حمل"
+  },
+  {
+    "id" : "animals40",
+    "word" : "خنزير"
+  },
+  {
+    "id" : "animals41",
+    "word" : "خنزير صغير"
+  },
+  {
+    "id" : "animals42",
+    "word" : "ديك"
+  },
+  {
+    "id" : "animals43",
+    "word" : "غنم"
+  },
+  {
+    "id" : "animals44",
+    "word" : "ديك رومي"
+  },
+  {
+    "id" : "animals45",
+    "word" : "سمك القد"
+  },
+  {
+    "id" : "animals46",
+    "word" : "سلطعون"
+  },
+  {
+    "id" : "animals47",
+    "word" : "قناديل البحر"
+  },
+  {
+    "id" : "animals48",
+    "word" : "سرطان البحر"
+  },
+  {
+    "id" : "animals49",
+    "word" : "أخطبوط"
+  },
+  {
+    "id" : "animals50",
+    "word" : "محار"
+  },
+  {
+    "id" : "animals51",
+    "word" : "جمبري"
+  },
+  {
+    "id" : "animals52",
+    "word" : "سمك السالمون"
+  },
+  {
+    "id" : "animals53",
+    "word" : "السردين"
+  },
+  {
+    "id" : "animals54",
+    "word" : "فرس البحر"
+  },
+  {
+    "id" : "animals55",
+    "word" : "سمك القرش"
+  },
+  {
+    "id" : "animals56",
+    "word" : "حبار"
+  },
+  {
+    "id" : "animals57",
+    "word" : "سمك أبو سيف"
+  },
+  {
+    "id" : "animals58",
+    "word" : "سمك السلمون المرقط"
+  },
+  {
+    "id" : "animals59",
+    "word" : "تونة"
+  },
+  {
+    "id" : "animals60",
+    "word" : "القطرس"
+  },
+  {
+    "id" : "animals61",
+    "word" : "المحار"
+  },
+  {
+    "id" : "animals62",
+    "word" : "مرجان"
+  },
+  {
+    "id" : "animals63",
+    "word" : "دولفين"
+  },
+  {
+    "id" : "animals64",
+    "word" : "ثعبان البحر الموراي"
+  },
+  {
+    "id" : "animals65",
+    "word" : "البجع"
+  },
+  {
+    "id" : "animals66",
+    "word" : "البطريق"
+  },
+  {
+    "id" : "animals67",
+    "word" : "الدب القطبي"
+  },
+  {
+    "id" : "animals68",
+    "word" : "قنفذ البحر"
+  },
+  {
+    "id" : "animals69",
+    "word" : "فقمة"
+  },
+  {
+    "id" : "animals70",
+    "word" : "سمكة اللّما"
+  },
+  {
+    "id" : "animals71",
+    "word" : "سلحفاة البحر"
+  },
+  {
+    "id" : "animals72",
+    "word" : "حصان البحر"
+  },
+  {
+    "id" : "animals73",
+    "word" : "قرش الحوت"
+  },
+  {
+    "id" : "animals74",
+    "word" : "الحوت"
+  },
+  {
+    "id" : "animals75",
+    "word" : "ببغاء صغيرة"
+  },
+  {
+    "id" : "animals76",
+    "word" : "كناري"
+  },
+  {
+    "id" : "animals77",
+    "word" : "حيوان الشنشيلة"
+  },
+  {
+    "id" : "animals78",
+    "word" : "النمس"
+  },
+  {
+    "id" : "animals79",
+    "word" : "عصفور"
+  },
+  {
+    "id" : "animals80",
+    "word" : "البرص"
+  },
+  {
+    "id" : "animals81",
+    "word" : "السَمكة الذَهبية"
+  },
+  {
+    "id" : "animals82",
+    "word" : "الخنزير الغيني"
+  },
+  {
+    "id" : "animals83",
+    "word" : "السرطان الناسك"
+  },
+  {
+    "id" : "animals84",
+    "word" : "قطه صغيره"
+  },
+  {
+    "id" : "animals85",
+    "word" : "المكاو"
+  },
+  {
+    "id" : "animals86",
+    "word" : "الفأر"
+  },
+  {
+    "id" : "animals87",
+    "word" : "جرو"
+  },
+  {
+    "id" : "animals88",
+    "word" : "أرنب"
+  },
+  {
+    "id" : "animals89",
+    "word" : "سلحفاة"
+  }
+]

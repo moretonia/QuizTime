@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "bañador"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "abrigo"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "vestido"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "guantes"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "chaqueta"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "jeans"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "suéter"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "pijamas"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "camisa"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "zapatos"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "falda"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "pantalones"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "lentes de sol"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "camiseta"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "uniforme"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "escotado por detrás"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "bikini"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "vestido negro"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "vestido de noche"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "flamenco"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "cuello halter"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "una sola pieza"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "sari"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "sin tirantes"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "rayado"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "traje de chaqueta"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "vestido de verano"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "toga"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "tradicional"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "boda"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "después del afeitado"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "cinturón"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "corbata de lazo"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "calzoncillos"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "gemelos"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "camisa de vestir"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "zapatos de vestir"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "tenis para correr"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "corbatas"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "afeitadora"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "brocha de afeitar"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "zapatillas"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "calcetines"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "traje"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "pantalón"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "gorro"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "botas"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "casco"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "patines de hielo"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "jersey"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "leotardo"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "camisa polo"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "pantalones cortos"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "traje para esquiar"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "reloj inteligente"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "brasier deportivo"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "traje de baño"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "chándal"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "traje de buceo"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "pulsera"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "blusa"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "sostén"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "cárdigan"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "gargantilla"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "cinturón de moda"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "sombrero"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "tacones"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "mono"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "kimono"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "bragas"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "sandalias"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "chal"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "bufanda de seda"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "medias"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "cremallera"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "brazalete"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "anillo de vestir"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "aretes"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "bolso de mano"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "llavero"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "labial"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "rímel"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "lima de uñas"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "collar"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "perfume"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "bolso"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "teléfono inteligente"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "pañuelos"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "billetera"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "reloj"
+  }
+]

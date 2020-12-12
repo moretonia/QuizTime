@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "der Pavian"
+  },
+  {
+    "id" : "animals1",
+    "word" : "der Büffel"
+  },
+  {
+    "id" : "animals2",
+    "word" : "das Kamel"
+  },
+  {
+    "id" : "animals3",
+    "word" : "der Schimpanse"
+  },
+  {
+    "id" : "animals4",
+    "word" : "das Krokodil"
+  },
+  {
+    "id" : "animals5",
+    "word" : "der Elefant"
+  },
+  {
+    "id" : "animals6",
+    "word" : "die Giraffe"
+  },
+  {
+    "id" : "animals7",
+    "word" : "der Gorilla"
+  },
+  {
+    "id" : "animals8",
+    "word" : "das Nilpferd"
+  },
+  {
+    "id" : "animals9",
+    "word" : "die Hyäne"
+  },
+  {
+    "id" : "animals10",
+    "word" : "der Leopard"
+  },
+  {
+    "id" : "animals11",
+    "word" : "der Löwe"
+  },
+  {
+    "id" : "animals12",
+    "word" : "der Vogelstrauß"
+  },
+  {
+    "id" : "animals13",
+    "word" : "das Nashorn"
+  },
+  {
+    "id" : "animals14",
+    "word" : "das Gnu"
+  },
+  {
+    "id" : "animals15",
+    "word" : "der Beagle"
+  },
+  {
+    "id" : "animals16",
+    "word" : "der Boxer"
+  },
+  {
+    "id" : "animals17",
+    "word" : "der Chihuahua"
+  },
+  {
+    "id" : "animals18",
+    "word" : "der Collie"
+  },
+  {
+    "id" : "animals19",
+    "word" : "der Dackel"
+  },
+  {
+    "id" : "animals20",
+    "word" : "der Dalmatiner"
+  },
+  {
+    "id" : "animals21",
+    "word" : "der Dobermann"
+  },
+  {
+    "id" : "animals22",
+    "word" : "der Greyhound"
+  },
+  {
+    "id" : "animals23",
+    "word" : "der Husky"
+  },
+  {
+    "id" : "animals24",
+    "word" : "der Irish Setter"
+  },
+  {
+    "id" : "animals25",
+    "word" : "der Labrador"
+  },
+  {
+    "id" : "animals26",
+    "word" : "der Malteser"
+  },
+  {
+    "id" : "animals27",
+    "word" : "der Pudel"
+  },
+  {
+    "id" : "animals28",
+    "word" : "der Rottweiler"
+  },
+  {
+    "id" : "animals29",
+    "word" : "der Schäferhund"
+  },
+  {
+    "id" : "animals30",
+    "word" : "der Stier"
+  },
+  {
+    "id" : "animals31",
+    "word" : "das Kalb"
+  },
+  {
+    "id" : "animals32",
+    "word" : "die Katze"
+  },
+  {
+    "id" : "animals33",
+    "word" : "der Esel"
+  },
+  {
+    "id" : "animals34",
+    "word" : "die Ente"
+  },
+  {
+    "id" : "animals35",
+    "word" : "das Fohlen"
+  },
+  {
+    "id" : "animals36",
+    "word" : "die Ziege"
+  },
+  {
+    "id" : "animals37",
+    "word" : "die Gans"
+  },
+  {
+    "id" : "animals38",
+    "word" : "das Pferd"
+  },
+  {
+    "id" : "animals39",
+    "word" : "das Lamm"
+  },
+  {
+    "id" : "animals40",
+    "word" : "das Schwein"
+  },
+  {
+    "id" : "animals41",
+    "word" : "das Ferkel"
+  },
+  {
+    "id" : "animals42",
+    "word" : "der Hahn"
+  },
+  {
+    "id" : "animals43",
+    "word" : "das Schaf"
+  },
+  {
+    "id" : "animals44",
+    "word" : "der Truthahn"
+  },
+  {
+    "id" : "animals45",
+    "word" : "der Kabeljau"
+  },
+  {
+    "id" : "animals46",
+    "word" : "der Krebs"
+  },
+  {
+    "id" : "animals47",
+    "word" : "die Qualle"
+  },
+  {
+    "id" : "animals48",
+    "word" : "der Hummer"
+  },
+  {
+    "id" : "animals49",
+    "word" : "der Oktopus"
+  },
+  {
+    "id" : "animals50",
+    "word" : "die Auster"
+  },
+  {
+    "id" : "animals51",
+    "word" : "die Garnele"
+  },
+  {
+    "id" : "animals52",
+    "word" : "der Lachs"
+  },
+  {
+    "id" : "animals53",
+    "word" : "die Sardine"
+  },
+  {
+    "id" : "animals54",
+    "word" : "das Seepferdchen"
+  },
+  {
+    "id" : "animals55",
+    "word" : "der Hai"
+  },
+  {
+    "id" : "animals56",
+    "word" : "der Tintenfisch"
+  },
+  {
+    "id" : "animals57",
+    "word" : "der Schwertfisch"
+  },
+  {
+    "id" : "animals58",
+    "word" : "die Forelle"
+  },
+  {
+    "id" : "animals59",
+    "word" : "der Tunfisch"
+  },
+  {
+    "id" : "animals60",
+    "word" : "der Albatros"
+  },
+  {
+    "id" : "animals61",
+    "word" : "die Muschel"
+  },
+  {
+    "id" : "animals62",
+    "word" : "die Koralle"
+  },
+  {
+    "id" : "animals63",
+    "word" : "der Delfin"
+  },
+  {
+    "id" : "animals64",
+    "word" : "die Muräne"
+  },
+  {
+    "id" : "animals65",
+    "word" : "der Pelikan"
+  },
+  {
+    "id" : "animals66",
+    "word" : "der Pinguin"
+  },
+  {
+    "id" : "animals67",
+    "word" : "der Polarbär"
+  },
+  {
+    "id" : "animals68",
+    "word" : "der Seeigel"
+  },
+  {
+    "id" : "animals69",
+    "word" : "die Robbe"
+  },
+  {
+    "id" : "animals70",
+    "word" : "der Stachelrochen"
+  },
+  {
+    "id" : "animals71",
+    "word" : "die Schildkröte"
+  },
+  {
+    "id" : "animals72",
+    "word" : "das Walross"
+  },
+  {
+    "id" : "animals73",
+    "word" : "der Walhai"
+  },
+  {
+    "id" : "animals74",
+    "word" : "der Wal"
+  },
+  {
+    "id" : "animals75",
+    "word" : "der Wellensittich"
+  },
+  {
+    "id" : "animals76",
+    "word" : "der Kanarienvogel"
+  },
+  {
+    "id" : "animals77",
+    "word" : "das Chinchilla"
+  },
+  {
+    "id" : "animals78",
+    "word" : "das Frettchen"
+  },
+  {
+    "id" : "animals79",
+    "word" : "der Fink"
+  },
+  {
+    "id" : "animals80",
+    "word" : "der Gecko"
+  },
+  {
+    "id" : "animals81",
+    "word" : "der Goldfisch"
+  },
+  {
+    "id" : "animals82",
+    "word" : "das Meerschweinchen"
+  },
+  {
+    "id" : "animals83",
+    "word" : "der Einsiedlerkrebs"
+  },
+  {
+    "id" : "animals84",
+    "word" : "das Kätzchen"
+  },
+  {
+    "id" : "animals85",
+    "word" : "der Ara"
+  },
+  {
+    "id" : "animals86",
+    "word" : "die Maus"
+  },
+  {
+    "id" : "animals87",
+    "word" : "der Welpe"
+  },
+  {
+    "id" : "animals88",
+    "word" : "das Kaninchen"
+  },
+  {
+    "id" : "animals89",
+    "word" : "die Landschildkröte"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "dzwonek"
+  },
+  {
+    "id" : "transport1",
+    "word" : "hamulce"
+  },
+  {
+    "id" : "transport2",
+    "word" : "łańcuch"
+  },
+  {
+    "id" : "transport3",
+    "word" : "rowerzysta"
+  },
+  {
+    "id" : "transport4",
+    "word" : "biegi"
+  },
+  {
+    "id" : "transport5",
+    "word" : "kierownica roweru"
+  },
+  {
+    "id" : "transport6",
+    "word" : "hełm"
+  },
+  {
+    "id" : "transport7",
+    "word" : "ścieżka"
+  },
+  {
+    "id" : "transport8",
+    "word" : "pedał"
+  },
+  {
+    "id" : "transport9",
+    "word" : "pompka"
+  },
+  {
+    "id" : "transport10",
+    "word" : "przebicie"
+  },
+  {
+    "id" : "transport11",
+    "word" : "reflektor"
+  },
+  {
+    "id" : "transport12",
+    "word" : "siodełko"
+  },
+  {
+    "id" : "transport13",
+    "word" : "szprychy"
+  },
+  {
+    "id" : "transport14",
+    "word" : "koło"
+  },
+  {
+    "id" : "transport15",
+    "word" : "statek towarowy"
+  },
+  {
+    "id" : "transport16",
+    "word" : "statek rejsowy"
+  },
+  {
+    "id" : "transport17",
+    "word" : "barka"
+  },
+  {
+    "id" : "transport18",
+    "word" : "łódź rybacka"
+  },
+  {
+    "id" : "transport19",
+    "word" : "gondola"
+  },
+  {
+    "id" : "transport20",
+    "word" : "łódź mieszkalna"
+  },
+  {
+    "id" : "transport21",
+    "word" : "wodolot"
+  },
+  {
+    "id" : "transport22",
+    "word" : "łódź dmuchana"
+  },
+  {
+    "id" : "transport23",
+    "word" : "łódź motorowa"
+  },
+  {
+    "id" : "transport24",
+    "word" : "złom"
+  },
+  {
+    "id" : "transport25",
+    "word" : "kajak"
+  },
+  {
+    "id" : "transport26",
+    "word" : "wysięgnik"
+  },
+  {
+    "id" : "transport27",
+    "word" : "rowerek wodny"
+  },
+  {
+    "id" : "transport28",
+    "word" : "łódź wiosłowa"
+  },
+  {
+    "id" : "transport29",
+    "word" : "jacht"
+  },
+  {
+    "id" : "transport30",
+    "word" : "lewarek"
+  },
+  {
+    "id" : "transport31",
+    "word" : "karawan"
+  },
+  {
+    "id" : "transport32",
+    "word" : "deska rozdzielcza"
+  },
+  {
+    "id" : "transport33",
+    "word" : "olej silnikowy"
+  },
+  {
+    "id" : "transport34",
+    "word" : "silnik"
+  },
+  {
+    "id" : "transport35",
+    "word" : "stacja benzynowa"
+  },
+  {
+    "id" : "transport36",
+    "word" : "reflektory"
+  },
+  {
+    "id" : "transport37",
+    "word" : "droga"
+  },
+  {
+    "id" : "transport38",
+    "word" : "rejestracja"
+  },
+  {
+    "id" : "transport39",
+    "word" : "piesi"
+  },
+  {
+    "id" : "transport40",
+    "word" : "sedan"
+  },
+  {
+    "id" : "transport41",
+    "word" : "lusterka boczne"
+  },
+  {
+    "id" : "transport42",
+    "word" : "kierownica"
+  },
+  {
+    "id" : "transport43",
+    "word" : "długie światła"
+  },
+  {
+    "id" : "transport44",
+    "word" : "trawler"
+  },
+  {
+    "id" : "transport45",
+    "word" : "bydło"
+  },
+  {
+    "id" : "transport46",
+    "word" : "dzieci"
+  },
+  {
+    "id" : "transport47",
+    "word" : "niebezpieczeństwo"
+  },
+  {
+    "id" : "transport48",
+    "word" : "skrzyżowanie"
+  },
+  {
+    "id" : "transport49",
+    "word" : "skrzyżowanie z torami"
+  },
+  {
+    "id" : "transport50",
+    "word" : "niedźwiedź polarny"
+  },
+  {
+    "id" : "transport51",
+    "word" : "rondo"
+  },
+  {
+    "id" : "transport52",
+    "word" : "ślisko"
+  },
+  {
+    "id" : "transport53",
+    "word" : "śnieg"
+  },
+  {
+    "id" : "transport54",
+    "word" : "limit prędkości"
+  },
+  {
+    "id" : "transport55",
+    "word" : "strome zbocze"
+  },
+  {
+    "id" : "transport56",
+    "word" : "światła"
+  },
+  {
+    "id" : "transport57",
+    "word" : "kręta droga"
+  },
+  {
+    "id" : "transport58",
+    "word" : "robotnicy"
+  },
+  {
+    "id" : "transport59",
+    "word" : "przejście dla pieszych"
+  },
+  {
+    "id" : "transport60",
+    "word" : "bufet"
+  },
+  {
+    "id" : "transport61",
+    "word" : "bileter"
+  },
+  {
+    "id" : "transport62",
+    "word" : "pasażerowie"
+  },
+  {
+    "id" : "transport63",
+    "word" : "konduktor"
+  },
+  {
+    "id" : "transport64",
+    "word" : "pociąg towarowy"
+  },
+  {
+    "id" : "transport65",
+    "word" : "winda"
+  },
+  {
+    "id" : "transport66",
+    "word" : "lokomotywa"
+  },
+  {
+    "id" : "transport67",
+    "word" : "peron"
+  },
+  {
+    "id" : "transport68",
+    "word" : "most kolejowy"
+  },
+  {
+    "id" : "transport69",
+    "word" : "godziny szczytu"
+  },
+  {
+    "id" : "transport70",
+    "word" : "siedzenia"
+  },
+  {
+    "id" : "transport71",
+    "word" : "pociąg parowy"
+  },
+  {
+    "id" : "transport72",
+    "word" : "pasy"
+  },
+  {
+    "id" : "transport73",
+    "word" : "rozkład"
+  },
+  {
+    "id" : "transport74",
+    "word" : "tory"
+  },
+  {
+    "id" : "transport75",
+    "word" : "rower"
+  },
+  {
+    "id" : "transport76",
+    "word" : "autobus"
+  },
+  {
+    "id" : "transport77",
+    "word" : "samochód"
+  },
+  {
+    "id" : "transport78",
+    "word" : "minivan"
+  },
+  {
+    "id" : "transport79",
+    "word" : "monoślad"
+  },
+  {
+    "id" : "transport80",
+    "word" : "motorower"
+  },
+  {
+    "id" : "transport81",
+    "word" : "skuter motorowy"
+  },
+  {
+    "id" : "transport82",
+    "word" : "riksza"
+  },
+  {
+    "id" : "transport83",
+    "word" : "rolki"
+  },
+  {
+    "id" : "transport84",
+    "word" : "skuter"
+  },
+  {
+    "id" : "transport85",
+    "word" : "metro"
+  },
+  {
+    "id" : "transport86",
+    "word" : "taxi"
+  },
+  {
+    "id" : "transport87",
+    "word" : "pociąg"
+  },
+  {
+    "id" : "transport88",
+    "word" : "tramwaj"
+  },
+  {
+    "id" : "transport89",
+    "word" : "ciężarówka"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "العمل I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "العمل II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "العمل III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "المقتنيات"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "التسوق"
+  },
+  {
+    "id" : "Shops",
+    "word" : "محلات"
+  }
+]

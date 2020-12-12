@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Art",
+    "word" : "예술"
+  },
+  {
+    "id" : "Musical Instruments",
+    "word" : "악기"
+  },
+  {
+    "id" : "School",
+    "word" : "학교"
+  },
+  {
+    "id" : "School Subjects",
+    "word" : "학교 과목"
+  },
+  {
+    "id" : "Stationery",
+    "word" : "문구류"
+  },
+  {
+    "id" : "Writing",
+    "word" : "글쓰기"
+  }
+]

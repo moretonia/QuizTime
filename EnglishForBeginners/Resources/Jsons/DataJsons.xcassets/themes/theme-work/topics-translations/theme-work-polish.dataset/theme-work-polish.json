@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Indoor Tools",
+    "word" : "Narzędzia Wewnętrzne"
+  },
+  {
+    "id" : "Jobs",
+    "word" : "Praca"
+  },
+  {
+    "id" : "Jobs II",
+    "word" : "Praca II"
+  },
+  {
+    "id" : "Jobs III",
+    "word" : "Praca III"
+  },
+  {
+    "id" : "Jobs IV",
+    "word" : "Praca IV"
+  },
+  {
+    "id" : "Outdoor Tools",
+    "word" : "Narzędzia Zewnętrzne"
+  }
+]

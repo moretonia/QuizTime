@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "aéroport"
+  },
+  {
+    "id" : "travel1",
+    "word" : "couloir"
+  },
+  {
+    "id" : "travel2",
+    "word" : "bagages"
+  },
+  {
+    "id" : "travel3",
+    "word" : "douane"
+  },
+  {
+    "id" : "travel4",
+    "word" : "escalator"
+  },
+  {
+    "id" : "travel5",
+    "word" : "agent de bord"
+  },
+  {
+    "id" : "travel6",
+    "word" : "bagage à main"
+  },
+  {
+    "id" : "travel7",
+    "word" : "repas à bord"
+  },
+  {
+    "id" : "travel8",
+    "word" : "passeport"
+  },
+  {
+    "id" : "travel9",
+    "word" : "pilote"
+  },
+  {
+    "id" : "travel10",
+    "word" : "avion"
+  },
+  {
+    "id" : "travel11",
+    "word" : "piste"
+  },
+  {
+    "id" : "travel12",
+    "word" : "voyageur"
+  },
+  {
+    "id" : "travel13",
+    "word" : "table-plateau"
+  },
+  {
+    "id" : "travel14",
+    "word" : "fenêtre"
+  },
+  {
+    "id" : "travel15",
+    "word" : "baht"
+  },
+  {
+    "id" : "travel16",
+    "word" : "dollar"
+  },
+  {
+    "id" : "travel17",
+    "word" : "euro"
+  },
+  {
+    "id" : "travel18",
+    "word" : "peso"
+  },
+  {
+    "id" : "travel19",
+    "word" : "livre"
+  },
+  {
+    "id" : "travel20",
+    "word" : "rand"
+  },
+  {
+    "id" : "travel21",
+    "word" : "réal"
+  },
+  {
+    "id" : "travel22",
+    "word" : "rouble"
+  },
+  {
+    "id" : "travel23",
+    "word" : "roupie"
+  },
+  {
+    "id" : "travel24",
+    "word" : "rupiah"
+  },
+  {
+    "id" : "travel25",
+    "word" : "shekel"
+  },
+  {
+    "id" : "travel26",
+    "word" : "franc suisse"
+  },
+  {
+    "id" : "travel27",
+    "word" : "won"
+  },
+  {
+    "id" : "travel28",
+    "word" : "yen"
+  },
+  {
+    "id" : "travel29",
+    "word" : "yuan"
+  },
+  {
+    "id" : "travel30",
+    "word" : "amsterdam"
+  },
+  {
+    "id" : "travel31",
+    "word" : "athènes"
+  },
+  {
+    "id" : "travel32",
+    "word" : "le Caire"
+  },
+  {
+    "id" : "travel33",
+    "word" : "édinbourg"
+  },
+  {
+    "id" : "travel34",
+    "word" : "Hong Kong"
+  },
+  {
+    "id" : "travel35",
+    "word" : "istanbul"
+  },
+  {
+    "id" : "travel36",
+    "word" : "jérusalem"
+  },
+  {
+    "id" : "travel37",
+    "word" : "londres"
+  },
+  {
+    "id" : "travel38",
+    "word" : "moscou"
+  },
+  {
+    "id" : "travel39",
+    "word" : "New York"
+  },
+  {
+    "id" : "travel40",
+    "word" : "paris"
+  },
+  {
+    "id" : "travel41",
+    "word" : "Rio de Janeiro"
+  },
+  {
+    "id" : "travel42",
+    "word" : "rome"
+  },
+  {
+    "id" : "travel43",
+    "word" : "San Francisco"
+  },
+  {
+    "id" : "travel44",
+    "word" : "sydney"
+  },
+  {
+    "id" : "travel45",
+    "word" : "agra"
+  },
+  {
+    "id" : "travel46",
+    "word" : "pékin"
+  },
+  {
+    "id" : "travel47",
+    "word" : "berlin"
+  },
+  {
+    "id" : "travel48",
+    "word" : "budapest"
+  },
+  {
+    "id" : "travel49",
+    "word" : "Le Cap"
+  },
+  {
+    "id" : "travel50",
+    "word" : "copenhague"
+  },
+  {
+    "id" : "travel51",
+    "word" : "dubai"
+  },
+  {
+    "id" : "travel52",
+    "word" : "hollywood"
+  },
+  {
+    "id" : "travel53",
+    "word" : "Kuala Lumpur"
+  },
+  {
+    "id" : "travel54",
+    "word" : "La Mecque"
+  },
+  {
+    "id" : "travel55",
+    "word" : "singapour"
+  },
+  {
+    "id" : "travel56",
+    "word" : "Saint-Pétersbourg"
+  },
+  {
+    "id" : "travel57",
+    "word" : "tokyo"
+  },
+  {
+    "id" : "travel58",
+    "word" : "venise"
+  },
+  {
+    "id" : "travel59",
+    "word" : "yangon"
+  },
+  {
+    "id" : "travel60",
+    "word" : "portier"
+  },
+  {
+    "id" : "travel61",
+    "word" : "lits superposés"
+  },
+  {
+    "id" : "travel62",
+    "word" : "ascenseur"
+  },
+  {
+    "id" : "travel63",
+    "word" : "salle de bain"
+  },
+  {
+    "id" : "travel64",
+    "word" : "hall"
+  },
+  {
+    "id" : "travel65",
+    "word" : "jacuzzi"
+  },
+  {
+    "id" : "travel66",
+    "word" : "piscine"
+  },
+  {
+    "id" : "travel67",
+    "word" : "accueil"
+  },
+  {
+    "id" : "travel68",
+    "word" : "clef de chambre"
+  },
+  {
+    "id" : "travel69",
+    "word" : "numéro de chambre"
+  },
+  {
+    "id" : "travel70",
+    "word" : "room service"
+  },
+  {
+    "id" : "travel71",
+    "word" : "coffre-fort"
+  },
+  {
+    "id" : "travel72",
+    "word" : "valise"
+  },
+  {
+    "id" : "travel73",
+    "word" : "valet"
+  },
+  {
+    "id" : "travel74",
+    "word" : "vue"
+  },
+  {
+    "id" : "travel75",
+    "word" : "Angkor Vat"
+  },
+  {
+    "id" : "travel76",
+    "word" : "Big Ben"
+  },
+  {
+    "id" : "travel77",
+    "word" : "Mosquée Bleue"
+  },
+  {
+    "id" : "travel78",
+    "word" : "colisée"
+  },
+  {
+    "id" : "travel79",
+    "word" : "Tour Eiffel"
+  },
+  {
+    "id" : "travel80",
+    "word" : "Grand Canyon"
+  },
+  {
+    "id" : "travel81",
+    "word" : "Grande Muraille"
+  },
+  {
+    "id" : "travel82",
+    "word" : "Petite Sirène"
+  },
+  {
+    "id" : "travel83",
+    "word" : "Pont de Londres"
+  },
+  {
+    "id" : "travel84",
+    "word" : "louvre"
+  },
+  {
+    "id" : "travel85",
+    "word" : "Machu Picchu"
+  },
+  {
+    "id" : "travel86",
+    "word" : "pétra"
+  },
+  {
+    "id" : "travel87",
+    "word" : "pyramides"
+  },
+  {
+    "id" : "travel88",
+    "word" : "sphinx"
+  },
+  {
+    "id" : "travel89",
+    "word" : "Times Square"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "주사위 놀이"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "배틀쉽"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "카드"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "체커스"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "체스"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "네 개 맞추기"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "주사위 게임"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "도미노"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "고"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "퍼즐"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "루보"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "마작"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "모노폴리"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "스크래블"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "틱택토"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "배드민턴"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "볼링"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "암벽 등반"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "다트들"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "고리 던지기"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "프리스비"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "사방치기"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "훌라후프"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "등 짚고 뛰어넘기"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "림보"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "핀볼"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "포커"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "셔플보드"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "줄다리기"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "요요"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "풍선"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "권투 글러브"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "크리켓용 방망이"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "다트"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "아령"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "낚시 릴"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "오리발"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "축구공"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "고글"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "골프채"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "얼음 도끼"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "낙하산"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "스노우 스키"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "축구화"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "테니스 라켓"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "에어로빅"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "야구"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "농구"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "봅슬레이"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "권투"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "크리켓"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "축구"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "체조"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "핸드볼"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "하키"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "럭비"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "스키"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "테니스"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "배구"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "윈드서핑"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "양궁"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "사이클링"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "마장 마술"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "골프"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "높이뛰기"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "오리엔티어링"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "폴로"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "조정"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "스쿠버 다이빙"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "사격"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "스카이다이빙"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "스누커"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "탁구"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "수구"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "레슬링"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "베이스 점핑"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "모터크로스 자전거"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "보디서핑"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "캠핑"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "동굴 탐험"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "원예"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "등산"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "마상 창시합"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "유도"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "카이트 서핑"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "래프팅"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "보트 타기"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "스노클링"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "스노우보드"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "태극권"
+  }
+]

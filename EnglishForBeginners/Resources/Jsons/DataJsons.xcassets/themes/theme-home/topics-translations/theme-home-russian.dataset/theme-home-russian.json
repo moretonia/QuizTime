@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "Ванная комната"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "Столовая"
+  },
+  {
+    "id" : "Home",
+    "word" : "Дом"
+  },
+  {
+    "id" : "House",
+    "word" : "Коттедж"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "Кухня"
+  },
+  {
+    "id" : "Materials",
+    "word" : "Материалы"
+  }
+]

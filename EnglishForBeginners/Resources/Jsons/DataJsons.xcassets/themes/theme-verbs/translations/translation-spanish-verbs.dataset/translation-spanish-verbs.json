@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "balanceo"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "bateo"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "comprobando"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "llorando"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "bailando"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "cayendo"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "lanzándose"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "lanzamiento"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "corriendo"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "cantando"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "sentándose"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "durmiendo"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "sonriendo"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "pararse"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "caminando"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "cepillándo"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "cortando"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "limpiando"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "cocinando"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "dibujando"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "bebiendo"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "secándo"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "comiendo"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "ejercitándose"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "brillando"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "leyendo"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "afeitándose"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "despertando"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "lavando"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "escribiendo"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "manejando"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "rallando"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "ayudando"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "golpeando"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "ordeñando"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "abriendo"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "publicando"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "relajando"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "enrollando"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "saltando"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "hablando"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "apretando"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "nadando"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "balanceando"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "mensajeando"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "aplaudiendo"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "horneando"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "calculando"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "persiguiendo"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "decorando"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "entrando"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "martillando"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "trotando"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "arrodillando"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "marchando"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "jugando"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "revirtiendo"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "frotando"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "fumando"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "saludando"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "argumentando"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "arrestando"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "acampando"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "llevando"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "goteando"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "tamborileando"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "flotando"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "dando la bienvenida"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "tejiendo"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "apuntando"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "bombeando"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "cosiendo"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "deslizando"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "nevando"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "girando"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "mordiendo"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "bendiciendo"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "jugando bolos"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "quemando"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "animando"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "peinando"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "gateando"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "filmando"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "volando"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "derritiendo"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "mezclando"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "remando"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "picando"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "puliendo"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "estirando"
+  }
+]

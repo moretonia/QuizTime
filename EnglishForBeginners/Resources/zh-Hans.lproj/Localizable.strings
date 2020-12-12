@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "主题";
+"3-themes" = "3个主题";
+"6-topics" = "6个话题";
+"90-words" = "90个词汇";
+"words" = "词汇";
+"view" = "游览";
+"main-buy-button" = "购买";
+
+// Topics
+"matching" = "连连看";
+"translation" = "翻译";
+"pronunciation" = "发音";
+"spelling" = "拼字";
+"dictionary" = "字典";
+"buy-theme" = "购买主题";
+"locked" = "上锁";
+
+// Quiz
+"some-theme-quiz" = "%@\n主题测验";
+"collect-stars-to-unlock" = "收集%d颗星星来解锁测验";
+"can-start-quiz" = "您现在就能开始测验";
+"quiz" = "测验";
+"pass-quiz-again" = "再次进行测验以便得到更多经验";
+"repeat" = "重复";
+
+// Match Level
+"match" = "连连看";
+"verify" = "确认";
+
+// Translate level
+"translate" = "翻译";
+"wrong" = "错误";
+"next" = "下一个";
+
+// Spelling level
+"spell" = "拼写";
+"english-translation" = "英语翻译";
+
+// Listen & Say level
+"listen-and-say" = "听&说";
+"try-again" = "请再试一次";
+
+// Alerts
+"warning" = "警告";
+"progress-lost" = "您是否想要关闭此级别？所有进展将会遗失";
+"cancel" = "取消";
+"close" = "关闭";
+"quiz-fail" = "对不起你并没有通过测验";
+"not-pass-level" = "对不起你并没有通过级别";
+"back-to-theme" = "返回主题";
+"retry" = "重试";
+
+// Profile
+/*"profile" = "用户资料";
+"experience" = "经验";
+"skills" = "技术";
+"next-level" = "下一级 %d";
+
+// Ranks
+"beginner" = "初级者";
+"pupil" = "学子";
+"student" = "学生";
+"connoisseur" = "行家";
+"outstanding" = "杰出";
+"specialist" = "专家";
+"pro" = "专业人才";
+"master" = "大师";
+"magister" = "导师";
+"guru" = "领袖";
+"sage" = "智者";
+"enlightened" = "开明";
+"oracle" = "神谕";
+"genius" = "天才";
+"higher-mind" = "更高超的思想";
+"supermind" = "超级思维";
+
+// Profile
+"leaderboard" = "排行榜";
+"restore-purchases" = "恢复购买";
+"rate-us" = "为我们评分";
+"share" = "分享";
+"change-language" = "更换语言";
+"about-us" = "关于我们";*/
+
+// Sharing
+"experience-and-rank-share" = "我拥有 Quiz Time%d经验而我现在的级别是“%@”。";
+"new-rank-share" = "我达到了 Quiz Time 里的一个新级别“%@”！试试看吧！";
+"experience-share" = "我在 Quiz Time 获得了%d经验。我的英语程度与日俱增！";
+"1-star-share" = "我获得了1颗星以及%d经验。我很高兴以 Quiz Time 应用程式来学习英语。";
+"2-stars-share" = "我在 Quiz Time 获得了2颗星以及%d经验。试试超越我吧！";
+"3-stars-share" = "我在 Quiz Time 获得了3颗星以及%d经验。我的英语程度与日俱增！";
+
+// Language
+/*"my-language" = "我的母语";
+"ok" = "OK";
+
+// Congratulations
+"congratulations" = "恭喜";
+"xp" = "+%d 经验";
+"new-rank" = "新级别";*/
+
+// About us
+"about-us-title" = "关于我们";
+"model-english-mission" = "Quiz Time 应用程序将会加强您的词汇，以游戏的方式帮助改善发音和拼写。";
+"app-structure" = "应用程序内的词汇被分入不同主题，每个主题包含了6个话题以及一个测验。每个话题包含了15个词汇的字典 _ 。";
+"about-mechanics-description" = "不同游戏机制的独特结合将会帮助您快速有效地掌握词汇：";
+"matching" = "连连看";
+"about-mechanics-matching-description" = "在这级别您将会为词汇选择正确的图像";
+"translation" = "翻译";
+"about-mechanics-translator-description" = "选择词汇的正确翻译";
+"pronunciation" = "发音";
+"about-mechanics-pronunciation-description" = "聆听与发音。确保打开您的扩音器。";
+"spelling" = "拼写";
+"about-mechanics-spelling-description" = "使用键盘来输入词汇";
+"about-rewards-little-star-description" = "在每一级别顺利通关您将会得到1至3颗小星星";
+"about-rewards-bronze-star-description" = "在获得至少50颗小星星后您将会获得铜星";
+"about-rewards-silver-star-description" = "在获得至少75颗小星星后您将会获得银星";
+"about-rewards-golden-star-description" = "在获得至少100颗小星星后您将会获得金星";
+"about-rewards-passed-exam-description" = "学术帽代表顺利通过主题测验";
+"about-rewards-description" = "通过每一级别或测验您将会获得经验和不同等级：初级者、大师级以及其他。您能在用户资料找到更多有关您的成就资讯 _ 。";
+"copyright" = "版权所有© B. V. Rolandsen 2020";
+"design-and-development" = "由Bryan Rolandsen设计与开发";
+
+// Alerts
+"correct" = "正确";
+"finish" = "结束";
+"error" = "错误";
+"error-load-leaderboard" = "排行榜加载失败。请稍等再试";
+"timeout" = "超时过期";
+"speech-recognition-unavailable" = "语音识别不可用";
+"device-settings-for-speech" = "1. 检查设备设置（设置 -> 通用 -> 键盘 ->启用听写）";
+"check-internet-for-speech" = "2. 识别功能若不能操作，请检查您的网络连接并重试";
+"already-cancel-auth" = "请使用设备设置来登录游戏中心";
+"settings" = "设置";
+"micro-usage-cancel" = "扩音器启用被拒绝。请检查设备设置";
+"speech-usage-cancel" = "语音识别启用被拒绝。请检查设备设置";
+"not-support-speech-recognition" = "您的设备并不支持语音识别";
+
+// Packs
+"main-pack-info" = "3个主题, 18个话题, 270个词汇";
+
+// Other
+"topics-count" = "6个话题, 90个词汇";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

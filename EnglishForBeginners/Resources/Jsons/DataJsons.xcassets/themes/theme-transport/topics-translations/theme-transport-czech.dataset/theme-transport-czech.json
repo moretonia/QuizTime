@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bicycles",
+    "word" : "Kola"
+  },
+  {
+    "id" : "Boats",
+    "word" : "Lodě"
+  },
+  {
+    "id" : "Driving",
+    "word" : "Řízení"
+  },
+  {
+    "id" : "Road Signs",
+    "word" : "Dopravní značky"
+  },
+  {
+    "id" : "Trains",
+    "word" : "Vlaky"
+  },
+  {
+    "id" : "Transportation",
+    "word" : "Doprava"
+  }
+]

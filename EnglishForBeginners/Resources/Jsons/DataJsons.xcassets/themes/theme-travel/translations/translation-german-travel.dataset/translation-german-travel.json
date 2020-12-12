@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "der Flughafen"
+  },
+  {
+    "id" : "travel1",
+    "word" : "der Gangplatz"
+  },
+  {
+    "id" : "travel2",
+    "word" : "das Gepäck"
+  },
+  {
+    "id" : "travel3",
+    "word" : "der Zoll"
+  },
+  {
+    "id" : "travel4",
+    "word" : "die Rolltreppe"
+  },
+  {
+    "id" : "travel5",
+    "word" : "die Flugbegleiterin"
+  },
+  {
+    "id" : "travel6",
+    "word" : "das Handgepäck"
+  },
+  {
+    "id" : "travel7",
+    "word" : "die Boardverpflegung"
+  },
+  {
+    "id" : "travel8",
+    "word" : "der Reisepass"
+  },
+  {
+    "id" : "travel9",
+    "word" : "der Pilot"
+  },
+  {
+    "id" : "travel10",
+    "word" : "das Flugzeug"
+  },
+  {
+    "id" : "travel11",
+    "word" : "die Start- und Landebahn"
+  },
+  {
+    "id" : "travel12",
+    "word" : "der Rollsteig"
+  },
+  {
+    "id" : "travel13",
+    "word" : "der Klapptisch"
+  },
+  {
+    "id" : "travel14",
+    "word" : "das Fenster"
+  },
+  {
+    "id" : "travel15",
+    "word" : "der Baht"
+  },
+  {
+    "id" : "travel16",
+    "word" : "der Dollar"
+  },
+  {
+    "id" : "travel17",
+    "word" : "der Euro"
+  },
+  {
+    "id" : "travel18",
+    "word" : "der Peso"
+  },
+  {
+    "id" : "travel19",
+    "word" : "das Pfund"
+  },
+  {
+    "id" : "travel20",
+    "word" : "der Rand"
+  },
+  {
+    "id" : "travel21",
+    "word" : "der Real"
+  },
+  {
+    "id" : "travel22",
+    "word" : "der Rubel"
+  },
+  {
+    "id" : "travel23",
+    "word" : "die Rupie"
+  },
+  {
+    "id" : "travel24",
+    "word" : "die Rupiah"
+  },
+  {
+    "id" : "travel25",
+    "word" : "der Schekel"
+  },
+  {
+    "id" : "travel26",
+    "word" : "der Schweizer Franken"
+  },
+  {
+    "id" : "travel27",
+    "word" : "der Won"
+  },
+  {
+    "id" : "travel28",
+    "word" : "der Yen"
+  },
+  {
+    "id" : "travel29",
+    "word" : "der Yuan"
+  },
+  {
+    "id" : "travel30",
+    "word" : "Amsterdam"
+  },
+  {
+    "id" : "travel31",
+    "word" : "Athen"
+  },
+  {
+    "id" : "travel32",
+    "word" : "Kairo"
+  },
+  {
+    "id" : "travel33",
+    "word" : "Edinburgh"
+  },
+  {
+    "id" : "travel34",
+    "word" : "Hong Kong"
+  },
+  {
+    "id" : "travel35",
+    "word" : "Istanbul"
+  },
+  {
+    "id" : "travel36",
+    "word" : "Jerusalem"
+  },
+  {
+    "id" : "travel37",
+    "word" : "London"
+  },
+  {
+    "id" : "travel38",
+    "word" : "Moskau"
+  },
+  {
+    "id" : "travel39",
+    "word" : "New York"
+  },
+  {
+    "id" : "travel40",
+    "word" : "Paris"
+  },
+  {
+    "id" : "travel41",
+    "word" : "Rio de Janeiro"
+  },
+  {
+    "id" : "travel42",
+    "word" : "Rom"
+  },
+  {
+    "id" : "travel43",
+    "word" : "San Francisco"
+  },
+  {
+    "id" : "travel44",
+    "word" : "Sydney"
+  },
+  {
+    "id" : "travel45",
+    "word" : "Agra"
+  },
+  {
+    "id" : "travel46",
+    "word" : "Peking"
+  },
+  {
+    "id" : "travel47",
+    "word" : "Berlin"
+  },
+  {
+    "id" : "travel48",
+    "word" : "Budapest"
+  },
+  {
+    "id" : "travel49",
+    "word" : "Kapstadt"
+  },
+  {
+    "id" : "travel50",
+    "word" : "Kopenhagen"
+  },
+  {
+    "id" : "travel51",
+    "word" : "Dubai"
+  },
+  {
+    "id" : "travel52",
+    "word" : "Hollywood"
+  },
+  {
+    "id" : "travel53",
+    "word" : "Kuala Lumpur"
+  },
+  {
+    "id" : "travel54",
+    "word" : "Mekka"
+  },
+  {
+    "id" : "travel55",
+    "word" : "Singapur"
+  },
+  {
+    "id" : "travel56",
+    "word" : "Sankt Petersburg"
+  },
+  {
+    "id" : "travel57",
+    "word" : "Tokio"
+  },
+  {
+    "id" : "travel58",
+    "word" : "Venedig"
+  },
+  {
+    "id" : "travel59",
+    "word" : "Yangon"
+  },
+  {
+    "id" : "travel60",
+    "word" : "der Page"
+  },
+  {
+    "id" : "travel61",
+    "word" : "das Stockbett"
+  },
+  {
+    "id" : "travel62",
+    "word" : "der Aufzug"
+  },
+  {
+    "id" : "travel63",
+    "word" : "Zimmer"
+  },
+  {
+    "id" : "travel64",
+    "word" : "das Foyer"
+  },
+  {
+    "id" : "travel65",
+    "word" : "der Whirlpool"
+  },
+  {
+    "id" : "travel66",
+    "word" : "das Schwimmbecken"
+  },
+  {
+    "id" : "travel67",
+    "word" : "die Rezeption"
+  },
+  {
+    "id" : "travel68",
+    "word" : "der Zimmerschlüssel"
+  },
+  {
+    "id" : "travel69",
+    "word" : "die Zimmernummer"
+  },
+  {
+    "id" : "travel70",
+    "word" : "der Zimmerservice"
+  },
+  {
+    "id" : "travel71",
+    "word" : "der Safe"
+  },
+  {
+    "id" : "travel72",
+    "word" : "der Koffer"
+  },
+  {
+    "id" : "travel73",
+    "word" : "der Kammerdiener"
+  },
+  {
+    "id" : "travel74",
+    "word" : "die Aussicht"
+  },
+  {
+    "id" : "travel75",
+    "word" : "Angkor Wat"
+  },
+  {
+    "id" : "travel76",
+    "word" : "der Big Ben"
+  },
+  {
+    "id" : "travel77",
+    "word" : "die Blaue Moschee"
+  },
+  {
+    "id" : "travel78",
+    "word" : "das Kolosseum"
+  },
+  {
+    "id" : "travel79",
+    "word" : "der Eiffelturm"
+  },
+  {
+    "id" : "travel80",
+    "word" : "der Grand Canyon"
+  },
+  {
+    "id" : "travel81",
+    "word" : "die Chinesische Mauer"
+  },
+  {
+    "id" : "travel82",
+    "word" : "die Meerjungfrau"
+  },
+  {
+    "id" : "travel83",
+    "word" : "die London Bridge"
+  },
+  {
+    "id" : "travel84",
+    "word" : "das Louvre"
+  },
+  {
+    "id" : "travel85",
+    "word" : "Machu Picchu"
+  },
+  {
+    "id" : "travel86",
+    "word" : "Petra"
+  },
+  {
+    "id" : "travel87",
+    "word" : "die Pyramiden"
+  },
+  {
+    "id" : "travel88",
+    "word" : "die Sphinx"
+  },
+  {
+    "id" : "travel89",
+    "word" : "der Time Square"
+  }
+]

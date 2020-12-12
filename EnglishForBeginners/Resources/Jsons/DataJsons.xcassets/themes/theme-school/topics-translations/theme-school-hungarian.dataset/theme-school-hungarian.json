@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Art",
+    "word" : "Művészet"
+  },
+  {
+    "id" : "Musical Instruments",
+    "word" : "Hangszerek"
+  },
+  {
+    "id" : "School",
+    "word" : "Iskola"
+  },
+  {
+    "id" : "School Subjects",
+    "word" : "Iskolai tantárgyak"
+  },
+  {
+    "id" : "Stationery",
+    "word" : "Iskolaszerek"
+  },
+  {
+    "id" : "Writing",
+    "word" : "Írás"
+  }
+]

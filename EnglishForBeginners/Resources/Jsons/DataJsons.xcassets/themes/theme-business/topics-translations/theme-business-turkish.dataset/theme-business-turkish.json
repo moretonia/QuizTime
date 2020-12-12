@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "İş I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "İş II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "İş III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "Koleksiyonluklar"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "Alışveriş"
+  },
+  {
+    "id" : "Shops",
+    "word" : "Dükkanlar"
+  }
+]

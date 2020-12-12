@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "joc de table"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "război cu vapoare"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "cărți de joc"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "joc de dame"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "şah"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "conectați patru"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "zaruri"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "domino"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "go"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "puzzle"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "ludo"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "Mahjong"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "Monopoly"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "Scrabble"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "x și 0"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "badminton"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "bowling"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "alpinism"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "săgeți"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "deck quoits"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "cerc zburător"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "şotron"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "hula"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "capră"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "limbo"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "pinball"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "pocher"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "shuffleboard"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "sfoara de război"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "yo yo"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "balon"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "manușă de box"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "bâtă de cricket"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "săgeată"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "gantere"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "tambur de pescuit"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "înotătoare"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "minge de fotbal"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "ochelari de protecţie"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "bâtă de golf"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "topor de gheață"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "paraşută"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "schiuri"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "pantofi de fotbal"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "rachetă de tenis"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "aerobic"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "baseball"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "baschet"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "bob"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "box"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "crichet"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "fotbal"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "gimnastică"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "handbal"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "hochei"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "rugbi"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "schi"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "tenis"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "volei"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "windsurfing"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "TIR cu arcul"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "ciclism"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "dresaj"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "golf"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "săritură în lungime"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "orientare"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "polo"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "canotaj"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "scufundări"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "TIR cu pușca"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "paraşutism"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "snooker"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "tenis de masa"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "polo de apă"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "lupte libere"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "sărituri de bază"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "BMX"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "body surfing"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "campare"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "speologie"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "grădinărit"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "drumeții"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "turnir"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "judo"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "kitesurfing"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "canotaj pe râu"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "navigație"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "snorkeling"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "snowboard"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "tai chi"
+  }
+]

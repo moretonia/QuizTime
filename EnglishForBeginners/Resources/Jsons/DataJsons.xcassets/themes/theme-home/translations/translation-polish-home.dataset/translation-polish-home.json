@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "home0",
+    "word" : "wanna"
+  },
+  {
+    "id" : "home1",
+    "word" : "grzebień"
+  },
+  {
+    "id" : "home2",
+    "word" : "kurek"
+  },
+  {
+    "id" : "home3",
+    "word" : "mata"
+  },
+  {
+    "id" : "home4",
+    "word" : "lustro"
+  },
+  {
+    "id" : "home5",
+    "word" : "wtyczka"
+  },
+  {
+    "id" : "home6",
+    "word" : "szampon"
+  },
+  {
+    "id" : "home7",
+    "word" : "żel pod prysznic"
+  },
+  {
+    "id" : "home8",
+    "word" : "prysznic"
+  },
+  {
+    "id" : "home9",
+    "word" : "mydło"
+  },
+  {
+    "id" : "home10",
+    "word" : "szczoteczka do zębów"
+  },
+  {
+    "id" : "home11",
+    "word" : "pasta do zębów"
+  },
+  {
+    "id" : "home12",
+    "word" : "wieszak na ręczniki"
+  },
+  {
+    "id" : "home13",
+    "word" : "ręcznik"
+  },
+  {
+    "id" : "home14",
+    "word" : "umywalka"
+  },
+  {
+    "id" : "home15",
+    "word" : "miska"
+  },
+  {
+    "id" : "home16",
+    "word" : "nóż do masła"
+  },
+  {
+    "id" : "home17",
+    "word" : "pałeczki do jedzenia"
+  },
+  {
+    "id" : "home18",
+    "word" : "filiżanka"
+  },
+  {
+    "id" : "home19",
+    "word" : "wazon"
+  },
+  {
+    "id" : "home20",
+    "word" : "serwetka"
+  },
+  {
+    "id" : "home21",
+    "word" : "widelec"
+  },
+  {
+    "id" : "home22",
+    "word" : "szklanka"
+  },
+  {
+    "id" : "home23",
+    "word" : "dzban"
+  },
+  {
+    "id" : "home24",
+    "word" : "nóż"
+  },
+  {
+    "id" : "home25",
+    "word" : "kubek"
+  },
+  {
+    "id" : "home26",
+    "word" : "talerz"
+  },
+  {
+    "id" : "home27",
+    "word" : "solniczka"
+  },
+  {
+    "id" : "home28",
+    "word" : "spodek"
+  },
+  {
+    "id" : "home29",
+    "word" : "łyżka"
+  },
+  {
+    "id" : "home30",
+    "word" : "fotel"
+  },
+  {
+    "id" : "home31",
+    "word" : "łóżko"
+  },
+  {
+    "id" : "home32",
+    "word" : "półka na książki"
+  },
+  {
+    "id" : "home33",
+    "word" : "krzesło"
+  },
+  {
+    "id" : "home34",
+    "word" : "zegar"
+  },
+  {
+    "id" : "home35",
+    "word" : "łóżeczko"
+  },
+  {
+    "id" : "home36",
+    "word" : "zasłony"
+  },
+  {
+    "id" : "home37",
+    "word" : "poduszka"
+  },
+  {
+    "id" : "home38",
+    "word" : "kominek"
+  },
+  {
+    "id" : "home39",
+    "word" : "abażur"
+  },
+  {
+    "id" : "home40",
+    "word" : "dywanik"
+  },
+  {
+    "id" : "home41",
+    "word" : "sofa"
+  },
+  {
+    "id" : "home42",
+    "word" : "taboret"
+  },
+  {
+    "id" : "home43",
+    "word" : "telewizja"
+  },
+  {
+    "id" : "home44",
+    "word" : "szafa"
+  },
+  {
+    "id" : "home45",
+    "word" : "wanienka dla ptaków"
+  },
+  {
+    "id" : "home46",
+    "word" : "wiadro"
+  },
+  {
+    "id" : "home47",
+    "word" : "komin"
+  },
+  {
+    "id" : "home48",
+    "word" : "drzwi"
+  },
+  {
+    "id" : "home49",
+    "word" : "skrzat"
+  },
+  {
+    "id" : "home50",
+    "word" : "skrzynka na listy"
+  },
+  {
+    "id" : "home51",
+    "word" : "ścieżka"
+  },
+  {
+    "id" : "home52",
+    "word" : "kruchta"
+  },
+  {
+    "id" : "home53",
+    "word" : "dach"
+  },
+  {
+    "id" : "home54",
+    "word" : "zraszacz"
+  },
+  {
+    "id" : "home55",
+    "word" : "stopnie"
+  },
+  {
+    "id" : "home56",
+    "word" : "kran"
+  },
+  {
+    "id" : "home57",
+    "word" : "weranda"
+  },
+  {
+    "id" : "home58",
+    "word" : "zbiornik na wodę"
+  },
+  {
+    "id" : "home59",
+    "word" : "okno"
+  },
+  {
+    "id" : "home60",
+    "word" : "fartuch"
+  },
+  {
+    "id" : "home61",
+    "word" : "butelka"
+  },
+  {
+    "id" : "home62",
+    "word" : "naczynia"
+  },
+  {
+    "id" : "home63",
+    "word" : "detergent"
+  },
+  {
+    "id" : "home64",
+    "word" : "imbryk"
+  },
+  {
+    "id" : "home65",
+    "word" : "patelnia"
+  },
+  {
+    "id" : "home66",
+    "word" : "garnek"
+  },
+  {
+    "id" : "home67",
+    "word" : "lodówka"
+  },
+  {
+    "id" : "home68",
+    "word" : "wałek do ciasta"
+  },
+  {
+    "id" : "home69",
+    "word" : "zlew"
+  },
+  {
+    "id" : "home70",
+    "word" : "piekarnik"
+  },
+  {
+    "id" : "home71",
+    "word" : "obrus"
+  },
+  {
+    "id" : "home72",
+    "word" : "ręczniczek herbaciany"
+  },
+  {
+    "id" : "home73",
+    "word" : "czajnik"
+  },
+  {
+    "id" : "home74",
+    "word" : "wok"
+  },
+  {
+    "id" : "home75",
+    "word" : "aluminium"
+  },
+  {
+    "id" : "home76",
+    "word" : "cegły"
+  },
+  {
+    "id" : "home77",
+    "word" : "karton"
+  },
+  {
+    "id" : "home78",
+    "word" : "ceramika"
+  },
+  {
+    "id" : "home79",
+    "word" : "beton"
+  },
+  {
+    "id" : "home80",
+    "word" : "bawełna"
+  },
+  {
+    "id" : "home81",
+    "word" : "szkło"
+  },
+  {
+    "id" : "home82",
+    "word" : "papier"
+  },
+  {
+    "id" : "home83",
+    "word" : "plastic"
+  },
+  {
+    "id" : "home84",
+    "word" : "guma"
+  },
+  {
+    "id" : "home85",
+    "word" : "piasek"
+  },
+  {
+    "id" : "home86",
+    "word" : "stal"
+  },
+  {
+    "id" : "home87",
+    "word" : "kamienie"
+  },
+  {
+    "id" : "home88",
+    "word" : "drewno"
+  },
+  {
+    "id" : "home89",
+    "word" : "wełna"
+  }
+]

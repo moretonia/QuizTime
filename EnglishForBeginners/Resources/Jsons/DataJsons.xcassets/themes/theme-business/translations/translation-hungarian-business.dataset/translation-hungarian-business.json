@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "előny"
+  },
+  {
+    "id" : "business1",
+    "word" : "hirdet"
+  },
+  {
+    "id" : "business2",
+    "word" : "számla"
+  },
+  {
+    "id" : "business3",
+    "word" : "költségvetés"
+  },
+  {
+    "id" : "business4",
+    "word" : "összehasonlítás"
+  },
+  {
+    "id" : "business5",
+    "word" : "versenyző"
+  },
+  {
+    "id" : "business6",
+    "word" : "megerősítés"
+  },
+  {
+    "id" : "business7",
+    "word" : "vevő"
+  },
+  {
+    "id" : "business8",
+    "word" : "határidő"
+  },
+  {
+    "id" : "business9",
+    "word" : "adósság"
+  },
+  {
+    "id" : "business10",
+    "word" : "döntés"
+  },
+  {
+    "id" : "business11",
+    "word" : "kézbesítés"
+  },
+  {
+    "id" : "business12",
+    "word" : "ár"
+  },
+  {
+    "id" : "business13",
+    "word" : "menetrend"
+  },
+  {
+    "id" : "business14",
+    "word" : "csapatmunka"
+  },
+  {
+    "id" : "business15",
+    "word" : "értékelés"
+  },
+  {
+    "id" : "business16",
+    "word" : "bemutatás"
+  },
+  {
+    "id" : "business17",
+    "word" : "terjesztés"
+  },
+  {
+    "id" : "business18",
+    "word" : "alkalmazottak"
+  },
+  {
+    "id" : "business19",
+    "word" : "munkáltató"
+  },
+  {
+    "id" : "business20",
+    "word" : "gyár"
+  },
+  {
+    "id" : "business21",
+    "word" : "növekedés"
+  },
+  {
+    "id" : "business22",
+    "word" : "menedzser"
+  },
+  {
+    "id" : "business23",
+    "word" : "utasítás"
+  },
+  {
+    "id" : "business24",
+    "word" : "interjú"
+  },
+  {
+    "id" : "business25",
+    "word" : "számla"
+  },
+  {
+    "id" : "business26",
+    "word" : "veszteség"
+  },
+  {
+    "id" : "business27",
+    "word" : "gépezet"
+  },
+  {
+    "id" : "business28",
+    "word" : "áru"
+  },
+  {
+    "id" : "business29",
+    "word" : "tárolás"
+  },
+  {
+    "id" : "business30",
+    "word" : "megszüntetés"
+  },
+  {
+    "id" : "business31",
+    "word" : "csere"
+  },
+  {
+    "id" : "business32",
+    "word" : "visszajelzés"
+  },
+  {
+    "id" : "business33",
+    "word" : "telepítés"
+  },
+  {
+    "id" : "business34",
+    "word" : "megrendelés"
+  },
+  {
+    "id" : "business35",
+    "word" : "kifizetés"
+  },
+  {
+    "id" : "business36",
+    "word" : "büntetés"
+  },
+  {
+    "id" : "business37",
+    "word" : "termékek"
+  },
+  {
+    "id" : "business38",
+    "word" : "promóció"
+  },
+  {
+    "id" : "business39",
+    "word" : "elutasít"
+  },
+  {
+    "id" : "business40",
+    "word" : "javítások"
+  },
+  {
+    "id" : "business41",
+    "word" : "jelentés"
+  },
+  {
+    "id" : "business42",
+    "word" : "fizetés"
+  },
+  {
+    "id" : "business43",
+    "word" : "szállítmány"
+  },
+  {
+    "id" : "business44",
+    "word" : "cél"
+  },
+  {
+    "id" : "business45",
+    "word" : "régiségek"
+  },
+  {
+    "id" : "business46",
+    "word" : "leletek"
+  },
+  {
+    "id" : "business47",
+    "word" : "képregény"
+  },
+  {
+    "id" : "business48",
+    "word" : "gyémánt"
+  },
+  {
+    "id" : "business49",
+    "word" : "figurák"
+  },
+  {
+    "id" : "business50",
+    "word" : "kövületek"
+  },
+  {
+    "id" : "business51",
+    "word" : "arany pénzérmék"
+  },
+  {
+    "id" : "business52",
+    "word" : "modellautók"
+  },
+  {
+    "id" : "business53",
+    "word" : "poszterek"
+  },
+  {
+    "id" : "business54",
+    "word" : "rubin"
+  },
+  {
+    "id" : "business55",
+    "word" : "zafír"
+  },
+  {
+    "id" : "business56",
+    "word" : "ezüst"
+  },
+  {
+    "id" : "business57",
+    "word" : "bélyegek"
+  },
+  {
+    "id" : "business58",
+    "word" : "vintage autók"
+  },
+  {
+    "id" : "business59",
+    "word" : "műalkotások"
+  },
+  {
+    "id" : "business60",
+    "word" : "készpénz"
+  },
+  {
+    "id" : "business61",
+    "word" : "pénztáros"
+  },
+  {
+    "id" : "business62",
+    "word" : "hitelkártya"
+  },
+  {
+    "id" : "business63",
+    "word" : "címjegyzék"
+  },
+  {
+    "id" : "business64",
+    "word" : "próbafülke"
+  },
+  {
+    "id" : "business65",
+    "word" : "billentyűzet"
+  },
+  {
+    "id" : "business66",
+    "word" : "keres"
+  },
+  {
+    "id" : "business67",
+    "word" : "fizető"
+  },
+  {
+    "id" : "business68",
+    "word" : "árcímke"
+  },
+  {
+    "id" : "business69",
+    "word" : "eladás"
+  },
+  {
+    "id" : "business70",
+    "word" : "bevásárló táska"
+  },
+  {
+    "id" : "business71",
+    "word" : "bevásárlás"
+  },
+  {
+    "id" : "business72",
+    "word" : "ügyletek"
+  },
+  {
+    "id" : "business73",
+    "word" : "felpróbálás"
+  },
+  {
+    "id" : "business74",
+    "word" : "visszavonás"
+  },
+  {
+    "id" : "business75",
+    "word" : "pékség"
+  },
+  {
+    "id" : "business76",
+    "word" : "könyvesbolt"
+  },
+  {
+    "id" : "business77",
+    "word" : "hentesbolt"
+  },
+  {
+    "id" : "business78",
+    "word" : "cukrászda"
+  },
+  {
+    "id" : "business79",
+    "word" : "vegyészbolt"
+  },
+  {
+    "id" : "business80",
+    "word" : "ruhabolt"
+  },
+  {
+    "id" : "business81",
+    "word" : "fish and chips"
+  },
+  {
+    "id" : "business82",
+    "word" : "virágbolt"
+  },
+  {
+    "id" : "business83",
+    "word" : "gyümölcs bolt"
+  },
+  {
+    "id" : "business84",
+    "word" : "ékszerek"
+  },
+  {
+    "id" : "business85",
+    "word" : "piac"
+  },
+  {
+    "id" : "business86",
+    "word" : "online áruház"
+  },
+  {
+    "id" : "business87",
+    "word" : "cipőbolt"
+  },
+  {
+    "id" : "business88",
+    "word" : "játékbolt"
+  },
+  {
+    "id" : "business89",
+    "word" : "utazási iroda"
+  }
+]

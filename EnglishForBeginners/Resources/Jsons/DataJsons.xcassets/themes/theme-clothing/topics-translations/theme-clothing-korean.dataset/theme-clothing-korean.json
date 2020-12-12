@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "의류"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "고급 의류"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "남성 제품"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "운동복"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "여성 의류"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "여성 제품"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "Бизнес I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "Бизнес II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "Бизнес III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "Коллекционные товары"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "Шоппинг"
+  },
+  {
+    "id" : "Shops",
+    "word" : "Магазины"
+  }
+]

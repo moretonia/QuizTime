@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "Elmalı turta"
+  },
+  {
+    "id" : "food1",
+    "word" : "baklava"
+  },
+  {
+    "id" : "food2",
+    "word" : "Çizkek"
+  },
+  {
+    "id" : "food3",
+    "word" : "kurabiye"
+  },
+  {
+    "id" : "food4",
+    "word" : "kek"
+  },
+  {
+    "id" : "food5",
+    "word" : "tatlı çörek"
+  },
+  {
+    "id" : "food6",
+    "word" : "meyve pastası"
+  },
+  {
+    "id" : "food7",
+    "word" : "meyve salatası"
+  },
+  {
+    "id" : "food8",
+    "word" : "dondurma"
+  },
+  {
+    "id" : "food9",
+    "word" : "turta"
+  },
+  {
+    "id" : "food10",
+    "word" : "krep"
+  },
+  {
+    "id" : "food11",
+    "word" : "Pavlova"
+  },
+  {
+    "id" : "food12",
+    "word" : "Çörekler"
+  },
+  {
+    "id" : "food13",
+    "word" : "kup glase"
+  },
+  {
+    "id" : "food14",
+    "word" : "Gofret"
+  },
+  {
+    "id" : "food15",
+    "word" : "tavuk"
+  },
+  {
+    "id" : "food16",
+    "word" : "cips"
+  },
+  {
+    "id" : "food17",
+    "word" : "çikolata"
+  },
+  {
+    "id" : "food18",
+    "word" : "yumurtalar"
+  },
+  {
+    "id" : "food19",
+    "word" : "falafel"
+  },
+  {
+    "id" : "food20",
+    "word" : "balık"
+  },
+  {
+    "id" : "food21",
+    "word" : "kızarmış pirinç"
+  },
+  {
+    "id" : "food22",
+    "word" : "hamburger"
+  },
+  {
+    "id" : "food23",
+    "word" : "bal"
+  },
+  {
+    "id" : "food24",
+    "word" : "etli börek"
+  },
+  {
+    "id" : "food25",
+    "word" : "pizza"
+  },
+  {
+    "id" : "food26",
+    "word" : "sandviç"
+  },
+  {
+    "id" : "food27",
+    "word" : "sosisler"
+  },
+  {
+    "id" : "food28",
+    "word" : "biftek"
+  },
+  {
+    "id" : "food29",
+    "word" : "ton balıklı salata"
+  },
+  {
+    "id" : "food30",
+    "word" : "elma"
+  },
+  {
+    "id" : "food31",
+    "word" : "kayısı"
+  },
+  {
+    "id" : "food32",
+    "word" : "muz"
+  },
+  {
+    "id" : "food33",
+    "word" : "yaban mersini"
+  },
+  {
+    "id" : "food34",
+    "word" : "incir"
+  },
+  {
+    "id" : "food35",
+    "word" : "greyfurt"
+  },
+  {
+    "id" : "food36",
+    "word" : "üzüm"
+  },
+  {
+    "id" : "food37",
+    "word" : "limon"
+  },
+  {
+    "id" : "food38",
+    "word" : "portakal"
+  },
+  {
+    "id" : "food39",
+    "word" : "çarkıfelek meyvesi"
+  },
+  {
+    "id" : "food40",
+    "word" : "şeftali"
+  },
+  {
+    "id" : "food41",
+    "word" : "ananas"
+  },
+  {
+    "id" : "food42",
+    "word" : "erik"
+  },
+  {
+    "id" : "food43",
+    "word" : "çilek"
+  },
+  {
+    "id" : "food44",
+    "word" : "domates"
+  },
+  {
+    "id" : "food45",
+    "word" : "avokado"
+  },
+  {
+    "id" : "food46",
+    "word" : "kiraz"
+  },
+  {
+    "id" : "food47",
+    "word" : "hindistan cevizi"
+  },
+  {
+    "id" : "food48",
+    "word" : "tarih"
+  },
+  {
+    "id" : "food49",
+    "word" : "ejder meyvesi"
+  },
+  {
+    "id" : "food50",
+    "word" : "guava"
+  },
+  {
+    "id" : "food51",
+    "word" : "kivi meyvesi"
+  },
+  {
+    "id" : "food52",
+    "word" : "mandalina"
+  },
+  {
+    "id" : "food53",
+    "word" : "mango"
+  },
+  {
+    "id" : "food54",
+    "word" : "zeytin"
+  },
+  {
+    "id" : "food55",
+    "word" : "papaya"
+  },
+  {
+    "id" : "food56",
+    "word" : "armut"
+  },
+  {
+    "id" : "food57",
+    "word" : "nar"
+  },
+  {
+    "id" : "food58",
+    "word" : "ahududu"
+  },
+  {
+    "id" : "food59",
+    "word" : "karpuz"
+  },
+  {
+    "id" : "food60",
+    "word" : "fasulye"
+  },
+  {
+    "id" : "food61",
+    "word" : "brokoli"
+  },
+  {
+    "id" : "food62",
+    "word" : "lahana"
+  },
+  {
+    "id" : "food63",
+    "word" : "havuç"
+  },
+  {
+    "id" : "food64",
+    "word" : "karnıbahar"
+  },
+  {
+    "id" : "food65",
+    "word" : "kereviz"
+  },
+  {
+    "id" : "food66",
+    "word" : "mısır"
+  },
+  {
+    "id" : "food67",
+    "word" : "salatalık"
+  },
+  {
+    "id" : "food68",
+    "word" : "patlıcan"
+  },
+  {
+    "id" : "food69",
+    "word" : "pırasa"
+  },
+  {
+    "id" : "food70",
+    "word" : "marul"
+  },
+  {
+    "id" : "food71",
+    "word" : "soğan"
+  },
+  {
+    "id" : "food72",
+    "word" : "patates"
+  },
+  {
+    "id" : "food73",
+    "word" : "balkabağı"
+  },
+  {
+    "id" : "food74",
+    "word" : "ıspanak"
+  },
+  {
+    "id" : "food75",
+    "word" : "enginar"
+  },
+  {
+    "id" : "food76",
+    "word" : "kuşkonmaz"
+  },
+  {
+    "id" : "food77",
+    "word" : "bambu"
+  },
+  {
+    "id" : "food78",
+    "word" : "pancar kökü"
+  },
+  {
+    "id" : "food79",
+    "word" : "pazı"
+  },
+  {
+    "id" : "food80",
+    "word" : "sarımsak"
+  },
+  {
+    "id" : "food81",
+    "word" : "zencefil"
+  },
+  {
+    "id" : "food82",
+    "word" : "mantar"
+  },
+  {
+    "id" : "food83",
+    "word" : "yaban havuçları"
+  },
+  {
+    "id" : "food84",
+    "word" : "bezelye"
+  },
+  {
+    "id" : "food85",
+    "word" : "biberler"
+  },
+  {
+    "id" : "food86",
+    "word" : "turp"
+  },
+  {
+    "id" : "food87",
+    "word" : "filizler"
+  },
+  {
+    "id" : "food88",
+    "word" : "şalgam"
+  },
+  {
+    "id" : "food89",
+    "word" : "kabak"
+  }
+]

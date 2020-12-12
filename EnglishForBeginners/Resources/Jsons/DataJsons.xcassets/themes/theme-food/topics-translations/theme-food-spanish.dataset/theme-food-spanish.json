@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Desserts",
+    "word" : "postres"
+  },
+  {
+    "id" : "Food",
+    "word" : "comida"
+  },
+  {
+    "id" : "Fruit",
+    "word" : "fruta"
+  },
+  {
+    "id" : "Fruit II",
+    "word" : "fruta II"
+  },
+  {
+    "id" : "Vegetables",
+    "word" : "vegetales"
+  },
+  {
+    "id" : "Vegetables II",
+    "word" : "vegetales II"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "African Animals",
+    "word" : "Animais Africanos"
+  },
+  {
+    "id" : "Dog Breeds",
+    "word" : "Raças de cães"
+  },
+  {
+    "id" : "Farm Animals",
+    "word" : "Animais de Criação"
+  },
+  {
+    "id" : "Fish",
+    "word" : "Peixes"
+  },
+  {
+    "id" : "Marine Animals",
+    "word" : "Animais Marinhos"
+  },
+  {
+    "id" : "Pets",
+    "word" : "Animais de Estimação"
+  }
+]

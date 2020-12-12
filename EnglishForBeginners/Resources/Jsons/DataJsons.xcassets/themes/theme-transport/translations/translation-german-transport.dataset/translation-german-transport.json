@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "die Klingel"
+  },
+  {
+    "id" : "transport1",
+    "word" : "die Bremse"
+  },
+  {
+    "id" : "transport2",
+    "word" : "die Kette"
+  },
+  {
+    "id" : "transport3",
+    "word" : "der Fahrradfahrer"
+  },
+  {
+    "id" : "transport4",
+    "word" : "der Gang"
+  },
+  {
+    "id" : "transport5",
+    "word" : "die Lenkstange"
+  },
+  {
+    "id" : "transport6",
+    "word" : "der Helm"
+  },
+  {
+    "id" : "transport7",
+    "word" : "der Weg"
+  },
+  {
+    "id" : "transport8",
+    "word" : "das Pedal"
+  },
+  {
+    "id" : "transport9",
+    "word" : "die Pumpe"
+  },
+  {
+    "id" : "transport10",
+    "word" : "die Reifenpanne"
+  },
+  {
+    "id" : "transport11",
+    "word" : "der Reflektor"
+  },
+  {
+    "id" : "transport12",
+    "word" : "der Sattel"
+  },
+  {
+    "id" : "transport13",
+    "word" : "die Radspeiche"
+  },
+  {
+    "id" : "transport14",
+    "word" : "die Reifen"
+  },
+  {
+    "id" : "transport15",
+    "word" : "das Frachtschiff"
+  },
+  {
+    "id" : "transport16",
+    "word" : "das Kreuzfahrtschiff"
+  },
+  {
+    "id" : "transport17",
+    "word" : "die Fähre"
+  },
+  {
+    "id" : "transport18",
+    "word" : "das Fischerboot"
+  },
+  {
+    "id" : "transport19",
+    "word" : "die Gondel"
+  },
+  {
+    "id" : "transport20",
+    "word" : "das Hausboot"
+  },
+  {
+    "id" : "transport21",
+    "word" : "das Tragflächenboot"
+  },
+  {
+    "id" : "transport22",
+    "word" : "aufblasbar"
+  },
+  {
+    "id" : "transport23",
+    "word" : "der Jetski"
+  },
+  {
+    "id" : "transport24",
+    "word" : "die Dschunke"
+  },
+  {
+    "id" : "transport25",
+    "word" : "das Kajak"
+  },
+  {
+    "id" : "transport26",
+    "word" : "das Auslegerboot"
+  },
+  {
+    "id" : "transport27",
+    "word" : "das Paddelboot"
+  },
+  {
+    "id" : "transport28",
+    "word" : "das Ruderboot"
+  },
+  {
+    "id" : "transport29",
+    "word" : "die Yacht"
+  },
+  {
+    "id" : "transport30",
+    "word" : "der Wagenheber"
+  },
+  {
+    "id" : "transport31",
+    "word" : "der Wohnwagen"
+  },
+  {
+    "id" : "transport32",
+    "word" : "das Armaturenbrett"
+  },
+  {
+    "id" : "transport33",
+    "word" : "das Motoröl"
+  },
+  {
+    "id" : "transport34",
+    "word" : "der Motor"
+  },
+  {
+    "id" : "transport35",
+    "word" : "die Tankstelle"
+  },
+  {
+    "id" : "transport36",
+    "word" : "die Scheinwerfer"
+  },
+  {
+    "id" : "transport37",
+    "word" : "die Autobahn"
+  },
+  {
+    "id" : "transport38",
+    "word" : "das Nummernschild"
+  },
+  {
+    "id" : "transport39",
+    "word" : "der Fußgänger"
+  },
+  {
+    "id" : "transport40",
+    "word" : "die Limousine"
+  },
+  {
+    "id" : "transport41",
+    "word" : "der Seitenspiegel"
+  },
+  {
+    "id" : "transport42",
+    "word" : "das Lenkrad"
+  },
+  {
+    "id" : "transport43",
+    "word" : "die Rücklichter"
+  },
+  {
+    "id" : "transport44",
+    "word" : "der Anhänger"
+  },
+  {
+    "id" : "transport45",
+    "word" : "der Viehbetrieb"
+  },
+  {
+    "id" : "transport46",
+    "word" : "die Kinder"
+  },
+  {
+    "id" : "transport47",
+    "word" : "die Gefahr"
+  },
+  {
+    "id" : "transport48",
+    "word" : "die Straßenkreuzung"
+  },
+  {
+    "id" : "transport49",
+    "word" : "der Bahnübergang"
+  },
+  {
+    "id" : "transport50",
+    "word" : "die Eisbären"
+  },
+  {
+    "id" : "transport51",
+    "word" : "der Kreisverkehr"
+  },
+  {
+    "id" : "transport52",
+    "word" : "glatt"
+  },
+  {
+    "id" : "transport53",
+    "word" : "der Schnee"
+  },
+  {
+    "id" : "transport54",
+    "word" : "das Tempolimit"
+  },
+  {
+    "id" : "transport55",
+    "word" : "das steile Gefälle"
+  },
+  {
+    "id" : "transport56",
+    "word" : "die Ampel"
+  },
+  {
+    "id" : "transport57",
+    "word" : "die kurvige Straße"
+  },
+  {
+    "id" : "transport58",
+    "word" : "die Baustelle"
+  },
+  {
+    "id" : "transport59",
+    "word" : "der Zebrastreifen"
+  },
+  {
+    "id" : "transport60",
+    "word" : "das Buffet"
+  },
+  {
+    "id" : "transport61",
+    "word" : "der Schaffner"
+  },
+  {
+    "id" : "transport62",
+    "word" : "der Pendler"
+  },
+  {
+    "id" : "transport63",
+    "word" : "der Zugführer"
+  },
+  {
+    "id" : "transport64",
+    "word" : "der Güterzug"
+  },
+  {
+    "id" : "transport65",
+    "word" : "die Toilette"
+  },
+  {
+    "id" : "transport66",
+    "word" : "die Lokomotive"
+  },
+  {
+    "id" : "transport67",
+    "word" : "der Bahnsteig"
+  },
+  {
+    "id" : "transport68",
+    "word" : "die Bahnbrücke"
+  },
+  {
+    "id" : "transport69",
+    "word" : "die Hauptverkehrszeit"
+  },
+  {
+    "id" : "transport70",
+    "word" : "die Sitzplätze"
+  },
+  {
+    "id" : "transport71",
+    "word" : "die Dampflokomotive"
+  },
+  {
+    "id" : "transport72",
+    "word" : "der Gurt"
+  },
+  {
+    "id" : "transport73",
+    "word" : "der Fahrplan"
+  },
+  {
+    "id" : "transport74",
+    "word" : "die Schienen"
+  },
+  {
+    "id" : "transport75",
+    "word" : "das Fahrrad"
+  },
+  {
+    "id" : "transport76",
+    "word" : "der Bus"
+  },
+  {
+    "id" : "transport77",
+    "word" : "das Auto"
+  },
+  {
+    "id" : "transport78",
+    "word" : "der Minivan"
+  },
+  {
+    "id" : "transport79",
+    "word" : "die Einschienenbahn"
+  },
+  {
+    "id" : "transport80",
+    "word" : "das Motorrad"
+  },
+  {
+    "id" : "transport81",
+    "word" : "der Motorroller"
+  },
+  {
+    "id" : "transport82",
+    "word" : "die Rickscha"
+  },
+  {
+    "id" : "transport83",
+    "word" : "die Rollerblades"
+  },
+  {
+    "id" : "transport84",
+    "word" : "der Roller"
+  },
+  {
+    "id" : "transport85",
+    "word" : "die U-Bahn"
+  },
+  {
+    "id" : "transport86",
+    "word" : "das Taxi"
+  },
+  {
+    "id" : "transport87",
+    "word" : "der Zug"
+  },
+  {
+    "id" : "transport88",
+    "word" : "die Straßenbahn"
+  },
+  {
+    "id" : "transport89",
+    "word" : "der LKW"
+  }
+]

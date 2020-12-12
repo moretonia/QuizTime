@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "zvonek"
+  },
+  {
+    "id" : "transport1",
+    "word" : "brzdy"
+  },
+  {
+    "id" : "transport2",
+    "word" : "řetěz"
+  },
+  {
+    "id" : "transport3",
+    "word" : "cyklista"
+  },
+  {
+    "id" : "transport4",
+    "word" : "převody"
+  },
+  {
+    "id" : "transport5",
+    "word" : "řídítka"
+  },
+  {
+    "id" : "transport6",
+    "word" : "helma"
+  },
+  {
+    "id" : "transport7",
+    "word" : "cesta"
+  },
+  {
+    "id" : "transport8",
+    "word" : "pedál"
+  },
+  {
+    "id" : "transport9",
+    "word" : "pumpa"
+  },
+  {
+    "id" : "transport10",
+    "word" : "propíchnutí"
+  },
+  {
+    "id" : "transport11",
+    "word" : "reflektor"
+  },
+  {
+    "id" : "transport12",
+    "word" : "sedlo"
+  },
+  {
+    "id" : "transport13",
+    "word" : "paprsky"
+  },
+  {
+    "id" : "transport14",
+    "word" : "kolo"
+  },
+  {
+    "id" : "transport15",
+    "word" : "nákladní loď"
+  },
+  {
+    "id" : "transport16",
+    "word" : "výletní loď"
+  },
+  {
+    "id" : "transport17",
+    "word" : "trajekt"
+  },
+  {
+    "id" : "transport18",
+    "word" : "rybářská loď"
+  },
+  {
+    "id" : "transport19",
+    "word" : "gondola"
+  },
+  {
+    "id" : "transport20",
+    "word" : "hausbót"
+  },
+  {
+    "id" : "transport21",
+    "word" : "křídlový člun"
+  },
+  {
+    "id" : "transport22",
+    "word" : "nafukovací"
+  },
+  {
+    "id" : "transport23",
+    "word" : "skútr"
+  },
+  {
+    "id" : "transport24",
+    "word" : "džunka"
+  },
+  {
+    "id" : "transport25",
+    "word" : "kajak"
+  },
+  {
+    "id" : "transport26",
+    "word" : "výložník"
+  },
+  {
+    "id" : "transport27",
+    "word" : "kolesový parník"
+  },
+  {
+    "id" : "transport28",
+    "word" : "veslovací loď"
+  },
+  {
+    "id" : "transport29",
+    "word" : "jachta"
+  },
+  {
+    "id" : "transport30",
+    "word" : "zvedák"
+  },
+  {
+    "id" : "transport31",
+    "word" : "obytný vůz"
+  },
+  {
+    "id" : "transport32",
+    "word" : "přístrojová deska"
+  },
+  {
+    "id" : "transport33",
+    "word" : "motorový olej"
+  },
+  {
+    "id" : "transport34",
+    "word" : "motor"
+  },
+  {
+    "id" : "transport35",
+    "word" : "čerpací stanice"
+  },
+  {
+    "id" : "transport36",
+    "word" : "světlomety"
+  },
+  {
+    "id" : "transport37",
+    "word" : "dálnice"
+  },
+  {
+    "id" : "transport38",
+    "word" : "SPZ"
+  },
+  {
+    "id" : "transport39",
+    "word" : "chodci"
+  },
+  {
+    "id" : "transport40",
+    "word" : "sedan"
+  },
+  {
+    "id" : "transport41",
+    "word" : "boční zrcátko"
+  },
+  {
+    "id" : "transport42",
+    "word" : "volant"
+  },
+  {
+    "id" : "transport43",
+    "word" : "zadní světla"
+  },
+  {
+    "id" : "transport44",
+    "word" : "přívěs"
+  },
+  {
+    "id" : "transport45",
+    "word" : "dobytek"
+  },
+  {
+    "id" : "transport46",
+    "word" : "děti"
+  },
+  {
+    "id" : "transport47",
+    "word" : "nebezpečí"
+  },
+  {
+    "id" : "transport48",
+    "word" : "křižovatka"
+  },
+  {
+    "id" : "transport49",
+    "word" : "vlakový přejezd"
+  },
+  {
+    "id" : "transport50",
+    "word" : "lední medvědi"
+  },
+  {
+    "id" : "transport51",
+    "word" : "kruhový objezd"
+  },
+  {
+    "id" : "transport52",
+    "word" : "kluzký"
+  },
+  {
+    "id" : "transport53",
+    "word" : "sníh"
+  },
+  {
+    "id" : "transport54",
+    "word" : "rychlostní omezení"
+  },
+  {
+    "id" : "transport55",
+    "word" : "prudký kopec"
+  },
+  {
+    "id" : "transport56",
+    "word" : "semafor"
+  },
+  {
+    "id" : "transport57",
+    "word" : "klikatá cesta"
+  },
+  {
+    "id" : "transport58",
+    "word" : "dělníci"
+  },
+  {
+    "id" : "transport59",
+    "word" : "přechod pro chodce"
+  },
+  {
+    "id" : "transport60",
+    "word" : "bufet"
+  },
+  {
+    "id" : "transport61",
+    "word" : "kolektor"
+  },
+  {
+    "id" : "transport62",
+    "word" : "dojíždějící osoby"
+  },
+  {
+    "id" : "transport63",
+    "word" : "strojvedoucí"
+  },
+  {
+    "id" : "transport64",
+    "word" : "nákladní vlak"
+  },
+  {
+    "id" : "transport65",
+    "word" : "záchod"
+  },
+  {
+    "id" : "transport66",
+    "word" : "lokomotiva"
+  },
+  {
+    "id" : "transport67",
+    "word" : "plošina"
+  },
+  {
+    "id" : "transport68",
+    "word" : "železniční most"
+  },
+  {
+    "id" : "transport69",
+    "word" : "dopravní špička"
+  },
+  {
+    "id" : "transport70",
+    "word" : "sedadla"
+  },
+  {
+    "id" : "transport71",
+    "word" : "parní vlak"
+  },
+  {
+    "id" : "transport72",
+    "word" : "popruhy"
+  },
+  {
+    "id" : "transport73",
+    "word" : "jízdní řád"
+  },
+  {
+    "id" : "transport74",
+    "word" : "koleje"
+  },
+  {
+    "id" : "transport75",
+    "word" : "jízdní kolo"
+  },
+  {
+    "id" : "transport76",
+    "word" : "autobus"
+  },
+  {
+    "id" : "transport77",
+    "word" : "auto"
+  },
+  {
+    "id" : "transport78",
+    "word" : "dodávka"
+  },
+  {
+    "id" : "transport79",
+    "word" : "monorail"
+  },
+  {
+    "id" : "transport80",
+    "word" : "motocykl"
+  },
+  {
+    "id" : "transport81",
+    "word" : "motorový skútr"
+  },
+  {
+    "id" : "transport82",
+    "word" : "rikša"
+  },
+  {
+    "id" : "transport83",
+    "word" : "brusle"
+  },
+  {
+    "id" : "transport84",
+    "word" : "koloběžka"
+  },
+  {
+    "id" : "transport85",
+    "word" : "metro"
+  },
+  {
+    "id" : "transport86",
+    "word" : "taxík"
+  },
+  {
+    "id" : "transport87",
+    "word" : "vlak"
+  },
+  {
+    "id" : "transport88",
+    "word" : "tramvaj"
+  },
+  {
+    "id" : "transport89",
+    "word" : "kamion"
+  }
+]

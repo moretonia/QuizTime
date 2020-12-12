@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "a balansa"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "a lovi"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "a controla"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "a plânge"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "a dansa"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "a cădea"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "a sări"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "a lansa"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "a fugi"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "a cânta"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "a sta jos"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "a dormi"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "a zâmbi"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "a sta în picioare"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "a merge"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "a peria"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "a mărunți"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "a curăța"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "a găti"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "a desena"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "a bea"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "a usca"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "a mânca"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "a face exerciții fizice"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "a străluci"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "a citi"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "a bărbieri"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "a veghea"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "a spăla"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "a scrie"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "a conduce"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "a răzui"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "a ajuta"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "a lovească"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "a mulge"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "a deschide"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "a posta"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "a relaxa"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "a rula"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "a sări peste"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "a vorbi"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "a stoarce"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "a înota"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "a legăna"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "a tasta"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "a aplauda"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "a coace"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "a calcula"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "a alunga"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "a decora"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "a introduce"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "a ciocăni"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "a alerga"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "a îngenunchea"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "a mărșălui"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "a juca"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "a da înapoi"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "a freca"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "a fuma"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "a face cu mâna"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "a se certa"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "a aresta"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "a campa"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "a căra"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "a picura"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "a bate tobele"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "plutitor"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "a saluta"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "a tricota"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "a arăta"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "a umfla"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "a coase"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "a aluneca"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "a ninge"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "a răsuci"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "a mușca"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "a binecuvânta"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "a juca bowling"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "a arde"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "a încuraja"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "a pieptăna"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "a se târî"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "a filma"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "a aspira"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "a topi"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "a amesteca"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "a vaslire"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "a ciuguli"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "a şlefui"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "a te întinde"
+  }
+]

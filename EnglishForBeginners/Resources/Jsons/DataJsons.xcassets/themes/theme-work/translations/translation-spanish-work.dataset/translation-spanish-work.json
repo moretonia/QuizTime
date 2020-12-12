@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "work0",
+    "word" : "cincel"
+  },
+  {
+    "id" : "work1",
+    "word" : "sierra circular"
+  },
+  {
+    "id" : "work2",
+    "word" : "abrazadera"
+  },
+  {
+    "id" : "work3",
+    "word" : "perforadora"
+  },
+  {
+    "id" : "work4",
+    "word" : "sierra para metales"
+  },
+  {
+    "id" : "work5",
+    "word" : "martillo"
+  },
+  {
+    "id" : "work6",
+    "word" : "sierra de mano"
+  },
+  {
+    "id" : "work7",
+    "word" : "cinta métrica"
+  },
+  {
+    "id" : "work8",
+    "word" : "brocha"
+  },
+  {
+    "id" : "work9",
+    "word" : "llave de tubo"
+  },
+  {
+    "id" : "work10",
+    "word" : "alicates"
+  },
+  {
+    "id" : "work11",
+    "word" : "navaja de bolsillo"
+  },
+  {
+    "id" : "work12",
+    "word" : "destornillador"
+  },
+  {
+    "id" : "work13",
+    "word" : "llave"
+  },
+  {
+    "id" : "work14",
+    "word" : "nivel de aire"
+  },
+  {
+    "id" : "work15",
+    "word" : "apicultor"
+  },
+  {
+    "id" : "work16",
+    "word" : "barista"
+  },
+  {
+    "id" : "work17",
+    "word" : "doctor"
+  },
+  {
+    "id" : "work18",
+    "word" : "conductor"
+  },
+  {
+    "id" : "work19",
+    "word" : "bombero"
+  },
+  {
+    "id" : "work20",
+    "word" : "estilista"
+  },
+  {
+    "id" : "work21",
+    "word" : "enfermera"
+  },
+  {
+    "id" : "work22",
+    "word" : "artista"
+  },
+  {
+    "id" : "work23",
+    "word" : "pianista"
+  },
+  {
+    "id" : "work24",
+    "word" : "policía"
+  },
+  {
+    "id" : "work25",
+    "word" : "cartero"
+  },
+  {
+    "id" : "work26",
+    "word" : "estudiante"
+  },
+  {
+    "id" : "work27",
+    "word" : "sastre"
+  },
+  {
+    "id" : "work28",
+    "word" : "profesor"
+  },
+  {
+    "id" : "work29",
+    "word" : "camarero"
+  },
+  {
+    "id" : "work30",
+    "word" : "albañil"
+  },
+  {
+    "id" : "work31",
+    "word" : "carpintero"
+  },
+  {
+    "id" : "work32",
+    "word" : "químico"
+  },
+  {
+    "id" : "work33",
+    "word" : "electricista"
+  },
+  {
+    "id" : "work34",
+    "word" : "geólogo"
+  },
+  {
+    "id" : "work35",
+    "word" : "obrero"
+  },
+  {
+    "id" : "work36",
+    "word" : "bibliotecario"
+  },
+  {
+    "id" : "work37",
+    "word" : "mecánico"
+  },
+  {
+    "id" : "work38",
+    "word" : "optometrista"
+  },
+  {
+    "id" : "work39",
+    "word" : "pintor"
+  },
+  {
+    "id" : "work40",
+    "word" : "paramédico"
+  },
+  {
+    "id" : "work41",
+    "word" : "plomero"
+  },
+  {
+    "id" : "work42",
+    "word" : "andamista"
+  },
+  {
+    "id" : "work43",
+    "word" : "conductor de taxi"
+  },
+  {
+    "id" : "work44",
+    "word" : "veterinario"
+  },
+  {
+    "id" : "work45",
+    "word" : "locutor"
+  },
+  {
+    "id" : "work46",
+    "word" : "mayordomo"
+  },
+  {
+    "id" : "work47",
+    "word" : "florista"
+  },
+  {
+    "id" : "work48",
+    "word" : "jardinero"
+  },
+  {
+    "id" : "work49",
+    "word" : "vidriero"
+  },
+  {
+    "id" : "work50",
+    "word" : "dentista"
+  },
+  {
+    "id" : "work51",
+    "word" : "juez"
+  },
+  {
+    "id" : "work52",
+    "word" : "masajista"
+  },
+  {
+    "id" : "work53",
+    "word" : "astronauta"
+  },
+  {
+    "id" : "work54",
+    "word" : "modelo"
+  },
+  {
+    "id" : "work55",
+    "word" : "fotógrafo"
+  },
+  {
+    "id" : "work56",
+    "word" : "cirujano"
+  },
+  {
+    "id" : "work57",
+    "word" : "topógrafo"
+  },
+  {
+    "id" : "work58",
+    "word" : "terapeuta"
+  },
+  {
+    "id" : "work59",
+    "word" : "entrenador"
+  },
+  {
+    "id" : "work60",
+    "word" : "panadero"
+  },
+  {
+    "id" : "work61",
+    "word" : "biólogo"
+  },
+  {
+    "id" : "work62",
+    "word" : "carnicero"
+  },
+  {
+    "id" : "work63",
+    "word" : "chef"
+  },
+  {
+    "id" : "work64",
+    "word" : "limpiador"
+  },
+  {
+    "id" : "work65",
+    "word" : "comediante"
+  },
+  {
+    "id" : "work66",
+    "word" : "crupier"
+  },
+  {
+    "id" : "work67",
+    "word" : "ingeniero"
+  },
+  {
+    "id" : "work68",
+    "word" : "pescador"
+  },
+  {
+    "id" : "work69",
+    "word" : "guardia"
+  },
+  {
+    "id" : "work70",
+    "word" : "escultor"
+  },
+  {
+    "id" : "work71",
+    "word" : "capitán"
+  },
+  {
+    "id" : "work72",
+    "word" : "solador"
+  },
+  {
+    "id" : "work73",
+    "word" : "vinatero"
+  },
+  {
+    "id" : "work74",
+    "word" : "soldador"
+  },
+  {
+    "id" : "work75",
+    "word" : "hacha"
+  },
+  {
+    "id" : "work76",
+    "word" : "cubeta"
+  },
+  {
+    "id" : "work77",
+    "word" : "sierra"
+  },
+  {
+    "id" : "work78",
+    "word" : "horquilla"
+  },
+  {
+    "id" : "work79",
+    "word" : "manguera de jardín"
+  },
+  {
+    "id" : "work80",
+    "word" : "escalera"
+  },
+  {
+    "id" : "work81",
+    "word" : "bordeadora de césped"
+  },
+  {
+    "id" : "work82",
+    "word" : "cortadora para césped"
+  },
+  {
+    "id" : "work83",
+    "word" : "soplador de hojas"
+  },
+  {
+    "id" : "work84",
+    "word" : "rastrillo"
+  },
+  {
+    "id" : "work85",
+    "word" : "tijeras"
+  },
+  {
+    "id" : "work86",
+    "word" : "pala"
+  },
+  {
+    "id" : "work87",
+    "word" : "Escoba"
+  },
+  {
+    "id" : "work88",
+    "word" : "regadera"
+  },
+  {
+    "id" : "work89",
+    "word" : "carretilla"
+  }
+]

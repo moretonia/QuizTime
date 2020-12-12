@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bicycles",
+    "word" : "自転車"
+  },
+  {
+    "id" : "Boats",
+    "word" : "ボート"
+  },
+  {
+    "id" : "Driving",
+    "word" : "運転"
+  },
+  {
+    "id" : "Road Signs",
+    "word" : "道路標識"
+  },
+  {
+    "id" : "Trains",
+    "word" : "列車"
+  },
+  {
+    "id" : "Transportation",
+    "word" : "交通手段"
+  }
+]

@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "Témata";
+"3-themes" = "3 témata";
+"6-topics" = "6 podtémat";
+"90-words" = "90 slov";
+"words" = "Slova";
+"view" = "Prohlédnout";
+"main-buy-button" = "Koupit za";
+
+// Topics
+"matching" = "Porovnávání";
+"translation" = "Překlad";
+"pronunciation" = "Výslovnost";
+"spelling" = "Hláskování";
+"dictionary" = "Slovník";
+"buy-theme" = "Koupit téma";
+"locked" = "zamčeno";
+
+// Quiz
+"some-theme-quiz" = "%@\nTematický kvíz";
+"collect-stars-to-unlock" = "Nasbírejte %d hvězd, abyste odemkli kvíz";
+"can-start-quiz" = "Začnete kvíz";
+"quiz" = "Kvíz";
+"pass-quiz-again" = "Zvládněte kvíz znovu, abyste získali víc zkušeností";
+"repeat" = "Opakovat";
+
+// Match Level
+"match" = "Porovnání";
+"verify" = "Ověřit";
+
+// Translate level
+"translate" = "Překlad";
+"wrong" = "Špatně";
+"next" = "Další";
+
+// Spelling level
+"spell" = "Hláskování";
+"english-translation" = "Anglický překlad";
+
+// Listen & Say level
+"listen-and-say" = "Poslouchejte & Opakujte";
+"try-again" = "Zkuste to znovu";
+
+// Alerts
+"warning" = "Varování";
+"progress-lost" = "Chcete úroveň ukončit? Veškerý váš pokrok bude smazán";
+"cancel" = "Zrušit";
+"close" = "Zavřít";
+"quiz-fail" = "Nepodařilo se vám projít kvízem";
+"not-pass-level" = "Nepodařilo se vám dokončit úroveň";
+"back-to-theme" = "Zpět na téma";
+"retry" = "Zkusit znovu";
+
+// Profile
+/*"profile" = "Profil";
+"experience" = "Zkušenosti";
+"skills" = "Dovednosti";
+"next-level" = "Další: %d";
+
+// Ranks
+"beginner" = "Začátečník";
+"pupil" = "Učenec";
+"student" = "Student";
+"connoisseur" = "Znalec";
+"outstanding" = "Vynikající";
+"specialist" = "Specialista";
+"pro" = "Profík";
+"master" = "Mistr";
+"magister" = "Magistr";
+"guru" = "Guru";
+"sage" = "Mudrc";
+"enlightened" = "Osvícenec";
+"oracle" = "Věštec";
+"genius" = "Génius";
+"higher-mind" = "Vyšší síla";
+"supermind" = "Supermozek";
+
+// Profile
+"leaderboard" = "Žebříček";
+"restore-purchases" = "Obnovit nákupy";
+"rate-us" = "Ohodnoťte nás";
+"share" = "Sdílejte";
+"change-language" = "Změnit jazyk";
+"about-us" = "O nás";*/
+
+// Sharing
+"experience-and-rank-share" = "Mám %d zkušenosti s Quiz Time a nyní je můj status \"%@\".";
+"new-rank-share" = "Dosáhl/a jsem hodnocení \"%@\" v Quiz Time. Zkuste to taky!";
+"experience-share" = "Získal/a jsem zkušenosti %d v Quiz Time. Moje angličtina se každým dnem zlepšuje!";
+"1-star-share" = "Získal/a jsem jednu hvězdu a %d zkušeností. Učím se angličtinu s radostí s aplikací Quiz Time.";
+"2-stars-share" = "Získal/a jsem dvě hvězdy a %d zkušeností v Quiz Time. Zkus mě porazit!";
+"3-stars-share" = "Získal/a jsem tři hvězdy a %d zkušeností v Quiz Time. Moje angličtina je čím dál tím lepší.";
+
+// Language
+/*"my-language" = "Můj mateřský jazyk";
+"ok" = "OK";
+
+// Congratulations
+"congratulations" = "Gratulujeme!";
+"xp" = "+%d  xp";
+"new-rank" = "Nová hodnost";*/
+
+// About us
+"about-us-title" = "O nás";
+"model-english-mission" = "Aplikace Quiz Time vám rozšíří slovník, zlepší vaši výslovnost a hláskování hravě a jednoduše.";
+"app-structure" = "Slova v aplikaci jsou rozdělena do témat, každé téma obsahuje 6 podtémat a kvíz na celé téma. Každé podtéma obsahuje slovník  _  15 slov.";
+"about-mechanics-description" = "Jedinečná kombinace několika her vám pomůže naučit se slovíčka rychle a efektivně:";
+"matching" = "Porovnávání";
+"about-mechanics-matching-description" = "V této úrovni musíte správně vybrat obrázek hodící se ke slovu";
+"translation" = "Překlad";
+"about-mechanics-translator-description" = "vyberte správný překlad pro slovo";
+"pronunciation" = "Výslovnost";
+"about-mechanics-pronunciation-description" = "Poslouchejte a vyslovte slovo. Nezapomeňte mít zapnutý mikrofon.";
+"spelling" = "Hláskování";
+"about-mechanics-spelling-description" = "Napište slovo na klávesnici";
+"about-rewards-little-star-description" = "Za úspěšné zdolání úrovně dostanete 1 až 3 malé hvězdy";
+"about-rewards-bronze-star-description" = "Bronzovou hvězdu dostanete pokud získáte alespoň 50 malých hvězdiček";
+"about-rewards-silver-star-description" = "Stříbrnou hvězdu dostanete pokud získáte alespoň 75 malých hvězdiček.";
+"about-rewards-golden-star-description" = "Zlatou hvězdu obdržíte pokud získáte alespoň 100 malých hvězdiček.";
+"about-rewards-passed-exam-description" = "Promoční čepice symbolizuje úspěšné splnění tematického kvízu.";
+"about-rewards-description" = "Pro projití každé úrovně nebo kvízu získáte zkušenosti a různé hodnosti: Začátečník, Mistr a další. Další informace o svých úspěších najdete v profilu  _ .";
+"copyright" = "Copyright © B. V. Rolandsen 2020";
+"design-and-development" = "Navrženo a Vyvinuto Bryan Rolandsen";
+
+// Alerts
+"correct" = "Správně";
+"finish" = "Skončít";
+"error" = "Chyba";
+"error-load-leaderboard" = "Chyba načítání žebříčku. Zkuste to znovu";
+"timeout" = "Timeout vypršel";
+"speech-recognition-unavailable" = "Rozpoznávání hlasu není dostupné";
+"device-settings-for-speech" = "1. Zkontrolujte nastavení zařízení (Nastavení -> Obecné -> Klavesnice -> Povolit Diktování)";
+"check-internet-for-speech" = "2. Pokud rozpoznávání stále nefunguje, zkontrolujte připojení k internetu a zkuste to znovu";
+"already-cancel-auth" = "Přihlaste se do svého Game Center účtu pomocí nastavení zařízení";
+"settings" = "Nastavení";
+"micro-usage-cancel" = "Přístup k mikrofonu odepřen. Zkontrolujte nastavení zařízení";
+"speech-usage-cancel" = "Přístup rozpoznávání hlasu odepřen. Zkontrolujte nastavení zařízení";
+"not-support-speech-recognition" = "Vaše zařízení nepodporuje rozpoznávání hlasu";
+
+// Packs
+"main-pack-info" = "3 témata, 18 podtémat, 270 slov";
+
+// Other
+"topics-count" = "6 podtémat, 90 slov";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "work0",
+    "word" : "daltă"
+  },
+  {
+    "id" : "work1",
+    "word" : "fierăstrău circular"
+  },
+  {
+    "id" : "work2",
+    "word" : "clemă"
+  },
+  {
+    "id" : "work3",
+    "word" : "burghiu"
+  },
+  {
+    "id" : "work4",
+    "word" : "fierăstrău pentru metale"
+  },
+  {
+    "id" : "work5",
+    "word" : "ciocan"
+  },
+  {
+    "id" : "work6",
+    "word" : "fierăstrău de mână"
+  },
+  {
+    "id" : "work7",
+    "word" : "ruletă"
+  },
+  {
+    "id" : "work8",
+    "word" : "pensulă"
+  },
+  {
+    "id" : "work9",
+    "word" : "cheie tubulara"
+  },
+  {
+    "id" : "work10",
+    "word" : "cleşte"
+  },
+  {
+    "id" : "work11",
+    "word" : "cuțit de buzunar"
+  },
+  {
+    "id" : "work12",
+    "word" : "şurubelniţă"
+  },
+  {
+    "id" : "work13",
+    "word" : "cheie de piulițe"
+  },
+  {
+    "id" : "work14",
+    "word" : "boloboc"
+  },
+  {
+    "id" : "work15",
+    "word" : "apicultor"
+  },
+  {
+    "id" : "work16",
+    "word" : "barista"
+  },
+  {
+    "id" : "work17",
+    "word" : "doctor"
+  },
+  {
+    "id" : "work18",
+    "word" : "conducător auto"
+  },
+  {
+    "id" : "work19",
+    "word" : "pompier"
+  },
+  {
+    "id" : "work20",
+    "word" : "coafor"
+  },
+  {
+    "id" : "work21",
+    "word" : "asistent medical"
+  },
+  {
+    "id" : "work22",
+    "word" : "pictor"
+  },
+  {
+    "id" : "work23",
+    "word" : "pianist"
+  },
+  {
+    "id" : "work24",
+    "word" : "polițist"
+  },
+  {
+    "id" : "work25",
+    "word" : "poştaş"
+  },
+  {
+    "id" : "work26",
+    "word" : "student"
+  },
+  {
+    "id" : "work27",
+    "word" : "croitor"
+  },
+  {
+    "id" : "work28",
+    "word" : "profesor"
+  },
+  {
+    "id" : "work29",
+    "word" : "chelner"
+  },
+  {
+    "id" : "work30",
+    "word" : "zidar"
+  },
+  {
+    "id" : "work31",
+    "word" : "tâmplar"
+  },
+  {
+    "id" : "work32",
+    "word" : "chimist"
+  },
+  {
+    "id" : "work33",
+    "word" : "electrician"
+  },
+  {
+    "id" : "work34",
+    "word" : "geolog"
+  },
+  {
+    "id" : "work35",
+    "word" : "muncitor"
+  },
+  {
+    "id" : "work36",
+    "word" : "bibliotecar"
+  },
+  {
+    "id" : "work37",
+    "word" : "mecanic"
+  },
+  {
+    "id" : "work38",
+    "word" : "optometrist"
+  },
+  {
+    "id" : "work39",
+    "word" : "zugrav"
+  },
+  {
+    "id" : "work40",
+    "word" : "paramedic"
+  },
+  {
+    "id" : "work41",
+    "word" : "instalator"
+  },
+  {
+    "id" : "work42",
+    "word" : "montator schele"
+  },
+  {
+    "id" : "work43",
+    "word" : "șofer de taxi"
+  },
+  {
+    "id" : "work44",
+    "word" : "medic veterinar"
+  },
+  {
+    "id" : "work45",
+    "word" : "crainic"
+  },
+  {
+    "id" : "work46",
+    "word" : "Majordom"
+  },
+  {
+    "id" : "work47",
+    "word" : "florar"
+  },
+  {
+    "id" : "work48",
+    "word" : "grădinar"
+  },
+  {
+    "id" : "work49",
+    "word" : "geamgiu"
+  },
+  {
+    "id" : "work50",
+    "word" : "dentist"
+  },
+  {
+    "id" : "work51",
+    "word" : "judecător"
+  },
+  {
+    "id" : "work52",
+    "word" : "maseur"
+  },
+  {
+    "id" : "work53",
+    "word" : "astronaut"
+  },
+  {
+    "id" : "work54",
+    "word" : "model"
+  },
+  {
+    "id" : "work55",
+    "word" : "fotograf"
+  },
+  {
+    "id" : "work56",
+    "word" : "chirurg"
+  },
+  {
+    "id" : "work57",
+    "word" : "inspector"
+  },
+  {
+    "id" : "work58",
+    "word" : "terapeut"
+  },
+  {
+    "id" : "work59",
+    "word" : "antrenor"
+  },
+  {
+    "id" : "work60",
+    "word" : "brutar"
+  },
+  {
+    "id" : "work61",
+    "word" : "biolog"
+  },
+  {
+    "id" : "work62",
+    "word" : "măcelar"
+  },
+  {
+    "id" : "work63",
+    "word" : "bucătar-șef"
+  },
+  {
+    "id" : "work64",
+    "word" : "curățitor"
+  },
+  {
+    "id" : "work65",
+    "word" : "comedian"
+  },
+  {
+    "id" : "work66",
+    "word" : "crupier"
+  },
+  {
+    "id" : "work67",
+    "word" : "inginer"
+  },
+  {
+    "id" : "work68",
+    "word" : "pescar"
+  },
+  {
+    "id" : "work69",
+    "word" : "paznic"
+  },
+  {
+    "id" : "work70",
+    "word" : "sculptor"
+  },
+  {
+    "id" : "work71",
+    "word" : "comandant de vas"
+  },
+  {
+    "id" : "work72",
+    "word" : "faianțar"
+  },
+  {
+    "id" : "work73",
+    "word" : "viticultor"
+  },
+  {
+    "id" : "work74",
+    "word" : "sudor"
+  },
+  {
+    "id" : "work75",
+    "word" : "topor"
+  },
+  {
+    "id" : "work76",
+    "word" : "găleată"
+  },
+  {
+    "id" : "work77",
+    "word" : "drujbă"
+  },
+  {
+    "id" : "work78",
+    "word" : "furcă"
+  },
+  {
+    "id" : "work79",
+    "word" : "furtun de grădină"
+  },
+  {
+    "id" : "work80",
+    "word" : "scară"
+  },
+  {
+    "id" : "work81",
+    "word" : "gazon"
+  },
+  {
+    "id" : "work82",
+    "word" : "mașină de tuns iarba"
+  },
+  {
+    "id" : "work83",
+    "word" : "suflător de frunze"
+  },
+  {
+    "id" : "work84",
+    "word" : "greblă"
+  },
+  {
+    "id" : "work85",
+    "word" : "foarfece"
+  },
+  {
+    "id" : "work86",
+    "word" : "lopată"
+  },
+  {
+    "id" : "work87",
+    "word" : "mătură"
+  },
+  {
+    "id" : "work88",
+    "word" : "stropitoare"
+  },
+  {
+    "id" : "work89",
+    "word" : "roabă"
+  }
+]

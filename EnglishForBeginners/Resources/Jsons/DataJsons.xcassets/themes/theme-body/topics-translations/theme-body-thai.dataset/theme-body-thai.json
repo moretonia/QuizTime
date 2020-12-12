@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Body Building",
+    "word" : "การเพาะกาย"
+  },
+  {
+    "id" : "Body II",
+    "word" : "ร่างกาย"
+  },
+  {
+    "id" : "Body Parts",
+    "word" : "ส่วนต่างๆของร่างกาย"
+  },
+  {
+    "id" : "Dintinguishing Features",
+    "word" : "ลักษณะพิเศษ"
+  },
+  {
+    "id" : "Facial Features",
+    "word" : "ลักษณะบนใบหน้า"
+  },
+  {
+    "id" : "Hair Styles",
+    "word" : "ทรงผม"
+  }
+]

@@ -1,0 +1,133 @@
+{
+   "id": 5,
+   "name": "Business",
+   "imageName": "business",
+   "topics": [
+      {
+         "name": "Business I",
+         "imageName": "business-topic-1",
+         "vocabularyItemIds": [
+            "business0",
+            "business1",
+            "business2",
+            "business3",
+            "business4",
+            "business5",
+            "business6",
+            "business7",
+            "business8",
+            "business9",
+            "business10",
+            "business11",
+            "business12",
+            "business13",
+            "business14"
+         ]
+      },
+      {
+         "name": "Business II",
+         "imageName": "business-topic-2",
+         "vocabularyItemIds": [
+            "business15",
+            "business16",
+            "business17",
+            "business18",
+            "business19",
+            "business20",
+            "business21",
+            "business22",
+            "business23",
+            "business24",
+            "business25",
+            "business26",
+            "business27",
+            "business28",
+            "business29"
+         ]
+      },
+      {
+         "name": "Business III",
+         "imageName": "business-topic-3",
+         "vocabularyItemIds": [
+            "business30",
+            "business31",
+            "business32",
+            "business33",
+            "business34",
+            "business35",
+            "business36",
+            "business37",
+            "business38",
+            "business39",
+            "business40",
+            "business41",
+            "business42",
+            "business43",
+            "business44"
+         ]
+      },
+      {
+         "name": "Collectibles",
+         "imageName": "business-topic-4",
+         "vocabularyItemIds": [
+            "business45",
+            "business46",
+            "business47",
+            "business48",
+            "business49",
+            "business50",
+            "business51",
+            "business52",
+            "business53",
+            "business54",
+            "business55",
+            "business56",
+            "business57",
+            "business58",
+            "business59"
+         ]
+      },
+      {
+         "name": "Shopping",
+         "imageName": "business-topic-5",
+         "vocabularyItemIds": [
+            "business60",
+            "business61",
+            "business62",
+            "business63",
+            "business64",
+            "business65",
+            "business66",
+            "business67",
+            "business68",
+            "business69",
+            "business70",
+            "business71",
+            "business72",
+            "business73",
+            "business74"
+         ]
+      },
+      {
+         "name": "Shops",
+         "imageName": "business-topic-6",
+         "vocabularyItemIds": [
+            "business75",
+            "business76",
+            "business77",
+            "business78",
+            "business79",
+            "business80",
+            "business81",
+            "business82",
+            "business83",
+            "business84",
+            "business85",
+            "business86",
+            "business87",
+            "business88",
+            "business89"
+         ]
+      }
+   ]
+}

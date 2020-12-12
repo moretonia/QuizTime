@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "Afacere I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "Afacere II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "Afacere III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "De colecție"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "cumpărături"
+  },
+  {
+    "id" : "Shops",
+    "word" : "Magazine"
+  }
+]

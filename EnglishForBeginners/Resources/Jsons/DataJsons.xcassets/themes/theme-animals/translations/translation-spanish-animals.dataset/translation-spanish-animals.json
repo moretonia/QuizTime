@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "babuino"
+  },
+  {
+    "id" : "animals1",
+    "word" : "búfalo"
+  },
+  {
+    "id" : "animals2",
+    "word" : "camello"
+  },
+  {
+    "id" : "animals3",
+    "word" : "chimpancé"
+  },
+  {
+    "id" : "animals4",
+    "word" : "cocodrilo"
+  },
+  {
+    "id" : "animals5",
+    "word" : "elefante"
+  },
+  {
+    "id" : "animals6",
+    "word" : "jirafa"
+  },
+  {
+    "id" : "animals7",
+    "word" : "gorila"
+  },
+  {
+    "id" : "animals8",
+    "word" : "hipopótamo"
+  },
+  {
+    "id" : "animals9",
+    "word" : "hiena"
+  },
+  {
+    "id" : "animals10",
+    "word" : "leopardo"
+  },
+  {
+    "id" : "animals11",
+    "word" : "león"
+  },
+  {
+    "id" : "animals12",
+    "word" : "avestruz"
+  },
+  {
+    "id" : "animals13",
+    "word" : "rinoceronte"
+  },
+  {
+    "id" : "animals14",
+    "word" : "ñu"
+  },
+  {
+    "id" : "animals15",
+    "word" : "beagle"
+  },
+  {
+    "id" : "animals16",
+    "word" : "bóxer"
+  },
+  {
+    "id" : "animals17",
+    "word" : "chihuahua"
+  },
+  {
+    "id" : "animals18",
+    "word" : "collie"
+  },
+  {
+    "id" : "animals19",
+    "word" : "salchicha"
+  },
+  {
+    "id" : "animals20",
+    "word" : "dálmata"
+  },
+  {
+    "id" : "animals21",
+    "word" : "dóberman"
+  },
+  {
+    "id" : "animals22",
+    "word" : "galgo"
+  },
+  {
+    "id" : "animals23",
+    "word" : "husky"
+  },
+  {
+    "id" : "animals24",
+    "word" : "setter irlandés"
+  },
+  {
+    "id" : "animals25",
+    "word" : "labrador"
+  },
+  {
+    "id" : "animals26",
+    "word" : "maltés"
+  },
+  {
+    "id" : "animals27",
+    "word" : "poodle"
+  },
+  {
+    "id" : "animals28",
+    "word" : "rottweiler"
+  },
+  {
+    "id" : "animals29",
+    "word" : "perro pastor"
+  },
+  {
+    "id" : "animals30",
+    "word" : "toro"
+  },
+  {
+    "id" : "animals31",
+    "word" : "becerro"
+  },
+  {
+    "id" : "animals32",
+    "word" : "gato"
+  },
+  {
+    "id" : "animals33",
+    "word" : "burro"
+  },
+  {
+    "id" : "animals34",
+    "word" : "pato"
+  },
+  {
+    "id" : "animals35",
+    "word" : "potro"
+  },
+  {
+    "id" : "animals36",
+    "word" : "cabra"
+  },
+  {
+    "id" : "animals37",
+    "word" : "ganso"
+  },
+  {
+    "id" : "animals38",
+    "word" : "caballo"
+  },
+  {
+    "id" : "animals39",
+    "word" : "cordero"
+  },
+  {
+    "id" : "animals40",
+    "word" : "cerdo"
+  },
+  {
+    "id" : "animals41",
+    "word" : "cerdito"
+  },
+  {
+    "id" : "animals42",
+    "word" : "gallo"
+  },
+  {
+    "id" : "animals43",
+    "word" : "oveja"
+  },
+  {
+    "id" : "animals44",
+    "word" : "pavo"
+  },
+  {
+    "id" : "animals45",
+    "word" : "bacalao"
+  },
+  {
+    "id" : "animals46",
+    "word" : "cangrejo"
+  },
+  {
+    "id" : "animals47",
+    "word" : "medusa"
+  },
+  {
+    "id" : "animals48",
+    "word" : "langosta"
+  },
+  {
+    "id" : "animals49",
+    "word" : "pulpo"
+  },
+  {
+    "id" : "animals50",
+    "word" : "ostra"
+  },
+  {
+    "id" : "animals51",
+    "word" : "gamba"
+  },
+  {
+    "id" : "animals52",
+    "word" : "salmón"
+  },
+  {
+    "id" : "animals53",
+    "word" : "sardina"
+  },
+  {
+    "id" : "animals54",
+    "word" : "caballo de mar"
+  },
+  {
+    "id" : "animals55",
+    "word" : "tiburón"
+  },
+  {
+    "id" : "animals56",
+    "word" : "calamar"
+  },
+  {
+    "id" : "animals57",
+    "word" : "pez espada"
+  },
+  {
+    "id" : "animals58",
+    "word" : "trucha"
+  },
+  {
+    "id" : "animals59",
+    "word" : "atún"
+  },
+  {
+    "id" : "animals60",
+    "word" : "albatros"
+  },
+  {
+    "id" : "animals61",
+    "word" : "almeja"
+  },
+  {
+    "id" : "animals62",
+    "word" : "coral"
+  },
+  {
+    "id" : "animals63",
+    "word" : "delfín"
+  },
+  {
+    "id" : "animals64",
+    "word" : "morena"
+  },
+  {
+    "id" : "animals65",
+    "word" : "pelícano"
+  },
+  {
+    "id" : "animals66",
+    "word" : "pingüino"
+  },
+  {
+    "id" : "animals67",
+    "word" : "oso polar"
+  },
+  {
+    "id" : "animals68",
+    "word" : "erizo de mar"
+  },
+  {
+    "id" : "animals69",
+    "word" : "foca"
+  },
+  {
+    "id" : "animals70",
+    "word" : "mantarraya"
+  },
+  {
+    "id" : "animals71",
+    "word" : "tortuga marina"
+  },
+  {
+    "id" : "animals72",
+    "word" : "morsa"
+  },
+  {
+    "id" : "animals73",
+    "word" : "tiburón ballena"
+  },
+  {
+    "id" : "animals74",
+    "word" : "ballena"
+  },
+  {
+    "id" : "animals75",
+    "word" : "periquito"
+  },
+  {
+    "id" : "animals76",
+    "word" : "canario"
+  },
+  {
+    "id" : "animals77",
+    "word" : "chinchilla"
+  },
+  {
+    "id" : "animals78",
+    "word" : "hurón"
+  },
+  {
+    "id" : "animals79",
+    "word" : "pinzón"
+  },
+  {
+    "id" : "animals80",
+    "word" : "geco"
+  },
+  {
+    "id" : "animals81",
+    "word" : "pez dorado"
+  },
+  {
+    "id" : "animals82",
+    "word" : "conejillo de indias"
+  },
+  {
+    "id" : "animals83",
+    "word" : "cangrejo ermitaño"
+  },
+  {
+    "id" : "animals84",
+    "word" : "gatito"
+  },
+  {
+    "id" : "animals85",
+    "word" : "guacamayo"
+  },
+  {
+    "id" : "animals86",
+    "word" : "ratón"
+  },
+  {
+    "id" : "animals87",
+    "word" : "cachorrito"
+  },
+  {
+    "id" : "animals88",
+    "word" : "conejo"
+  },
+  {
+    "id" : "animals89",
+    "word" : "tortuga"
+  }
+]

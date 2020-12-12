@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "الملابس"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "ملابس فاتنة"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "أغراض رجالي"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "ملابس رياضية"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "ملابس النساء"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "أغراض نسائية"
+  }
+]

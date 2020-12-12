@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "African Animals",
+    "word" : "非洲动物"
+  },
+  {
+    "id" : "Dog Breeds",
+    "word" : "犬种"
+  },
+  {
+    "id" : "Farm Animals",
+    "word" : "农场动物"
+  },
+  {
+    "id" : "Fish",
+    "word" : "鱼"
+  },
+  {
+    "id" : "Marine Animals",
+    "word" : "海洋动物"
+  },
+  {
+    "id" : "Pets",
+    "word" : "宠物"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "벤치 프레스"
+  },
+  {
+    "id" : "body1",
+    "word" : "바이셉 컬"
+  },
+  {
+    "id" : "body2",
+    "word" : "턱걸이"
+  },
+  {
+    "id" : "body3",
+    "word" : "크런치"
+  },
+  {
+    "id" : "body4",
+    "word" : "데드 리프트"
+  },
+  {
+    "id" : "body5",
+    "word" : "딥스"
+  },
+  {
+    "id" : "body6",
+    "word" : "피트니스 공"
+  },
+  {
+    "id" : "body7",
+    "word" : "레그 컬"
+  },
+  {
+    "id" : "body8",
+    "word" : "런지"
+  },
+  {
+    "id" : "body9",
+    "word" : "샌드백"
+  },
+  {
+    "id" : "body10",
+    "word" : "팔굽혀펴기"
+  },
+  {
+    "id" : "body11",
+    "word" : "조정"
+  },
+  {
+    "id" : "body12",
+    "word" : "윗몸일으키기"
+  },
+  {
+    "id" : "body13",
+    "word" : "스쿼트"
+  },
+  {
+    "id" : "body14",
+    "word" : "스텝 업"
+  },
+  {
+    "id" : "body15",
+    "word" : "이두박근"
+  },
+  {
+    "id" : "body16",
+    "word" : "엉덩이"
+  },
+  {
+    "id" : "body17",
+    "word" : "가슴"
+  },
+  {
+    "id" : "body18",
+    "word" : "종아리"
+  },
+  {
+    "id" : "body19",
+    "word" : "흉부"
+  },
+  {
+    "id" : "body20",
+    "word" : "둔부"
+  },
+  {
+    "id" : "body21",
+    "word" : "손가락 관절"
+  },
+  {
+    "id" : "body22",
+    "word" : "정강이"
+  },
+  {
+    "id" : "body23",
+    "word" : "어깨"
+  },
+  {
+    "id" : "body24",
+    "word" : "발바닥"
+  },
+  {
+    "id" : "body25",
+    "word" : "배"
+  },
+  {
+    "id" : "body26",
+    "word" : "허벅지"
+  },
+  {
+    "id" : "body27",
+    "word" : "목구멍"
+  },
+  {
+    "id" : "body28",
+    "word" : "허리"
+  },
+  {
+    "id" : "body29",
+    "word" : "손목"
+  },
+  {
+    "id" : "body30",
+    "word" : "발목"
+  },
+  {
+    "id" : "body31",
+    "word" : "팔"
+  },
+  {
+    "id" : "body32",
+    "word" : "엄지발가락"
+  },
+  {
+    "id" : "body33",
+    "word" : "팔꿈치"
+  },
+  {
+    "id" : "body34",
+    "word" : "손가락"
+  },
+  {
+    "id" : "body35",
+    "word" : "주먹"
+  },
+  {
+    "id" : "body36",
+    "word" : "발"
+  },
+  {
+    "id" : "body37",
+    "word" : "팔뚝"
+  },
+  {
+    "id" : "body38",
+    "word" : "손"
+  },
+  {
+    "id" : "body39",
+    "word" : "머리"
+  },
+  {
+    "id" : "body40",
+    "word" : "무릎"
+  },
+  {
+    "id" : "body41",
+    "word" : "다리"
+  },
+  {
+    "id" : "body42",
+    "word" : "배꼽"
+  },
+  {
+    "id" : "body43",
+    "word" : "손바닥"
+  },
+  {
+    "id" : "body44",
+    "word" : "엄지손가락"
+  },
+  {
+    "id" : "body45",
+    "word" : "파란 눈"
+  },
+  {
+    "id" : "body46",
+    "word" : "갈색 눈"
+  },
+  {
+    "id" : "body47",
+    "word" : "주근깨"
+  },
+  {
+    "id" : "body48",
+    "word" : "풍성한 수염"
+  },
+  {
+    "id" : "body49",
+    "word" : "안경"
+  },
+  {
+    "id" : "body50",
+    "word" : "턱수염"
+  },
+  {
+    "id" : "body51",
+    "word" : "초록색 눈"
+  },
+  {
+    "id" : "body52",
+    "word" : "점"
+  },
+  {
+    "id" : "body53",
+    "word" : "콧수염"
+  },
+  {
+    "id" : "body54",
+    "word" : "뾰루지"
+  },
+  {
+    "id" : "body55",
+    "word" : "흉터"
+  },
+  {
+    "id" : "body56",
+    "word" : "선탠을 한"
+  },
+  {
+    "id" : "body57",
+    "word" : "문신"
+  },
+  {
+    "id" : "body58",
+    "word" : "야윈 얼굴"
+  },
+  {
+    "id" : "body59",
+    "word" : "주름"
+  },
+  {
+    "id" : "body60",
+    "word" : "뺨"
+  },
+  {
+    "id" : "body61",
+    "word" : "턱"
+  },
+  {
+    "id" : "body62",
+    "word" : "보조개"
+  },
+  {
+    "id" : "body63",
+    "word" : "귓불"
+  },
+  {
+    "id" : "body64",
+    "word" : "귀"
+  },
+  {
+    "id" : "body65",
+    "word" : "눈"
+  },
+  {
+    "id" : "body66",
+    "word" : "눈썹"
+  },
+  {
+    "id" : "body67",
+    "word" : "속눈썹"
+  },
+  {
+    "id" : "body68",
+    "word" : "이마"
+  },
+  {
+    "id" : "body69",
+    "word" : "얼굴을 찡그림"
+  },
+  {
+    "id" : "body70",
+    "word" : "입술"
+  },
+  {
+    "id" : "body71",
+    "word" : "목"
+  },
+  {
+    "id" : "body72",
+    "word" : "코"
+  },
+  {
+    "id" : "body73",
+    "word" : "치아"
+  },
+  {
+    "id" : "body74",
+    "word" : "혀"
+  },
+  {
+    "id" : "body75",
+    "word" : "아프로식 곱슬머리"
+  },
+  {
+    "id" : "body76",
+    "word" : "대머리"
+  },
+  {
+    "id" : "body77",
+    "word" : "올림 머리"
+  },
+  {
+    "id" : "body78",
+    "word" : "남자 짧은 머리"
+  },
+  {
+    "id" : "body79",
+    "word" : "곱슬 머리"
+  },
+  {
+    "id" : "body80",
+    "word" : "부스스한 머리"
+  },
+  {
+    "id" : "body81",
+    "word" : "레게 머리"
+  },
+  {
+    "id" : "body82",
+    "word" : "긴 머리"
+  },
+  {
+    "id" : "body83",
+    "word" : "모호크 헤어스타일"
+  },
+  {
+    "id" : "body84",
+    "word" : "묶은 머리"
+  },
+  {
+    "id" : "body85",
+    "word" : "빡빡 깎은 머리"
+  },
+  {
+    "id" : "body86",
+    "word" : "짧은 머리"
+  },
+  {
+    "id" : "body87",
+    "word" : "삐죽삐죽한 머리"
+  },
+  {
+    "id" : "body88",
+    "word" : "직모"
+  },
+  {
+    "id" : "body89",
+    "word" : "웨이브가 있는 머리"
+  }
+]

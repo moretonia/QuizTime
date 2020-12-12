@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Art",
+    "word" : "藝術"
+  },
+  {
+    "id" : "Musical Instruments",
+    "word" : "樂器"
+  },
+  {
+    "id" : "School",
+    "word" : "學校"
+  },
+  {
+    "id" : "School Subjects",
+    "word" : "學校科目"
+  },
+  {
+    "id" : "Stationery",
+    "word" : "文具"
+  },
+  {
+    "id" : "Writing",
+    "word" : "書寫"
+  }
+]

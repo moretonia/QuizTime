@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "пожертвование"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "причастие"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "кремирование"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "вручение дипломов"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "хадж"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "курение благовоний"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "питье напитка \"кава\""
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "запуск небесных фонариков"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "открытие"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "молитва"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "красная дорожка"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "выход на пенсию"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "орудийный королевский салют"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "Тайский Новый год"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "чайная церемония"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "свеча"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "рождественская открытка"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "новогодняя ель"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "эльф"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "имбирный пряник"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "остролист"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "вертеп"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "рождественские подарки"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "пудинг"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "северный олень"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "Санта Клаус"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "сани"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "снеговик"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "носок для подарков"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "индейка"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "алтарь"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "апсида"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "крещение"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "крест"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "Библия"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "чаша для причастия"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "хор"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "прихожане"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "похороны"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "кладбище"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "церковные скамьи"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "проповедник"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "кафедра проповедника"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "шпиль"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "свадьба"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "желуди"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "янтарь"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "клевер"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "скрещенные пальцы"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "хрусталь"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "дельфины"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "феньшуй"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "подкова"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "лепрекон"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "бамбук удачи"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "кошка удачи"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "метеоры"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "радуга"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "скарабей"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "грудная кость птицы"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "Будда"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "собор"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "Конфуций"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "имам"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "Иисус"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "монастырь"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "монах"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "мечеть"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "монахиня"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "священник"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "раввин"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "синтоизм"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "сикх"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "синагога"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "даосизм"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "Водолей"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "Овен"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "Рак"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "Козерог"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "хрустальный шар"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "Близнецы"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "гороскоп"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "Лев"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "Весы"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "Рыбы"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "Стрелец"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "Скорпион"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "карты таро"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "Телец"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "Дева"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "home0",
+    "word" : "banheira"
+  },
+  {
+    "id" : "home1",
+    "word" : "pente"
+  },
+  {
+    "id" : "home2",
+    "word" : "torneira"
+  },
+  {
+    "id" : "home3",
+    "word" : "tapete de banho"
+  },
+  {
+    "id" : "home4",
+    "word" : "espelho"
+  },
+  {
+    "id" : "home5",
+    "word" : "tomada"
+  },
+  {
+    "id" : "home6",
+    "word" : "champô"
+  },
+  {
+    "id" : "home7",
+    "word" : "gel de banho"
+  },
+  {
+    "id" : "home8",
+    "word" : "banho"
+  },
+  {
+    "id" : "home9",
+    "word" : "sabão"
+  },
+  {
+    "id" : "home10",
+    "word" : "escova de dentes"
+  },
+  {
+    "id" : "home11",
+    "word" : "pasta de dentes"
+  },
+  {
+    "id" : "home12",
+    "word" : "toalheiro"
+  },
+  {
+    "id" : "home13",
+    "word" : "toalha"
+  },
+  {
+    "id" : "home14",
+    "word" : "lavatório"
+  },
+  {
+    "id" : "home15",
+    "word" : "tigela"
+  },
+  {
+    "id" : "home16",
+    "word" : "faca de manteiga"
+  },
+  {
+    "id" : "home17",
+    "word" : "pauzinhos"
+  },
+  {
+    "id" : "home18",
+    "word" : "chávena"
+  },
+  {
+    "id" : "home19",
+    "word" : "vaso de flores"
+  },
+  {
+    "id" : "home20",
+    "word" : "guardanapo"
+  },
+  {
+    "id" : "home21",
+    "word" : "garfo"
+  },
+  {
+    "id" : "home22",
+    "word" : "copo"
+  },
+  {
+    "id" : "home23",
+    "word" : "jarra"
+  },
+  {
+    "id" : "home24",
+    "word" : "faca"
+  },
+  {
+    "id" : "home25",
+    "word" : "caneca"
+  },
+  {
+    "id" : "home26",
+    "word" : "prato"
+  },
+  {
+    "id" : "home27",
+    "word" : "saleiro"
+  },
+  {
+    "id" : "home28",
+    "word" : "pires"
+  },
+  {
+    "id" : "home29",
+    "word" : "colher"
+  },
+  {
+    "id" : "home30",
+    "word" : "poltrona"
+  },
+  {
+    "id" : "home31",
+    "word" : "cama"
+  },
+  {
+    "id" : "home32",
+    "word" : "estante"
+  },
+  {
+    "id" : "home33",
+    "word" : "cadeira"
+  },
+  {
+    "id" : "home34",
+    "word" : "relógio"
+  },
+  {
+    "id" : "home35",
+    "word" : "berço"
+  },
+  {
+    "id" : "home36",
+    "word" : "cortinas"
+  },
+  {
+    "id" : "home37",
+    "word" : "almofadas"
+  },
+  {
+    "id" : "home38",
+    "word" : "lareira"
+  },
+  {
+    "id" : "home39",
+    "word" : "abajur"
+  },
+  {
+    "id" : "home40",
+    "word" : "tapete"
+  },
+  {
+    "id" : "home41",
+    "word" : "sofá"
+  },
+  {
+    "id" : "home42",
+    "word" : "banco"
+  },
+  {
+    "id" : "home43",
+    "word" : "televisão"
+  },
+  {
+    "id" : "home44",
+    "word" : "guarda-roupa"
+  },
+  {
+    "id" : "home45",
+    "word" : "fonte para pássaros"
+  },
+  {
+    "id" : "home46",
+    "word" : "balde"
+  },
+  {
+    "id" : "home47",
+    "word" : "chaminé"
+  },
+  {
+    "id" : "home48",
+    "word" : "porta"
+  },
+  {
+    "id" : "home49",
+    "word" : "gnomo"
+  },
+  {
+    "id" : "home50",
+    "word" : "caixa de correio"
+  },
+  {
+    "id" : "home51",
+    "word" : "caminho"
+  },
+  {
+    "id" : "home52",
+    "word" : "varanda"
+  },
+  {
+    "id" : "home53",
+    "word" : "telhado"
+  },
+  {
+    "id" : "home54",
+    "word" : "borrifador"
+  },
+  {
+    "id" : "home55",
+    "word" : "degraus"
+  },
+  {
+    "id" : "home56",
+    "word" : "Válvula"
+  },
+  {
+    "id" : "home57",
+    "word" : "terraço"
+  },
+  {
+    "id" : "home58",
+    "word" : "tanque"
+  },
+  {
+    "id" : "home59",
+    "word" : "janela"
+  },
+  {
+    "id" : "home60",
+    "word" : "avental"
+  },
+  {
+    "id" : "home61",
+    "word" : "garrafa"
+  },
+  {
+    "id" : "home62",
+    "word" : "louça"
+  },
+  {
+    "id" : "home63",
+    "word" : "detergente"
+  },
+  {
+    "id" : "home64",
+    "word" : "chaleira"
+  },
+  {
+    "id" : "home65",
+    "word" : "panela"
+  },
+  {
+    "id" : "home66",
+    "word" : "vaso"
+  },
+  {
+    "id" : "home67",
+    "word" : "geladeira"
+  },
+  {
+    "id" : "home68",
+    "word" : "rolo de massa"
+  },
+  {
+    "id" : "home69",
+    "word" : "pia"
+  },
+  {
+    "id" : "home70",
+    "word" : "fogão"
+  },
+  {
+    "id" : "home71",
+    "word" : "toalha de mesa"
+  },
+  {
+    "id" : "home72",
+    "word" : "pano de prato"
+  },
+  {
+    "id" : "home73",
+    "word" : "bule"
+  },
+  {
+    "id" : "home74",
+    "word" : "wok"
+  },
+  {
+    "id" : "home75",
+    "word" : "alumínio"
+  },
+  {
+    "id" : "home76",
+    "word" : "tijolos"
+  },
+  {
+    "id" : "home77",
+    "word" : "papelão"
+  },
+  {
+    "id" : "home78",
+    "word" : "cerâmica"
+  },
+  {
+    "id" : "home79",
+    "word" : "cimento"
+  },
+  {
+    "id" : "home80",
+    "word" : "algodão"
+  },
+  {
+    "id" : "home81",
+    "word" : "vidro"
+  },
+  {
+    "id" : "home82",
+    "word" : "papel"
+  },
+  {
+    "id" : "home83",
+    "word" : "plástico"
+  },
+  {
+    "id" : "home84",
+    "word" : "borracha"
+  },
+  {
+    "id" : "home85",
+    "word" : "areia"
+  },
+  {
+    "id" : "home86",
+    "word" : "aço"
+  },
+  {
+    "id" : "home87",
+    "word" : "pedras"
+  },
+  {
+    "id" : "home88",
+    "word" : "madeira"
+  },
+  {
+    "id" : "home89",
+    "word" : "lã"
+  }
+]

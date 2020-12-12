@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "浴室"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "用餐室"
+  },
+  {
+    "id" : "Home",
+    "word" : "家居"
+  },
+  {
+    "id" : "House",
+    "word" : "房子"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "厨房"
+  },
+  {
+    "id" : "Materials",
+    "word" : "材料"
+  }
+]

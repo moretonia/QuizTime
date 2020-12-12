@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Indoor Tools",
+    "word" : "실내 도구"
+  },
+  {
+    "id" : "Jobs",
+    "word" : "직업"
+  },
+  {
+    "id" : "Jobs II",
+    "word" : "직업 ll"
+  },
+  {
+    "id" : "Jobs III",
+    "word" : "직업 lll"
+  },
+  {
+    "id" : "Jobs IV",
+    "word" : "직업 IV"
+  },
+  {
+    "id" : "Outdoor Tools",
+    "word" : "실외 도구"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Ceremonies",
+    "word" : "Seramoniler"
+  },
+  {
+    "id" : "Christmas",
+    "word" : "Noel"
+  },
+  {
+    "id" : "Church",
+    "word" : "Kilise"
+  },
+  {
+    "id" : "Good Luck",
+    "word" : "İyi Şans"
+  },
+  {
+    "id" : "Religion",
+    "word" : "İnanç"
+  },
+  {
+    "id" : "Zodiac",
+    "word" : "Burçlar"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "home0",
+    "word" : "küvet"
+  },
+  {
+    "id" : "home1",
+    "word" : "tarak"
+  },
+  {
+    "id" : "home2",
+    "word" : "musluk"
+  },
+  {
+    "id" : "home3",
+    "word" : "mat"
+  },
+  {
+    "id" : "home4",
+    "word" : "ayna"
+  },
+  {
+    "id" : "home5",
+    "word" : "fiş"
+  },
+  {
+    "id" : "home6",
+    "word" : "şampuan"
+  },
+  {
+    "id" : "home7",
+    "word" : "duş jeli"
+  },
+  {
+    "id" : "home8",
+    "word" : "duş"
+  },
+  {
+    "id" : "home9",
+    "word" : "sabun"
+  },
+  {
+    "id" : "home10",
+    "word" : "diş fırçası"
+  },
+  {
+    "id" : "home11",
+    "word" : "diş macunu"
+  },
+  {
+    "id" : "home12",
+    "word" : "havlu askısı"
+  },
+  {
+    "id" : "home13",
+    "word" : "havlu"
+  },
+  {
+    "id" : "home14",
+    "word" : "lavabo"
+  },
+  {
+    "id" : "home15",
+    "word" : "kase"
+  },
+  {
+    "id" : "home16",
+    "word" : "tereyağı bıçağı"
+  },
+  {
+    "id" : "home17",
+    "word" : "Çin yemek çubukları"
+  },
+  {
+    "id" : "home18",
+    "word" : "fincan"
+  },
+  {
+    "id" : "home19",
+    "word" : "Çiçek vazosu"
+  },
+  {
+    "id" : "home20",
+    "word" : "peçete"
+  },
+  {
+    "id" : "home21",
+    "word" : "çatal"
+  },
+  {
+    "id" : "home22",
+    "word" : "bardak"
+  },
+  {
+    "id" : "home23",
+    "word" : "sürahi"
+  },
+  {
+    "id" : "home24",
+    "word" : "bıçak"
+  },
+  {
+    "id" : "home25",
+    "word" : "kupa"
+  },
+  {
+    "id" : "home26",
+    "word" : "tabak"
+  },
+  {
+    "id" : "home27",
+    "word" : "tuzluk"
+  },
+  {
+    "id" : "home28",
+    "word" : "çay tabağı"
+  },
+  {
+    "id" : "home29",
+    "word" : "kaşık"
+  },
+  {
+    "id" : "home30",
+    "word" : "koltuk"
+  },
+  {
+    "id" : "home31",
+    "word" : "yatak"
+  },
+  {
+    "id" : "home32",
+    "word" : "kitaplık"
+  },
+  {
+    "id" : "home33",
+    "word" : "sandalye"
+  },
+  {
+    "id" : "home34",
+    "word" : "saat"
+  },
+  {
+    "id" : "home35",
+    "word" : "bebek karyolası"
+  },
+  {
+    "id" : "home36",
+    "word" : "perdeler"
+  },
+  {
+    "id" : "home37",
+    "word" : "minder"
+  },
+  {
+    "id" : "home38",
+    "word" : "şömine"
+  },
+  {
+    "id" : "home39",
+    "word" : "abajur"
+  },
+  {
+    "id" : "home40",
+    "word" : "kilim"
+  },
+  {
+    "id" : "home41",
+    "word" : "kanepe"
+  },
+  {
+    "id" : "home42",
+    "word" : "tabure"
+  },
+  {
+    "id" : "home43",
+    "word" : "televizyon"
+  },
+  {
+    "id" : "home44",
+    "word" : "giysi dolabı"
+  },
+  {
+    "id" : "home45",
+    "word" : "kuş banyosu"
+  },
+  {
+    "id" : "home46",
+    "word" : "kova"
+  },
+  {
+    "id" : "home47",
+    "word" : "baca"
+  },
+  {
+    "id" : "home48",
+    "word" : "kapı"
+  },
+  {
+    "id" : "home49",
+    "word" : "cüce"
+  },
+  {
+    "id" : "home50",
+    "word" : "posta kutusu"
+  },
+  {
+    "id" : "home51",
+    "word" : "patika"
+  },
+  {
+    "id" : "home52",
+    "word" : "sundurma"
+  },
+  {
+    "id" : "home53",
+    "word" : "çatı"
+  },
+  {
+    "id" : "home54",
+    "word" : "fıskiye"
+  },
+  {
+    "id" : "home55",
+    "word" : "adımlar"
+  },
+  {
+    "id" : "home56",
+    "word" : "vana"
+  },
+  {
+    "id" : "home57",
+    "word" : "veranda"
+  },
+  {
+    "id" : "home58",
+    "word" : "su tankı"
+  },
+  {
+    "id" : "home59",
+    "word" : "pencere"
+  },
+  {
+    "id" : "home60",
+    "word" : "önlük"
+  },
+  {
+    "id" : "home61",
+    "word" : "şişe"
+  },
+  {
+    "id" : "home62",
+    "word" : "çanak çömlek"
+  },
+  {
+    "id" : "home63",
+    "word" : "deterjan"
+  },
+  {
+    "id" : "home64",
+    "word" : "su ısıtıcısı"
+  },
+  {
+    "id" : "home65",
+    "word" : "tava"
+  },
+  {
+    "id" : "home66",
+    "word" : "tencere"
+  },
+  {
+    "id" : "home67",
+    "word" : "buzdolabı"
+  },
+  {
+    "id" : "home68",
+    "word" : "oklava"
+  },
+  {
+    "id" : "home69",
+    "word" : "mutfak lavabosu"
+  },
+  {
+    "id" : "home70",
+    "word" : "fırın"
+  },
+  {
+    "id" : "home71",
+    "word" : "masa örtüsü"
+  },
+  {
+    "id" : "home72",
+    "word" : "el bezi"
+  },
+  {
+    "id" : "home73",
+    "word" : "demlik"
+  },
+  {
+    "id" : "home74",
+    "word" : "derin tava"
+  },
+  {
+    "id" : "home75",
+    "word" : "alüminyum"
+  },
+  {
+    "id" : "home76",
+    "word" : "tuğlalar"
+  },
+  {
+    "id" : "home77",
+    "word" : "karton"
+  },
+  {
+    "id" : "home78",
+    "word" : "seramik"
+  },
+  {
+    "id" : "home79",
+    "word" : "beton"
+  },
+  {
+    "id" : "home80",
+    "word" : "pamuk"
+  },
+  {
+    "id" : "home81",
+    "word" : "cam"
+  },
+  {
+    "id" : "home82",
+    "word" : "kâğıt"
+  },
+  {
+    "id" : "home83",
+    "word" : "plastik"
+  },
+  {
+    "id" : "home84",
+    "word" : "kauçuk"
+  },
+  {
+    "id" : "home85",
+    "word" : "kum"
+  },
+  {
+    "id" : "home86",
+    "word" : "çelik"
+  },
+  {
+    "id" : "home87",
+    "word" : "taşlar"
+  },
+  {
+    "id" : "home88",
+    "word" : "ahşap"
+  },
+  {
+    "id" : "home89",
+    "word" : "yün"
+  }
+]

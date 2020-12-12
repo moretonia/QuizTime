@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "سروال قصير"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "معطف"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "فستان"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "قفازات"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "جاكيت"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "جينز"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "سترة"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "بيجامة"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "قميص"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "أحذية"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "تنورة"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "بنطلون"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "نظارات شمسيه"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "تي شيرت"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "زى موحد"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "ثوب عاري الكتفين"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "بيكيني"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "فستان سهرة أسود"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "فستان سهرة"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "الفلامنكو"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "قميص بحمالة عنق"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "مايوه"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "ساري"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "فستان بلا حمّالات"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "مخطط"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "بدلة نسائية"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "فستان صيفي"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "التوجا"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "زي متوارث"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "فستان زفاف"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "مستحضر حلاقة"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "حزام"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "بابيون"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "سروال داخلي"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "زر الكم"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "قميص رسمي"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "حذاء أنيق"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "حذاء ركض"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "ربطات العنق"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "آلة حلاقة"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "فرشاة حلاقة"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "شباشب"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "جوارب"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "بدلة"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "سروال"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "طاقية"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "حذاء طويل"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "خوذة"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "زلاجات"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "قميص صوفي"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "ثياب جمباز"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "قميص بولو"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "شورت"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "بدلة تزلج"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "ساعة ذكية"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "حمالة الصدر الرياضية"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "زي السباحة"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "بدلة رياضية"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "بدلة غطس"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "ربطة المعصم"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "بلوزة"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "حمالة صدر"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "سترة صوفية"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "عقد"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "حزام أزياء"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "قبعة"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "كعب عالي"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "سالوبت"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "كيمونو"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "لباس نسائي"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "صنادل"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "شال"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "وشاح حرير"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "لباس محكم"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "ضاغط"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "سوار"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "خاتم إكسسوار"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "أقراط"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "حقيبة يد"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "حمالة مفاتيح"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "أحمر شفاه"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "ماسكارا"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "مبرد أظافر"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "قلادة"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "عطر"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "حقيبة يد صغيرة"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "هاتف ذكي"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "مناديل ورقية"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "محفظة نقود"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "ساعة يد"
+  }
+]

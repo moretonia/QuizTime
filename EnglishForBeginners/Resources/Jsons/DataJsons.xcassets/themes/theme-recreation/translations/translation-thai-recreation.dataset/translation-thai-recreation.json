@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "แบ็คแกมมอน"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "แบทเทิลชิพ"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "เกมเล่นไพ่"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "หมากฮอส"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "หมากรุก"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "เกมต่อเหรียญ"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "ลูกเต๋า"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "โดมิโน่"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "โกะ"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "จิ๊กซอว์"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "ลูโด้"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "ไพ่นกกระจอก"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "เกมเศรษฐี"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "สแคร็บเบิล"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "โอเอ็กซ์"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "เเบดมินตัน"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "โบว์ลิ่ง"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "ปีนเขา"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "ปาเป้า"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "โยนห่วง"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "จานร่อน"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "ตั้งเต"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "เล่นฮูล่าฮูป"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "กระโดดกบ"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "เกมลอดไม้"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "พินบอล"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "โป๊กเกอร์"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "ทอยกอง"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "ชักเย่อ"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "ลูกดิ่ง"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "บอลลูน"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "ถุงมือมวย"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "ไม้คริกเก็ต"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "ลูกดอก"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "ดัมเบล"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "รอกตกปลา"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "ตีนกบ"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "ลูกฟุตบอล"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "แว่นกันน้ำ"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "ไม้กอล์ฟ"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "ขวานเจาะน้ำแข็ง"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "ร่มชูขีพ"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "รองเท้าสกี"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "รองเท้าฟุตบอล"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "ไม้เทนนิส"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "เต้นแอโรบิค"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "เบสบอล"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "บาสเก็ตบอล"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "รถเลื่อนหิมะ"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "ชกมวย"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "คริกเก็ต"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "ฟุตบอล"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "ยิมนาสติก"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "แฮนด์บอล"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "ฮอกกี้"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "รักบี้"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "สกี"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "เทนนิส"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "วอลเล่ย์บอล"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "วินด์เซิร์ฟ"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "ยิงธนู"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "จักรยาน"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "ศิลปะการบังคับม้า"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "กอล์ฟ"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "กระโดดสูงข้ามคาน"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "แข่งเดินทางด้วยเข็มทิศ"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "โปโล"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "แข่งพายเรือ"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "ดำน้ำ"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "ยิงปืน"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "การกระโดดร่ม"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "สนุกเกอร์"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "ปิงปอง"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "โปโลน้ำ"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "มวยปล้ำ"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "การกระโดดด้วยร่มชูชีพ"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "จักรยานวิบาก"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "ว่ายน้ำโต้คลื่น"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "ตั้งแคมป์"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "ลุยถ้ำ"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "ทำสวน"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "การธุดงค์"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "ประลองหอกบนหลังม้า"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "ยูโด"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "เล่นว่าว"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "ล่องแพ"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "เดินเรือ"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "การดำน้ำดูปะการัง"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "เล่นสโนวบอร์ด"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "ไทเก๊ก"
+  }
+]

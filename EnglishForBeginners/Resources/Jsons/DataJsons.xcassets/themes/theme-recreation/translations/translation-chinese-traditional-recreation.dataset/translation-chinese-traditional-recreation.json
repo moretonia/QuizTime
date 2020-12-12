@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "十五子棋"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "海戰棋"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "紙牌"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "西洋跳棋"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "象棋"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "四子棋"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "骰子"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "多米諾骨牌"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "圍棋"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "拼圖"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "盧多遊戲"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "麻將"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "地產大亨"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "拼字遊戲"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "井子棋"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "羽毛球"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "保齡球"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "攀巖"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "飛鏢"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "擲繩圈"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "飛盤"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "跳房子"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "呼啦圈"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "跳背遊戲"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "林波舞"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "彈球遊戲"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "撲克"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "沙弧球"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "拔河"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "悠悠球"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "健身球"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "拳擊手套"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "板球棒"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "飛鏢"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "啞鈴"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "魚線輪"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "鴨腳板"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "足球"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "護目鏡"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "高爾夫球棒"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "冰鎬"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "降落傘"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "滑雪板"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "足球鞋"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "網球拍"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "健美操"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "棒球"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "籃球"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "雪橇"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "拳擊"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "板球"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "足球"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "體操"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "手球"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "曲棍球"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "橄欖球"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "滑雪"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "網球"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "排球"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "帆板運動"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "射箭"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "騎行"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "花樣騎術"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "高爾夫"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "跳高"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "定向運動"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "馬球"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "劃艇運動"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "潛水"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "射擊"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "跳傘"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "臺球"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "乒乓球"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "水球"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "摔跤"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "高處跳傘"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "自行車越野"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "人體沖浪"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "露營"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "洞穴探察"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "園藝"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "遠足"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "馬上長矛比武"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "柔道"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "風箏沖浪"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "漂流"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "帆船運動"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "浮潛"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "單板滑雪"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "太極"
+  }
+]

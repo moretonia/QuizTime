@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "비즈니스 I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "비즈니스 II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "비즈니스 lll"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "수집 대상"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "쇼핑"
+  },
+  {
+    "id" : "Shops",
+    "word" : "상점"
+  }
+]

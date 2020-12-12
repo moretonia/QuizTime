@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "développé couché"
+  },
+  {
+    "id" : "body1",
+    "word" : "curl biceps"
+  },
+  {
+    "id" : "body2",
+    "word" : "tractions"
+  },
+  {
+    "id" : "body3",
+    "word" : "crunches"
+  },
+  {
+    "id" : "body4",
+    "word" : "soulevé de terre"
+  },
+  {
+    "id" : "body5",
+    "word" : "dips"
+  },
+  {
+    "id" : "body6",
+    "word" : "ballon de gym"
+  },
+  {
+    "id" : "body7",
+    "word" : "leg curls"
+  },
+  {
+    "id" : "body8",
+    "word" : "fentes"
+  },
+  {
+    "id" : "body9",
+    "word" : "sac de frappe"
+  },
+  {
+    "id" : "body10",
+    "word" : "pompes"
+  },
+  {
+    "id" : "body11",
+    "word" : "rowing"
+  },
+  {
+    "id" : "body12",
+    "word" : "relevé de buste"
+  },
+  {
+    "id" : "body13",
+    "word" : "squats"
+  },
+  {
+    "id" : "body14",
+    "word" : "montée de marche"
+  },
+  {
+    "id" : "body15",
+    "word" : "biceps"
+  },
+  {
+    "id" : "body16",
+    "word" : "fesses"
+  },
+  {
+    "id" : "body17",
+    "word" : "buste"
+  },
+  {
+    "id" : "body18",
+    "word" : "mollet"
+  },
+  {
+    "id" : "body19",
+    "word" : "poitrine"
+  },
+  {
+    "id" : "body20",
+    "word" : "hanches"
+  },
+  {
+    "id" : "body21",
+    "word" : "articulation"
+  },
+  {
+    "id" : "body22",
+    "word" : "tibia"
+  },
+  {
+    "id" : "body23",
+    "word" : "épaule"
+  },
+  {
+    "id" : "body24",
+    "word" : "plante des pieds"
+  },
+  {
+    "id" : "body25",
+    "word" : "estomac"
+  },
+  {
+    "id" : "body26",
+    "word" : "cuisse"
+  },
+  {
+    "id" : "body27",
+    "word" : "gorge"
+  },
+  {
+    "id" : "body28",
+    "word" : "taille"
+  },
+  {
+    "id" : "body29",
+    "word" : "poignet"
+  },
+  {
+    "id" : "body30",
+    "word" : "cheville"
+  },
+  {
+    "id" : "body31",
+    "word" : "bras"
+  },
+  {
+    "id" : "body32",
+    "word" : "gros orteil"
+  },
+  {
+    "id" : "body33",
+    "word" : "coude"
+  },
+  {
+    "id" : "body34",
+    "word" : "doigt"
+  },
+  {
+    "id" : "body35",
+    "word" : "poing"
+  },
+  {
+    "id" : "body36",
+    "word" : "pied"
+  },
+  {
+    "id" : "body37",
+    "word" : "avant-bras"
+  },
+  {
+    "id" : "body38",
+    "word" : "main"
+  },
+  {
+    "id" : "body39",
+    "word" : "tête"
+  },
+  {
+    "id" : "body40",
+    "word" : "genou"
+  },
+  {
+    "id" : "body41",
+    "word" : "jambe"
+  },
+  {
+    "id" : "body42",
+    "word" : "nombril"
+  },
+  {
+    "id" : "body43",
+    "word" : "paume"
+  },
+  {
+    "id" : "body44",
+    "word" : "pouce"
+  },
+  {
+    "id" : "body45",
+    "word" : "yeux bleus"
+  },
+  {
+    "id" : "body46",
+    "word" : "yeux marrons"
+  },
+  {
+    "id" : "body47",
+    "word" : "taches de rousseur"
+  },
+  {
+    "id" : "body48",
+    "word" : "barbe complète"
+  },
+  {
+    "id" : "body49",
+    "word" : "lunettes"
+  },
+  {
+    "id" : "body50",
+    "word" : "bouc"
+  },
+  {
+    "id" : "body51",
+    "word" : "yeux verts"
+  },
+  {
+    "id" : "body52",
+    "word" : "grain de beauté"
+  },
+  {
+    "id" : "body53",
+    "word" : "moustache"
+  },
+  {
+    "id" : "body54",
+    "word" : "bouton"
+  },
+  {
+    "id" : "body55",
+    "word" : "cicatrice"
+  },
+  {
+    "id" : "body56",
+    "word" : "bronzé"
+  },
+  {
+    "id" : "body57",
+    "word" : "tatouage"
+  },
+  {
+    "id" : "body58",
+    "word" : "visage fin"
+  },
+  {
+    "id" : "body59",
+    "word" : "rides"
+  },
+  {
+    "id" : "body60",
+    "word" : "joue"
+  },
+  {
+    "id" : "body61",
+    "word" : "menton"
+  },
+  {
+    "id" : "body62",
+    "word" : "fossette"
+  },
+  {
+    "id" : "body63",
+    "word" : "lobe de l'oreille"
+  },
+  {
+    "id" : "body64",
+    "word" : "oreille"
+  },
+  {
+    "id" : "body65",
+    "word" : "œil"
+  },
+  {
+    "id" : "body66",
+    "word" : "sourcil"
+  },
+  {
+    "id" : "body67",
+    "word" : "cils"
+  },
+  {
+    "id" : "body68",
+    "word" : "front"
+  },
+  {
+    "id" : "body69",
+    "word" : "froncement de sourcils"
+  },
+  {
+    "id" : "body70",
+    "word" : "lèvres"
+  },
+  {
+    "id" : "body71",
+    "word" : "cou"
+  },
+  {
+    "id" : "body72",
+    "word" : "nez"
+  },
+  {
+    "id" : "body73",
+    "word" : "dents"
+  },
+  {
+    "id" : "body74",
+    "word" : "langue"
+  },
+  {
+    "id" : "body75",
+    "word" : "afro"
+  },
+  {
+    "id" : "body76",
+    "word" : "chauve"
+  },
+  {
+    "id" : "body77",
+    "word" : "chignon"
+  },
+  {
+    "id" : "body78",
+    "word" : "coupe en brosse"
+  },
+  {
+    "id" : "body79",
+    "word" : "bouclé"
+  },
+  {
+    "id" : "body80",
+    "word" : "ébouriffé"
+  },
+  {
+    "id" : "body81",
+    "word" : "dreadlocks"
+  },
+  {
+    "id" : "body82",
+    "word" : "cheveux longs"
+  },
+  {
+    "id" : "body83",
+    "word" : "crête iroquoise"
+  },
+  {
+    "id" : "body84",
+    "word" : "queue de cheval"
+  },
+  {
+    "id" : "body85",
+    "word" : "rasé"
+  },
+  {
+    "id" : "body86",
+    "word" : "court"
+  },
+  {
+    "id" : "body87",
+    "word" : "hérissé"
+  },
+  {
+    "id" : "body88",
+    "word" : "raide"
+  },
+  {
+    "id" : "body89",
+    "word" : "ondulé"
+  }
+]

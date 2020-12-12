@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Ceremonies",
+    "word" : "พิธีกรรม"
+  },
+  {
+    "id" : "Christmas",
+    "word" : "วันคริสต์มาส"
+  },
+  {
+    "id" : "Church",
+    "word" : "โบสถ์"
+  },
+  {
+    "id" : "Good Luck",
+    "word" : "สิ่งนำโชค"
+  },
+  {
+    "id" : "Religion",
+    "word" : "ศาสนา"
+  },
+  {
+    "id" : "Zodiac",
+    "word" : "จักรราศี"
+  }
+]

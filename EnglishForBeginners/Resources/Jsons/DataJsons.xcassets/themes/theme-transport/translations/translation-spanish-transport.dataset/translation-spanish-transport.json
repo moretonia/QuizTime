@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "campana"
+  },
+  {
+    "id" : "transport1",
+    "word" : "frenos"
+  },
+  {
+    "id" : "transport2",
+    "word" : "cadena"
+  },
+  {
+    "id" : "transport3",
+    "word" : "ciclista"
+  },
+  {
+    "id" : "transport4",
+    "word" : "engranajes"
+  },
+  {
+    "id" : "transport5",
+    "word" : "manillar"
+  },
+  {
+    "id" : "transport6",
+    "word" : "casco"
+  },
+  {
+    "id" : "transport7",
+    "word" : "ruta"
+  },
+  {
+    "id" : "transport8",
+    "word" : "pedal"
+  },
+  {
+    "id" : "transport9",
+    "word" : "bomba"
+  },
+  {
+    "id" : "transport10",
+    "word" : "punción"
+  },
+  {
+    "id" : "transport11",
+    "word" : "reflector"
+  },
+  {
+    "id" : "transport12",
+    "word" : "sillín"
+  },
+  {
+    "id" : "transport13",
+    "word" : "radios"
+  },
+  {
+    "id" : "transport14",
+    "word" : "rueda"
+  },
+  {
+    "id" : "transport15",
+    "word" : "barco de carga"
+  },
+  {
+    "id" : "transport16",
+    "word" : "crucero"
+  },
+  {
+    "id" : "transport17",
+    "word" : "ferry"
+  },
+  {
+    "id" : "transport18",
+    "word" : "bote de pesca"
+  },
+  {
+    "id" : "transport19",
+    "word" : "góndola"
+  },
+  {
+    "id" : "transport20",
+    "word" : "casa flotante"
+  },
+  {
+    "id" : "transport21",
+    "word" : "hidroala"
+  },
+  {
+    "id" : "transport22",
+    "word" : "inflable"
+  },
+  {
+    "id" : "transport23",
+    "word" : "jet ski"
+  },
+  {
+    "id" : "transport24",
+    "word" : "junco"
+  },
+  {
+    "id" : "transport25",
+    "word" : "kayak"
+  },
+  {
+    "id" : "transport26",
+    "word" : "balancín"
+  },
+  {
+    "id" : "transport27",
+    "word" : "bote de pedals"
+  },
+  {
+    "id" : "transport28",
+    "word" : "bote de remos"
+  },
+  {
+    "id" : "transport29",
+    "word" : "yate"
+  },
+  {
+    "id" : "transport30",
+    "word" : "gato hidráulico"
+  },
+  {
+    "id" : "transport31",
+    "word" : "caravana"
+  },
+  {
+    "id" : "transport32",
+    "word" : "tablero"
+  },
+  {
+    "id" : "transport33",
+    "word" : "aceite de motor"
+  },
+  {
+    "id" : "transport34",
+    "word" : "motor"
+  },
+  {
+    "id" : "transport35",
+    "word" : "gasolinera"
+  },
+  {
+    "id" : "transport36",
+    "word" : "faros"
+  },
+  {
+    "id" : "transport37",
+    "word" : "autopista"
+  },
+  {
+    "id" : "transport38",
+    "word" : "número de placa"
+  },
+  {
+    "id" : "transport39",
+    "word" : "peatones"
+  },
+  {
+    "id" : "transport40",
+    "word" : "sedán"
+  },
+  {
+    "id" : "transport41",
+    "word" : "espejo lateral"
+  },
+  {
+    "id" : "transport42",
+    "word" : "volante"
+  },
+  {
+    "id" : "transport43",
+    "word" : "luces traseras"
+  },
+  {
+    "id" : "transport44",
+    "word" : "remolque"
+  },
+  {
+    "id" : "transport45",
+    "word" : "ganado"
+  },
+  {
+    "id" : "transport46",
+    "word" : "niños"
+  },
+  {
+    "id" : "transport47",
+    "word" : "peligro"
+  },
+  {
+    "id" : "transport48",
+    "word" : "intersección"
+  },
+  {
+    "id" : "transport49",
+    "word" : "cruce de tren"
+  },
+  {
+    "id" : "transport50",
+    "word" : "osos polares"
+  },
+  {
+    "id" : "transport51",
+    "word" : "rotonda"
+  },
+  {
+    "id" : "transport52",
+    "word" : "resbaladizo"
+  },
+  {
+    "id" : "transport53",
+    "word" : "nieve"
+  },
+  {
+    "id" : "transport54",
+    "word" : "límite de velocidad"
+  },
+  {
+    "id" : "transport55",
+    "word" : "colina empinada"
+  },
+  {
+    "id" : "transport56",
+    "word" : "luz de tráfico"
+  },
+  {
+    "id" : "transport57",
+    "word" : "camino sinuoso"
+  },
+  {
+    "id" : "transport58",
+    "word" : "hombres trabajando"
+  },
+  {
+    "id" : "transport59",
+    "word" : "cruce de cebras"
+  },
+  {
+    "id" : "transport60",
+    "word" : "buffet"
+  },
+  {
+    "id" : "transport61",
+    "word" : "colector"
+  },
+  {
+    "id" : "transport62",
+    "word" : "viajeros"
+  },
+  {
+    "id" : "transport63",
+    "word" : "conductor"
+  },
+  {
+    "id" : "transport64",
+    "word" : "tren de carga"
+  },
+  {
+    "id" : "transport65",
+    "word" : "lavabo"
+  },
+  {
+    "id" : "transport66",
+    "word" : "locomotora"
+  },
+  {
+    "id" : "transport67",
+    "word" : "plataforma"
+  },
+  {
+    "id" : "transport68",
+    "word" : "puente ferroviario"
+  },
+  {
+    "id" : "transport69",
+    "word" : "hora pico"
+  },
+  {
+    "id" : "transport70",
+    "word" : "asientos"
+  },
+  {
+    "id" : "transport71",
+    "word" : "tren de vapor"
+  },
+  {
+    "id" : "transport72",
+    "word" : "correa"
+  },
+  {
+    "id" : "transport73",
+    "word" : "horario"
+  },
+  {
+    "id" : "transport74",
+    "word" : "pistas"
+  },
+  {
+    "id" : "transport75",
+    "word" : "bicicleta"
+  },
+  {
+    "id" : "transport76",
+    "word" : "autobús"
+  },
+  {
+    "id" : "transport77",
+    "word" : "carro"
+  },
+  {
+    "id" : "transport78",
+    "word" : "minivan"
+  },
+  {
+    "id" : "transport79",
+    "word" : "monoriel"
+  },
+  {
+    "id" : "transport80",
+    "word" : "motocicleta"
+  },
+  {
+    "id" : "transport81",
+    "word" : "scooter motorizado"
+  },
+  {
+    "id" : "transport82",
+    "word" : "rickshaw"
+  },
+  {
+    "id" : "transport83",
+    "word" : "patines"
+  },
+  {
+    "id" : "transport84",
+    "word" : "scooter"
+  },
+  {
+    "id" : "transport85",
+    "word" : "tren subterráneo"
+  },
+  {
+    "id" : "transport86",
+    "word" : "taxi"
+  },
+  {
+    "id" : "transport87",
+    "word" : "tren"
+  },
+  {
+    "id" : "transport88",
+    "word" : "tranvía"
+  },
+  {
+    "id" : "transport89",
+    "word" : "camión"
+  }
+]

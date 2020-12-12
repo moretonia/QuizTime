@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "zil"
+  },
+  {
+    "id" : "transport1",
+    "word" : "fren"
+  },
+  {
+    "id" : "transport2",
+    "word" : "zincir"
+  },
+  {
+    "id" : "transport3",
+    "word" : "bisikletçi"
+  },
+  {
+    "id" : "transport4",
+    "word" : "dişliler"
+  },
+  {
+    "id" : "transport5",
+    "word" : "gidonlar"
+  },
+  {
+    "id" : "transport6",
+    "word" : "kask"
+  },
+  {
+    "id" : "transport7",
+    "word" : "yol"
+  },
+  {
+    "id" : "transport8",
+    "word" : "pedal"
+  },
+  {
+    "id" : "transport9",
+    "word" : "pompa"
+  },
+  {
+    "id" : "transport10",
+    "word" : "patlak lastik"
+  },
+  {
+    "id" : "transport11",
+    "word" : "reflektör"
+  },
+  {
+    "id" : "transport12",
+    "word" : "sele"
+  },
+  {
+    "id" : "transport13",
+    "word" : "tekerlek telleri"
+  },
+  {
+    "id" : "transport14",
+    "word" : "tekerlek"
+  },
+  {
+    "id" : "transport15",
+    "word" : "kargo gemisi"
+  },
+  {
+    "id" : "transport16",
+    "word" : "yolcu gemisi"
+  },
+  {
+    "id" : "transport17",
+    "word" : "feribot"
+  },
+  {
+    "id" : "transport18",
+    "word" : "balıkçı teknesi"
+  },
+  {
+    "id" : "transport19",
+    "word" : "gondol"
+  },
+  {
+    "id" : "transport20",
+    "word" : "yüzen ev"
+  },
+  {
+    "id" : "transport21",
+    "word" : "deniz otobüsü"
+  },
+  {
+    "id" : "transport22",
+    "word" : "şişme"
+  },
+  {
+    "id" : "transport23",
+    "word" : "jet ski"
+  },
+  {
+    "id" : "transport24",
+    "word" : "hurda"
+  },
+  {
+    "id" : "transport25",
+    "word" : "kayık"
+  },
+  {
+    "id" : "transport26",
+    "word" : "avara demiri"
+  },
+  {
+    "id" : "transport27",
+    "word" : "su bisikleti"
+  },
+  {
+    "id" : "transport28",
+    "word" : "tekne"
+  },
+  {
+    "id" : "transport29",
+    "word" : "yat"
+  },
+  {
+    "id" : "transport30",
+    "word" : "kriko"
+  },
+  {
+    "id" : "transport31",
+    "word" : "karavan"
+  },
+  {
+    "id" : "transport32",
+    "word" : "gösterge paneli"
+  },
+  {
+    "id" : "transport33",
+    "word" : "motor yağı"
+  },
+  {
+    "id" : "transport34",
+    "word" : "motor"
+  },
+  {
+    "id" : "transport35",
+    "word" : "gaz istasyonu"
+  },
+  {
+    "id" : "transport36",
+    "word" : "farlar"
+  },
+  {
+    "id" : "transport37",
+    "word" : "otoyol"
+  },
+  {
+    "id" : "transport38",
+    "word" : "plaka"
+  },
+  {
+    "id" : "transport39",
+    "word" : "yayalar"
+  },
+  {
+    "id" : "transport40",
+    "word" : "sedan"
+  },
+  {
+    "id" : "transport41",
+    "word" : "yan ayna"
+  },
+  {
+    "id" : "transport42",
+    "word" : "direksiyon"
+  },
+  {
+    "id" : "transport43",
+    "word" : "park lambaları"
+  },
+  {
+    "id" : "transport44",
+    "word" : "römork"
+  },
+  {
+    "id" : "transport45",
+    "word" : "sığır"
+  },
+  {
+    "id" : "transport46",
+    "word" : "çocuklar"
+  },
+  {
+    "id" : "transport47",
+    "word" : "tehlike"
+  },
+  {
+    "id" : "transport48",
+    "word" : "kesişim"
+  },
+  {
+    "id" : "transport49",
+    "word" : "hemzemin geçit"
+  },
+  {
+    "id" : "transport50",
+    "word" : "kutup ayıları"
+  },
+  {
+    "id" : "transport51",
+    "word" : "döner kavşak"
+  },
+  {
+    "id" : "transport52",
+    "word" : "kaygan"
+  },
+  {
+    "id" : "transport53",
+    "word" : "kar"
+  },
+  {
+    "id" : "transport54",
+    "word" : "hız Limiti"
+  },
+  {
+    "id" : "transport55",
+    "word" : "dik tepe"
+  },
+  {
+    "id" : "transport56",
+    "word" : "trafik ışığı"
+  },
+  {
+    "id" : "transport57",
+    "word" : "dolambaçlı yol"
+  },
+  {
+    "id" : "transport58",
+    "word" : "işçiler"
+  },
+  {
+    "id" : "transport59",
+    "word" : "yaya geçidi"
+  },
+  {
+    "id" : "transport60",
+    "word" : "büfe"
+  },
+  {
+    "id" : "transport61",
+    "word" : "kolektör"
+  },
+  {
+    "id" : "transport62",
+    "word" : "taşıt"
+  },
+  {
+    "id" : "transport63",
+    "word" : "kondüktör"
+  },
+  {
+    "id" : "transport64",
+    "word" : "yük treni"
+  },
+  {
+    "id" : "transport65",
+    "word" : "tuvalet"
+  },
+  {
+    "id" : "transport66",
+    "word" : "lokomotif"
+  },
+  {
+    "id" : "transport67",
+    "word" : "platform"
+  },
+  {
+    "id" : "transport68",
+    "word" : "demiryolu köprüsü"
+  },
+  {
+    "id" : "transport69",
+    "word" : "yoğun saat"
+  },
+  {
+    "id" : "transport70",
+    "word" : "koltuklar"
+  },
+  {
+    "id" : "transport71",
+    "word" : "buharlı tren"
+  },
+  {
+    "id" : "transport72",
+    "word" : "el tutamağı"
+  },
+  {
+    "id" : "transport73",
+    "word" : "saat tarifesi"
+  },
+  {
+    "id" : "transport74",
+    "word" : "raylar"
+  },
+  {
+    "id" : "transport75",
+    "word" : "bisiklet"
+  },
+  {
+    "id" : "transport76",
+    "word" : "otobüs"
+  },
+  {
+    "id" : "transport77",
+    "word" : "araba"
+  },
+  {
+    "id" : "transport78",
+    "word" : "minivan"
+  },
+  {
+    "id" : "transport79",
+    "word" : "monorail"
+  },
+  {
+    "id" : "transport80",
+    "word" : "motorlu bisiklet"
+  },
+  {
+    "id" : "transport81",
+    "word" : "motorlu scooter"
+  },
+  {
+    "id" : "transport82",
+    "word" : "çekçek"
+  },
+  {
+    "id" : "transport83",
+    "word" : "patenler"
+  },
+  {
+    "id" : "transport84",
+    "word" : "mobilet"
+  },
+  {
+    "id" : "transport85",
+    "word" : "metro treni"
+  },
+  {
+    "id" : "transport86",
+    "word" : "taksi"
+  },
+  {
+    "id" : "transport87",
+    "word" : "tren"
+  },
+  {
+    "id" : "transport88",
+    "word" : "tramvay"
+  },
+  {
+    "id" : "transport89",
+    "word" : "kamyon"
+  }
+]

@@ -1,0 +1,542 @@
+[
+ {
+   "id": "clothing0",
+   "word": "board shorts",
+   "transcription": "ˈbɔrd ˈʃɔrts",
+   "imageName": "clothing-board shorts"
+ },
+ {
+   "id": "clothing1",
+   "word": "coat",
+   "transcription": "ˈkoʊt",
+   "imageName": "clothing-coat"
+ },
+ {
+   "id": "clothing2",
+   "word": "dress",
+   "transcription": "ˈdrɛs",
+   "imageName": "clothing-dress"
+ },
+ {
+   "id": "clothing3",
+   "word": "gloves",
+   "transcription": "ˈɡlʌvz",
+   "imageName": "clothing-gloves"
+ },
+ {
+   "id": "clothing4",
+   "word": "jacket",
+   "transcription": "ˈdʒækət",
+   "imageName": "clothing-jacket"
+ },
+ {
+   "id": "clothing5",
+   "word": "jeans",
+   "transcription": "ˈdʒiːnz",
+   "imageName": "clothing-jeans"
+ },
+ {
+   "id": "clothing6",
+   "word": "jumper",
+   "transcription": "ˈdʒʌmpɚ",
+   "imageName": "clothing-jumper"
+ },
+ {
+   "id": "clothing7",
+   "word": "pajamas",
+   "transcription": "pəˈdʒɑməz",
+   "imageName": "clothing-pajamas"
+ },
+ {
+   "id": "clothing8",
+   "word": "shirt",
+   "transcription": "ˈʃɝt",
+   "imageName": "clothing-shirt"
+ },
+ {
+   "id": "clothing9",
+   "word": "shoes",
+   "transcription": "ˈʃuːz",
+   "imageName": "clothing-shoes"
+ },
+ {
+   "id": "clothing10",
+   "word": "skirt",
+   "transcription": "ˈskɝt",
+   "imageName": "clothing-skirt"
+ },
+ {
+   "id": "clothing11",
+   "word": "slacks",
+   "transcription": "ˈslæks",
+   "imageName": "clothing-slacks"
+ },
+ {
+   "id": "clothing12",
+   "word": "sunglasses",
+   "transcription": "ˈsʌnˌɡlæsəz",
+   "imageName": "clothing-sunglasses"
+ },
+ {
+   "id": "clothing13",
+   "word": "t-shirt",
+   "transcription": "ˈtiːˌʃɝt",
+   "imageName": "clothing-t-shirt"
+ },
+ {
+   "id": "clothing14",
+   "word": "uniform",
+   "transcription": "ˈjuːnəˌfɔrm",
+   "imageName": "clothing-uniform"
+ },
+ {
+   "id": "clothing15",
+   "word": "backless",
+   "transcription": "ˈbækləs",
+   "imageName": "clothing-backless"
+ },
+ {
+   "id": "clothing16",
+   "word": "bikini",
+   "transcription": "bəˈkiːnɪ",
+   "imageName": "clothing-bikini"
+ },
+ {
+   "id": "clothing17",
+   "word": "black dress",
+   "transcription": "ˈblæk ˈdrɛs",
+   "imageName": "clothing-black dress"
+ },
+ {
+   "id": "clothing18",
+   "word": "evening gown",
+   "transcription": "ˈiːvnɪŋ ˈɡaʊn",
+   "imageName": "clothing-evening gown"
+ },
+ {
+   "id": "clothing19",
+   "word": "flamenco",
+   "transcription": "fləˈmɛŋkoʊ",
+   "imageName": "clothing-flamenco"
+ },
+ {
+   "id": "clothing20",
+   "word": "halter neck",
+   "transcription": "ˈhɔltɚ ˈnɛk",
+   "imageName": "clothing-halter neck"
+ },
+ {
+   "id": "clothing21",
+   "word": "one piece",
+   "transcription": "ˈwʌn ˈpiːs",
+   "imageName": "clothing-one piece"
+ },
+ {
+   "id": "clothing22",
+   "word": "sari",
+   "transcription": "ˈsɑrɪ",
+   "imageName": "clothing-sari"
+ },
+ {
+   "id": "clothing23",
+   "word": "strapless",
+   "transcription": "ˈstræpləs",
+   "imageName": "clothing-strapless"
+ },
+ {
+   "id": "clothing24",
+   "word": "stripes",
+   "transcription": "ˈstraɪps",
+   "imageName": "clothing-stripes"
+ },
+ {
+   "id": "clothing25",
+   "word": "suit",
+   "transcription": "ˈsuːt",
+   "imageName": "clothing-suit-1"
+ },
+ {
+   "id": "clothing26",
+   "word": "sundress",
+   "transcription": "ˈsʌnˌdrɛs",
+   "imageName": "clothing-sundress"
+ },
+ {
+   "id": "clothing27",
+   "word": "toga",
+   "transcription": "ˈtoʊɡə",
+   "imageName": "clothing-toga"
+ },
+ {
+   "id": "clothing28",
+   "word": "traditional",
+   "transcription": "trəˈdɪʃənl̩",
+   "imageName": "clothing-traditional"
+ },
+ {
+   "id": "clothing29",
+   "word": "wedding",
+   "transcription": "ˈwɛdɪŋ",
+   "imageName": "clothing-wedding"
+ },
+ {
+   "id": "clothing30",
+   "word": "after shave",
+   "transcription": "ˈæftɚ ˈʃeɪv",
+   "imageName": "clothing-after shave"
+ },
+ {
+   "id": "clothing31",
+   "word": "belt",
+   "transcription": "ˈbɛlt",
+   "imageName": "clothing-belt"
+ },
+ {
+   "id": "clothing32",
+   "word": "bow tie",
+   "transcription": "ˈbaʊ ˈtaɪ",
+   "imageName": "clothing-bow tie"
+ },
+ {
+   "id": "clothing33",
+   "word": "briefs",
+   "transcription": "ˈbriːfs",
+   "imageName": "clothing-briefs"
+ },
+ {
+   "id": "clothing34",
+   "word": "cuff link",
+   "transcription": "ˈkʌf ˈlɪŋk",
+   "imageName": "clothing-cuff link"
+ },
+ {
+   "id": "clothing35",
+   "word": "dress shirt",
+   "transcription": "ˈdrɛs ˈʃɝt",
+   "imageName": "clothing-dress shirt"
+ },
+ {
+   "id": "clothing36",
+   "word": "dress shoes",
+   "transcription": "ˈdrɛs ˈʃuːz",
+   "imageName": "clothing-dress shoes"
+ },
+ {
+   "id": "clothing37",
+   "word": "joggers",
+   "transcription": "ˈdʒɑɡɚz",
+   "imageName": "clothing-joggers"
+ },
+ {
+   "id": "clothing38",
+   "word": "neckties",
+   "transcription": "ˈnɛkˌtaɪz",
+   "imageName": "clothing-neckties"
+ },
+ {
+   "id": "clothing39",
+   "word": "shaver",
+   "transcription": "ˈʃeɪvɚ",
+   "imageName": "clothing-shaver"
+ },
+ {
+   "id": "clothing40",
+   "word": "shaving brush",
+   "transcription": "ˈʃeɪvɪŋ ˈbrʌʃ",
+   "imageName": "clothing-shaving brush"
+ },
+ {
+   "id": "clothing41",
+   "word": "slippers",
+   "transcription": "ˈslɪpɚz",
+   "imageName": "clothing-slippers"
+ },
+ {
+   "id": "clothing42",
+   "word": "socks",
+   "transcription": "ˈsɑks",
+   "imageName": "clothing-socks"
+ },
+ {
+   "id": "clothing43",
+   "word": "suit",
+   "transcription": "ˈsuːt",
+   "imageName": "clothing-suit-2"
+ },
+ {
+   "id": "clothing44",
+   "word": "trousers",
+   "transcription": "ˈtraʊzɚz",
+   "imageName": "clothing-trousers"
+ },
+ {
+   "id": "clothing45",
+   "word": "beanie",
+   "transcription": "ˈbiːnɪ",
+   "imageName": "clothing-beanie"
+ },
+ {
+   "id": "clothing46",
+   "word": "boots",
+   "transcription": "ˈbuːts",
+   "imageName": "clothing-boots"
+ },
+ {
+   "id": "clothing47",
+   "word": "helmet",
+   "transcription": "ˈhɛlmət",
+   "imageName": "clothing-helmet"
+ },
+ {
+   "id": "clothing48",
+   "word": "ice skates",
+   "transcription": "ˈaɪs ˈskeɪts",
+   "imageName": "clothing-ice skates"
+ },
+ {
+   "id": "clothing49",
+   "word": "jersey",
+   "transcription": "ˈdʒɝzɪ",
+   "imageName": "clothing-jersey"
+ },
+ {
+   "id": "clothing50",
+   "word": "leotards",
+   "transcription": "ˈliːəˌtɑrdz",
+   "imageName": "clothing-leotards"
+ },
+ {
+   "id": "clothing51",
+   "word": "polo shirt",
+   "transcription": "ˈpoʊloʊ ˈʃɝt",
+   "imageName": "clothing-polo shirt"
+ },
+ {
+   "id": "clothing52",
+   "word": "shorts",
+   "transcription": "ˈʃɔrts",
+   "imageName": "clothing-shorts"
+ },
+ {
+   "id": "clothing53",
+   "word": "ski suit",
+   "transcription": "ˈskiː ˈsuːt",
+   "imageName": "clothing-ski suit"
+ },
+ {
+   "id": "clothing54",
+   "word": "smart watch",
+   "transcription": "ˈsmɑrt ˈwɑtʃ",
+   "imageName": "clothing-smart watch"
+ },
+ {
+   "id": "clothing55",
+   "word": "sports bra",
+   "transcription": "ˈspɔrts ˈbrɑ",
+   "imageName": "clothing-sports bra"
+ },
+ {
+   "id": "clothing56",
+   "word": "swimmers",
+   "transcription": "ˈswɪmɚz",
+   "imageName": "clothing-swimmers"
+ },
+ {
+   "id": "clothing57",
+   "word": "tracksuit",
+   "transcription": "ˈtrækˌsuːt",
+   "imageName": "clothing-tracksuit"
+ },
+ {
+   "id": "clothing58",
+   "word": "wetsuit",
+   "transcription": "ˈwɛt ˈsuːt",
+   "imageName": "clothing-wetsuit"
+ },
+ {
+   "id": "clothing59",
+   "word": "wrist band",
+   "transcription": "ˈrɪst ˈbænd",
+   "imageName": "clothing-wrist band"
+ },
+ {
+   "id": "clothing60",
+   "word": "blouse",
+   "transcription": "ˈblaʊs",
+   "imageName": "clothing-blouse"
+ },
+ {
+   "id": "clothing61",
+   "word": "bra",
+   "transcription": "ˈbrɑ",
+   "imageName": "clothing-bra"
+ },
+ {
+   "id": "clothing62",
+   "word": "cardigan",
+   "transcription": "ˈkɑrdɪɡən",
+   "imageName": "clothing-cardigan"
+ },
+ {
+   "id": "clothing63",
+   "word": "choker",
+   "transcription": "ˈtʃoʊkɚ",
+   "imageName": "clothing-choker"
+ },
+ {
+   "id": "clothing64",
+   "word": "fashion belt",
+   "transcription": "ˈfæʃən ˈbɛlt",
+   "imageName": "clothing-fashion belt"
+ },
+ {
+   "id": "clothing65",
+   "word": "hat",
+   "transcription": "ˈhæt",
+   "imageName": "clothing-hat"
+ },
+ {
+   "id": "clothing66",
+   "word": "high heels",
+   "transcription": "ˈhaɪ ˈhiːlz",
+   "imageName": "clothing-high heels"
+ },
+ {
+   "id": "clothing67",
+   "word": "jumpsuit",
+   "transcription": "ˈdʒʌmpˌsuːt",
+   "imageName": "clothing-jumpsuit"
+ },
+ {
+   "id": "clothing68",
+   "word": "kimono",
+   "transcription": "kəˈmoʊnoʊ",
+   "imageName": "clothing-kimono"
+ },
+ {
+   "id": "clothing69",
+   "word": "knickers",
+   "transcription": "ˈnɪkɚz",
+   "imageName": "clothing-knickers"
+ },
+ {
+   "id": "clothing70",
+   "word": "sandals",
+   "transcription": "ˈsændl̩z",
+   "imageName": "clothing-sandals"
+ },
+ {
+   "id": "clothing71",
+   "word": "shawl",
+   "transcription": "ˈʃɔl",
+   "imageName": "clothing-shawl"
+ },
+ {
+   "id": "clothing72",
+   "word": "silk scarf",
+   "transcription": "ˈsɪlk ˈskɑrf",
+   "imageName": "clothing-silk scarf"
+ },
+ {
+   "id": "clothing73",
+   "word": "tights",
+   "transcription": "ˈtaɪts",
+   "imageName": "clothing-tights"
+ },
+ {
+   "id": "clothing74",
+   "word": "zip",
+   "transcription": "ˈzɪp",
+   "imageName": "clothing-zip"
+ },
+ {
+   "id": "clothing75",
+   "word": "bracelet",
+   "transcription": "ˈbreɪslət",
+   "imageName": "clothing-bracelet"
+ },
+ {
+   "id": "clothing76",
+   "word": "dress ring",
+   "transcription": "ˈdrɛs ˈrɪŋ",
+   "imageName": "clothing-dress ring"
+ },
+ {
+   "id": "clothing77",
+   "word": "earrings",
+   "transcription": "ˈɪrɪŋz",
+   "imageName": "clothing-earrings"
+ },
+ {
+   "id": "clothing78",
+   "word": "handbag",
+   "transcription": "ˈhændˌbæɡ",
+   "imageName": "clothing-handbag"
+ },
+ {
+   "id": "clothing79",
+   "word": "key ring",
+   "transcription": "ˈkiː ˈrɪŋ",
+   "imageName": "clothing-key ring"
+ },
+ {
+   "id": "clothing80",
+   "word": "lipstick",
+   "transcription": "ˈlɪpˌstɪk",
+   "imageName": "clothing-lipstick"
+ },
+ {
+   "id": "clothing81",
+   "word": "mascara",
+   "transcription": "mæˈskɛrə",
+   "imageName": "clothing-mascara"
+ },
+ {
+   "id": "clothing82",
+   "word": "nail file",
+   "transcription": "ˈneɪl ˈfaɪəl",
+   "imageName": "clothing-nail file"
+ },
+ {
+   "id": "clothing83",
+   "word": "necklace",
+   "transcription": "ˈnɛkləs",
+   "imageName": "clothing-necklace"
+ },
+ {
+   "id": "clothing84",
+   "word": "perfume",
+   "transcription": "ˈpɝˌfjuːm",
+   "imageName": "clothing-perfume"
+ },
+ {
+   "id": "clothing85",
+   "word": "purse",
+   "transcription": "ˈpɝs",
+   "imageName": "clothing-purse"
+ },
+ {
+   "id": "clothing86",
+   "word": "smartphone",
+   "transcription": "ˈsmɑrt ˈfoʊn",
+   "imageName": "clothing-smartphone"
+ },
+ {
+   "id": "clothing87",
+   "word": "tissues",
+   "transcription": "ˈtɪʃuːz",
+   "imageName": "clothing-tissues"
+ },
+ {
+   "id": "clothing88",
+   "word": "wallet",
+   "transcription": "ˈwɑlət",
+   "imageName": "clothing-wallet"
+ },
+ {
+   "id": "clothing89",
+   "word": "watch",
+   "transcription": "ˈwɑtʃ",
+   "imageName": "clothing-watch"
+ }
+]

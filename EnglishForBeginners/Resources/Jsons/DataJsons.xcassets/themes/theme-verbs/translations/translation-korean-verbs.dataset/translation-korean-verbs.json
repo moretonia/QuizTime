@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "균형을 유지하다"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "공을 치다"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "확인하다"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "울다"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "춤을 추다"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "떨어지다"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "점프하다"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "쏘다"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "달리다"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "노래하다"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "앉다"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "자다"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "미소 짓다"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "서다"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "걷다"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "양치질을 하다"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "장작을 패다"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "청소하다"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "요리하다"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "그리다"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "마시다"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "말리다"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "먹다"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "운동하다"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "반짝거리다"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "읽다"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "면도하다"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "깨다"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "씻다"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "쓰다"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "운전하다"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "강판에 갈다"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "돕다"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "명중하다"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "우유를 짜다"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "열다"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "발송하다"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "휴식을 취하다"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "밀다"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "줄넘기하다"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "이야기하다"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "쥐어 짜다"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "수영하다"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "그네를 타다"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "문자를 보내다"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "박수를 치다"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "굽다"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "계산하다"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "뒤쫓다"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "장식하다"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "들어가다"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "망치로 치다"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "조깅하다"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "무릎을 꿇다"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "행진하다"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "놀다"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "후진하다"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "문지르다"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "담배를 피우다"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "흔들다"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "언쟁을 하다"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "체포하다"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "야영하다"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "나르다"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "액체가 뚝뚝 흐르다"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "북을 치다"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "물 위에 뜨다"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "인사하다"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "뜨개질을 하다"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "가리키다"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "펌프질을 하다"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "바느질하다"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "미끄러지다"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "눈이 내리다"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "비틀다"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "물다"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "축복을 빌다"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "공을 굴리다"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "불에 타다"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "응원하다"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "빗다"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "엎드려 기다"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "촬영하다"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "맴돌다"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "녹다"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "섞다"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "노를 젓다"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "새가 부리로 쪼다"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "윤을 내다"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "스트레칭을 하다"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "산성비"
+  },
+  {
+    "id" : "nature1",
+    "word" : "개벌"
+  },
+  {
+    "id" : "nature2",
+    "word" : "탄광"
+  },
+  {
+    "id" : "nature3",
+    "word" : "죽은 산호"
+  },
+  {
+    "id" : "nature4",
+    "word" : "사막"
+  },
+  {
+    "id" : "nature5",
+    "word" : "부식"
+  },
+  {
+    "id" : "nature6",
+    "word" : "배기가스"
+  },
+  {
+    "id" : "nature7",
+    "word" : "화석 연료"
+  },
+  {
+    "id" : "nature8",
+    "word" : "쓰레기"
+  },
+  {
+    "id" : "nature9",
+    "word" : "석유 유출"
+  },
+  {
+    "id" : "nature10",
+    "word" : "유정"
+  },
+  {
+    "id" : "nature11",
+    "word" : "오염"
+  },
+  {
+    "id" : "nature12",
+    "word" : "스모그"
+  },
+  {
+    "id" : "nature13",
+    "word" : "태양 전지판"
+  },
+  {
+    "id" : "nature14",
+    "word" : "풍력 발전 지역"
+  },
+  {
+    "id" : "nature15",
+    "word" : "곳간"
+  },
+  {
+    "id" : "nature16",
+    "word" : "닭장"
+  },
+  {
+    "id" : "nature17",
+    "word" : "농부"
+  },
+  {
+    "id" : "nature18",
+    "word" : "울타리"
+  },
+  {
+    "id" : "nature19",
+    "word" : "문"
+  },
+  {
+    "id" : "nature20",
+    "word" : "수확용 기계"
+  },
+  {
+    "id" : "nature21",
+    "word" : "관개"
+  },
+  {
+    "id" : "nature22",
+    "word" : "쟁기"
+  },
+  {
+    "id" : "nature23",
+    "word" : "연못"
+  },
+  {
+    "id" : "nature24",
+    "word" : "허수아비"
+  },
+  {
+    "id" : "nature25",
+    "word" : "마구간"
+  },
+  {
+    "id" : "nature26",
+    "word" : "트랙터"
+  },
+  {
+    "id" : "nature27",
+    "word" : "마을"
+  },
+  {
+    "id" : "nature28",
+    "word" : "우물"
+  },
+  {
+    "id" : "nature29",
+    "word" : "풍차"
+  },
+  {
+    "id" : "nature30",
+    "word" : "과꽃"
+  },
+  {
+    "id" : "nature31",
+    "word" : "카네이션"
+  },
+  {
+    "id" : "nature32",
+    "word" : "수선화"
+  },
+  {
+    "id" : "nature33",
+    "word" : "달리아"
+  },
+  {
+    "id" : "nature34",
+    "word" : "데이지"
+  },
+  {
+    "id" : "nature35",
+    "word" : "푸루메리아"
+  },
+  {
+    "id" : "nature36",
+    "word" : "프리지아"
+  },
+  {
+    "id" : "nature37",
+    "word" : "제라늄"
+  },
+  {
+    "id" : "nature38",
+    "word" : "거베라"
+  },
+  {
+    "id" : "nature39",
+    "word" : "히비스커스"
+  },
+  {
+    "id" : "nature40",
+    "word" : "백합"
+  },
+  {
+    "id" : "nature41",
+    "word" : "목련"
+  },
+  {
+    "id" : "nature42",
+    "word" : "난초"
+  },
+  {
+    "id" : "nature43",
+    "word" : "장미"
+  },
+  {
+    "id" : "nature44",
+    "word" : "튤립"
+  },
+  {
+    "id" : "nature45",
+    "word" : "개미"
+  },
+  {
+    "id" : "nature46",
+    "word" : "벌"
+  },
+  {
+    "id" : "nature47",
+    "word" : "딱정벌레"
+  },
+  {
+    "id" : "nature48",
+    "word" : "나비"
+  },
+  {
+    "id" : "nature49",
+    "word" : "바퀴벌레"
+  },
+  {
+    "id" : "nature50",
+    "word" : "귀뚜라미"
+  },
+  {
+    "id" : "nature51",
+    "word" : "잠자리"
+  },
+  {
+    "id" : "nature52",
+    "word" : "파리"
+  },
+  {
+    "id" : "nature53",
+    "word" : "메뚜기"
+  },
+  {
+    "id" : "nature54",
+    "word" : "무당벌레"
+  },
+  {
+    "id" : "nature55",
+    "word" : "사마귀"
+  },
+  {
+    "id" : "nature56",
+    "word" : "모기"
+  },
+  {
+    "id" : "nature57",
+    "word" : "나방"
+  },
+  {
+    "id" : "nature58",
+    "word" : "흰개미"
+  },
+  {
+    "id" : "nature59",
+    "word" : "말벌"
+  },
+  {
+    "id" : "nature60",
+    "word" : "양치 식물"
+  },
+  {
+    "id" : "nature61",
+    "word" : "정원"
+  },
+  {
+    "id" : "nature62",
+    "word" : "풀"
+  },
+  {
+    "id" : "nature63",
+    "word" : "잔디"
+  },
+  {
+    "id" : "nature64",
+    "word" : "잎"
+  },
+  {
+    "id" : "nature65",
+    "word" : "야자수"
+  },
+  {
+    "id" : "nature66",
+    "word" : "꽃잎"
+  },
+  {
+    "id" : "nature67",
+    "word" : "소나무림"
+  },
+  {
+    "id" : "nature68",
+    "word" : "우림"
+  },
+  {
+    "id" : "nature69",
+    "word" : "뿌리"
+  },
+  {
+    "id" : "nature70",
+    "word" : "묘목"
+  },
+  {
+    "id" : "nature71",
+    "word" : "씨앗"
+  },
+  {
+    "id" : "nature72",
+    "word" : "가시"
+  },
+  {
+    "id" : "nature73",
+    "word" : "나무"
+  },
+  {
+    "id" : "nature74",
+    "word" : "나무 기둥"
+  },
+  {
+    "id" : "nature75",
+    "word" : "사이클론"
+  },
+  {
+    "id" : "nature76",
+    "word" : "가뭄"
+  },
+  {
+    "id" : "nature77",
+    "word" : "홍수"
+  },
+  {
+    "id" : "nature78",
+    "word" : "안개"
+  },
+  {
+    "id" : "nature79",
+    "word" : "일기 예보"
+  },
+  {
+    "id" : "nature80",
+    "word" : "열파"
+  },
+  {
+    "id" : "nature81",
+    "word" : "얼음"
+  },
+  {
+    "id" : "nature82",
+    "word" : "번개"
+  },
+  {
+    "id" : "nature83",
+    "word" : "웅덩이"
+  },
+  {
+    "id" : "nature84",
+    "word" : "비"
+  },
+  {
+    "id" : "nature85",
+    "word" : "우비"
+  },
+  {
+    "id" : "nature86",
+    "word" : "모래 폭풍"
+  },
+  {
+    "id" : "nature87",
+    "word" : "눈"
+  },
+  {
+    "id" : "nature88",
+    "word" : "토네이도"
+  },
+  {
+    "id" : "nature89",
+    "word" : "우산"
+  }
+]

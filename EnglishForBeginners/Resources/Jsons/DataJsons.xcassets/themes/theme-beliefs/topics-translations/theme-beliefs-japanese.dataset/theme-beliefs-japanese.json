@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Ceremonies",
+    "word" : "セレモニー"
+  },
+  {
+    "id" : "Christmas",
+    "word" : "クリスマス"
+  },
+  {
+    "id" : "Church",
+    "word" : "教会"
+  },
+  {
+    "id" : "Good Luck",
+    "word" : "幸運"
+  },
+  {
+    "id" : "Religion",
+    "word" : "宗教"
+  },
+  {
+    "id" : "Zodiac",
+    "word" : "黄道帯"
+  }
+]

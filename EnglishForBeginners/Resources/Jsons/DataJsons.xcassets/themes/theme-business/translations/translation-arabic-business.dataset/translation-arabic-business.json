@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "ميزة"
+  },
+  {
+    "id" : "business1",
+    "word" : "يعلن"
+  },
+  {
+    "id" : "business2",
+    "word" : "فاتورة كهرباء"
+  },
+  {
+    "id" : "business3",
+    "word" : "ميزانية"
+  },
+  {
+    "id" : "business4",
+    "word" : "مقارنة"
+  },
+  {
+    "id" : "business5",
+    "word" : "منافس"
+  },
+  {
+    "id" : "business6",
+    "word" : "تأكيد"
+  },
+  {
+    "id" : "business7",
+    "word" : "عميل"
+  },
+  {
+    "id" : "business8",
+    "word" : "الموعد النهائي"
+  },
+  {
+    "id" : "business9",
+    "word" : "دين واجب السداد"
+  },
+  {
+    "id" : "business10",
+    "word" : "قرار"
+  },
+  {
+    "id" : "business11",
+    "word" : "توصيل"
+  },
+  {
+    "id" : "business12",
+    "word" : "السعر"
+  },
+  {
+    "id" : "business13",
+    "word" : "جدول"
+  },
+  {
+    "id" : "business14",
+    "word" : "عمل جماعي"
+  },
+  {
+    "id" : "business15",
+    "word" : "تقدير قيمة"
+  },
+  {
+    "id" : "business16",
+    "word" : "عرض"
+  },
+  {
+    "id" : "business17",
+    "word" : "توزيع"
+  },
+  {
+    "id" : "business18",
+    "word" : "موظفين"
+  },
+  {
+    "id" : "business19",
+    "word" : "صاحب العمل"
+  },
+  {
+    "id" : "business20",
+    "word" : "مصنع"
+  },
+  {
+    "id" : "business21",
+    "word" : "نمو"
+  },
+  {
+    "id" : "business22",
+    "word" : "مدير"
+  },
+  {
+    "id" : "business23",
+    "word" : "تعليمات"
+  },
+  {
+    "id" : "business24",
+    "word" : "مقابلة"
+  },
+  {
+    "id" : "business25",
+    "word" : "فاتورة اصلاحات"
+  },
+  {
+    "id" : "business26",
+    "word" : "خسارة"
+  },
+  {
+    "id" : "business27",
+    "word" : "مجموعة آلات"
+  },
+  {
+    "id" : "business28",
+    "word" : "بضائع"
+  },
+  {
+    "id" : "business29",
+    "word" : "مخازن"
+  },
+  {
+    "id" : "business30",
+    "word" : "إلغاء"
+  },
+  {
+    "id" : "business31",
+    "word" : "تبادل"
+  },
+  {
+    "id" : "business32",
+    "word" : "تعليقات"
+  },
+  {
+    "id" : "business33",
+    "word" : "تركيب"
+  },
+  {
+    "id" : "business34",
+    "word" : "طلب شراء"
+  },
+  {
+    "id" : "business35",
+    "word" : "دفع"
+  },
+  {
+    "id" : "business36",
+    "word" : "غرامة"
+  },
+  {
+    "id" : "business37",
+    "word" : "منتجات"
+  },
+  {
+    "id" : "business38",
+    "word" : "ترقية وظيفية"
+  },
+  {
+    "id" : "business39",
+    "word" : "رفض"
+  },
+  {
+    "id" : "business40",
+    "word" : "إصلاحات"
+  },
+  {
+    "id" : "business41",
+    "word" : "إبلاغ عن"
+  },
+  {
+    "id" : "business42",
+    "word" : "راتب"
+  },
+  {
+    "id" : "business43",
+    "word" : "شحنة"
+  },
+  {
+    "id" : "business44",
+    "word" : "هدف"
+  },
+  {
+    "id" : "business45",
+    "word" : "تحف"
+  },
+  {
+    "id" : "business46",
+    "word" : "آثار"
+  },
+  {
+    "id" : "business47",
+    "word" : "كتب هزلية"
+  },
+  {
+    "id" : "business48",
+    "word" : "الماس"
+  },
+  {
+    "id" : "business49",
+    "word" : "تماثيل صغيرة"
+  },
+  {
+    "id" : "business50",
+    "word" : "حفريات"
+  },
+  {
+    "id" : "business51",
+    "word" : "عملات ذهبية"
+  },
+  {
+    "id" : "business52",
+    "word" : "نماذج سيارات"
+  },
+  {
+    "id" : "business53",
+    "word" : "ملصقات"
+  },
+  {
+    "id" : "business54",
+    "word" : "ياقوت"
+  },
+  {
+    "id" : "business55",
+    "word" : "ياقوت أزرق"
+  },
+  {
+    "id" : "business56",
+    "word" : "فضيات"
+  },
+  {
+    "id" : "business57",
+    "word" : "طوابع بريدية"
+  },
+  {
+    "id" : "business58",
+    "word" : "سيارات قديمة"
+  },
+  {
+    "id" : "business59",
+    "word" : "أعمال فنية"
+  },
+  {
+    "id" : "business60",
+    "word" : "نقدية"
+  },
+  {
+    "id" : "business61",
+    "word" : "صراف"
+  },
+  {
+    "id" : "business62",
+    "word" : "بطاقة الائتمان"
+  },
+  {
+    "id" : "business63",
+    "word" : "دليل"
+  },
+  {
+    "id" : "business64",
+    "word" : "غرفة قياس"
+  },
+  {
+    "id" : "business65",
+    "word" : "لوحة المفاتيح"
+  },
+  {
+    "id" : "business66",
+    "word" : "يتطلع لشراء"
+  },
+  {
+    "id" : "business67",
+    "word" : "سد دينه"
+  },
+  {
+    "id" : "business68",
+    "word" : "بطاقة السعر"
+  },
+  {
+    "id" : "business69",
+    "word" : "تخفيض"
+  },
+  {
+    "id" : "business70",
+    "word" : "حقيبة التسوق"
+  },
+  {
+    "id" : "business71",
+    "word" : "التسوق"
+  },
+  {
+    "id" : "business72",
+    "word" : "المعاملات"
+  },
+  {
+    "id" : "business73",
+    "word" : "يقيس"
+  },
+  {
+    "id" : "business74",
+    "word" : "سحب"
+  },
+  {
+    "id" : "business75",
+    "word" : "مخبز"
+  },
+  {
+    "id" : "business76",
+    "word" : "مكتبة"
+  },
+  {
+    "id" : "business77",
+    "word" : "جزارة"
+  },
+  {
+    "id" : "business78",
+    "word" : "متجر كعك"
+  },
+  {
+    "id" : "business79",
+    "word" : "صيدلية"
+  },
+  {
+    "id" : "business80",
+    "word" : "متجر ملابس"
+  },
+  {
+    "id" : "business81",
+    "word" : "محل أسماك وبطاطس"
+  },
+  {
+    "id" : "business82",
+    "word" : "محل زهور"
+  },
+  {
+    "id" : "business83",
+    "word" : "متجر فاكهة"
+  },
+  {
+    "id" : "business84",
+    "word" : "محل مجوهرات"
+  },
+  {
+    "id" : "business85",
+    "word" : "سوق"
+  },
+  {
+    "id" : "business86",
+    "word" : "متجر على الانترنت"
+  },
+  {
+    "id" : "business87",
+    "word" : "متجر أحذية"
+  },
+  {
+    "id" : "business88",
+    "word" : "متجر لعب"
+  },
+  {
+    "id" : "business89",
+    "word" : "مكتب سفريات"
+  }
+]

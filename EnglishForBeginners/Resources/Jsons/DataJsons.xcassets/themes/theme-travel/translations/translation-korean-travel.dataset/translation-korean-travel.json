@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "travel0",
+    "word" : "공항"
+  },
+  {
+    "id" : "travel1",
+    "word" : "통로"
+  },
+  {
+    "id" : "travel2",
+    "word" : "수하물"
+  },
+  {
+    "id" : "travel3",
+    "word" : "세관"
+  },
+  {
+    "id" : "travel4",
+    "word" : "에스컬레이터"
+  },
+  {
+    "id" : "travel5",
+    "word" : "승무원"
+  },
+  {
+    "id" : "travel6",
+    "word" : "기내용 수하물"
+  },
+  {
+    "id" : "travel7",
+    "word" : "기내식"
+  },
+  {
+    "id" : "travel8",
+    "word" : "여권"
+  },
+  {
+    "id" : "travel9",
+    "word" : "조종사"
+  },
+  {
+    "id" : "travel10",
+    "word" : "비행기"
+  },
+  {
+    "id" : "travel11",
+    "word" : "활주로"
+  },
+  {
+    "id" : "travel12",
+    "word" : "평면 에스컬레이터"
+  },
+  {
+    "id" : "travel13",
+    "word" : "좌석 트레이"
+  },
+  {
+    "id" : "travel14",
+    "word" : "창문"
+  },
+  {
+    "id" : "travel15",
+    "word" : "바트"
+  },
+  {
+    "id" : "travel16",
+    "word" : "달러"
+  },
+  {
+    "id" : "travel17",
+    "word" : "유로"
+  },
+  {
+    "id" : "travel18",
+    "word" : "페소"
+  },
+  {
+    "id" : "travel19",
+    "word" : "파운드"
+  },
+  {
+    "id" : "travel20",
+    "word" : "란드"
+  },
+  {
+    "id" : "travel21",
+    "word" : "레알"
+  },
+  {
+    "id" : "travel22",
+    "word" : "루블"
+  },
+  {
+    "id" : "travel23",
+    "word" : "루피"
+  },
+  {
+    "id" : "travel24",
+    "word" : "루피아"
+  },
+  {
+    "id" : "travel25",
+    "word" : "셰켈"
+  },
+  {
+    "id" : "travel26",
+    "word" : "스위스 프랑"
+  },
+  {
+    "id" : "travel27",
+    "word" : "원"
+  },
+  {
+    "id" : "travel28",
+    "word" : "엔"
+  },
+  {
+    "id" : "travel29",
+    "word" : "위안"
+  },
+  {
+    "id" : "travel30",
+    "word" : "암스테르담"
+  },
+  {
+    "id" : "travel31",
+    "word" : "아테네"
+  },
+  {
+    "id" : "travel32",
+    "word" : "카이로"
+  },
+  {
+    "id" : "travel33",
+    "word" : "에든버러"
+  },
+  {
+    "id" : "travel34",
+    "word" : "홍콩"
+  },
+  {
+    "id" : "travel35",
+    "word" : "이스탄불"
+  },
+  {
+    "id" : "travel36",
+    "word" : "예루살렘"
+  },
+  {
+    "id" : "travel37",
+    "word" : "런던"
+  },
+  {
+    "id" : "travel38",
+    "word" : "모스크바"
+  },
+  {
+    "id" : "travel39",
+    "word" : "뉴욕"
+  },
+  {
+    "id" : "travel40",
+    "word" : "파리"
+  },
+  {
+    "id" : "travel41",
+    "word" : "리우데자이네루"
+  },
+  {
+    "id" : "travel42",
+    "word" : "로마"
+  },
+  {
+    "id" : "travel43",
+    "word" : "샌프란시스코"
+  },
+  {
+    "id" : "travel44",
+    "word" : "시드니"
+  },
+  {
+    "id" : "travel45",
+    "word" : "아그라"
+  },
+  {
+    "id" : "travel46",
+    "word" : "베이징"
+  },
+  {
+    "id" : "travel47",
+    "word" : "베를린"
+  },
+  {
+    "id" : "travel48",
+    "word" : "부다페스트"
+  },
+  {
+    "id" : "travel49",
+    "word" : "케이프타운"
+  },
+  {
+    "id" : "travel50",
+    "word" : "코펜하겐"
+  },
+  {
+    "id" : "travel51",
+    "word" : "두바이"
+  },
+  {
+    "id" : "travel52",
+    "word" : "할리우드"
+  },
+  {
+    "id" : "travel53",
+    "word" : "쿠알라 룸푸르"
+  },
+  {
+    "id" : "travel54",
+    "word" : "메카"
+  },
+  {
+    "id" : "travel55",
+    "word" : "싱가포르"
+  },
+  {
+    "id" : "travel56",
+    "word" : "상트페테르부르크"
+  },
+  {
+    "id" : "travel57",
+    "word" : "도쿄"
+  },
+  {
+    "id" : "travel58",
+    "word" : "베니스"
+  },
+  {
+    "id" : "travel59",
+    "word" : "양곤"
+  },
+  {
+    "id" : "travel60",
+    "word" : "벨보이"
+  },
+  {
+    "id" : "travel61",
+    "word" : "2단 침대"
+  },
+  {
+    "id" : "travel62",
+    "word" : "엘리베이터"
+  },
+  {
+    "id" : "travel63",
+    "word" : "욕실이 딸린 객실"
+  },
+  {
+    "id" : "travel64",
+    "word" : "로비"
+  },
+  {
+    "id" : "travel65",
+    "word" : "자쿠지"
+  },
+  {
+    "id" : "travel66",
+    "word" : "수영장"
+  },
+  {
+    "id" : "travel67",
+    "word" : "접수처"
+  },
+  {
+    "id" : "travel68",
+    "word" : "객실 열쇠"
+  },
+  {
+    "id" : "travel69",
+    "word" : "객실 호수"
+  },
+  {
+    "id" : "travel70",
+    "word" : "룸 서비스"
+  },
+  {
+    "id" : "travel71",
+    "word" : "금고"
+  },
+  {
+    "id" : "travel72",
+    "word" : "여행 가방"
+  },
+  {
+    "id" : "travel73",
+    "word" : "발렛"
+  },
+  {
+    "id" : "travel74",
+    "word" : "전망"
+  },
+  {
+    "id" : "travel75",
+    "word" : "앙코르 와트"
+  },
+  {
+    "id" : "travel76",
+    "word" : "빅 벤"
+  },
+  {
+    "id" : "travel77",
+    "word" : "블루 모스크"
+  },
+  {
+    "id" : "travel78",
+    "word" : "콜로세움"
+  },
+  {
+    "id" : "travel79",
+    "word" : "에펠탑"
+  },
+  {
+    "id" : "travel80",
+    "word" : "그랜드 캐년"
+  },
+  {
+    "id" : "travel81",
+    "word" : "만리장성"
+  },
+  {
+    "id" : "travel82",
+    "word" : "작은 인어상"
+  },
+  {
+    "id" : "travel83",
+    "word" : "런던 브릿지"
+  },
+  {
+    "id" : "travel84",
+    "word" : "루브르"
+  },
+  {
+    "id" : "travel85",
+    "word" : "마추픽추"
+  },
+  {
+    "id" : "travel86",
+    "word" : "페트라"
+  },
+  {
+    "id" : "travel87",
+    "word" : "피라미드"
+  },
+  {
+    "id" : "travel88",
+    "word" : "스핑크스"
+  },
+  {
+    "id" : "travel89",
+    "word" : "타임 스퀘어"
+  }
+]

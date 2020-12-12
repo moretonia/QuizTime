@@ -1,0 +1,133 @@
+{
+   "id": 1,
+   "name": "Animals",
+   "imageName": "animals",
+   "topics": [
+      {
+         "name": "African Animals",
+         "imageName": "animals-topic-1",
+         "vocabularyItemIds": [
+            "animals0",
+            "animals1",
+            "animals2",
+            "animals3",
+            "animals4",
+            "animals5",
+            "animals6",
+            "animals7",
+            "animals8",
+            "animals9",
+            "animals10",
+            "animals11",
+            "animals12",
+            "animals13",
+            "animals14"
+         ]
+      },
+      {
+         "name": "Dog Breeds",
+         "imageName": "animals-topic-2",
+         "vocabularyItemIds": [
+            "animals15",
+            "animals16",
+            "animals17",
+            "animals18",
+            "animals19",
+            "animals20",
+            "animals21",
+            "animals22",
+            "animals23",
+            "animals24",
+            "animals25",
+            "animals26",
+            "animals27",
+            "animals28",
+            "animals29"
+         ]
+      },
+      {
+         "name": "Farm Animals",
+         "imageName": "animals-topic-3",
+         "vocabularyItemIds": [
+            "animals30",
+            "animals31",
+            "animals32",
+            "animals33",
+            "animals34",
+            "animals35",
+            "animals36",
+            "animals37",
+            "animals38",
+            "animals39",
+            "animals40",
+            "animals41",
+            "animals42",
+            "animals43",
+            "animals44"
+         ]
+      },
+      {
+         "name": "Fish",
+         "imageName": "animals-topic-4",
+         "vocabularyItemIds": [
+            "animals45",
+            "animals46",
+            "animals47",
+            "animals48",
+            "animals49",
+            "animals50",
+            "animals51",
+            "animals52",
+            "animals53",
+            "animals54",
+            "animals55",
+            "animals56",
+            "animals57",
+            "animals58",
+            "animals59"
+         ]
+      },
+      {
+         "name": "Marine Animals",
+         "imageName": "animals-topic-5",
+         "vocabularyItemIds": [
+            "animals60",
+            "animals61",
+            "animals62",
+            "animals63",
+            "animals64",
+            "animals65",
+            "animals66",
+            "animals67",
+            "animals68",
+            "animals69",
+            "animals70",
+            "animals71",
+            "animals72",
+            "animals73",
+            "animals74"
+         ]
+      },
+      {
+         "name": "Pets",
+         "imageName": "animals-topic-6",
+         "vocabularyItemIds": [
+            "animals75",
+            "animals76",
+            "animals77",
+            "animals78",
+            "animals79",
+            "animals80",
+            "animals81",
+            "animals82",
+            "animals83",
+            "animals84",
+            "animals85",
+            "animals86",
+            "animals87",
+            "animals88",
+            "animals89"
+         ]
+      }
+   ]
+}

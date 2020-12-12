@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "home0",
+    "word" : "Cadă"
+  },
+  {
+    "id" : "home1",
+    "word" : "Piaptăn"
+  },
+  {
+    "id" : "home2",
+    "word" : "Robinet"
+  },
+  {
+    "id" : "home3",
+    "word" : "Preș"
+  },
+  {
+    "id" : "home4",
+    "word" : "Oglindă"
+  },
+  {
+    "id" : "home5",
+    "word" : "Dop"
+  },
+  {
+    "id" : "home6",
+    "word" : "Șampon"
+  },
+  {
+    "id" : "home7",
+    "word" : "Gel de duș"
+  },
+  {
+    "id" : "home8",
+    "word" : "Duș"
+  },
+  {
+    "id" : "home9",
+    "word" : "Săpun"
+  },
+  {
+    "id" : "home10",
+    "word" : "Periuță de dinți"
+  },
+  {
+    "id" : "home11",
+    "word" : "Pastă de dinți"
+  },
+  {
+    "id" : "home12",
+    "word" : "Suport de prosop"
+  },
+  {
+    "id" : "home13",
+    "word" : "Prosop"
+  },
+  {
+    "id" : "home14",
+    "word" : "Chiuvetă"
+  },
+  {
+    "id" : "home15",
+    "word" : "Castron"
+  },
+  {
+    "id" : "home16",
+    "word" : "cuțit pentru unt"
+  },
+  {
+    "id" : "home17",
+    "word" : "betisoarele"
+  },
+  {
+    "id" : "home18",
+    "word" : "Ceasca"
+  },
+  {
+    "id" : "home19",
+    "word" : "vază"
+  },
+  {
+    "id" : "home20",
+    "word" : "șervet"
+  },
+  {
+    "id" : "home21",
+    "word" : "Furculita"
+  },
+  {
+    "id" : "home22",
+    "word" : "pahar"
+  },
+  {
+    "id" : "home23",
+    "word" : "cană"
+  },
+  {
+    "id" : "home24",
+    "word" : "cuţit"
+  },
+  {
+    "id" : "home25",
+    "word" : "halbă"
+  },
+  {
+    "id" : "home26",
+    "word" : "farfurie"
+  },
+  {
+    "id" : "home27",
+    "word" : "solniță"
+  },
+  {
+    "id" : "home28",
+    "word" : "farfurioară"
+  },
+  {
+    "id" : "home29",
+    "word" : "linguriţă"
+  },
+  {
+    "id" : "home30",
+    "word" : "fotoliu"
+  },
+  {
+    "id" : "home31",
+    "word" : "pat"
+  },
+  {
+    "id" : "home32",
+    "word" : "bibliotecă"
+  },
+  {
+    "id" : "home33",
+    "word" : "scaun"
+  },
+  {
+    "id" : "home34",
+    "word" : "ceas"
+  },
+  {
+    "id" : "home35",
+    "word" : "pătuţ"
+  },
+  {
+    "id" : "home36",
+    "word" : "perdele"
+  },
+  {
+    "id" : "home37",
+    "word" : "pernă"
+  },
+  {
+    "id" : "home38",
+    "word" : "șemineu"
+  },
+  {
+    "id" : "home39",
+    "word" : "abajur"
+  },
+  {
+    "id" : "home40",
+    "word" : "covor"
+  },
+  {
+    "id" : "home41",
+    "word" : "canapea"
+  },
+  {
+    "id" : "home42",
+    "word" : "scăunel"
+  },
+  {
+    "id" : "home43",
+    "word" : "televizor"
+  },
+  {
+    "id" : "home44",
+    "word" : "dulap pentru haine"
+  },
+  {
+    "id" : "home45",
+    "word" : "baie pentru păsări"
+  },
+  {
+    "id" : "home46",
+    "word" : "găleată"
+  },
+  {
+    "id" : "home47",
+    "word" : "horn"
+  },
+  {
+    "id" : "home48",
+    "word" : "uşă"
+  },
+  {
+    "id" : "home49",
+    "word" : "pitic de grădină"
+  },
+  {
+    "id" : "home50",
+    "word" : "cutie poștală"
+  },
+  {
+    "id" : "home51",
+    "word" : "cale"
+  },
+  {
+    "id" : "home52",
+    "word" : "portic"
+  },
+  {
+    "id" : "home53",
+    "word" : "acoperiş"
+  },
+  {
+    "id" : "home54",
+    "word" : "stropitoare"
+  },
+  {
+    "id" : "home55",
+    "word" : "pași"
+  },
+  {
+    "id" : "home56",
+    "word" : "robinet exterior"
+  },
+  {
+    "id" : "home57",
+    "word" : "verandă"
+  },
+  {
+    "id" : "home58",
+    "word" : "rezervor de apă"
+  },
+  {
+    "id" : "home59",
+    "word" : "fereastră"
+  },
+  {
+    "id" : "home60",
+    "word" : "Bucătărie"
+  },
+  {
+    "id" : "home61",
+    "word" : "sticlă"
+  },
+  {
+    "id" : "home62",
+    "word" : "faianță"
+  },
+  {
+    "id" : "home63",
+    "word" : "detergent"
+  },
+  {
+    "id" : "home64",
+    "word" : "fierbător"
+  },
+  {
+    "id" : "home65",
+    "word" : "tigaie"
+  },
+  {
+    "id" : "home66",
+    "word" : "oală"
+  },
+  {
+    "id" : "home67",
+    "word" : "frigider"
+  },
+  {
+    "id" : "home68",
+    "word" : "făcăleț"
+  },
+  {
+    "id" : "home69",
+    "word" : "chiuveta de bucatarie"
+  },
+  {
+    "id" : "home70",
+    "word" : "cuptor"
+  },
+  {
+    "id" : "home71",
+    "word" : "față de masă"
+  },
+  {
+    "id" : "home72",
+    "word" : "prosop de vase"
+  },
+  {
+    "id" : "home73",
+    "word" : "ceainic"
+  },
+  {
+    "id" : "home74",
+    "word" : "wok"
+  },
+  {
+    "id" : "home75",
+    "word" : "aluminiu"
+  },
+  {
+    "id" : "home76",
+    "word" : "cărămizi"
+  },
+  {
+    "id" : "home77",
+    "word" : "carton"
+  },
+  {
+    "id" : "home78",
+    "word" : "ceramică"
+  },
+  {
+    "id" : "home79",
+    "word" : "beton"
+  },
+  {
+    "id" : "home80",
+    "word" : "bumbac"
+  },
+  {
+    "id" : "home81",
+    "word" : "foaie de sticlă"
+  },
+  {
+    "id" : "home82",
+    "word" : "hârtie"
+  },
+  {
+    "id" : "home83",
+    "word" : "plastic"
+  },
+  {
+    "id" : "home84",
+    "word" : "cauciuc"
+  },
+  {
+    "id" : "home85",
+    "word" : "nisip"
+  },
+  {
+    "id" : "home86",
+    "word" : "oţel"
+  },
+  {
+    "id" : "home87",
+    "word" : "pietre"
+  },
+  {
+    "id" : "home88",
+    "word" : "lemn"
+  },
+  {
+    "id" : "home89",
+    "word" : "lână"
+  }
+]

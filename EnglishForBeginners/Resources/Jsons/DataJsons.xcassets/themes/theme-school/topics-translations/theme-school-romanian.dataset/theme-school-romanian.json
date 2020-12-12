@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Art",
+    "word" : "Artă"
+  },
+  {
+    "id" : "Musical Instruments",
+    "word" : "Instrumente muzicale"
+  },
+  {
+    "id" : "School",
+    "word" : "Școală"
+  },
+  {
+    "id" : "School Subjects",
+    "word" : "Subiecte școlare"
+  },
+  {
+    "id" : "Stationery",
+    "word" : "Papetărie"
+  },
+  {
+    "id" : "Writing",
+    "word" : "Scris"
+  }
+]

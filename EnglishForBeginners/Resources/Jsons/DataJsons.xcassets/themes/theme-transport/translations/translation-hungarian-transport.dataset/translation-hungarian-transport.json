@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "csengő"
+  },
+  {
+    "id" : "transport1",
+    "word" : "fék"
+  },
+  {
+    "id" : "transport2",
+    "word" : "lánc"
+  },
+  {
+    "id" : "transport3",
+    "word" : "kerékpáros"
+  },
+  {
+    "id" : "transport4",
+    "word" : "fogaskerekek"
+  },
+  {
+    "id" : "transport5",
+    "word" : "kormányrúd"
+  },
+  {
+    "id" : "transport6",
+    "word" : "sisak"
+  },
+  {
+    "id" : "transport7",
+    "word" : "pálya"
+  },
+  {
+    "id" : "transport8",
+    "word" : "pedál"
+  },
+  {
+    "id" : "transport9",
+    "word" : "szivattyú"
+  },
+  {
+    "id" : "transport10",
+    "word" : "szúrás"
+  },
+  {
+    "id" : "transport11",
+    "word" : "reflektor"
+  },
+  {
+    "id" : "transport12",
+    "word" : "nyereg"
+  },
+  {
+    "id" : "transport13",
+    "word" : "küllők"
+  },
+  {
+    "id" : "transport14",
+    "word" : "kerék"
+  },
+  {
+    "id" : "transport15",
+    "word" : "teherhajó"
+  },
+  {
+    "id" : "transport16",
+    "word" : "tengerjáró hajó"
+  },
+  {
+    "id" : "transport17",
+    "word" : "komphajó"
+  },
+  {
+    "id" : "transport18",
+    "word" : "halászhajó"
+  },
+  {
+    "id" : "transport19",
+    "word" : "gondola"
+  },
+  {
+    "id" : "transport20",
+    "word" : "lakóhajó"
+  },
+  {
+    "id" : "transport21",
+    "word" : "szárnyashajó"
+  },
+  {
+    "id" : "transport22",
+    "word" : "felfújható"
+  },
+  {
+    "id" : "transport23",
+    "word" : "jet ski"
+  },
+  {
+    "id" : "transport24",
+    "word" : "hulladék"
+  },
+  {
+    "id" : "transport25",
+    "word" : "kajak"
+  },
+  {
+    "id" : "transport26",
+    "word" : "vitorláscsónak"
+  },
+  {
+    "id" : "transport27",
+    "word" : "evezős hajó"
+  },
+  {
+    "id" : "transport28",
+    "word" : "csónak"
+  },
+  {
+    "id" : "transport29",
+    "word" : "jacht"
+  },
+  {
+    "id" : "transport30",
+    "word" : "autó emelő"
+  },
+  {
+    "id" : "transport31",
+    "word" : "lakókocsi"
+  },
+  {
+    "id" : "transport32",
+    "word" : "Irányítópult"
+  },
+  {
+    "id" : "transport33",
+    "word" : "motorolaj"
+  },
+  {
+    "id" : "transport34",
+    "word" : "motor"
+  },
+  {
+    "id" : "transport35",
+    "word" : "benzinkút"
+  },
+  {
+    "id" : "transport36",
+    "word" : "fényszórók"
+  },
+  {
+    "id" : "transport37",
+    "word" : "autópálya"
+  },
+  {
+    "id" : "transport38",
+    "word" : "rendszámtábla"
+  },
+  {
+    "id" : "transport39",
+    "word" : "gyalogosok"
+  },
+  {
+    "id" : "transport40",
+    "word" : "szedán"
+  },
+  {
+    "id" : "transport41",
+    "word" : "oldal tükör"
+  },
+  {
+    "id" : "transport42",
+    "word" : "kormánykerék"
+  },
+  {
+    "id" : "transport43",
+    "word" : "hátsó lámpák"
+  },
+  {
+    "id" : "transport44",
+    "word" : "utánfutó"
+  },
+  {
+    "id" : "transport45",
+    "word" : "marha"
+  },
+  {
+    "id" : "transport46",
+    "word" : "gyermekek"
+  },
+  {
+    "id" : "transport47",
+    "word" : "veszély"
+  },
+  {
+    "id" : "transport48",
+    "word" : "útkereszteződés"
+  },
+  {
+    "id" : "transport49",
+    "word" : "vasúti átjáró"
+  },
+  {
+    "id" : "transport50",
+    "word" : "jegesmedvék"
+  },
+  {
+    "id" : "transport51",
+    "word" : "körforgalom"
+  },
+  {
+    "id" : "transport52",
+    "word" : "csúszós"
+  },
+  {
+    "id" : "transport53",
+    "word" : "hó"
+  },
+  {
+    "id" : "transport54",
+    "word" : "sebességhatár"
+  },
+  {
+    "id" : "transport55",
+    "word" : "meredek domb"
+  },
+  {
+    "id" : "transport56",
+    "word" : "szemafor"
+  },
+  {
+    "id" : "transport57",
+    "word" : "kanyargós úton"
+  },
+  {
+    "id" : "transport58",
+    "word" : "munkások"
+  },
+  {
+    "id" : "transport59",
+    "word" : "zebra átkelés"
+  },
+  {
+    "id" : "transport60",
+    "word" : "büfé"
+  },
+  {
+    "id" : "transport61",
+    "word" : "gyűjtő"
+  },
+  {
+    "id" : "transport62",
+    "word" : "ingázók"
+  },
+  {
+    "id" : "transport63",
+    "word" : "kalauz"
+  },
+  {
+    "id" : "transport64",
+    "word" : "tehervonat"
+  },
+  {
+    "id" : "transport65",
+    "word" : "vécé"
+  },
+  {
+    "id" : "transport66",
+    "word" : "mozdony"
+  },
+  {
+    "id" : "transport67",
+    "word" : "emelvény"
+  },
+  {
+    "id" : "transport68",
+    "word" : "vasúti híd"
+  },
+  {
+    "id" : "transport69",
+    "word" : "csúcsidő"
+  },
+  {
+    "id" : "transport70",
+    "word" : "ülések"
+  },
+  {
+    "id" : "transport71",
+    "word" : "gőzmozdony"
+  },
+  {
+    "id" : "transport72",
+    "word" : "pántok"
+  },
+  {
+    "id" : "transport73",
+    "word" : "menetrend"
+  },
+  {
+    "id" : "transport74",
+    "word" : "pályák"
+  },
+  {
+    "id" : "transport75",
+    "word" : "kerékpár"
+  },
+  {
+    "id" : "transport76",
+    "word" : "busz"
+  },
+  {
+    "id" : "transport77",
+    "word" : "autó"
+  },
+  {
+    "id" : "transport78",
+    "word" : "kisbusz"
+  },
+  {
+    "id" : "transport79",
+    "word" : "egysínű vasút"
+  },
+  {
+    "id" : "transport80",
+    "word" : "motorkerékpár"
+  },
+  {
+    "id" : "transport81",
+    "word" : "robogó"
+  },
+  {
+    "id" : "transport82",
+    "word" : "riksa"
+  },
+  {
+    "id" : "transport83",
+    "word" : "görgős pengék"
+  },
+  {
+    "id" : "transport84",
+    "word" : "roller"
+  },
+  {
+    "id" : "transport85",
+    "word" : "metró"
+  },
+  {
+    "id" : "transport86",
+    "word" : "taxi"
+  },
+  {
+    "id" : "transport87",
+    "word" : "vonat"
+  },
+  {
+    "id" : "transport88",
+    "word" : "villamos"
+  },
+  {
+    "id" : "transport89",
+    "word" : "kamion"
+  }
+]

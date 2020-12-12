@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "دوره المياه"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "غرفة الطعام"
+  },
+  {
+    "id" : "Home",
+    "word" : "البيت"
+  },
+  {
+    "id" : "House",
+    "word" : "المنزل"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "المطبخ"
+  },
+  {
+    "id" : "Materials",
+    "word" : "المواد"
+  }
+]

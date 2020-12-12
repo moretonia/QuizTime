@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Indoor Tools",
+    "word" : "herramientas de uso interior"
+  },
+  {
+    "id" : "Jobs",
+    "word" : "trabajos"
+  },
+  {
+    "id" : "Jobs II",
+    "word" : "trabajos II"
+  },
+  {
+    "id" : "Jobs III",
+    "word" : "trabajos III"
+  },
+  {
+    "id" : "Jobs IV",
+    "word" : "trabajos IV"
+  },
+  {
+    "id" : "Outdoor Tools",
+    "word" : "herramientas de uso exterior"
+  }
+]

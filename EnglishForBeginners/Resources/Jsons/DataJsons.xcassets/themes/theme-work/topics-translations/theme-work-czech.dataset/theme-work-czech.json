@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Indoor Tools",
+    "word" : "Domácí nářadí"
+  },
+  {
+    "id" : "Jobs",
+    "word" : "Práce"
+  },
+  {
+    "id" : "Jobs II",
+    "word" : "Práce II"
+  },
+  {
+    "id" : "Jobs III",
+    "word" : "Práce III"
+  },
+  {
+    "id" : "Jobs IV",
+    "word" : "Práce IV"
+  },
+  {
+    "id" : "Outdoor Tools",
+    "word" : "Venkovní nářadí"
+  }
+]

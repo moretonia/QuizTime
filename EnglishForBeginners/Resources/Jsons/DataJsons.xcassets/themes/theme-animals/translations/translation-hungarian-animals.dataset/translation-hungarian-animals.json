@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "pávián"
+  },
+  {
+    "id" : "animals1",
+    "word" : "bivaly"
+  },
+  {
+    "id" : "animals2",
+    "word" : "teve"
+  },
+  {
+    "id" : "animals3",
+    "word" : "csimpánz"
+  },
+  {
+    "id" : "animals4",
+    "word" : "krokodil"
+  },
+  {
+    "id" : "animals5",
+    "word" : "elefánt"
+  },
+  {
+    "id" : "animals6",
+    "word" : "zsiráf"
+  },
+  {
+    "id" : "animals7",
+    "word" : "gorilla"
+  },
+  {
+    "id" : "animals8",
+    "word" : "víziló"
+  },
+  {
+    "id" : "animals9",
+    "word" : "hiéna"
+  },
+  {
+    "id" : "animals10",
+    "word" : "leopárd"
+  },
+  {
+    "id" : "animals11",
+    "word" : "oroszlán"
+  },
+  {
+    "id" : "animals12",
+    "word" : "strucc"
+  },
+  {
+    "id" : "animals13",
+    "word" : "orrszarvú"
+  },
+  {
+    "id" : "animals14",
+    "word" : "gnú"
+  },
+  {
+    "id" : "animals15",
+    "word" : "vizsla"
+  },
+  {
+    "id" : "animals16",
+    "word" : "boxer"
+  },
+  {
+    "id" : "animals17",
+    "word" : "csivava"
+  },
+  {
+    "id" : "animals18",
+    "word" : "skót juhászkutya"
+  },
+  {
+    "id" : "animals19",
+    "word" : "tacskó"
+  },
+  {
+    "id" : "animals20",
+    "word" : "dalmata"
+  },
+  {
+    "id" : "animals21",
+    "word" : "doberman"
+  },
+  {
+    "id" : "animals22",
+    "word" : "agár"
+  },
+  {
+    "id" : "animals23",
+    "word" : "husky"
+  },
+  {
+    "id" : "animals24",
+    "word" : "ír szetter"
+  },
+  {
+    "id" : "animals25",
+    "word" : "labrador"
+  },
+  {
+    "id" : "animals26",
+    "word" : "máltai kutya"
+  },
+  {
+    "id" : "animals27",
+    "word" : "uszkár"
+  },
+  {
+    "id" : "animals28",
+    "word" : "rottweiler"
+  },
+  {
+    "id" : "animals29",
+    "word" : "juhászkutya"
+  },
+  {
+    "id" : "animals30",
+    "word" : "bika"
+  },
+  {
+    "id" : "animals31",
+    "word" : "borjú"
+  },
+  {
+    "id" : "animals32",
+    "word" : "macska"
+  },
+  {
+    "id" : "animals33",
+    "word" : "szamár"
+  },
+  {
+    "id" : "animals34",
+    "word" : "kacsa"
+  },
+  {
+    "id" : "animals35",
+    "word" : "csikó"
+  },
+  {
+    "id" : "animals36",
+    "word" : "kecske"
+  },
+  {
+    "id" : "animals37",
+    "word" : "liba"
+  },
+  {
+    "id" : "animals38",
+    "word" : "ló"
+  },
+  {
+    "id" : "animals39",
+    "word" : "bárány"
+  },
+  {
+    "id" : "animals40",
+    "word" : "malac"
+  },
+  {
+    "id" : "animals41",
+    "word" : "kismalac"
+  },
+  {
+    "id" : "animals42",
+    "word" : "kakas"
+  },
+  {
+    "id" : "animals43",
+    "word" : "juh"
+  },
+  {
+    "id" : "animals44",
+    "word" : "pulyka"
+  },
+  {
+    "id" : "animals45",
+    "word" : "tőkehal"
+  },
+  {
+    "id" : "animals46",
+    "word" : "rák"
+  },
+  {
+    "id" : "animals47",
+    "word" : "medúza"
+  },
+  {
+    "id" : "animals48",
+    "word" : "homár"
+  },
+  {
+    "id" : "animals49",
+    "word" : "polip"
+  },
+  {
+    "id" : "animals50",
+    "word" : "osztriga"
+  },
+  {
+    "id" : "animals51",
+    "word" : "garnéla"
+  },
+  {
+    "id" : "animals52",
+    "word" : "lazac"
+  },
+  {
+    "id" : "animals53",
+    "word" : "hering"
+  },
+  {
+    "id" : "animals54",
+    "word" : "csikóhal"
+  },
+  {
+    "id" : "animals55",
+    "word" : "cápa"
+  },
+  {
+    "id" : "animals56",
+    "word" : "tintahal"
+  },
+  {
+    "id" : "animals57",
+    "word" : "kardhal"
+  },
+  {
+    "id" : "animals58",
+    "word" : "pisztráng"
+  },
+  {
+    "id" : "animals59",
+    "word" : "tonhal"
+  },
+  {
+    "id" : "animals60",
+    "word" : "albatrosz"
+  },
+  {
+    "id" : "animals61",
+    "word" : "kagyló"
+  },
+  {
+    "id" : "animals62",
+    "word" : "korall"
+  },
+  {
+    "id" : "animals63",
+    "word" : "delfin"
+  },
+  {
+    "id" : "animals64",
+    "word" : "angolna"
+  },
+  {
+    "id" : "animals65",
+    "word" : "pelikán"
+  },
+  {
+    "id" : "animals66",
+    "word" : "pingvin"
+  },
+  {
+    "id" : "animals67",
+    "word" : "jegesmedve"
+  },
+  {
+    "id" : "animals68",
+    "word" : "tengeri sün"
+  },
+  {
+    "id" : "animals69",
+    "word" : "fóka"
+  },
+  {
+    "id" : "animals70",
+    "word" : "rája"
+  },
+  {
+    "id" : "animals71",
+    "word" : "teknősbéka"
+  },
+  {
+    "id" : "animals72",
+    "word" : "rozmár"
+  },
+  {
+    "id" : "animals73",
+    "word" : "cetcápa"
+  },
+  {
+    "id" : "animals74",
+    "word" : "bálna"
+  },
+  {
+    "id" : "animals75",
+    "word" : "törpepapagáj"
+  },
+  {
+    "id" : "animals76",
+    "word" : "kanári"
+  },
+  {
+    "id" : "animals77",
+    "word" : "csincsilla"
+  },
+  {
+    "id" : "animals78",
+    "word" : "vadászmenyét"
+  },
+  {
+    "id" : "animals79",
+    "word" : "pinty"
+  },
+  {
+    "id" : "animals80",
+    "word" : "gekkó"
+  },
+  {
+    "id" : "animals81",
+    "word" : "aranyhal"
+  },
+  {
+    "id" : "animals82",
+    "word" : "tengerimalac"
+  },
+  {
+    "id" : "animals83",
+    "word" : "remeterák"
+  },
+  {
+    "id" : "animals84",
+    "word" : "cica"
+  },
+  {
+    "id" : "animals85",
+    "word" : "ara papagáj"
+  },
+  {
+    "id" : "animals86",
+    "word" : "egér"
+  },
+  {
+    "id" : "animals87",
+    "word" : "kölyökkutya"
+  },
+  {
+    "id" : "animals88",
+    "word" : "nyúl"
+  },
+  {
+    "id" : "animals89",
+    "word" : "teknős"
+  }
+]

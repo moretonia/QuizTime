@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "bermudy"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "kabát"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "šaty"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "rukavice"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "bunda"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "džíny"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "mikina"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "pyžamo"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "košile"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "obuv"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "sukně"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "neformální kalhoty"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "sluneční brýle"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "tričko"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "uniforma"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "s výstřihem vzadu"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "bikiny"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "malé černé"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "večerní šaty"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "flamenco"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "kolem krku"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "vcelku"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "sari"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "bez ramínek"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "pruhy"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "dámský oblek"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "letní šaty"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "tóga"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "tradiční"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "svatba"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "po holení"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "pásek"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "motýlek"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "slipy"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "manžeta"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "obchodní košili"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "společenské boty"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "tenisky"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "kravaty"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "holítko"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "štětka na holení"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "mokasíny"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "ponožky"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "oblek"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "kalhoty"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "čapka"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "boty"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "helma"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "brusle"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "dres"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "trikoty"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "tričko s límečkem"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "šortky"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "lyžařský oblek"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "chytré hodinky"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "sportovní podprsenka"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "plavci"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "tepláková souprava"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "neopren"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "zápěstní pás"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "halenka"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "podprsenka"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "svetr"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "choker"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "módní pásek"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "čepice"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "vysoké podpatky"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "kombinéza"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "kimono"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "kalhotky"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "sandály"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "šátek"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "hedvábná šála"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "punčocháče"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "zip"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "náramek"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "prsten"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "náušnice"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "kabelka"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "klíčenka"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "rtěnka"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "řasenka"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "pilník na nehty"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "náhrdelník"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "parfém"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "měšec"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "chytrý telefon"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "papírové kapesníky"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "peněženka"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "hodinky"
+  }
+]

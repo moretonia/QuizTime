@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "ropa"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "glamour"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "artículos masculinos"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "ropa deportiva"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "ropa femenina"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "artículos femeninos"
+  }
+]

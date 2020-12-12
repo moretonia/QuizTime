@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "backgammon"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "csatahajó"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "kártyák"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "dáma"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "sakk"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "csatlakoztass négyet"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "dobókocka"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "dominó"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "megy"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "fűrész"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "ludo társasjáték"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "mahjong"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "monopoly"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "scrabble"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "tic tac toe"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "tollaslabda"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "golyózás"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "mászás"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "darts"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "karikadobó játék"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "frizbi"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "ugrójáték"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "hula"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "bakugrás"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "limbó"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "flipper"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "póker"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "tologatós"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "kötélhúzás"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "yo-yo"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "ballon"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "box kesztyű"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "krikett ütő"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "dárda"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "súlyzók"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "halászati tekercs"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "függelékek"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "focilabda"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "védőszemüveg"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "golf ütő"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "jégcsákány"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "ejtőernyő"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "sílécek"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "futball cipő"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "teniszütő"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "aerobic"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "baseball"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "kosárlabda"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "bob"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "boksz"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "krikett"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "futball"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "gimnasztika"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "kézilabda"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "jégkorong"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "rögbi"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "síelés"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "tenisz"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "röplabda"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "széllovaglás"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "íjászat"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "kerékpározás"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "idomítás"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "golf"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "magasugrás"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "tájfutás"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "póló"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "evezés"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "búvárkodás"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "lövés"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "ejtőernyőzés"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "sznúker"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "asztali tenisz"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "vízilabda"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "birkózás"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "bázisugrás"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "bmx"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "test szörfözés"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "kemping"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "barlangászás"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "kertészkedés"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "túrázás"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "lovagi torna"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "cselgáncs"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "szélszörfözés"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "vadvizi evezés"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "vitorlázás"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "szabadtüdős merülés"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "snowboardozás"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "tai chi"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "asit yağmuru"
+  },
+  {
+    "id" : "nature1",
+    "word" : "ağaç kesmek"
+  },
+  {
+    "id" : "nature2",
+    "word" : "kömür madeni"
+  },
+  {
+    "id" : "nature3",
+    "word" : "ölü mercan"
+  },
+  {
+    "id" : "nature4",
+    "word" : "çöl"
+  },
+  {
+    "id" : "nature5",
+    "word" : "erozyon"
+  },
+  {
+    "id" : "nature6",
+    "word" : "egzoz"
+  },
+  {
+    "id" : "nature7",
+    "word" : "fosil yakıt"
+  },
+  {
+    "id" : "nature8",
+    "word" : "çöp"
+  },
+  {
+    "id" : "nature9",
+    "word" : "yağ sızması"
+  },
+  {
+    "id" : "nature10",
+    "word" : "petrol kuyusu"
+  },
+  {
+    "id" : "nature11",
+    "word" : "kirlilik"
+  },
+  {
+    "id" : "nature12",
+    "word" : "dumanlı sis"
+  },
+  {
+    "id" : "nature13",
+    "word" : "güneş paneli"
+  },
+  {
+    "id" : "nature14",
+    "word" : "rüzgar çiftliği"
+  },
+  {
+    "id" : "nature15",
+    "word" : "ahır"
+  },
+  {
+    "id" : "nature16",
+    "word" : "tavuk kümesi"
+  },
+  {
+    "id" : "nature17",
+    "word" : "çiftçi"
+  },
+  {
+    "id" : "nature18",
+    "word" : "çit"
+  },
+  {
+    "id" : "nature19",
+    "word" : "kapı"
+  },
+  {
+    "id" : "nature20",
+    "word" : "biçerdöver"
+  },
+  {
+    "id" : "nature21",
+    "word" : "sulama"
+  },
+  {
+    "id" : "nature22",
+    "word" : "pulluk"
+  },
+  {
+    "id" : "nature23",
+    "word" : "gölet"
+  },
+  {
+    "id" : "nature24",
+    "word" : "korkuluk"
+  },
+  {
+    "id" : "nature25",
+    "word" : "dam"
+  },
+  {
+    "id" : "nature26",
+    "word" : "traktör"
+  },
+  {
+    "id" : "nature27",
+    "word" : "köy"
+  },
+  {
+    "id" : "nature28",
+    "word" : "kuyu"
+  },
+  {
+    "id" : "nature29",
+    "word" : "rüzgar gülü"
+  },
+  {
+    "id" : "nature30",
+    "word" : "yıldız çiçekleri"
+  },
+  {
+    "id" : "nature31",
+    "word" : "karanfil"
+  },
+  {
+    "id" : "nature32",
+    "word" : "nergis"
+  },
+  {
+    "id" : "nature33",
+    "word" : "dalya"
+  },
+  {
+    "id" : "nature34",
+    "word" : "papatya"
+  },
+  {
+    "id" : "nature35",
+    "word" : "plumeria"
+  },
+  {
+    "id" : "nature36",
+    "word" : "frezya"
+  },
+  {
+    "id" : "nature37",
+    "word" : "sardunya"
+  },
+  {
+    "id" : "nature38",
+    "word" : "gerbera"
+  },
+  {
+    "id" : "nature39",
+    "word" : "ebegümeci"
+  },
+  {
+    "id" : "nature40",
+    "word" : "zambak"
+  },
+  {
+    "id" : "nature41",
+    "word" : "manolya"
+  },
+  {
+    "id" : "nature42",
+    "word" : "orkide"
+  },
+  {
+    "id" : "nature43",
+    "word" : "gül"
+  },
+  {
+    "id" : "nature44",
+    "word" : "lâle"
+  },
+  {
+    "id" : "nature45",
+    "word" : "karınca"
+  },
+  {
+    "id" : "nature46",
+    "word" : "bal arısı"
+  },
+  {
+    "id" : "nature47",
+    "word" : "böcek"
+  },
+  {
+    "id" : "nature48",
+    "word" : "kelebek"
+  },
+  {
+    "id" : "nature49",
+    "word" : "hamamböceği"
+  },
+  {
+    "id" : "nature50",
+    "word" : "cırcır böceği"
+  },
+  {
+    "id" : "nature51",
+    "word" : "yusufçuk"
+  },
+  {
+    "id" : "nature52",
+    "word" : "sinek"
+  },
+  {
+    "id" : "nature53",
+    "word" : "çekirge"
+  },
+  {
+    "id" : "nature54",
+    "word" : "uğur böceği"
+  },
+  {
+    "id" : "nature55",
+    "word" : "peygamber devesi"
+  },
+  {
+    "id" : "nature56",
+    "word" : "sivrisinek"
+  },
+  {
+    "id" : "nature57",
+    "word" : "güve"
+  },
+  {
+    "id" : "nature58",
+    "word" : "termitler"
+  },
+  {
+    "id" : "nature59",
+    "word" : "yaban arısı"
+  },
+  {
+    "id" : "nature60",
+    "word" : "eğrelti otları"
+  },
+  {
+    "id" : "nature61",
+    "word" : "bahçe"
+  },
+  {
+    "id" : "nature62",
+    "word" : "çimen"
+  },
+  {
+    "id" : "nature63",
+    "word" : "çim"
+  },
+  {
+    "id" : "nature64",
+    "word" : "yaprak"
+  },
+  {
+    "id" : "nature65",
+    "word" : "palmiye"
+  },
+  {
+    "id" : "nature66",
+    "word" : "taç yaprakları"
+  },
+  {
+    "id" : "nature67",
+    "word" : "çam ormanı"
+  },
+  {
+    "id" : "nature68",
+    "word" : "yağmur ormanı"
+  },
+  {
+    "id" : "nature69",
+    "word" : "kökler"
+  },
+  {
+    "id" : "nature70",
+    "word" : "fide"
+  },
+  {
+    "id" : "nature71",
+    "word" : "tohumlar"
+  },
+  {
+    "id" : "nature72",
+    "word" : "dikenler"
+  },
+  {
+    "id" : "nature73",
+    "word" : "ağaç"
+  },
+  {
+    "id" : "nature74",
+    "word" : "gövde"
+  },
+  {
+    "id" : "nature75",
+    "word" : "tufan"
+  },
+  {
+    "id" : "nature76",
+    "word" : "kuraklık"
+  },
+  {
+    "id" : "nature77",
+    "word" : "sel"
+  },
+  {
+    "id" : "nature78",
+    "word" : "sis"
+  },
+  {
+    "id" : "nature79",
+    "word" : "tahmin"
+  },
+  {
+    "id" : "nature80",
+    "word" : "sıcak hava dalgası"
+  },
+  {
+    "id" : "nature81",
+    "word" : "buz"
+  },
+  {
+    "id" : "nature82",
+    "word" : "şimşek"
+  },
+  {
+    "id" : "nature83",
+    "word" : "su birikintisi"
+  },
+  {
+    "id" : "nature84",
+    "word" : "yağmur"
+  },
+  {
+    "id" : "nature85",
+    "word" : "yağmurluk"
+  },
+  {
+    "id" : "nature86",
+    "word" : "kum fırtınası"
+  },
+  {
+    "id" : "nature87",
+    "word" : "kar"
+  },
+  {
+    "id" : "nature88",
+    "word" : "kasırga"
+  },
+  {
+    "id" : "nature89",
+    "word" : "şemsiye"
+  }
+]

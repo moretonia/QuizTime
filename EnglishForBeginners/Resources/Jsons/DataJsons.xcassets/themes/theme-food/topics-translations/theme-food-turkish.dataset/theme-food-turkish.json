@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Desserts",
+    "word" : "Tatlılar"
+  },
+  {
+    "id" : "Food",
+    "word" : "Yemek"
+  },
+  {
+    "id" : "Fruit",
+    "word" : "Meyve"
+  },
+  {
+    "id" : "Fruit II",
+    "word" : "Meyve II"
+  },
+  {
+    "id" : "Vegetables",
+    "word" : "Sebzeler"
+  },
+  {
+    "id" : "Vegetables II",
+    "word" : "Sebzeler II"
+  }
+]

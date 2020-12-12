@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "der Vorteil"
+  },
+  {
+    "id" : "business1",
+    "word" : "werben"
+  },
+  {
+    "id" : "business2",
+    "word" : "die Rechnung"
+  },
+  {
+    "id" : "business3",
+    "word" : "das Budget"
+  },
+  {
+    "id" : "business4",
+    "word" : "der Vergleich"
+  },
+  {
+    "id" : "business5",
+    "word" : "der Konkurrent"
+  },
+  {
+    "id" : "business6",
+    "word" : "die Bestätigung"
+  },
+  {
+    "id" : "business7",
+    "word" : "der Kunde"
+  },
+  {
+    "id" : "business8",
+    "word" : "der Abgabetermin"
+  },
+  {
+    "id" : "business9",
+    "word" : "die Schulden"
+  },
+  {
+    "id" : "business10",
+    "word" : "die Entscheidung"
+  },
+  {
+    "id" : "business11",
+    "word" : "die Lieferung"
+  },
+  {
+    "id" : "business12",
+    "word" : "der Preis"
+  },
+  {
+    "id" : "business13",
+    "word" : "der Terminplan"
+  },
+  {
+    "id" : "business14",
+    "word" : "die Gruppenarbeit"
+  },
+  {
+    "id" : "business15",
+    "word" : "die Bewertung"
+  },
+  {
+    "id" : "business16",
+    "word" : "die Präsentation"
+  },
+  {
+    "id" : "business17",
+    "word" : "die Verteilung"
+  },
+  {
+    "id" : "business18",
+    "word" : "der Arbeitnehmer"
+  },
+  {
+    "id" : "business19",
+    "word" : "der Arbeitgeber"
+  },
+  {
+    "id" : "business20",
+    "word" : "die Fabrik"
+  },
+  {
+    "id" : "business21",
+    "word" : "das Wachstum"
+  },
+  {
+    "id" : "business22",
+    "word" : "der Manager"
+  },
+  {
+    "id" : "business23",
+    "word" : "die Anweisungen"
+  },
+  {
+    "id" : "business24",
+    "word" : "das Bewerbungsgespräch"
+  },
+  {
+    "id" : "business25",
+    "word" : "die Abrechnung"
+  },
+  {
+    "id" : "business26",
+    "word" : "der Verlust"
+  },
+  {
+    "id" : "business27",
+    "word" : "die Maschinerie"
+  },
+  {
+    "id" : "business28",
+    "word" : "die Handelsware"
+  },
+  {
+    "id" : "business29",
+    "word" : "das Lager"
+  },
+  {
+    "id" : "business30",
+    "word" : "der Abbruch"
+  },
+  {
+    "id" : "business31",
+    "word" : "der Austausch"
+  },
+  {
+    "id" : "business32",
+    "word" : "die Rückmeldung"
+  },
+  {
+    "id" : "business33",
+    "word" : "die Installation"
+  },
+  {
+    "id" : "business34",
+    "word" : "die Bestellung"
+  },
+  {
+    "id" : "business35",
+    "word" : "die Zahlung"
+  },
+  {
+    "id" : "business36",
+    "word" : "die Strafe"
+  },
+  {
+    "id" : "business37",
+    "word" : "die Produkte"
+  },
+  {
+    "id" : "business38",
+    "word" : "die Promotion"
+  },
+  {
+    "id" : "business39",
+    "word" : "der Ausschuss"
+  },
+  {
+    "id" : "business40",
+    "word" : "die Reparaturen"
+  },
+  {
+    "id" : "business41",
+    "word" : "der Bericht"
+  },
+  {
+    "id" : "business42",
+    "word" : "das Gehalt"
+  },
+  {
+    "id" : "business43",
+    "word" : "der Versand"
+  },
+  {
+    "id" : "business44",
+    "word" : "das Ziel"
+  },
+  {
+    "id" : "business45",
+    "word" : "die Antiquitäten"
+  },
+  {
+    "id" : "business46",
+    "word" : "die Artefakte"
+  },
+  {
+    "id" : "business47",
+    "word" : "die Comics"
+  },
+  {
+    "id" : "business48",
+    "word" : "die Diamanten"
+  },
+  {
+    "id" : "business49",
+    "word" : "die Figuren"
+  },
+  {
+    "id" : "business50",
+    "word" : "die Fossilien"
+  },
+  {
+    "id" : "business51",
+    "word" : "die Goldmünzen"
+  },
+  {
+    "id" : "business52",
+    "word" : "die Modellautos"
+  },
+  {
+    "id" : "business53",
+    "word" : "die Poster"
+  },
+  {
+    "id" : "business54",
+    "word" : "die Rubine"
+  },
+  {
+    "id" : "business55",
+    "word" : "die Saphire"
+  },
+  {
+    "id" : "business56",
+    "word" : "das Tafelsilber"
+  },
+  {
+    "id" : "business57",
+    "word" : "die Briefmarken"
+  },
+  {
+    "id" : "business58",
+    "word" : "die Oldtimer"
+  },
+  {
+    "id" : "business59",
+    "word" : "die Kunstwerke"
+  },
+  {
+    "id" : "business60",
+    "word" : "das Bargeld"
+  },
+  {
+    "id" : "business61",
+    "word" : "die Kassiererin"
+  },
+  {
+    "id" : "business62",
+    "word" : "die Kreditkarte"
+  },
+  {
+    "id" : "business63",
+    "word" : "das Verzeichnis"
+  },
+  {
+    "id" : "business64",
+    "word" : "die Umkleidekabine"
+  },
+  {
+    "id" : "business65",
+    "word" : "die Tastatur"
+  },
+  {
+    "id" : "business66",
+    "word" : "schauend"
+  },
+  {
+    "id" : "business67",
+    "word" : "bezahlen"
+  },
+  {
+    "id" : "business68",
+    "word" : "das Preisschild"
+  },
+  {
+    "id" : "business69",
+    "word" : "der Verkauf"
+  },
+  {
+    "id" : "business70",
+    "word" : "die Einkaufstasche"
+  },
+  {
+    "id" : "business71",
+    "word" : "einkaufen"
+  },
+  {
+    "id" : "business72",
+    "word" : "die Transaktion"
+  },
+  {
+    "id" : "business73",
+    "word" : "anprobieren"
+  },
+  {
+    "id" : "business74",
+    "word" : "Geld abheben"
+  },
+  {
+    "id" : "business75",
+    "word" : "die Bäckerei"
+  },
+  {
+    "id" : "business76",
+    "word" : "der Buchladen"
+  },
+  {
+    "id" : "business77",
+    "word" : "der Metzger"
+  },
+  {
+    "id" : "business78",
+    "word" : "die Konditorei"
+  },
+  {
+    "id" : "business79",
+    "word" : "die Apotheke"
+  },
+  {
+    "id" : "business80",
+    "word" : "das Klamottengeschäft"
+  },
+  {
+    "id" : "business81",
+    "word" : "Fish and Chips"
+  },
+  {
+    "id" : "business82",
+    "word" : "das Blumengeschäft"
+  },
+  {
+    "id" : "business83",
+    "word" : "der Obstladen"
+  },
+  {
+    "id" : "business84",
+    "word" : "der Juwelier"
+  },
+  {
+    "id" : "business85",
+    "word" : "der Markt"
+  },
+  {
+    "id" : "business86",
+    "word" : "das Online-Geschäft"
+  },
+  {
+    "id" : "business87",
+    "word" : "das Schuhgeschäft"
+  },
+  {
+    "id" : "business88",
+    "word" : "das Spielwarengeschäft"
+  },
+  {
+    "id" : "business89",
+    "word" : "das Reisebüro"
+  }
+]

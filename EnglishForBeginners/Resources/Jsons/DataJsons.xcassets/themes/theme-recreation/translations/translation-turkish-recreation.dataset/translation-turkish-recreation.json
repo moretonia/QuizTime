@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "tavla"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "savaş gemisi"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "kartlar"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "dama"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "satranç"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "dördünü bağla"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "zar"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "domino oyunu"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "git"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "yapboz"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "ludo"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "mahjong"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "monopoly"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "scrabble"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "tic tac toe"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "badminton"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "çim topu"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "tırmanmak"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "dartlar"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "deck quoits"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "frizbi"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "seksek"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "hula"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "birdirbir"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "belirsizlik"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "langırt"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "poker"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "disk iteleme oyunu"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "halat çekme"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "yo yo"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "balon"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "Boks eldiveni"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "kriket sopası"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "dart"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "dambıl"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "makara"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "palet"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "Futbol topu"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "gözlük"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "golf klübü"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "buz baltası"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "paraşüt"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "kayaklar"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "krampon"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "tenis raketi"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "aerobik"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "beyzbol"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "basketbol"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "yarış kızağı"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "boks"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "kriket"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "futbol"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "jimnastik"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "hentbol"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "hokey"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "ragbi"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "kayak"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "tenis"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "voleybol"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "rüzgâr sörfü"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "okçuluk"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "bisiklet sürmek"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "hayvan terbiyesi"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "golf"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "yüksek atlayış"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "koşarak hedef bulma"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "polo"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "kürek çekme"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "tüplü dalış"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "atış"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "serbest paraşüt"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "snooker"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "masa tenisi"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "su topu"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "güreş"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "temel atlama"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "bisikletli motor kros"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "vücut sörfü"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "kamp yapmak"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "mağara yürüyüşü"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "bahçıvanlık"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "yürüyüş"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "turnuva veya düelloda çarpışma"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "judo"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "uçurtma uçurmak"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "rafting"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "yelkencilik"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "şnorkel"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "snowboard"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "Tai Chi"
+  }
+]

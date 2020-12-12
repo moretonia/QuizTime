@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "sadaka"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "komünyon"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "ölü yakma"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "mezuniyet"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "hac"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "tütsü"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "kava"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "fener"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "açılış"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "dua"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "kırmızı halı"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "emeklilik"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "kraliyet selamı"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "songkran"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "çay seremonisi"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "mum"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "yılbaşı kartı"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "noel ağacı"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "elf"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "zencefilli çörek"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "çoban püskülü"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "hz isa´nın doğuşu"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "hediyeler"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "puding"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "ren geyiği"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "Noel Baba"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "atlı kızak"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "kardan adam"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "uzun çorap"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "hindi"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "sunak"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "apsis"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "vaftiz"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "haç"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "Kutsal Kitap"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "kadeh"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "koro"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "cemaat"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "cenaze"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "mezarlık"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "sıra"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "vaiz"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "minber"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "klise kulesi"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "düğün"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "meşe palamudu"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "kehribar"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "yonca"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "Çapraz parmaklar"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "kristal"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "yunuslar"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "Feng Shui"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "at nalı"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "cüce cin"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "şanslı bambu"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "şanslı kedi"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "göktaşları"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "gökkuşağı"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "bokböceği"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "lades kemiği"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "Buda"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "katedral"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "konfüçyüs"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "imam"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "isa"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "manastır"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "keşiş"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "cami"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "rahibe"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "rahip"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "haham"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "şinto"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "Sih"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "sinagog"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "taoizm"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "Kova"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "Koç"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "Yengeç"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "Oğlak"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "Kristal küre"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "İkizler"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "Burçlar"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "Aslan"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "Terazi"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "Balık"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "Yay"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "Akrep"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "Tarot kartları"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "Boğa"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "Başak"
+  }
+]

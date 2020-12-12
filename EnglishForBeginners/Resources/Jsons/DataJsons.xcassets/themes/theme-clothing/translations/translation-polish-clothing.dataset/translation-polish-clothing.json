@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "krótkie spodenki"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "płaszcz"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "sukienka"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "rękawiczki"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "żakiet"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "jeansy"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "sweter"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "piżamy"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "koszula"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "buty"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "spódnica"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "Luźne spodnie"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "okulary przeciwsłoneczne"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "t-shirt"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "mundur"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "suknia bez pleców"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "bikini"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "czarna sukienka"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "suknia wieczorowa"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "flamenco"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "komin"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "kostium jednoczęściowy"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "sari"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "bez ramiączek"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "paski"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "garnitur"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "suknia plażowa"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "toga"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "tradycyjne"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "ślubna"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "krem po goleniu"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "pasek"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "muszka"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "slipy"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "spinki do mankietu"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "długa koszula"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "buty eleganckie"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "joggersy"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "krawat"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "golarka"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "pędzel do golenia"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "kapcie"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "skarpetki"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "garnitur"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "spodnie"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "czapka z daszkiem"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "botki"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "hełm"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "łyżwy"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "dżersej"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "trykot"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "koszulka polo"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "szorty"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "kombinezon"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "smartwatch"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "stanik sportowy"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "kąpielówki"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "dres"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "kostium kapielowy"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "bransoletka na nadgarstek"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "bluza"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "stanik"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "kardigan"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "choker"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "modny pasek"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "kapelusz"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "wysokie obcasy"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "kombinezon"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "kimono"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "bokserki"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "sandały"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "szal"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "jedwabny szalik"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "rajstopy"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "suwak"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "bransoletka"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "zapięcie sukni"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "kolczyki"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "torebka"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "brelok do kluczy"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "szminka"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "maskara"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "naklejki na pazokcie"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "naszyjnik"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "perfumy"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "portmonetka"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "smartfon"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "chusteczki"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "portfel"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "zegarek"
+  }
+]

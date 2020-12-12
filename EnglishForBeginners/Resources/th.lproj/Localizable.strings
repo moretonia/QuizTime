@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "ธีม";
+"3-themes" = "3 ธีม";
+"6-topics" = "6 หัวข้อ";
+"90-words" = "90 คำ";
+"words" = "คำศัพท์";
+"view" = "ดู";
+"main-buy-button" = "ซื้อ";
+
+// Topics
+"matching" = "การจับคู่";
+"translation" = "การแปล";
+"pronunciation" = "การออกเสียง";
+"spelling" = "การสะกด";
+"dictionary" = "พจนานุกรม";
+"buy-theme" = "ซื้อธีม";
+"locked" = "ล็อค";
+
+// Quiz
+"some-theme-quiz" = "ธีมควิซ\n%@";
+"collect-stars-to-unlock" = "สะสมดาว %d ดวงเพื่อปลดล็อคควิซ";
+"can-start-quiz" = "คุณเริ่มควิซได้";
+"quiz" = "ควิซ";
+"pass-quiz-again" = "เล่นควิซอีกครั้งเพื่อรับประสบการณ์เพิ่ม";
+"repeat" = "เล่นซ้ำ";
+
+// Match Level
+"match" = "จับคู่";
+"verify" = "ยืนยัน";
+
+// Translate level
+"translate" = "แปล";
+"wrong" = "ผิด";
+"next" = "ถัดไป";
+
+// Spelling level
+"spell" = "สะกด";
+"english-translation" = "คำแปลภาษาอังกฤษ";
+
+// Listen & Say level
+"listen-and-say" = "ฟัง & พูด";
+"try-again" = "โปรดลองอีกครั้ง";
+
+// Alerts
+"warning" = "คำเตือน";
+"progress-lost" = "คุณต้องการปิดเลเวลหรือไม่? ความคืบหน้าทั้งหมดจะหายไป";
+"cancel" = "ยกเลิก";
+"close" = "ปิด";
+"quiz-fail" = "น่าเสียดาย คุณไม่ผ่านควิซ";
+"not-pass-level" = "น่าเสียดาย คุณไม่ผ่านเลเวล";
+"back-to-theme" = "กลับสู่ธีม";
+"retry" = "ลองอีกครั้ง";
+
+// Profile
+/*"profile" = "โปรไฟล์";
+"experience" = "ประสบการณ์";
+"skills" = "ทักษะ";
+"next-level" = "ถัดไป: %d";
+
+// Ranks
+"beginner" = "ผู้เริ่มต้น";
+"pupil" = "นักเรียน";
+"student" = "นักศึกษา";
+"connoisseur" = "ผู้เชี่ยวชาญ";
+"outstanding" = "ผู้โดดเด่น";
+"specialist" = "ผู้ชำนาญการ";
+"pro" = "มืออาชีพ";
+"master" = "อาจารย์";
+"magister" = "ปรมาจารย์";
+"guru" = "กูรู";
+"sage" = "นักปราชญ์";
+"enlightened" = "ผู้รู้แจ้ง";
+"oracle" = "นักพยากรณ์";
+"genius" = "อัจฉริยะ";
+"higher-mind" = "ผู้มีคุณธรรมสูง";
+"supermind" = "ผู้มีจิตสุดยอด";
+
+// Profile
+"leaderboard" = "กระดานผู้นำ";
+"restore-purchases" = "เรียกคืนการซื้อ";
+"rate-us" = "ให้คะแนนเรา";
+"share" = "แบ่งปัน";
+"change-language" = "เปลี่ยนภาษา";
+"about-us" = "เกี่ยวกับเรา";*/
+
+// Sharing
+"experience-and-rank-share" = "ฉันมีค่าประสบการณ์ %d ใน Quiz Time และตอนนี้ระดับของฉันคือ “%@”";
+"new-rank-share" = "ฉันถึงระดับใหม่ “%@” ใน Quiz Time แล้ว! ลองดูซิ!";
+"experience-share" = "ฉันได้รับค่าประสบการณ์ %d ใน Quiz Time ภาษาอังกฤษของฉันดีขึ้นทุกวันเลย!";
+"1-star-share" = "ฉันได้ดาว 1 ดวงและค่าประสบการณ์ %d ฉันเรียนภาษาอังกฤษอย่างมีความสุขด้วยแอปพลิเคชัน Quiz Time";
+"2-stars-share" = "ฉันได้ดาว 2 ดวงและค่าประสบการณ์ %d ใน Quiz Time ลองเอาชนะฉันซิ!";
+"3-stars-share" = "ฉันได้ดาว 3 ดวงและค่าประสบการณ์ %d ใน Quiz Time ภาษาอังกฤษของฉันดีขึ้นทุกวันเลย!";
+
+// Language
+/*"my-language" = "ภาษาแม่ของฉัน";
+"ok" = "ตกลง";
+
+// Congratulations
+"congratulations" = "ยินดีด้วย!";
+"xp" = "+%d xp";
+"new-rank" = "ระดับใหม่";*/
+
+// About us
+"about-us-title" = "เกี่ยวกับเรา";
+"model-english-mission" = "แอปพลิเคชัน Quiz Time จะช่วยเพิ่มพูนคำศัพท์ของคุณ, ช่วยพัฒนาการออกเสียงและการสะกดคำในรูปแบบเกม";
+"app-structure" = "คำศัพท์ในแอปพลิเคชันถูกแบ่งออกเป็นธีม แต่ละธีมประกอบด้วย 6 หัวข้อและควิซของคำศัพท์ทั้งหมดในธีม แต่ละหัวข้อมีพจนานุกรม  _  15 คำ";
+"about-mechanics-description" = "การผสมผสานอย่างมีเอกลักษณ์ของเกมมากมายจะช่วยให้คุณเข้าใจคำศัพท์ได้อย่างรวดเร็วและมีประสิทธิภาพ:";
+"matching" = "การจับคู่";
+"about-mechanics-matching-description" = "ในเลเวลนี้คุณต้องเลือกรูปภาพที่ตรงกับคำศัพท์";
+"translation" = "การแปล";
+"about-mechanics-translator-description" = "เลือกคำแปลที่ถูกต้องของคำศัพท์";
+"pronunciation" = "การออกเสียง";
+"about-mechanics-pronunciation-description" = "ฟังและออกเสียงคำศัพท์ ตรวจสอบให้แน่ใจว่าเปิดไมโครโฟนอยู่";
+"spelling" = "การสะกดคำ";
+"about-mechanics-spelling-description" = "ใส่คำศัพท์ด้วยคีย์บอร์ด";
+"about-rewards-little-star-description" = "เมื่อผ่านเลเวลได้สำเร็จคุณจะได้รับดาวดวงเล็กตั้งแต่ 1 ถึง 3 ดวง";
+"about-rewards-bronze-star-description" = "คุณจะได้รับดาวทองแดงถ้าได้คะแนนอย่างน้อย 50 ดาวเล็ก";
+"about-rewards-silver-star-description" = "คุณจะได้รับดาวเงินถ้าได้คะแนนอย่างน้อย 75 ดาวเล็ก";
+"about-rewards-golden-star-description" = "คุณจะได้รับดาวทองถ้าได้คะแนนอย่างน้อย 100 ดาวเล็ก";
+"about-rewards-passed-exam-description" = "สัญลักษณ์หมวกบัณฑิตแสดงถึงการผ่านควิซของธีมได้สำเร็จ";
+"about-rewards-description" = "เมื่อผ่านแต่ละเลเวลหรือควิซ คุณจะได้ค่าประสบการณ์และระดับที่ต่างกัน: ผู้เริ่มต้น, อาจารย์, และอื่น ๆ สามารถหาข้อมูลเพิ่มเติมของความสำเร็จได้ที่โปรไฟล์  _ ";
+"copyright" = "ลิขสิทธิ์ © B. V. Rolandsen 2020";
+"design-and-development" = "ออกแบบและพัฒนาโดย Bryan Rolandsen";
+
+// Alerts
+"correct" = "ถูกต้อง";
+"finish" = "เสร็จสิ้น";
+"error" = "ผิดพลาด";
+"error-load-leaderboard" = "การโหลดกระดานผู้นำผิดพลาด โปรดลองใหม่ภายหลัง";
+"timeout" = "หมดเวลาแล้ว";
+"speech-recognition-unavailable" = "การรู้จำเสียงไม่พร้อมใช้งาน";
+"device-settings-for-speech" = "1. ตรวจสอบการตั้งค่าอุปกรณ์ (ตั้งค่า -> ทั่วไป -> คีย์บอร์ด -> เปิดระบบพิมพ์ตามเสียงพูด)";
+"check-internet-for-speech" = "2. หากการรู้จำเสียงยังไม่ทำงาน โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณและลองอีกครั้ง";
+"already-cancel-auth" = "โปรดลงชื่อเข้าใช้บัญชี Game Center โดยใช้การตั้งค่าอุปกรณ์";
+"settings" = "ตั้งค่า";
+"micro-usage-cancel" = "การเข้าถึงไมโครโฟนถูกปฏิเสธ โปรดตรวจสอบการตั้งค่าอุปกรณ์";
+"speech-usage-cancel" = "การเข้าถึงการรู้จำเสียงถูกปฏิเสธ โปรดตรวจสอบการตั้งค่าอุปกรณ์";
+"not-support-speech-recognition" = "อุปกรณ์ของคุณไม่รองรับการรู้จำเสียง";
+
+// Packs
+"main-pack-info" = "3 ธีม, 18 หัวข้อ, 270 คำ";
+
+// Other
+"topics-count" = "6 หัวข้อ, 90 คำ";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

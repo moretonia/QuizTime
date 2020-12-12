@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "테마";
+"3-themes" = "3개의 테마";
+"6-topics" = "6개의 주제";
+"90-words" = "90개의 단어";
+"words" = "단어";
+"view" = "보기";
+"main-buy-button" = "구입";
+
+// Topics
+"matching" = "맞추기";
+"translation" = "번역";
+"pronunciation" = "발음";
+"spelling" = "스펠링";
+"dictionary" = "사전";
+"buy-theme" = "테마 구입";
+"locked" = "잠김";
+
+// Quiz
+"some-theme-quiz" = "%@\n 테마 퀴즈";
+"collect-stars-to-unlock" = "개의 별을 모아 퀴즈 잠김을 %d 해제하세요";
+"can-start-quiz" = "퀴즈를 시작하실 수 있습니다";
+"quiz" = "퀴즈";
+"pass-quiz-again" = "퀴즈를 다시 통과하고 더 많은 경험치를 얻으세요";
+"repeat" = "다시하기";
+
+// Match Level
+"match" = "맞추기";
+"verify" = "확인하기";
+
+// Translate level
+"translate" = "번역하기";
+"wrong" = "오답";
+"next" = "다음";
+
+// Spelling level
+"spell" = "스펠링";
+"english-translation" = "영어 번역";
+
+// Listen & Say level
+"listen-and-say" = "듣기 & 말하기";
+"try-again" = "다시 시도해 주세요";
+
+// Alerts
+"warning" = "경고";
+"progress-lost" = "레벨을 종료하시겠습니까? 모든 진행 상태가 손실됩니다.";
+"cancel" = "취소";
+"close" = "닫기";
+"quiz-fail" = "안타깝게도 퀴즈에 실패 했습니다.";
+"not-pass-level" = "안타깝게도 레벨을 통과하지 못 했습니다.";
+"back-to-theme" = "테마로 돌아가기";
+"retry" = "다시 하기";
+
+// Profile
+/*"profile" = "프로필";
+"experience" = "경험";
+"skills" = "스킬";
+"next-level" = "다음: %d";
+
+// Ranks
+"beginner" = "초급자";
+"pupil" = "학생";
+"student" = "학생";
+"connoisseur" = "권위자";
+"outstanding" = "뛰어남";
+"specialist" = "전문가";
+"pro" = "프로";
+"master" = "마스터";
+"magister" = "마술사";
+"guru" = "전문가";
+"sage" = "현자";
+"enlightened" = "깨우친";
+"oracle" = "신탁";
+"genius" = "천재";
+"higher-mind" = "고상한 두뇌";
+"supermind" = "슈퍼 두뇌";
+
+// Profile
+"leaderboard" = "상위권 표";
+"restore-purchases" = "구매 복원";
+"rate-us" = "등급을 매겨주세요";
+"share" = "공유하기";
+"change-language" = "언어 변경";
+"about-us" = "저희에 대해";*/
+
+// Sharing
+"experience-and-rank-share" = "저는 Quiz Time에서 %d의 경험이 있으며 현재 제 랭킹은 '%@' 입니다.";
+"new-rank-share" = "저는 Quiz Time에서 새로운 랭킹인 ’%@'에 도달했습니다! 시도 해 보세요!";
+"experience-share" = "저는 Quiz Time에서 %d의 경험을 얻었습니다. 제 영어는 매일 더 나아지고 있습니다!";
+"1-star-share" = "저는 1 별을 얻고 %d의 경험을 얻었습니다. 저는 Quiz Time 앱으로 영어를 재미있게 배우고 있습니다.";
+"2-stars-share" = "저는 Quiz Time에서 2별을 얻고 %d의 경험을 얻었습니다. 저를 뛰어넘어 보세요!";
+"3-stars-share" = "저는 Quiz Time에서 3별을 얻고 %d의 경험을 얻었습니다. 제 영어는 매일 더 나아지고 있습니다!";
+
+// Language
+/*"my-language" = "내 모국어";
+"ok" = "네";
+
+// Congratulations
+"congratulations" = "축하합니다!";
+"xp" = "+%d 경험";
+"new-rank" = "새로운 랭킹";*/
+
+// About us
+"about-us-title" = "저희에 대하여";
+"model-english-mission" = "Quiz Time 앱은 게임의 형태로 귀하의 어휘력을 증진시키며, 발음과 스펠링을 개선하는 것을 돕습니다.";
+"app-structure" = "앱의 단어는 테마별로 나뉘며, 각 테마는 6개의 주제와 전체 테마에 대한 퀴즈로 구성됩니다. 각 주제는 15단어로 된 사전 _ 을 포함합니다.";
+"about-mechanics-description" = "여러 가지 게임 역학의 독특한 조합은 빠르고 효율적으로 단어를 마스터하는 데 도움이 됩니다.";
+"matching" = "맞추기";
+"about-mechanics-matching-description" = "이 레벨에서는 단어에 맞는 올바른 이미지를 골라야 합니다.";
+"translation" = "번역";
+"about-mechanics-translator-description" = "단어에 맞는 번역을 고르세요.";
+"pronunciation" = "발음";
+"about-mechanics-pronunciation-description" = "단어를 듣고 발음하세요. 마이크가 켜져 있는지 확인하십시오.";
+"spelling" = "스펠링";
+"about-mechanics-spelling-description" = "키보드로 단어를 입력하세요.";
+"about-rewards-little-star-description" = "레벨을 성공적으로 통과하면 1에서 3개의 작은 별을 획득하게 됩니다.";
+"about-rewards-bronze-star-description" = "50개의 작은 별을 획득하면 청동별을 가지게 됩니다";
+"about-rewards-silver-star-description" = "75개의 작은 별을 획득하면 은별을 가지게 됩니다";
+"about-rewards-golden-star-description" = "100개의 작은 별을 획득하면 금 별을 수여 받게 됩니다.";
+"about-rewards-passed-exam-description" = "학술모는 테마에 대한 퀴즈의 성공적인 통과를 상징합니다.";
+"about-rewards-description" = "각 레벨 또는 퀴즈를 통과할 때마다 경험과 다른 랭킹을 얻게 됩니다: 초급, 마스터, 그리고 기타. 귀하의 업적에 대한 추가 정보는 프로필에서 찾을 수 있습니다  _ .";
+"copyright" = "저작권© B. V. Rolandsen 2020";
+"design-and-development" = "Bryan Rolandsen에 의해 디자인 및 개발됨";
+
+// Alerts
+"correct" = "정답";
+"finish" = "끝";
+"error" = "오류";
+"error-load-leaderboard" = "상위권 표 로딩에 오류가 생겼습니다. 다시 시도해주십시오.";
+"timeout" = "시간제한이 초과되었습니다.";
+"speech-recognition-unavailable" = "음성인식이 불가능합니다.";
+"device-settings-for-speech" = "1. 기기 설정을 점검하십시오 (설정-> 일반-> 키보드-> 음성입력 활성화)";
+"check-internet-for-speech" = "2. 그래도 인식이 되지 않으면 인터넷 연결을 확인하고 다시 시도하십시오.";
+"already-cancel-auth" = "기기 설정을 사용하여 게임 센터 계정에 로그인 하십시오.";
+"settings" = "설정";
+"micro-usage-cancel" = "마이크 접근이 거부되었습니다. 기기 설정을 확인하십시오.";
+"speech-usage-cancel" = "음성 인식 접근이 거부되었습니다. 기기 설정을 확인하십시오.";
+"not-support-speech-recognition" = "귀하의 기기가 음성 인식을 지원하지 않습니다.";
+
+// Packs
+"main-pack-info" = "3개의 테마, 18개의 주제, 270개의 단어";
+
+// Other
+"topics-count" = "6개의 주제, 90개의 단어";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

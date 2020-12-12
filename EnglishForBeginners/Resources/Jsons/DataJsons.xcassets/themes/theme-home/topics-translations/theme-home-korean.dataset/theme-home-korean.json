@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "화장실"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "주방"
+  },
+  {
+    "id" : "Home",
+    "word" : "집"
+  },
+  {
+    "id" : "House",
+    "word" : "집"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "주방"
+  },
+  {
+    "id" : "Materials",
+    "word" : "자재"
+  }
+]

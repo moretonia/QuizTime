@@ -1,0 +1,542 @@
+[
+ {
+   "id": "verbs0",
+   "word": "balancing",
+   "transcription": "ˈbælənsɪŋ",
+   "imageName": "verbs-balancing"
+ },
+ {
+   "id": "verbs1",
+   "word": "batting",
+   "transcription": "ˈbætɪŋ",
+   "imageName": "verbs-batting"
+ },
+ {
+   "id": "verbs2",
+   "word": "checking",
+   "transcription": "ˈtʃɛkɪŋ",
+   "imageName": "verbs-checking"
+ },
+ {
+   "id": "verbs3",
+   "word": "crying",
+   "transcription": "ˈkraɪɪŋ",
+   "imageName": "verbs-crying"
+ },
+ {
+   "id": "verbs4",
+   "word": "dancing",
+   "transcription": "ˈdænsɪŋ",
+   "imageName": "verbs-dancing"
+ },
+ {
+   "id": "verbs5",
+   "word": "falling",
+   "transcription": "ˈfɔlɪŋ",
+   "imageName": "verbs-falling"
+ },
+ {
+   "id": "verbs6",
+   "word": "jumping",
+   "transcription": "ˈdʒʌmpɪŋ",
+   "imageName": "verbs-jumping"
+ },
+ {
+   "id": "verbs7",
+   "word": "launching",
+   "transcription": "ˈlɔntʃɪŋ",
+   "imageName": "verbs-launching"
+ },
+ {
+   "id": "verbs8",
+   "word": "running",
+   "transcription": "ˈrʌnɪŋ",
+   "imageName": "verbs-running"
+ },
+ {
+   "id": "verbs9",
+   "word": "singing",
+   "transcription": "ˈsɪŋɪŋ",
+   "imageName": "verbs-singing"
+ },
+ {
+   "id": "verbs10",
+   "word": "sitting",
+   "transcription": "ˈsɪtɪŋ",
+   "imageName": "verbs-sitting"
+ },
+ {
+   "id": "verbs11",
+   "word": "sleeping",
+   "transcription": "ˈsliːpɪŋ",
+   "imageName": "verbs-sleeping"
+ },
+ {
+   "id": "verbs12",
+   "word": "smiling",
+   "transcription": "ˈsmaɪəlɪŋ",
+   "imageName": "verbs-smiling"
+ },
+ {
+   "id": "verbs13",
+   "word": "standing",
+   "transcription": "ˈstændɪŋ",
+   "imageName": "verbs-standing"
+ },
+ {
+   "id": "verbs14",
+   "word": "walking",
+   "transcription": "ˈwɔkɪŋ",
+   "imageName": "verbs-walking"
+ },
+ {
+   "id": "verbs15",
+   "word": "brushing",
+   "transcription": "ˈbrʌʃɪŋ",
+   "imageName": "verbs-brushing"
+ },
+ {
+   "id": "verbs16",
+   "word": "chopping",
+   "transcription": "ˈtʃɑpɪŋ",
+   "imageName": "verbs-chopping"
+ },
+ {
+   "id": "verbs17",
+   "word": "cleaning",
+   "transcription": "ˈkliːnɪŋ",
+   "imageName": "verbs-cleaning"
+ },
+ {
+   "id": "verbs18",
+   "word": "cooking",
+   "transcription": "ˈkʊkɪŋ",
+   "imageName": "verbs-cooking"
+ },
+ {
+   "id": "verbs19",
+   "word": "drawing",
+   "transcription": "ˈdrɔɪŋ",
+   "imageName": "verbs-drawing"
+ },
+ {
+   "id": "verbs20",
+   "word": "drinking",
+   "transcription": "ˈdrɪŋkɪŋ",
+   "imageName": "verbs-drinking"
+ },
+ {
+   "id": "verbs21",
+   "word": "drying",
+   "transcription": "ˈdraɪɪŋ",
+   "imageName": "verbs-drying"
+ },
+ {
+   "id": "verbs22",
+   "word": "eating",
+   "transcription": "ˈiːtɪŋ",
+   "imageName": "verbs-eating"
+ },
+ {
+   "id": "verbs23",
+   "word": "exercising",
+   "transcription": "ˈɛksɚˌsaɪzɪŋ",
+   "imageName": "verbs-exercising"
+ },
+ {
+   "id": "verbs24",
+   "word": "flashing",
+   "transcription": "ˈflæʃɪŋ",
+   "imageName": "verbs-flashing"
+ },
+ {
+   "id": "verbs25",
+   "word": "reading",
+   "transcription": "ˈriːdɪŋ",
+   "imageName": "verbs-reading"
+ },
+ {
+   "id": "verbs26",
+   "word": "shaving",
+   "transcription": "ˈʃeɪvɪŋ",
+   "imageName": "verbs-shaving"
+ },
+ {
+   "id": "verbs27",
+   "word": "waking",
+   "transcription": "ˈweɪkɪŋ",
+   "imageName": "verbs-waking"
+ },
+ {
+   "id": "verbs28",
+   "word": "washing",
+   "transcription": "ˈwɔʃɪŋ",
+   "imageName": "verbs-washing"
+ },
+ {
+   "id": "verbs29",
+   "word": "writing",
+   "transcription": "ˈraɪtɪŋ",
+   "imageName": "verbs-writing"
+ },
+ {
+   "id": "verbs30",
+   "word": "driving",
+   "transcription": "ˈdraɪvɪŋ",
+   "imageName": "verbs-driving"
+ },
+ {
+   "id": "verbs31",
+   "word": "grating",
+   "transcription": "ˈɡreɪtɪŋ",
+   "imageName": "verbs-grating"
+ },
+ {
+   "id": "verbs32",
+   "word": "helping",
+   "transcription": "ˈhɛlpɪŋ",
+   "imageName": "verbs-helping"
+ },
+ {
+   "id": "verbs33",
+   "word": "hitting",
+   "transcription": "ˈhɪtɪŋ",
+   "imageName": "verbs-hitting"
+ },
+ {
+   "id": "verbs34",
+   "word": "milking",
+   "transcription": "ˈmɪlkɪŋ",
+   "imageName": "verbs-milking"
+ },
+ {
+   "id": "verbs35",
+   "word": "opening",
+   "transcription": "ˈoʊpənɪŋ",
+   "imageName": "verbs-opening"
+ },
+ {
+   "id": "verbs36",
+   "word": "posting",
+   "transcription": "ˈpoʊstɪŋ",
+   "imageName": "verbs-posting"
+ },
+ {
+   "id": "verbs37",
+   "word": "relaxing",
+   "transcription": "rɪˈlæksɪŋ",
+   "imageName": "verbs-relaxing"
+ },
+ {
+   "id": "verbs38",
+   "word": "rolling",
+   "transcription": "ˈroʊlɪŋ",
+   "imageName": "verbs-rolling"
+ },
+ {
+   "id": "verbs39",
+   "word": "skipping",
+   "transcription": "ˈskɪpɪŋ",
+   "imageName": "verbs-skipping"
+ },
+ {
+   "id": "verbs40",
+   "word": "speaking",
+   "transcription": "ˈspiːkɪŋ",
+   "imageName": "verbs-speaking"
+ },
+ {
+   "id": "verbs41",
+   "word": "squeezing",
+   "transcription": "ˈskwiːzɪŋ",
+   "imageName": "verbs-squeezing"
+ },
+ {
+   "id": "verbs42",
+   "word": "swimming",
+   "transcription": "ˈswɪmɪŋ",
+   "imageName": "verbs-swimming"
+ },
+ {
+   "id": "verbs43",
+   "word": "swinging",
+   "transcription": "ˈswɪŋɪŋ",
+   "imageName": "verbs-swinging"
+ },
+ {
+   "id": "verbs44",
+   "word": "texting",
+   "transcription": "ˈtɛkstɪŋ",
+   "imageName": "verbs-texting"
+ },
+ {
+   "id": "verbs45",
+   "word": "applauding",
+   "transcription": "əˈplɔdɪŋ",
+   "imageName": "verbs-applauding"
+ },
+ {
+   "id": "verbs46",
+   "word": "baking",
+   "transcription": "ˈbeɪkɪŋ",
+   "imageName": "verbs-baking"
+ },
+ {
+   "id": "verbs47",
+   "word": "calculating",
+   "transcription": "ˈkælkjəˌleɪtɪŋ",
+   "imageName": "verbs-calculating"
+ },
+ {
+   "id": "verbs48",
+   "word": "chasing",
+   "transcription": "ˈtʃeɪsɪŋ",
+   "imageName": "verbs-chasing"
+ },
+ {
+   "id": "verbs49",
+   "word": "decorating",
+   "transcription": "ˈdɛkɚˌreɪtɪŋ",
+   "imageName": "verbs-decorating"
+ },
+ {
+   "id": "verbs50",
+   "word": "entering",
+   "transcription": "ˈɛntɚrɪŋ",
+   "imageName": "verbs-entering"
+ },
+ {
+   "id": "verbs51",
+   "word": "hammering",
+   "transcription": "ˈhæmɚrɪŋ",
+   "imageName": "verbs-hammering"
+ },
+ {
+   "id": "verbs52",
+   "word": "jogging",
+   "transcription": "ˈdʒɑɡɪŋ",
+   "imageName": "verbs-jogging"
+ },
+ {
+   "id": "verbs53",
+   "word": "kneeling",
+   "transcription": "ˈniːlɪŋ",
+   "imageName": "verbs-kneeling"
+ },
+ {
+   "id": "verbs54",
+   "word": "marching",
+   "transcription": "ˈmɑrtʃɪŋ",
+   "imageName": "verbs-marching"
+ },
+ {
+   "id": "verbs55",
+   "word": "playing",
+   "transcription": "ˈpleɪɪŋ",
+   "imageName": "verbs-playing"
+ },
+ {
+   "id": "verbs56",
+   "word": "reversing",
+   "transcription": "rɪˈvɝsɪŋ",
+   "imageName": "verbs-reversing"
+ },
+ {
+   "id": "verbs57",
+   "word": "rubbing",
+   "transcription": "ˈrʌbɪŋ",
+   "imageName": "verbs-rubbing"
+ },
+ {
+   "id": "verbs58",
+   "word": "smoking",
+   "transcription": "ˈsmoʊkɪŋ",
+   "imageName": "verbs-smoking"
+ },
+ {
+   "id": "verbs59",
+   "word": "waving",
+   "transcription": "ˈweɪvɪŋ",
+   "imageName": "verbs-waving"
+ },
+ {
+   "id": "verbs60",
+   "word": "arguing",
+   "transcription": "ˈɑrɡjuːɪŋ",
+   "imageName": "verbs-arguing"
+ },
+ {
+   "id": "verbs61",
+   "word": "arresting",
+   "transcription": "ɚˈrɛstɪŋ",
+   "imageName": "verbs-arresting"
+ },
+ {
+   "id": "verbs62",
+   "word": "camping",
+   "transcription": "ˈkæmpɪŋ",
+   "imageName": "verbs-camping"
+ },
+ {
+   "id": "verbs63",
+   "word": "carrying",
+   "transcription": "ˈkɛriːɪŋ",
+   "imageName": "verbs-carrying"
+ },
+ {
+   "id": "verbs64",
+   "word": "dripping",
+   "transcription": "ˈdrɪpɪŋ",
+   "imageName": "verbs-dripping"
+ },
+ {
+   "id": "verbs65",
+   "word": "drumming",
+   "transcription": "ˈdrʌmɪŋ",
+   "imageName": "verbs-drumming"
+ },
+ {
+   "id": "verbs66",
+   "word": "floating",
+   "transcription": "ˈfloʊtɪŋ",
+   "imageName": "verbs-floating"
+ },
+ {
+   "id": "verbs67",
+   "word": "greeting",
+   "transcription": "ˈɡriːtɪŋ",
+   "imageName": "verbs-greeting"
+ },
+ {
+   "id": "verbs68",
+   "word": "knitting",
+   "transcription": "ˈnɪtɪŋ",
+   "imageName": "verbs-knitting"
+ },
+ {
+   "id": "verbs69",
+   "word": "pointing",
+   "transcription": "ˈpɔɪntɪŋ",
+   "imageName": "verbs-pointing"
+ },
+ {
+   "id": "verbs70",
+   "word": "pumping",
+   "transcription": "ˈpʌmpɪŋ",
+   "imageName": "verbs-pumping"
+ },
+ {
+   "id": "verbs71",
+   "word": "sewing",
+   "transcription": "ˈsoʊɪŋ",
+   "imageName": "verbs-sewing"
+ },
+ {
+   "id": "verbs72",
+   "word": "sliding",
+   "transcription": "ˈslaɪdɪŋ",
+   "imageName": "verbs-sliding"
+ },
+ {
+   "id": "verbs73",
+   "word": "snowing",
+   "transcription": "ˈsnoʊɪŋ",
+   "imageName": "verbs-snowing"
+ },
+ {
+   "id": "verbs74",
+   "word": "twisting",
+   "transcription": "ˈtwɪstɪŋ",
+   "imageName": "verbs-twisting"
+ },
+ {
+   "id": "verbs75",
+   "word": "biting",
+   "transcription": "ˈbaɪtɪŋ",
+   "imageName": "verbs-biting"
+ },
+ {
+   "id": "verbs76",
+   "word": "blessing",
+   "transcription": "ˈblɛsɪŋ",
+   "imageName": "verbs-blessing"
+ },
+ {
+   "id": "verbs77",
+   "word": "bowling",
+   "transcription": "ˈboʊlɪŋ",
+   "imageName": "verbs-bowling"
+ },
+ {
+   "id": "verbs78",
+   "word": "burning",
+   "transcription": "ˈbɝnɪŋ",
+   "imageName": "verbs-burning"
+ },
+ {
+   "id": "verbs79",
+   "word": "cheering",
+   "transcription": "ˈtʃɪrɪŋ",
+   "imageName": "verbs-cheering"
+ },
+ {
+   "id": "verbs80",
+   "word": "combing",
+   "transcription": "ˈkoʊmɪŋ",
+   "imageName": "verbs-combing"
+ },
+ {
+   "id": "verbs81",
+   "word": "crawling",
+   "transcription": "ˈkrɔlɪŋ",
+   "imageName": "verbs-crawling"
+ },
+ {
+   "id": "verbs82",
+   "word": "filming",
+   "transcription": "ˈfɪlmɪŋ",
+   "imageName": "verbs-filming"
+ },
+ {
+   "id": "verbs83",
+   "word": "hovering",
+   "transcription": "ˈhʌvɚrɪŋ",
+   "imageName": "verbs-hovering"
+ },
+ {
+   "id": "verbs84",
+   "word": "melting",
+   "transcription": "ˈmɛltɪŋ",
+   "imageName": "verbs-melting"
+ },
+ {
+   "id": "verbs85",
+   "word": "mixing",
+   "transcription": "ˈmɪksɪŋ",
+   "imageName": "verbs-mixing"
+ },
+ {
+   "id": "verbs86",
+   "word": "paddling",
+   "transcription": "ˈpædl̩ɪŋ",
+   "imageName": "verbs-paddling"
+ },
+ {
+   "id": "verbs87",
+   "word": "pecking",
+   "transcription": "ˈpɛkɪŋ",
+   "imageName": "verbs-pecking"
+ },
+ {
+   "id": "verbs88",
+   "word": "polishing",
+   "transcription": "ˈpɑlɪʃɪŋ",
+   "imageName": "verbs-polishing"
+ },
+ {
+   "id": "verbs89",
+   "word": "stretching",
+   "transcription": "ˈstrɛtʃɪŋ",
+   "imageName": "verbs-stretching"
+ }
+]

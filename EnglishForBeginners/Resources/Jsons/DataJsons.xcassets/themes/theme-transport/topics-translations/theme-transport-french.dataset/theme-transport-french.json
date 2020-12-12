@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bicycles",
+    "word" : "Vélos"
+  },
+  {
+    "id" : "Boats",
+    "word" : "Bateaux"
+  },
+  {
+    "id" : "Driving",
+    "word" : "Conduite"
+  },
+  {
+    "id" : "Road Signs",
+    "word" : "Panneaux de signalisation"
+  },
+  {
+    "id" : "Trains",
+    "word" : "Trains"
+  },
+  {
+    "id" : "Transportation",
+    "word" : "Transport"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "zaleta"
+  },
+  {
+    "id" : "business1",
+    "word" : "reklama"
+  },
+  {
+    "id" : "business2",
+    "word" : "rachunek"
+  },
+  {
+    "id" : "business3",
+    "word" : "budżet"
+  },
+  {
+    "id" : "business4",
+    "word" : "porównanie"
+  },
+  {
+    "id" : "business5",
+    "word" : "kunkurent"
+  },
+  {
+    "id" : "business6",
+    "word" : "potwierdzenie"
+  },
+  {
+    "id" : "business7",
+    "word" : "klient"
+  },
+  {
+    "id" : "business8",
+    "word" : "termin"
+  },
+  {
+    "id" : "business9",
+    "word" : "dług"
+  },
+  {
+    "id" : "business10",
+    "word" : "decyzja"
+  },
+  {
+    "id" : "business11",
+    "word" : "dostawa"
+  },
+  {
+    "id" : "business12",
+    "word" : "cena"
+  },
+  {
+    "id" : "business13",
+    "word" : "harmonogram"
+  },
+  {
+    "id" : "business14",
+    "word" : "praca zespołowa"
+  },
+  {
+    "id" : "business15",
+    "word" : "ocena"
+  },
+  {
+    "id" : "business16",
+    "word" : "prezentacja"
+  },
+  {
+    "id" : "business17",
+    "word" : "dystrybucja"
+  },
+  {
+    "id" : "business18",
+    "word" : "pracownicy"
+  },
+  {
+    "id" : "business19",
+    "word" : "pracodawca"
+  },
+  {
+    "id" : "business20",
+    "word" : "fabryka"
+  },
+  {
+    "id" : "business21",
+    "word" : "wzrost"
+  },
+  {
+    "id" : "business22",
+    "word" : "menedżer"
+  },
+  {
+    "id" : "business23",
+    "word" : "instrukcje"
+  },
+  {
+    "id" : "business24",
+    "word" : "rozmowa rekrutacyjna"
+  },
+  {
+    "id" : "business25",
+    "word" : "faktura"
+  },
+  {
+    "id" : "business26",
+    "word" : "spadek"
+  },
+  {
+    "id" : "business27",
+    "word" : "maszyneria"
+  },
+  {
+    "id" : "business28",
+    "word" : "towar"
+  },
+  {
+    "id" : "business29",
+    "word" : "magazynowanie"
+  },
+  {
+    "id" : "business30",
+    "word" : "anulowanie"
+  },
+  {
+    "id" : "business31",
+    "word" : "wymiana"
+  },
+  {
+    "id" : "business32",
+    "word" : "informacja zwrotna"
+  },
+  {
+    "id" : "business33",
+    "word" : "instalacja"
+  },
+  {
+    "id" : "business34",
+    "word" : "zamówienie"
+  },
+  {
+    "id" : "business35",
+    "word" : "płatność"
+  },
+  {
+    "id" : "business36",
+    "word" : "kara"
+  },
+  {
+    "id" : "business37",
+    "word" : "produkty"
+  },
+  {
+    "id" : "business38",
+    "word" : "promocja"
+  },
+  {
+    "id" : "business39",
+    "word" : "odrzucenie"
+  },
+  {
+    "id" : "business40",
+    "word" : "naprawy"
+  },
+  {
+    "id" : "business41",
+    "word" : "raport"
+  },
+  {
+    "id" : "business42",
+    "word" : "wynagrodzenie"
+  },
+  {
+    "id" : "business43",
+    "word" : "wysyłka"
+  },
+  {
+    "id" : "business44",
+    "word" : "cel"
+  },
+  {
+    "id" : "business45",
+    "word" : "antyki"
+  },
+  {
+    "id" : "business46",
+    "word" : "artefakty"
+  },
+  {
+    "id" : "business47",
+    "word" : "komiksy"
+  },
+  {
+    "id" : "business48",
+    "word" : "diamenty"
+  },
+  {
+    "id" : "business49",
+    "word" : "figurki"
+  },
+  {
+    "id" : "business50",
+    "word" : "skamieniałości"
+  },
+  {
+    "id" : "business51",
+    "word" : "złote monety"
+  },
+  {
+    "id" : "business52",
+    "word" : "modele samochodów"
+  },
+  {
+    "id" : "business53",
+    "word" : "plakaty"
+  },
+  {
+    "id" : "business54",
+    "word" : "rubiny"
+  },
+  {
+    "id" : "business55",
+    "word" : "szafiry"
+  },
+  {
+    "id" : "business56",
+    "word" : "srebro"
+  },
+  {
+    "id" : "business57",
+    "word" : "znaczki"
+  },
+  {
+    "id" : "business58",
+    "word" : "zabytkowe samochody"
+  },
+  {
+    "id" : "business59",
+    "word" : "dzieła sztuki"
+  },
+  {
+    "id" : "business60",
+    "word" : "gotówka"
+  },
+  {
+    "id" : "business61",
+    "word" : "kasjer"
+  },
+  {
+    "id" : "business62",
+    "word" : "karta kredytowa"
+  },
+  {
+    "id" : "business63",
+    "word" : "katalog"
+  },
+  {
+    "id" : "business64",
+    "word" : "przymierzalnia"
+  },
+  {
+    "id" : "business65",
+    "word" : "klawiatura"
+  },
+  {
+    "id" : "business66",
+    "word" : "poszukiwanie"
+  },
+  {
+    "id" : "business67",
+    "word" : "zapłata"
+  },
+  {
+    "id" : "business68",
+    "word" : "metka"
+  },
+  {
+    "id" : "business69",
+    "word" : "wyprzedaż"
+  },
+  {
+    "id" : "business70",
+    "word" : "torba na zakupy"
+  },
+  {
+    "id" : "business71",
+    "word" : "zakupy"
+  },
+  {
+    "id" : "business72",
+    "word" : "transakcje"
+  },
+  {
+    "id" : "business73",
+    "word" : "mierzenie"
+  },
+  {
+    "id" : "business74",
+    "word" : "cofnięcie"
+  },
+  {
+    "id" : "business75",
+    "word" : "piekarnia"
+  },
+  {
+    "id" : "business76",
+    "word" : "księgarnia"
+  },
+  {
+    "id" : "business77",
+    "word" : "rzeźnik"
+  },
+  {
+    "id" : "business78",
+    "word" : "cukiernia"
+  },
+  {
+    "id" : "business79",
+    "word" : "apteka"
+  },
+  {
+    "id" : "business80",
+    "word" : "sklep z ubraniami"
+  },
+  {
+    "id" : "business81",
+    "word" : "ryba z frytkami"
+  },
+  {
+    "id" : "business82",
+    "word" : "kwiaciarnia"
+  },
+  {
+    "id" : "business83",
+    "word" : "sklep z owocami"
+  },
+  {
+    "id" : "business84",
+    "word" : "jubiler"
+  },
+  {
+    "id" : "business85",
+    "word" : "rynek"
+  },
+  {
+    "id" : "business86",
+    "word" : "sklep online"
+  },
+  {
+    "id" : "business87",
+    "word" : "sklep obuwniczy"
+  },
+  {
+    "id" : "business88",
+    "word" : "sklep z zabawkami"
+  },
+  {
+    "id" : "business89",
+    "word" : "biuro podróży"
+  }
+]

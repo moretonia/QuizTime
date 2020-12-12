@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "egyensúlyozni"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "ütőkezelni"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "ellenőrizni"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "sírni"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "táncolni"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "esni"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "ugorni"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "felszállni"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "futni"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "énekelni"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "ülni"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "aludni"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "mosolyogni"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "állni"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "gyalogolni"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "tisztítani"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "szeletelni"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "takarítáni"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "főzni"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "rajzolni"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "inni"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "szárítani"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "enni"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "gyakorolni"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "villanni"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "olvasni"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "borotválkozni"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "ébredni"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "mosni"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "írni"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "vezetni"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "reszelni"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "segíteni"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "megütni"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "fejni"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "nyílni"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "postázni"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "pihenni"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "gördülni"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "ugrálni"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "beszélni"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "összenyomni"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "úszni"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "lengeni"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "szövegelni"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "tapsolni"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "sütni"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "számolni"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "kergetni"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "díszíteni"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "belépni"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "kalapálni"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "kocogni"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "térdelni"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "menetelni"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "játszani"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "tolatni"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "dörzsölni"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "dohányozni"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "integetni"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "vitatkozni"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "megragadni"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "kempingelni"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "szállítani"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "csöpögni"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "dobolni"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "úszni"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "üdvözölni"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "kötni"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "mutatni"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "pumpálni"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "varrni"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "csúszni"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "havazni"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "csavarni"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "harapni"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "áldani"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "tekézni"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "égni"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "éljenzeni"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "fésülni"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "mászni"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "filmezni"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "lebegni"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "olvasztani"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "keverni"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "evezni"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "csipegetni"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "fényesíteni"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "nyújtani"
+  }
+]

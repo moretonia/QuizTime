@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Games",
+    "word" : "遊戲"
+  },
+  {
+    "id" : "Games II",
+    "word" : "遊戲II"
+  },
+  {
+    "id" : "Sporting Equipment",
+    "word" : "運動器材"
+  },
+  {
+    "id" : "Sports",
+    "word" : "體育運動"
+  },
+  {
+    "id" : "Sports II",
+    "word" : "體育運動II"
+  },
+  {
+    "id" : "Leisure",
+    "word" : "休閑"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "дзвінок"
+  },
+  {
+    "id" : "transport1",
+    "word" : "гальмо"
+  },
+  {
+    "id" : "transport2",
+    "word" : "ланцюг"
+  },
+  {
+    "id" : "transport3",
+    "word" : "велосипедист"
+  },
+  {
+    "id" : "transport4",
+    "word" : "передачі"
+  },
+  {
+    "id" : "transport5",
+    "word" : "кермо велосипеда"
+  },
+  {
+    "id" : "transport6",
+    "word" : "шолом"
+  },
+  {
+    "id" : "transport7",
+    "word" : "велосипедна доріжка"
+  },
+  {
+    "id" : "transport8",
+    "word" : "педаль"
+  },
+  {
+    "id" : "transport9",
+    "word" : "насос"
+  },
+  {
+    "id" : "transport10",
+    "word" : "прокол"
+  },
+  {
+    "id" : "transport11",
+    "word" : "катафот"
+  },
+  {
+    "id" : "transport12",
+    "word" : "сидіння"
+  },
+  {
+    "id" : "transport13",
+    "word" : "спиці"
+  },
+  {
+    "id" : "transport14",
+    "word" : "колесо"
+  },
+  {
+    "id" : "transport15",
+    "word" : "вантажне судно"
+  },
+  {
+    "id" : "transport16",
+    "word" : "круїзний лайнер"
+  },
+  {
+    "id" : "transport17",
+    "word" : "пором"
+  },
+  {
+    "id" : "transport18",
+    "word" : "рибальський човен"
+  },
+  {
+    "id" : "transport19",
+    "word" : "гондола"
+  },
+  {
+    "id" : "transport20",
+    "word" : "плавучий будинок"
+  },
+  {
+    "id" : "transport21",
+    "word" : "судно на підводних крилах"
+  },
+  {
+    "id" : "transport22",
+    "word" : "надувний човен"
+  },
+  {
+    "id" : "transport23",
+    "word" : "водний мотоцикл"
+  },
+  {
+    "id" : "transport24",
+    "word" : "джонка"
+  },
+  {
+    "id" : "transport25",
+    "word" : "байдарка"
+  },
+  {
+    "id" : "transport26",
+    "word" : "аутригер"
+  },
+  {
+    "id" : "transport27",
+    "word" : "катамаран"
+  },
+  {
+    "id" : "transport28",
+    "word" : "весельний човен"
+  },
+  {
+    "id" : "transport29",
+    "word" : "яхта"
+  },
+  {
+    "id" : "transport30",
+    "word" : "автомобільний домкрат"
+  },
+  {
+    "id" : "transport31",
+    "word" : "фургон"
+  },
+  {
+    "id" : "transport32",
+    "word" : "приладова дошка"
+  },
+  {
+    "id" : "transport33",
+    "word" : "моторна олія"
+  },
+  {
+    "id" : "transport34",
+    "word" : "мотор"
+  },
+  {
+    "id" : "transport35",
+    "word" : "АЗС"
+  },
+  {
+    "id" : "transport36",
+    "word" : "фари"
+  },
+  {
+    "id" : "transport37",
+    "word" : "шосе"
+  },
+  {
+    "id" : "transport38",
+    "word" : "номерний знак"
+  },
+  {
+    "id" : "transport39",
+    "word" : "пішоходи"
+  },
+  {
+    "id" : "transport40",
+    "word" : "седан"
+  },
+  {
+    "id" : "transport41",
+    "word" : "бічне дзеркало заднього виду"
+  },
+  {
+    "id" : "transport42",
+    "word" : "кермо"
+  },
+  {
+    "id" : "transport43",
+    "word" : "заднє світло автомобіля"
+  },
+  {
+    "id" : "transport44",
+    "word" : "трейлер"
+  },
+  {
+    "id" : "transport45",
+    "word" : "велика рогата худоба"
+  },
+  {
+    "id" : "transport46",
+    "word" : "діти"
+  },
+  {
+    "id" : "transport47",
+    "word" : "небезпека"
+  },
+  {
+    "id" : "transport48",
+    "word" : "перехрестя"
+  },
+  {
+    "id" : "transport49",
+    "word" : "залізничний переїзд"
+  },
+  {
+    "id" : "transport50",
+    "word" : "білі ведмеді"
+  },
+  {
+    "id" : "transport51",
+    "word" : "круговий рух"
+  },
+  {
+    "id" : "transport52",
+    "word" : "слизька дорога"
+  },
+  {
+    "id" : "transport53",
+    "word" : "сніг"
+  },
+  {
+    "id" : "transport54",
+    "word" : "обмеження швидкості"
+  },
+  {
+    "id" : "transport55",
+    "word" : "крутий підйом"
+  },
+  {
+    "id" : "transport56",
+    "word" : "світлофор"
+  },
+  {
+    "id" : "transport57",
+    "word" : "звивиста дорога"
+  },
+  {
+    "id" : "transport58",
+    "word" : "дорожні роботи"
+  },
+  {
+    "id" : "transport59",
+    "word" : "пішохідний перехід"
+  },
+  {
+    "id" : "transport60",
+    "word" : "закусочна"
+  },
+  {
+    "id" : "transport61",
+    "word" : "контролер"
+  },
+  {
+    "id" : "transport62",
+    "word" : "пасажири"
+  },
+  {
+    "id" : "transport63",
+    "word" : "провідник"
+  },
+  {
+    "id" : "transport64",
+    "word" : "вантажний поїзд"
+  },
+  {
+    "id" : "transport65",
+    "word" : "туалет"
+  },
+  {
+    "id" : "transport66",
+    "word" : "локомотив"
+  },
+  {
+    "id" : "transport67",
+    "word" : "платформа"
+  },
+  {
+    "id" : "transport68",
+    "word" : "залізничний міст"
+  },
+  {
+    "id" : "transport69",
+    "word" : "година пік"
+  },
+  {
+    "id" : "transport70",
+    "word" : "місця"
+  },
+  {
+    "id" : "transport71",
+    "word" : "паровоз"
+  },
+  {
+    "id" : "transport72",
+    "word" : "шлейки"
+  },
+  {
+    "id" : "transport73",
+    "word" : "розклад"
+  },
+  {
+    "id" : "transport74",
+    "word" : "рейкові шляхи"
+  },
+  {
+    "id" : "transport75",
+    "word" : "велосипед"
+  },
+  {
+    "id" : "transport76",
+    "word" : "автобус"
+  },
+  {
+    "id" : "transport77",
+    "word" : "автомобіль"
+  },
+  {
+    "id" : "transport78",
+    "word" : "мінівен"
+  },
+  {
+    "id" : "transport79",
+    "word" : "монорельс"
+  },
+  {
+    "id" : "transport80",
+    "word" : "мотоцикл"
+  },
+  {
+    "id" : "transport81",
+    "word" : "моторолер"
+  },
+  {
+    "id" : "transport82",
+    "word" : "велорікша"
+  },
+  {
+    "id" : "transport83",
+    "word" : "роликові ковзани"
+  },
+  {
+    "id" : "transport84",
+    "word" : "самокат"
+  },
+  {
+    "id" : "transport85",
+    "word" : "поїзд метро"
+  },
+  {
+    "id" : "transport86",
+    "word" : "таксі"
+  },
+  {
+    "id" : "transport87",
+    "word" : "поїзд"
+  },
+  {
+    "id" : "transport88",
+    "word" : "трамвай"
+  },
+  {
+    "id" : "transport89",
+    "word" : "вантажівка"
+  }
+]

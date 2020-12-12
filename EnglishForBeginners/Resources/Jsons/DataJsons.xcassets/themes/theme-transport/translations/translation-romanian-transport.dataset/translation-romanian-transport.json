@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "claxon"
+  },
+  {
+    "id" : "transport1",
+    "word" : "frâne"
+  },
+  {
+    "id" : "transport2",
+    "word" : "lanţ"
+  },
+  {
+    "id" : "transport3",
+    "word" : "ciclist"
+  },
+  {
+    "id" : "transport4",
+    "word" : "viteze"
+  },
+  {
+    "id" : "transport5",
+    "word" : "ghidon"
+  },
+  {
+    "id" : "transport6",
+    "word" : "cască"
+  },
+  {
+    "id" : "transport7",
+    "word" : "cale"
+  },
+  {
+    "id" : "transport8",
+    "word" : "pedală"
+  },
+  {
+    "id" : "transport9",
+    "word" : "pompă"
+  },
+  {
+    "id" : "transport10",
+    "word" : "pană"
+  },
+  {
+    "id" : "transport11",
+    "word" : "reflector"
+  },
+  {
+    "id" : "transport12",
+    "word" : "şa"
+  },
+  {
+    "id" : "transport13",
+    "word" : "spițe"
+  },
+  {
+    "id" : "transport14",
+    "word" : "roată"
+  },
+  {
+    "id" : "transport15",
+    "word" : "navă de marfă"
+  },
+  {
+    "id" : "transport16",
+    "word" : "vas de croazieră"
+  },
+  {
+    "id" : "transport17",
+    "word" : "feribot"
+  },
+  {
+    "id" : "transport18",
+    "word" : "barcă de pescuit"
+  },
+  {
+    "id" : "transport19",
+    "word" : "gondolă"
+  },
+  {
+    "id" : "transport20",
+    "word" : "casă plutitoare"
+  },
+  {
+    "id" : "transport21",
+    "word" : "aripi portante"
+  },
+  {
+    "id" : "transport22",
+    "word" : "gonflabile"
+  },
+  {
+    "id" : "transport23",
+    "word" : "jet ski"
+  },
+  {
+    "id" : "transport24",
+    "word" : "deșeuri"
+  },
+  {
+    "id" : "transport25",
+    "word" : "caiac"
+  },
+  {
+    "id" : "transport26",
+    "word" : "furchet"
+  },
+  {
+    "id" : "transport27",
+    "word" : "hidrobicicletă"
+  },
+  {
+    "id" : "transport28",
+    "word" : "barcă cu vâsle"
+  },
+  {
+    "id" : "transport29",
+    "word" : "iaht"
+  },
+  {
+    "id" : "transport30",
+    "word" : "mufă pentru mașină"
+  },
+  {
+    "id" : "transport31",
+    "word" : "rulotă"
+  },
+  {
+    "id" : "transport32",
+    "word" : "bord"
+  },
+  {
+    "id" : "transport33",
+    "word" : "ulei de motor"
+  },
+  {
+    "id" : "transport34",
+    "word" : "motor"
+  },
+  {
+    "id" : "transport35",
+    "word" : "benzinărie"
+  },
+  {
+    "id" : "transport36",
+    "word" : "faruri"
+  },
+  {
+    "id" : "transport37",
+    "word" : "autostradă"
+  },
+  {
+    "id" : "transport38",
+    "word" : "plăcuță de înmatriculare"
+  },
+  {
+    "id" : "transport39",
+    "word" : "pietoni"
+  },
+  {
+    "id" : "transport40",
+    "word" : "sedan"
+  },
+  {
+    "id" : "transport41",
+    "word" : "oglindă laterală"
+  },
+  {
+    "id" : "transport42",
+    "word" : "volan"
+  },
+  {
+    "id" : "transport43",
+    "word" : "stopuri"
+  },
+  {
+    "id" : "transport44",
+    "word" : "remorcă"
+  },
+  {
+    "id" : "transport45",
+    "word" : "bovine"
+  },
+  {
+    "id" : "transport46",
+    "word" : "copii"
+  },
+  {
+    "id" : "transport47",
+    "word" : "pericol"
+  },
+  {
+    "id" : "transport48",
+    "word" : "intersecție"
+  },
+  {
+    "id" : "transport49",
+    "word" : "trecere de nivel"
+  },
+  {
+    "id" : "transport50",
+    "word" : "urși polari"
+  },
+  {
+    "id" : "transport51",
+    "word" : "sens giratoriu"
+  },
+  {
+    "id" : "transport52",
+    "word" : "alunecos"
+  },
+  {
+    "id" : "transport53",
+    "word" : "zăpadă"
+  },
+  {
+    "id" : "transport54",
+    "word" : "limită de viteză"
+  },
+  {
+    "id" : "transport55",
+    "word" : "deal abrupt"
+  },
+  {
+    "id" : "transport56",
+    "word" : "semafor"
+  },
+  {
+    "id" : "transport57",
+    "word" : "drum șerpuit"
+  },
+  {
+    "id" : "transport58",
+    "word" : "muncitori"
+  },
+  {
+    "id" : "transport59",
+    "word" : "trecere de pietoni"
+  },
+  {
+    "id" : "transport60",
+    "word" : "vagon restaurant"
+  },
+  {
+    "id" : "transport61",
+    "word" : "colector"
+  },
+  {
+    "id" : "transport62",
+    "word" : "navetiști"
+  },
+  {
+    "id" : "transport63",
+    "word" : "conductor"
+  },
+  {
+    "id" : "transport64",
+    "word" : "tren de marfă"
+  },
+  {
+    "id" : "transport65",
+    "word" : "spălător"
+  },
+  {
+    "id" : "transport66",
+    "word" : "locomotivă"
+  },
+  {
+    "id" : "transport67",
+    "word" : "platformă"
+  },
+  {
+    "id" : "transport68",
+    "word" : "cale ferată"
+  },
+  {
+    "id" : "transport69",
+    "word" : "oră de varf"
+  },
+  {
+    "id" : "transport70",
+    "word" : "locuri"
+  },
+  {
+    "id" : "transport71",
+    "word" : "tren cu aburi"
+  },
+  {
+    "id" : "transport72",
+    "word" : "curele"
+  },
+  {
+    "id" : "transport73",
+    "word" : "orar"
+  },
+  {
+    "id" : "transport74",
+    "word" : "șine"
+  },
+  {
+    "id" : "transport75",
+    "word" : "bicicletă"
+  },
+  {
+    "id" : "transport76",
+    "word" : "autobuz"
+  },
+  {
+    "id" : "transport77",
+    "word" : "mașină"
+  },
+  {
+    "id" : "transport78",
+    "word" : "dubiță"
+  },
+  {
+    "id" : "transport79",
+    "word" : "mono șină"
+  },
+  {
+    "id" : "transport80",
+    "word" : "motocicletă"
+  },
+  {
+    "id" : "transport81",
+    "word" : "scuter"
+  },
+  {
+    "id" : "transport82",
+    "word" : "ricşă"
+  },
+  {
+    "id" : "transport83",
+    "word" : "patine cu rotile"
+  },
+  {
+    "id" : "transport84",
+    "word" : "trotinetă"
+  },
+  {
+    "id" : "transport85",
+    "word" : "metrou"
+  },
+  {
+    "id" : "transport86",
+    "word" : "taxi"
+  },
+  {
+    "id" : "transport87",
+    "word" : "tren"
+  },
+  {
+    "id" : "transport88",
+    "word" : "tramvai"
+  },
+  {
+    "id" : "transport89",
+    "word" : "camion"
+  }
+]

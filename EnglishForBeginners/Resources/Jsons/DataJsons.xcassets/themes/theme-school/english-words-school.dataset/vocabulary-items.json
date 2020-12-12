@@ -1,0 +1,542 @@
+[
+ {
+   "id": "school0",
+   "word": "art gallery",
+   "transcription": "ˈɑrt ˈɡælɚrɪ",
+   "imageName": "school-art gallery"
+ },
+ {
+   "id": "school1",
+   "word": "brush",
+   "transcription": "ˈbrʌʃ",
+   "imageName": "school-brush"
+ },
+ {
+   "id": "school2",
+   "word": "charcoal",
+   "transcription": "ˈtʃɑrˌkoʊl",
+   "imageName": "school-charcoal"
+ },
+ {
+   "id": "school3",
+   "word": "easel",
+   "transcription": "ˈiːzəl",
+   "imageName": "school-easel"
+ },
+ {
+   "id": "school4",
+   "word": "landscape",
+   "transcription": "ˈlændˌskeɪp",
+   "imageName": "school-landscape"
+ },
+ {
+   "id": "school5",
+   "word": "mural",
+   "transcription": "ˈmjʊrəl",
+   "imageName": "school-mural"
+ },
+ {
+   "id": "school6",
+   "word": "oil paint",
+   "transcription": "ˈɔɪəl ˈpeɪnt",
+   "imageName": "school-oil paint"
+ },
+ {
+   "id": "school7",
+   "word": "palette",
+   "transcription": "ˈpælət",
+   "imageName": "school-palette"
+ },
+ {
+   "id": "school8",
+   "word": "petroglyph",
+   "transcription": "ˈpɛtrəˌɡlɪf",
+   "imageName": "school-petroglyph"
+ },
+ {
+   "id": "school9",
+   "word": "photos",
+   "transcription": "ˈfoʊtoz",
+   "imageName": "school-photos"
+ },
+ {
+   "id": "school10",
+   "word": "portrait",
+   "transcription": "ˈpɔrtrət",
+   "imageName": "school-portrait"
+ },
+ {
+   "id": "school11",
+   "word": "sculpture",
+   "transcription": "ˈskʌlptʃɚ",
+   "imageName": "school-sculpture"
+ },
+ {
+   "id": "school12",
+   "word": "sketch",
+   "transcription": "ˈskɛtʃ",
+   "imageName": "school-sketch"
+ },
+ {
+   "id": "school13",
+   "word": "still life",
+   "transcription": "ˈstɪl ˈlaɪf",
+   "imageName": "school-still life"
+ },
+ {
+   "id": "school14",
+   "word": "waterscape",
+   "transcription": "ˈwɔtɚˌskeɪp",
+   "imageName": "school-waterscape"
+ },
+ {
+   "id": "school15",
+   "word": "accordion",
+   "transcription": "əˈkɔrdiːən",
+   "imageName": "school-accordion"
+ },
+ {
+   "id": "school16",
+   "word": "banjo",
+   "transcription": "ˈbændʒoʊ",
+   "imageName": "school-banjo"
+ },
+ {
+   "id": "school17",
+   "word": "bugle",
+   "transcription": "ˈbjuːɡəl",
+   "imageName": "school-bugle"
+ },
+ {
+   "id": "school18",
+   "word": "cymbals",
+   "transcription": "ˈsɪmbəlz",
+   "imageName": "school-cymbals"
+ },
+ {
+   "id": "school19",
+   "word": "double bass",
+   "transcription": "ˈdʌbəl ˈbeɪs",
+   "imageName": "school-double bass"
+ },
+ {
+   "id": "school20",
+   "word": "drums",
+   "transcription": "ˈdrʌmz",
+   "imageName": "school-drums"
+ },
+ {
+   "id": "school21",
+   "word": "flute",
+   "transcription": "ˈfluːt",
+   "imageName": "school-flute"
+ },
+ {
+   "id": "school22",
+   "word": "guitar",
+   "transcription": "ɡɪˈtɑr",
+   "imageName": "school-guitar"
+ },
+ {
+   "id": "school23",
+   "word": "harmonica",
+   "transcription": "hɑrˈmɑnɪkə",
+   "imageName": "school-harmonica"
+ },
+ {
+   "id": "school24",
+   "word": "organ",
+   "transcription": "ˈɔrɡən",
+   "imageName": "school-organ"
+ },
+ {
+   "id": "school25",
+   "word": "piano",
+   "transcription": "piːˈænoʊ",
+   "imageName": "school-piano"
+ },
+ {
+   "id": "school26",
+   "word": "synthesizer",
+   "transcription": "ˈsɪnθəˌsaɪzɚ",
+   "imageName": "school-synthesizer"
+ },
+ {
+   "id": "school27",
+   "word": "trombone",
+   "transcription": "trɑmˈboʊn",
+   "imageName": "school-trombone"
+ },
+ {
+   "id": "school28",
+   "word": "trumpet",
+   "transcription": "ˈtrʌmpət",
+   "imageName": "school-trumpet"
+ },
+ {
+   "id": "school29",
+   "word": "violin",
+   "transcription": "ˌvaɪəˈlɪn",
+   "imageName": "school-violin"
+ },
+ {
+   "id": "school30",
+   "word": "assembly",
+   "transcription": "əˈsɛmblɪ",
+   "imageName": "school-assembly"
+ },
+ {
+   "id": "school31",
+   "word": "blackboard",
+   "transcription": "ˈblækˌbɔrd",
+   "imageName": "school-blackboard"
+ },
+ {
+   "id": "school32",
+   "word": "canteen",
+   "transcription": "kænˈtiːn",
+   "imageName": "school-canteen"
+ },
+ {
+   "id": "school33",
+   "word": "class",
+   "transcription": "ˈklæs",
+   "imageName": "school-class"
+ },
+ {
+   "id": "school34",
+   "word": "classroom",
+   "transcription": "ˈklæsˌruːm",
+   "imageName": "school-classroom"
+ },
+ {
+   "id": "school35",
+   "word": "desk",
+   "transcription": "ˈdɛsk",
+   "imageName": "school-desk"
+ },
+ {
+   "id": "school36",
+   "word": "globe",
+   "transcription": "ˈɡloʊb",
+   "imageName": "school-globe"
+ },
+ {
+   "id": "school37",
+   "word": "gymnasium",
+   "transcription": "dʒɪmˈneɪziːəm",
+   "imageName": "school-gymnasium"
+ },
+ {
+   "id": "school38",
+   "word": "laboratory",
+   "transcription": "ˈlæbrəˌtɔrɪ",
+   "imageName": "school-laboratory"
+ },
+ {
+   "id": "school39",
+   "word": "lunch box",
+   "transcription": "ˈlʌntʃ ˈbɑks",
+   "imageName": "school-lunch box"
+ },
+ {
+   "id": "school40",
+   "word": "mortarboard",
+   "transcription": "ˈmɔrtɚˌbɔrd",
+   "imageName": "school-mortarboard"
+ },
+ {
+   "id": "school41",
+   "word": "playground",
+   "transcription": "ˈpleɪˌɡraʊnd",
+   "imageName": "school-playground"
+ },
+ {
+   "id": "school42",
+   "word": "school tie",
+   "transcription": "ˈskuːl ˈtaɪ",
+   "imageName": "school-school tie"
+ },
+ {
+   "id": "school43",
+   "word": "textbook",
+   "transcription": "ˈtɛkstˌbʊk",
+   "imageName": "school-textbook"
+ },
+ {
+   "id": "school44",
+   "word": "whiteboard",
+   "transcription": "ˈwaɪtˌbɔrd",
+   "imageName": "school-whiteboard"
+ },
+ {
+   "id": "school45",
+   "word": "art",
+   "transcription": "ˈɑrt",
+   "imageName": "school-art"
+ },
+ {
+   "id": "school46",
+   "word": "biology",
+   "transcription": "baɪˈɑlədʒɪ",
+   "imageName": "school-biology"
+ },
+ {
+   "id": "school47",
+   "word": "chemistry",
+   "transcription": "ˈkɛməstrɪ",
+   "imageName": "school-chemistry"
+ },
+ {
+   "id": "school48",
+   "word": "dance",
+   "transcription": "ˈdæns",
+   "imageName": "school-dance"
+ },
+ {
+   "id": "school49",
+   "word": "english",
+   "transcription": "ˈɪŋɡlɪʃ",
+   "imageName": "school-english"
+ },
+ {
+   "id": "school50",
+   "word": "exam paper",
+   "transcription": "ɪɡˈzæm ˈpeɪpɚ",
+   "imageName": "school-exam paper"
+ },
+ {
+   "id": "school51",
+   "word": "exam",
+   "transcription": "ɪɡˈzæm",
+   "imageName": "school-exam"
+ },
+ {
+   "id": "school52",
+   "word": "fitness",
+   "transcription": "ˈfɪtnəs",
+   "imageName": "school-fitness"
+ },
+ {
+   "id": "school53",
+   "word": "french",
+   "transcription": "ˈfrɛntʃ",
+   "imageName": "school-french"
+ },
+ {
+   "id": "school54",
+   "word": "geography",
+   "transcription": "dʒiːˈɑɡrəfɪ",
+   "imageName": "school-geography"
+ },
+ {
+   "id": "school55",
+   "word": "geometry",
+   "transcription": "dʒiːˈɑmətrɪ",
+   "imageName": "school-geometry"
+ },
+ {
+   "id": "school56",
+   "word": "mathematics",
+   "transcription": "ˌmæθəˈmætɪks",
+   "imageName": "school-mathematics"
+ },
+ {
+   "id": "school57",
+   "word": "physics",
+   "transcription": "ˈfɪzɪks",
+   "imageName": "school-physics"
+ },
+ {
+   "id": "school58",
+   "word": "robotics",
+   "transcription": "roˈbɑtɪks",
+   "imageName": "school-robotics"
+ },
+ {
+   "id": "school59",
+   "word": "studying",
+   "transcription": "ˈstʌdiːɪŋ",
+   "imageName": "school-studying"
+ },
+ {
+   "id": "school60",
+   "word": "calculator",
+   "transcription": "ˈkælkjəˌleɪtɚ",
+   "imageName": "school-calculator"
+ },
+ {
+   "id": "school61",
+   "word": "compass",
+   "transcription": "ˈkʌmpəs",
+   "imageName": "school-compass"
+ },
+ {
+   "id": "school62",
+   "word": "crayon",
+   "transcription": "ˈkreɪˌɑn",
+   "imageName": "school-crayon"
+ },
+ {
+   "id": "school63",
+   "word": "envelope",
+   "transcription": "ˈɛnvəˌloʊp",
+   "imageName": "school-envelope"
+ },
+ {
+   "id": "school64",
+   "word": "eraser",
+   "transcription": "ɪˈreɪsɚ",
+   "imageName": "school-eraser"
+ },
+ {
+   "id": "school65",
+   "word": "notebook",
+   "transcription": "ˈnoʊtˌbʊk",
+   "imageName": "school-notebook"
+ },
+ {
+   "id": "school66",
+   "word": "paper clip",
+   "transcription": "ˈpeɪpɚ ˈklɪp",
+   "imageName": "school-paper clip"
+ },
+ {
+   "id": "school67",
+   "word": "pen",
+   "transcription": "ˈpɛn",
+   "imageName": "school-pen"
+ },
+ {
+   "id": "school68",
+   "word": "pencil",
+   "transcription": "ˈpɛnsəl",
+   "imageName": "school-pencil"
+ },
+ {
+   "id": "school69",
+   "word": "print",
+   "transcription": "ˈprɪnt",
+   "imageName": "school-print"
+ },
+ {
+   "id": "school70",
+   "word": "protractor",
+   "transcription": "proˈtræktɚ",
+   "imageName": "school-protractor"
+ },
+ {
+   "id": "school71",
+   "word": "ruler",
+   "transcription": "ˈruːlɚ",
+   "imageName": "school-ruler"
+ },
+ {
+   "id": "school72",
+   "word": "stapler",
+   "transcription": "ˈsteɪplɚ",
+   "imageName": "school-stapler"
+ },
+ {
+   "id": "school73",
+   "word": "stylus",
+   "transcription": "ˈstaɪləs",
+   "imageName": "school-stylus"
+ },
+ {
+   "id": "school74",
+   "word": "tablet",
+   "transcription": "ˈtæblət",
+   "imageName": "school-tablet"
+ },
+ {
+   "id": "school75",
+   "word": "alphabet",
+   "transcription": "ˈælfəˌbɛt",
+   "imageName": "school-alphabet"
+ },
+ {
+   "id": "school76",
+   "word": "book",
+   "transcription": "ˈbʊk",
+   "imageName": "school-book"
+ },
+ {
+   "id": "school77",
+   "word": "caligraphy",
+   "transcription": "kəˈlɪɡrəfɪ",
+   "imageName": "school-caligraphy"
+ },
+ {
+   "id": "school78",
+   "word": "dictionary",
+   "transcription": "ˈdɪkʃəˌnɛrɪ",
+   "imageName": "school-dictionary"
+ },
+ {
+   "id": "school79",
+   "word": "ebook",
+   "transcription": "ˈiːˌbʊk",
+   "imageName": "school-ebook"
+ },
+ {
+   "id": "school80",
+   "word": "handwriting",
+   "transcription": "ˈhændˌraɪtɪŋ",
+   "imageName": "school-handwriting"
+ },
+ {
+   "id": "school81",
+   "word": "index",
+   "transcription": "ˈɪnˌdɛks",
+   "imageName": "school-index"
+ },
+ {
+   "id": "school82",
+   "word": "magazines",
+   "transcription": "ˈmæɡəˌziːnz",
+   "imageName": "school-magazines"
+ },
+ {
+   "id": "school83",
+   "word": "music",
+   "transcription": "ˈmjuːzɪk",
+   "imageName": "school-music"
+ },
+ {
+   "id": "school84",
+   "word": "newspaper",
+   "transcription": "ˈnuːzˌpeɪpɚ",
+   "imageName": "school-newspaper"
+ },
+ {
+   "id": "school85",
+   "word": "planner",
+   "transcription": "ˈplænɚ",
+   "imageName": "school-planner"
+ },
+ {
+   "id": "school86",
+   "word": "song writer",
+   "transcription": "ˈsɔŋ ˈraɪtɚ",
+   "imageName": "school-song writer"
+ },
+ {
+   "id": "school87",
+   "word": "sticky note",
+   "transcription": "ˈstɪkɪ ˈnoʊt",
+   "imageName": "school-sticky note"
+ },
+ {
+   "id": "school88",
+   "word": "sudoku",
+   "transcription": "suˈdəʊkuː",
+   "imageName": "school-sudoku"
+ },
+ {
+   "id": "school89",
+   "word": "typing",
+   "transcription": "ˈtaɪpɪŋ",
+   "imageName": "school-typing"
+ }
+]

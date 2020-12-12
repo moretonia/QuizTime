@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "African Animals",
+    "word" : "Africká zvířata"
+  },
+  {
+    "id" : "Dog Breeds",
+    "word" : "Rasy psů"
+  },
+  {
+    "id" : "Farm Animals",
+    "word" : "Hospodářská zvířata"
+  },
+  {
+    "id" : "Fish",
+    "word" : "Ryby"
+  },
+  {
+    "id" : "Marine Animals",
+    "word" : "Mořská zvířata"
+  },
+  {
+    "id" : "Pets",
+    "word" : "Domací mazlíčci"
+  }
+]

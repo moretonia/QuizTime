@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Desserts",
+    "word" : "Sobremesas"
+  },
+  {
+    "id" : "Food",
+    "word" : "Alimentação"
+  },
+  {
+    "id" : "Fruit",
+    "word" : "Frutas"
+  },
+  {
+    "id" : "Fruit II",
+    "word" : "Frutas II"
+  },
+  {
+    "id" : "Vegetables",
+    "word" : "Vegetais"
+  },
+  {
+    "id" : "Vegetables II",
+    "word" : "Vegetais II"
+  }
+]

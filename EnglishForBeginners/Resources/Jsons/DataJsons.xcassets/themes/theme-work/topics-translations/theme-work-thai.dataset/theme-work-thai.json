@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Indoor Tools",
+    "word" : "อุปกรณ์ก่อสร้างบ้าน"
+  },
+  {
+    "id" : "Jobs",
+    "word" : "อาชีพ"
+  },
+  {
+    "id" : "Jobs II",
+    "word" : "อาชีพ II"
+  },
+  {
+    "id" : "Jobs III",
+    "word" : "อาชีพ III"
+  },
+  {
+    "id" : "Jobs IV",
+    "word" : "อาชีพ IV"
+  },
+  {
+    "id" : "Outdoor Tools",
+    "word" : "อุปกรณ์นอกอาคาร"
+  }
+]

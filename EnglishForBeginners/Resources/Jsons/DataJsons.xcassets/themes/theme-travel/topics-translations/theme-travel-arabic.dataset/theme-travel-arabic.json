@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Air Travel",
+    "word" : "السفر جواً"
+  },
+  {
+    "id" : "Currency",
+    "word" : "العملة"
+  },
+  {
+    "id" : "Famous Cities",
+    "word" : "مدن مشهوره"
+  },
+  {
+    "id" : "Famous Cities II",
+    "word" : "مدن مشهوره II"
+  },
+  {
+    "id" : "Hotel",
+    "word" : "الفندق"
+  },
+  {
+    "id" : "Tourist Sights",
+    "word" : "مناظر سياحية"
+  }
+]

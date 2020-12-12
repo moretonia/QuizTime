@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  EnglishForBeginners
+
+  Created by Sergey Aleksandrov on 14/05/2018.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+"NSMicrophoneUsageDescription" = "应用程式使用扩音器来录制您的声音";
+"NSSpeechRecognitionUsageDescription" = "应用程式使用语音识别来确认您的发音是否正确";

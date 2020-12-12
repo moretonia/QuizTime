@@ -1,0 +1,542 @@
+[
+ {
+   "id": "home0",
+   "word": "bathtub",
+   "transcription": "ˈbæθˌtʌb",
+   "imageName": "home-bathtub"
+ },
+ {
+   "id": "home1",
+   "word": "comb",
+   "transcription": "ˈkoʊm",
+   "imageName": "home-comb"
+ },
+ {
+   "id": "home2",
+   "word": "faucet",
+   "transcription": "ˈfɔsət",
+   "imageName": "home-faucet"
+ },
+ {
+   "id": "home3",
+   "word": "mat",
+   "transcription": "ˈmæt",
+   "imageName": "home-mat"
+ },
+ {
+   "id": "home4",
+   "word": "mirror",
+   "transcription": "ˈmɪrɚ",
+   "imageName": "home-mirror"
+ },
+ {
+   "id": "home5",
+   "word": "plug",
+   "transcription": "ˈplʌɡ",
+   "imageName": "home-plug"
+ },
+ {
+   "id": "home6",
+   "word": "shampoo",
+   "transcription": "ʃæmˈpuː",
+   "imageName": "home-shampoo"
+ },
+ {
+   "id": "home7",
+   "word": "shower gel",
+   "transcription": "ˈʃaʊɚ ˈdʒɛl",
+   "imageName": "home-shower gel"
+ },
+ {
+   "id": "home8",
+   "word": "shower",
+   "transcription": "ˈʃaʊɚ",
+   "imageName": "home-shower"
+ },
+ {
+   "id": "home9",
+   "word": "soap",
+   "transcription": "ˈsoʊp",
+   "imageName": "home-soap"
+ },
+ {
+   "id": "home10",
+   "word": "toothbrush",
+   "transcription": "ˈtuːθˌbrʌʃ",
+   "imageName": "home-toothbrush"
+ },
+ {
+   "id": "home11",
+   "word": "toothpaste",
+   "transcription": "ˈtuːθˌpeɪst",
+   "imageName": "home-toothpaste"
+ },
+ {
+   "id": "home12",
+   "word": "towel rack",
+   "transcription": "ˈtaʊəl ˈræk",
+   "imageName": "home-towel rack"
+ },
+ {
+   "id": "home13",
+   "word": "towel",
+   "transcription": "ˈtaʊəl",
+   "imageName": "home-towel"
+ },
+ {
+   "id": "home14",
+   "word": "washbasin",
+   "transcription": "ˈwɔʃˌbeɪsn̩",
+   "imageName": "home-washbasin"
+ },
+ {
+   "id": "home15",
+   "word": "bowl",
+   "transcription": "ˈboʊl",
+   "imageName": "home-bowl"
+ },
+ {
+   "id": "home16",
+   "word": "butter knife",
+   "transcription": "ˈbʌtɚ ˈnaɪf",
+   "imageName": "home-butter knife"
+ },
+ {
+   "id": "home17",
+   "word": "chopsticks",
+   "transcription": "ˈtʃɑpˌstɪks",
+   "imageName": "home-chopsticks"
+ },
+ {
+   "id": "home18",
+   "word": "cup",
+   "transcription": "ˈkʌp",
+   "imageName": "home-cup"
+ },
+ {
+   "id": "home19",
+   "word": "vase",
+   "transcription": "ˈveɪs",
+   "imageName": "home-vase"
+ },
+ {
+   "id": "home20",
+   "word": "napkin",
+   "transcription": "ˈnæpkən",
+   "imageName": "home-napkin"
+ },
+ {
+   "id": "home21",
+   "word": "fork",
+   "transcription": "ˈfɔrk",
+   "imageName": "home-fork"
+ },
+ {
+   "id": "home22",
+   "word": "glass",
+   "transcription": "ˈɡlæs",
+   "imageName": "home-glass-1"
+ },
+ {
+   "id": "home23",
+   "word": "jug",
+   "transcription": "ˈdʒʌɡ",
+   "imageName": "home-jug"
+ },
+ {
+   "id": "home24",
+   "word": "knife",
+   "transcription": "ˈnaɪf",
+   "imageName": "home-knife"
+ },
+ {
+   "id": "home25",
+   "word": "mug",
+   "transcription": "ˈmʌɡ",
+   "imageName": "home-mug"
+ },
+ {
+   "id": "home26",
+   "word": "plate",
+   "transcription": "ˈpleɪt",
+   "imageName": "home-plate"
+ },
+ {
+   "id": "home27",
+   "word": "salt shaker",
+   "transcription": "ˈsɔlt ˌʃeɪkɚ",
+   "imageName": "home-salt shaker"
+ },
+ {
+   "id": "home28",
+   "word": "saucer",
+   "transcription": "ˈsɔsɚ",
+   "imageName": "home-saucer"
+ },
+ {
+   "id": "home29",
+   "word": "spoon",
+   "transcription": "ˈspuːn",
+   "imageName": "home-spoon"
+ },
+ {
+   "id": "home30",
+   "word": "armchair",
+   "transcription": "ˈɑrmˌtʃɛr",
+   "imageName": "home-armchair"
+ },
+ {
+   "id": "home31",
+   "word": "bed",
+   "transcription": "ˈbɛd",
+   "imageName": "home-bed"
+ },
+ {
+   "id": "home32",
+   "word": "bookcase",
+   "transcription": "ˈbʊkˌkeɪs",
+   "imageName": "home-bookcase"
+ },
+ {
+   "id": "home33",
+   "word": "chair",
+   "transcription": "ˈtʃɛr",
+   "imageName": "home-chair"
+ },
+ {
+   "id": "home34",
+   "word": "clock",
+   "transcription": "ˈklɑk",
+   "imageName": "home-clock"
+ },
+ {
+   "id": "home35",
+   "word": "cot",
+   "transcription": "ˈkɑt",
+   "imageName": "home-cot"
+ },
+ {
+   "id": "home36",
+   "word": "curtains",
+   "transcription": "ˈkɝtn̩z",
+   "imageName": "home-curtains"
+ },
+ {
+   "id": "home37",
+   "word": "cushion",
+   "transcription": "ˈkʊʃən",
+   "imageName": "home-cushion"
+ },
+ {
+   "id": "home38",
+   "word": "fireplace",
+   "transcription": "ˈfaɪɚˌpleɪs",
+   "imageName": "home-fireplace"
+ },
+ {
+   "id": "home39",
+   "word": "lampshade",
+   "transcription": "ˈlæmpˌʃeɪd",
+   "imageName": "home-lampshade"
+ },
+ {
+   "id": "home40",
+   "word": "rug",
+   "transcription": "ˈrʌɡ",
+   "imageName": "home-rug"
+ },
+ {
+   "id": "home41",
+   "word": "sofa",
+   "transcription": "ˈsoʊfə",
+   "imageName": "home-sofa"
+ },
+ {
+   "id": "home42",
+   "word": "stool",
+   "transcription": "ˈstuːl",
+   "imageName": "home-stool"
+ },
+ {
+   "id": "home43",
+   "word": "television",
+   "transcription": "ˈtɛləˌvɪʒən",
+   "imageName": "home-television"
+ },
+ {
+   "id": "home44",
+   "word": "wardrobe",
+   "transcription": "ˈwɔrˌdroʊb",
+   "imageName": "home-wardrobe"
+ },
+ {
+   "id": "home45",
+   "word": "bird bath",
+   "transcription": "ˈbɝd ˈbæθ",
+   "imageName": "home-bird bath"
+ },
+ {
+   "id": "home46",
+   "word": "bucket",
+   "transcription": "ˈbʌkət",
+   "imageName": "home-bucket"
+ },
+ {
+   "id": "home47",
+   "word": "chimney",
+   "transcription": "ˈtʃɪmnɪ",
+   "imageName": "home-chimney"
+ },
+ {
+   "id": "home48",
+   "word": "door",
+   "transcription": "ˈdɔr",
+   "imageName": "home-door"
+ },
+ {
+   "id": "home49",
+   "word": "gnome",
+   "transcription": "ˈnoʊm",
+   "imageName": "home-gnome"
+ },
+ {
+   "id": "home50",
+   "word": "letterbox",
+   "transcription": "ˈlɛtɚˌbɑks",
+   "imageName": "home-letterbox"
+ },
+ {
+   "id": "home51",
+   "word": "path",
+   "transcription": "ˈpæθ",
+   "imageName": "home-path"
+ },
+ {
+   "id": "home52",
+   "word": "porch",
+   "transcription": "ˈpɔrtʃ",
+   "imageName": "home-porch"
+ },
+ {
+   "id": "home53",
+   "word": "roof",
+   "transcription": "ˈruːf",
+   "imageName": "home-roof"
+ },
+ {
+   "id": "home54",
+   "word": "sprinkler",
+   "transcription": "ˈsprɪŋklɚ",
+   "imageName": "home-sprinkler"
+ },
+ {
+   "id": "home55",
+   "word": "steps",
+   "transcription": "ˈstɛps",
+   "imageName": "home-steps"
+ },
+ {
+   "id": "home56",
+   "word": "tap",
+   "transcription": "ˈtæp",
+   "imageName": "home-tap"
+ },
+ {
+   "id": "home57",
+   "word": "verandah",
+   "transcription": "vɚˈrændə",
+   "imageName": "home-verandah"
+ },
+ {
+   "id": "home58",
+   "word": "water tank",
+   "transcription": "ˈwɔtɚ ˈtæŋk",
+   "imageName": "home-water tank"
+ },
+ {
+   "id": "home59",
+   "word": "window",
+   "transcription": "ˈwɪndoʊ",
+   "imageName": "home-window"
+ },
+ {
+   "id": "home60",
+   "word": "apron",
+   "transcription": "ˈeɪprən",
+   "imageName": "home-apron"
+ },
+ {
+   "id": "home61",
+   "word": "bottle",
+   "transcription": "ˈbɑtl̩",
+   "imageName": "home-bottle"
+ },
+ {
+   "id": "home62",
+   "word": "crockery",
+   "transcription": "ˈkrɑkɚrɪ",
+   "imageName": "home-crockery"
+ },
+ {
+   "id": "home63",
+   "word": "detergent",
+   "transcription": "dɪˈtɝdʒənt",
+   "imageName": "home-detergent"
+ },
+ {
+   "id": "home64",
+   "word": "kettle",
+   "transcription": "ˈkɛtl̩",
+   "imageName": "home-kettle"
+ },
+ {
+   "id": "home65",
+   "word": "pan",
+   "transcription": "ˈpæn",
+   "imageName": "home-pan"
+ },
+ {
+   "id": "home66",
+   "word": "pot",
+   "transcription": "ˈpɑt",
+   "imageName": "home-pot"
+ },
+ {
+   "id": "home67",
+   "word": "refrigerator",
+   "transcription": "rɪˈfrɪdʒɚˌreɪtɚ",
+   "imageName": "home-refrigerator"
+ },
+ {
+   "id": "home68",
+   "word": "rolling pin",
+   "transcription": "ˈroʊlɪŋ ˈpɪn",
+   "imageName": "home-rolling pin"
+ },
+ {
+   "id": "home69",
+   "word": "sink",
+   "transcription": "ˈsɪŋk",
+   "imageName": "home-sink"
+ },
+ {
+   "id": "home70",
+   "word": "stove",
+   "transcription": "ˈstoʊv",
+   "imageName": "home-stove"
+ },
+ {
+   "id": "home71",
+   "word": "table cloth",
+   "transcription": "ˈteɪbəl ˈklɔθ",
+   "imageName": "home-table cloth"
+ },
+ {
+   "id": "home72",
+   "word": "tea towel",
+   "transcription": "ˈtiː ˈtaʊəl",
+   "imageName": "home-tea towel"
+ },
+ {
+   "id": "home73",
+   "word": "teapot",
+   "transcription": "ˈtiːˌpɑt",
+   "imageName": "home-teapot"
+ },
+ {
+   "id": "home74",
+   "word": "wok",
+   "transcription": "ˈwɑk",
+   "imageName": "home-wok"
+ },
+ {
+   "id": "home75",
+   "word": "aluminium",
+   "transcription": "ˌæljəˈmɪniːəm",
+   "imageName": "home-aluminium"
+ },
+ {
+   "id": "home76",
+   "word": "bricks",
+   "transcription": "ˈbrɪks",
+   "imageName": "home-bricks"
+ },
+ {
+   "id": "home77",
+   "word": "cardboard",
+   "transcription": "ˈkɑrdˌbɔrd",
+   "imageName": "home-cardboard"
+ },
+ {
+   "id": "home78",
+   "word": "ceramic",
+   "transcription": "sɚˈræmɪk",
+   "imageName": "home-ceramic"
+ },
+ {
+   "id": "home79",
+   "word": "concrete",
+   "transcription": "ˈkɑnˌkriːt",
+   "imageName": "home-concrete"
+ },
+ {
+   "id": "home80",
+   "word": "cotton",
+   "transcription": "ˈkɑtn̩",
+   "imageName": "home-cotton"
+ },
+ {
+   "id": "home81",
+   "word": "glass",
+   "transcription": "ˈɡlæs",
+   "imageName": "home-glass-2"
+ },
+ {
+   "id": "home82",
+   "word": "paper",
+   "transcription": "ˈpeɪpɚ",
+   "imageName": "home-paper"
+ },
+ {
+   "id": "home83",
+   "word": "plastic",
+   "transcription": "ˈplæstɪk",
+   "imageName": "home-plastic"
+ },
+ {
+   "id": "home84",
+   "word": "rubber",
+   "transcription": "ˈrʌbɚ",
+   "imageName": "home-rubber"
+ },
+ {
+   "id": "home85",
+   "word": "sand",
+   "transcription": "ˈsænd",
+   "imageName": "home-sand"
+ },
+ {
+   "id": "home86",
+   "word": "steel",
+   "transcription": "ˈstiːl",
+   "imageName": "home-steel"
+ },
+ {
+   "id": "home87",
+   "word": "stones",
+   "transcription": "ˈstoʊnz",
+   "imageName": "home-stones"
+ },
+ {
+   "id": "home88",
+   "word": "wood",
+   "transcription": "ˈwʊd",
+   "imageName": "home-wood"
+ },
+ {
+   "id": "home89",
+   "word": "wool",
+   "transcription": "ˈwʊl",
+   "imageName": "home-wool"
+ }
+]

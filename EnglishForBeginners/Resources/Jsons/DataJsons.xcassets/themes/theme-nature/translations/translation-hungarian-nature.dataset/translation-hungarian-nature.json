@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "savas eső"
+  },
+  {
+    "id" : "nature1",
+    "word" : "fatisztítás"
+  },
+  {
+    "id" : "nature2",
+    "word" : "szénbánya"
+  },
+  {
+    "id" : "nature3",
+    "word" : "halott korall"
+  },
+  {
+    "id" : "nature4",
+    "word" : "sivatag"
+  },
+  {
+    "id" : "nature5",
+    "word" : "erózió"
+  },
+  {
+    "id" : "nature6",
+    "word" : "kipufogó"
+  },
+  {
+    "id" : "nature7",
+    "word" : "fosszilis üzemanyag"
+  },
+  {
+    "id" : "nature8",
+    "word" : "szemét"
+  },
+  {
+    "id" : "nature9",
+    "word" : "olajfolt"
+  },
+  {
+    "id" : "nature10",
+    "word" : "olajkút"
+  },
+  {
+    "id" : "nature11",
+    "word" : "környezetszennyezés"
+  },
+  {
+    "id" : "nature12",
+    "word" : "szmog"
+  },
+  {
+    "id" : "nature13",
+    "word" : "napelem"
+  },
+  {
+    "id" : "nature14",
+    "word" : "szélerőmű telep"
+  },
+  {
+    "id" : "nature15",
+    "word" : "istálló"
+  },
+  {
+    "id" : "nature16",
+    "word" : "csirkefarm"
+  },
+  {
+    "id" : "nature17",
+    "word" : "gazda"
+  },
+  {
+    "id" : "nature18",
+    "word" : "kerítés"
+  },
+  {
+    "id" : "nature19",
+    "word" : "kapu"
+  },
+  {
+    "id" : "nature20",
+    "word" : "kombájn"
+  },
+  {
+    "id" : "nature21",
+    "word" : "öntözés"
+  },
+  {
+    "id" : "nature22",
+    "word" : "eke"
+  },
+  {
+    "id" : "nature23",
+    "word" : "tavacska"
+  },
+  {
+    "id" : "nature24",
+    "word" : "madárijesztő"
+  },
+  {
+    "id" : "nature25",
+    "word" : "stabil"
+  },
+  {
+    "id" : "nature26",
+    "word" : "traktor"
+  },
+  {
+    "id" : "nature27",
+    "word" : "falu"
+  },
+  {
+    "id" : "nature28",
+    "word" : "jól"
+  },
+  {
+    "id" : "nature29",
+    "word" : "szélmalom"
+  },
+  {
+    "id" : "nature30",
+    "word" : "őszirózsák"
+  },
+  {
+    "id" : "nature31",
+    "word" : "szegfű"
+  },
+  {
+    "id" : "nature32",
+    "word" : "nárcisz"
+  },
+  {
+    "id" : "nature33",
+    "word" : "dália"
+  },
+  {
+    "id" : "nature34",
+    "word" : "százszorszép"
+  },
+  {
+    "id" : "nature35",
+    "word" : "frangipanni"
+  },
+  {
+    "id" : "nature36",
+    "word" : "frézia"
+  },
+  {
+    "id" : "nature37",
+    "word" : "muskátli"
+  },
+  {
+    "id" : "nature38",
+    "word" : "gerbera"
+  },
+  {
+    "id" : "nature39",
+    "word" : "hibiszkusz"
+  },
+  {
+    "id" : "nature40",
+    "word" : "liliom"
+  },
+  {
+    "id" : "nature41",
+    "word" : "magnólia"
+  },
+  {
+    "id" : "nature42",
+    "word" : "orchidea"
+  },
+  {
+    "id" : "nature43",
+    "word" : "rózsa"
+  },
+  {
+    "id" : "nature44",
+    "word" : "tulipán"
+  },
+  {
+    "id" : "nature45",
+    "word" : "hangya"
+  },
+  {
+    "id" : "nature46",
+    "word" : "méh"
+  },
+  {
+    "id" : "nature47",
+    "word" : "bogár"
+  },
+  {
+    "id" : "nature48",
+    "word" : "pillangó"
+  },
+  {
+    "id" : "nature49",
+    "word" : "csótány"
+  },
+  {
+    "id" : "nature50",
+    "word" : "tücsök"
+  },
+  {
+    "id" : "nature51",
+    "word" : "szitakötő"
+  },
+  {
+    "id" : "nature52",
+    "word" : "légy"
+  },
+  {
+    "id" : "nature53",
+    "word" : "szöcske"
+  },
+  {
+    "id" : "nature54",
+    "word" : "katicabogár"
+  },
+  {
+    "id" : "nature55",
+    "word" : "sáska"
+  },
+  {
+    "id" : "nature56",
+    "word" : "szúnyog"
+  },
+  {
+    "id" : "nature57",
+    "word" : "moly"
+  },
+  {
+    "id" : "nature58",
+    "word" : "termeszek"
+  },
+  {
+    "id" : "nature59",
+    "word" : "darázs"
+  },
+  {
+    "id" : "nature60",
+    "word" : "páfrányok"
+  },
+  {
+    "id" : "nature61",
+    "word" : "kert"
+  },
+  {
+    "id" : "nature62",
+    "word" : "fű"
+  },
+  {
+    "id" : "nature63",
+    "word" : "gyep"
+  },
+  {
+    "id" : "nature64",
+    "word" : "levél"
+  },
+  {
+    "id" : "nature65",
+    "word" : "pálma"
+  },
+  {
+    "id" : "nature66",
+    "word" : "szirmok"
+  },
+  {
+    "id" : "nature67",
+    "word" : "fenyőerdő"
+  },
+  {
+    "id" : "nature68",
+    "word" : "esőerdő"
+  },
+  {
+    "id" : "nature69",
+    "word" : "gyökerek"
+  },
+  {
+    "id" : "nature70",
+    "word" : "palánta"
+  },
+  {
+    "id" : "nature71",
+    "word" : "magok"
+  },
+  {
+    "id" : "nature72",
+    "word" : "tövis"
+  },
+  {
+    "id" : "nature73",
+    "word" : "fa"
+  },
+  {
+    "id" : "nature74",
+    "word" : "törzs"
+  },
+  {
+    "id" : "nature75",
+    "word" : "ciklon"
+  },
+  {
+    "id" : "nature76",
+    "word" : "aszály"
+  },
+  {
+    "id" : "nature77",
+    "word" : "árvíz"
+  },
+  {
+    "id" : "nature78",
+    "word" : "köd"
+  },
+  {
+    "id" : "nature79",
+    "word" : "előrejelzés"
+  },
+  {
+    "id" : "nature80",
+    "word" : "hőhullám"
+  },
+  {
+    "id" : "nature81",
+    "word" : "jég"
+  },
+  {
+    "id" : "nature82",
+    "word" : "villám"
+  },
+  {
+    "id" : "nature83",
+    "word" : "pocsolya"
+  },
+  {
+    "id" : "nature84",
+    "word" : "eső"
+  },
+  {
+    "id" : "nature85",
+    "word" : "esőkabát"
+  },
+  {
+    "id" : "nature86",
+    "word" : "homokvihar"
+  },
+  {
+    "id" : "nature87",
+    "word" : "hó"
+  },
+  {
+    "id" : "nature88",
+    "word" : "tornádó"
+  },
+  {
+    "id" : "nature89",
+    "word" : "esernyő"
+  }
+]

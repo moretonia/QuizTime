@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "蘋果派"
+  },
+  {
+    "id" : "food1",
+    "word" : "蜜糖果仁千層酥"
+  },
+  {
+    "id" : "food2",
+    "word" : "芝士蛋糕"
+  },
+  {
+    "id" : "food3",
+    "word" : "餅幹"
+  },
+  {
+    "id" : "food4",
+    "word" : "紙杯蛋糕"
+  },
+  {
+    "id" : "food5",
+    "word" : "甜甜圈"
+  },
+  {
+    "id" : "food6",
+    "word" : "水果蛋糕"
+  },
+  {
+    "id" : "food7",
+    "word" : "水果沙拉"
+  },
+  {
+    "id" : "food8",
+    "word" : "冰淇淋"
+  },
+  {
+    "id" : "food9",
+    "word" : "百果餡餅"
+  },
+  {
+    "id" : "food10",
+    "word" : "薄煎餅"
+  },
+  {
+    "id" : "food11",
+    "word" : "巴甫洛娃蛋糕"
+  },
+  {
+    "id" : "food12",
+    "word" : "司康餅"
+  },
+  {
+    "id" : "food13",
+    "word" : "聖代"
+  },
+  {
+    "id" : "food14",
+    "word" : "華夫餅"
+  },
+  {
+    "id" : "food15",
+    "word" : "雞肉"
+  },
+  {
+    "id" : "food16",
+    "word" : "薯片"
+  },
+  {
+    "id" : "food17",
+    "word" : "巧克力"
+  },
+  {
+    "id" : "food18",
+    "word" : "雞蛋"
+  },
+  {
+    "id" : "food19",
+    "word" : "炸豆丸子"
+  },
+  {
+    "id" : "food20",
+    "word" : "魚"
+  },
+  {
+    "id" : "food21",
+    "word" : "炒飯"
+  },
+  {
+    "id" : "food22",
+    "word" : "漢堡包"
+  },
+  {
+    "id" : "food23",
+    "word" : "蜂蜜"
+  },
+  {
+    "id" : "food24",
+    "word" : "派"
+  },
+  {
+    "id" : "food25",
+    "word" : "披薩"
+  },
+  {
+    "id" : "food26",
+    "word" : "三明治"
+  },
+  {
+    "id" : "food27",
+    "word" : "香腸"
+  },
+  {
+    "id" : "food28",
+    "word" : "牛排"
+  },
+  {
+    "id" : "food29",
+    "word" : "金槍魚沙拉"
+  },
+  {
+    "id" : "food30",
+    "word" : "蘋果"
+  },
+  {
+    "id" : "food31",
+    "word" : "杏子"
+  },
+  {
+    "id" : "food32",
+    "word" : "香蕉"
+  },
+  {
+    "id" : "food33",
+    "word" : "藍莓"
+  },
+  {
+    "id" : "food34",
+    "word" : "無花果"
+  },
+  {
+    "id" : "food35",
+    "word" : "葡萄柚"
+  },
+  {
+    "id" : "food36",
+    "word" : "葡萄"
+  },
+  {
+    "id" : "food37",
+    "word" : "檸檬"
+  },
+  {
+    "id" : "food38",
+    "word" : "橙子"
+  },
+  {
+    "id" : "food39",
+    "word" : "百香果"
+  },
+  {
+    "id" : "food40",
+    "word" : "桃子"
+  },
+  {
+    "id" : "food41",
+    "word" : "菠蘿"
+  },
+  {
+    "id" : "food42",
+    "word" : "李子"
+  },
+  {
+    "id" : "food43",
+    "word" : "草莓"
+  },
+  {
+    "id" : "food44",
+    "word" : "番茄"
+  },
+  {
+    "id" : "food45",
+    "word" : "鱷梨"
+  },
+  {
+    "id" : "food46",
+    "word" : "櫻桃"
+  },
+  {
+    "id" : "food47",
+    "word" : "椰子"
+  },
+  {
+    "id" : "food48",
+    "word" : "棗子"
+  },
+  {
+    "id" : "food49",
+    "word" : "火龍果"
+  },
+  {
+    "id" : "food50",
+    "word" : "番石榴"
+  },
+  {
+    "id" : "food51",
+    "word" : "奇異果"
+  },
+  {
+    "id" : "food52",
+    "word" : "柑橘"
+  },
+  {
+    "id" : "food53",
+    "word" : "芒果"
+  },
+  {
+    "id" : "food54",
+    "word" : "橄欖"
+  },
+  {
+    "id" : "food55",
+    "word" : "木瓜"
+  },
+  {
+    "id" : "food56",
+    "word" : "梨"
+  },
+  {
+    "id" : "food57",
+    "word" : "石榴"
+  },
+  {
+    "id" : "food58",
+    "word" : "覆盆子"
+  },
+  {
+    "id" : "food59",
+    "word" : "西瓜"
+  },
+  {
+    "id" : "food60",
+    "word" : "豆類"
+  },
+  {
+    "id" : "food61",
+    "word" : "西蘭花"
+  },
+  {
+    "id" : "food62",
+    "word" : "甘藍"
+  },
+  {
+    "id" : "food63",
+    "word" : "胡蘿蔔"
+  },
+  {
+    "id" : "food64",
+    "word" : "花椰菜"
+  },
+  {
+    "id" : "food65",
+    "word" : "芹菜"
+  },
+  {
+    "id" : "food66",
+    "word" : "玉米"
+  },
+  {
+    "id" : "food67",
+    "word" : "黃瓜"
+  },
+  {
+    "id" : "food68",
+    "word" : "茄子"
+  },
+  {
+    "id" : "food69",
+    "word" : "韭蔥"
+  },
+  {
+    "id" : "food70",
+    "word" : "生菜"
+  },
+  {
+    "id" : "food71",
+    "word" : "洋蔥"
+  },
+  {
+    "id" : "food72",
+    "word" : "馬鈴薯"
+  },
+  {
+    "id" : "food73",
+    "word" : "南瓜"
+  },
+  {
+    "id" : "food74",
+    "word" : "菠菜"
+  },
+  {
+    "id" : "food75",
+    "word" : "洋薊"
+  },
+  {
+    "id" : "food76",
+    "word" : "蘆筍"
+  },
+  {
+    "id" : "food77",
+    "word" : "竹筍"
+  },
+  {
+    "id" : "food78",
+    "word" : "甜菜"
+  },
+  {
+    "id" : "food79",
+    "word" : "莙荙菜"
+  },
+  {
+    "id" : "food80",
+    "word" : "大蒜"
+  },
+  {
+    "id" : "food81",
+    "word" : "姜"
+  },
+  {
+    "id" : "food82",
+    "word" : "蘑菇"
+  },
+  {
+    "id" : "food83",
+    "word" : "白胡蘿蔔"
+  },
+  {
+    "id" : "food84",
+    "word" : "豌豆"
+  },
+  {
+    "id" : "food85",
+    "word" : "辣椒"
+  },
+  {
+    "id" : "food86",
+    "word" : "蘿蔔"
+  },
+  {
+    "id" : "food87",
+    "word" : "豆芽"
+  },
+  {
+    "id" : "food88",
+    "word" : "蕪菁"
+  },
+  {
+    "id" : "food89",
+    "word" : "西葫蘆"
+  }
+]

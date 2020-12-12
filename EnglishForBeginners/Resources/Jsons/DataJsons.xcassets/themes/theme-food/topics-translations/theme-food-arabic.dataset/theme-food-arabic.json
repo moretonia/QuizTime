@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Desserts",
+    "word" : "الحلويات"
+  },
+  {
+    "id" : "Food",
+    "word" : "الطعام"
+  },
+  {
+    "id" : "Fruit",
+    "word" : "فاكهة"
+  },
+  {
+    "id" : "Fruit II",
+    "word" : "فاكهة II"
+  },
+  {
+    "id" : "Vegetables",
+    "word" : "خضروات"
+  },
+  {
+    "id" : "Vegetables II",
+    "word" : "خضروات II"
+  }
+]

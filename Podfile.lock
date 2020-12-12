@@ -1,0 +1,125 @@
+PODS:
+  - AdColony (4.2.0)
+  - Crashlytics (3.14.0):
+    - Fabric (~> 1.10.2)
+  - Fabric (1.10.2)
+  - FBSDKCoreKit (7.1.1):
+    - FBSDKCoreKit/Basics (= 7.1.1)
+    - FBSDKCoreKit/Core (= 7.1.1)
+  - FBSDKCoreKit/Basics (7.1.1)
+  - FBSDKCoreKit/Core (7.1.1):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (7.1.1):
+    - FBSDKLoginKit/Login (= 7.1.1)
+  - FBSDKLoginKit/Login (7.1.1):
+    - FBSDKCoreKit (~> 7.1.1)
+  - FBSDKShareKit (7.1.1):
+    - FBSDKShareKit/Share (= 7.1.1)
+  - FBSDKShareKit/Share (7.1.1):
+    - FBSDKCoreKit (~> 7.1.1)
+  - Flurry-iOS-SDK/FlurryMessaging (10.3.4):
+    - Flurry-iOS-SDK/FlurrySDK
+  - Flurry-iOS-SDK/FlurrySDK (10.3.4)
+  - iCarousel (1.8.3)
+  - ISPageControl (0.1.0)
+  - KochavaCoreiOS (3.17.0)
+  - KochavaTrackeriOS (3.17.0):
+    - KochavaCoreiOS (~> 3.16)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - ORCommonCode-Swift (5.0.0)
+  - ORCommonUI-Swift (5.0.4):
+    - PureLayout (~> 3.0)
+  - ORCoreData (5.0.0):
+    - MagicalRecord (~> 2.3)
+  - PureLayout (3.1.6)
+  - ReachabilitySwift (5.0.0)
+  - Reveal-SDK (20)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SnapKit (5.0.1)
+  - UICircularProgressRing (7.0.0)
+
+DEPENDENCIES:
+  - AdColony
+  - Crashlytics
+  - Fabric
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - Flurry-iOS-SDK/FlurryMessaging
+  - Flurry-iOS-SDK/FlurrySDK
+  - iCarousel
+  - ISPageControl (~> 0.1.0)
+  - KochavaTrackeriOS
+  - MagicalRecord (~> 2.3.2)
+  - ORCommonCode-Swift
+  - ORCommonUI-Swift
+  - ORCoreData
+  - ReachabilitySwift
+  - Reveal-SDK (= 20)
+  - RxCocoa
+  - RxRelay
+  - RxSwift
+  - SnapKit
+  - UICircularProgressRing
+
+SPEC REPOS:
+  https://bitbucket.org/omegarinc/cocoapods-specs.git:
+    - ORCommonCode-Swift
+    - ORCommonUI-Swift
+    - ORCoreData
+  https://github.com/CocoaPods/Specs.git:
+    - AdColony
+    - Crashlytics
+    - Fabric
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FBSDKShareKit
+    - Flurry-iOS-SDK
+    - iCarousel
+    - ISPageControl
+    - KochavaCoreiOS
+    - KochavaTrackeriOS
+    - MagicalRecord
+    - PureLayout
+    - ReachabilitySwift
+    - Reveal-SDK
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  AdColony: fd362e04165bd7e23b36b83f066a5f2404d9e5ef
+  Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
+  Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
+  FBSDKCoreKit: b46507dc8b8cefed31d644e74d7cc30e2a715ef8
+  FBSDKLoginKit: 1a61d79e2b25e2fc0d03dccab1e34b38bbdf2546
+  FBSDKShareKit: 00a055c1999b099596e00212dd1c0600c6697019
+  Flurry-iOS-SDK: e6f44e2aeb389d93b874483555a5e8f0cfd42ea2
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  ISPageControl: cadeb38e9ecdf05540c69ea1132612521b3caa2a
+  KochavaCoreiOS: 0dc05fb86adb2bd27f01e8b06e48e621ea789df3
+  KochavaTrackeriOS: 3bc2417dd6b9e7bbe99b8acfee0f83e1447d7469
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  ORCommonCode-Swift: 9a2504577d8549905163f1d03ce9e0718dc37b0b
+  ORCommonUI-Swift: 1a518401653f448174769781fe0acc07c2dae94d
+  ORCoreData: c60702dba1d1714baeb284a8adcf03032810ed08
+  PureLayout: bd3c4ec3a3819ad387c99ebb72c6b129c3ed4d2d
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Reveal-SDK: 43206a57f575632fd304e85385cc259b5d359e32
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  UICircularProgressRing: 738b48db0ec1fbbd8482d727979392bb8c272e8d
+
+PODFILE CHECKSUM: d707238ac672e5053ecc0a10ec8db40a83d01363
+
+COCOAPODS: 1.9.3

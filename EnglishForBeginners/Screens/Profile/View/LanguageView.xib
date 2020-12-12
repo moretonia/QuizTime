@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="LanguageView" customModule="EnglishForBeginners" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="150" height="193"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kef-9X-fib" customClass="ORRoundRectView" customModule="ORCommonUI_Swift">
+                    <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="7lY-Tl-lrZ" customClass="ORRoundRectImageView" customModule="ORCommonUI_Swift">
+                            <rect key="frame" x="1" y="1" width="148" height="148"/>
+                            <color key="backgroundColor" red="0.76942055669999998" green="1" blue="0.74576825040000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="7lY-Tl-lrZ" firstAttribute="top" secondItem="kef-9X-fib" secondAttribute="top" constant="1" id="2ZS-OY-LIF"/>
+                        <constraint firstItem="7lY-Tl-lrZ" firstAttribute="leading" secondItem="kef-9X-fib" secondAttribute="leading" constant="1" id="6kz-7x-fTF"/>
+                        <constraint firstAttribute="trailing" secondItem="7lY-Tl-lrZ" secondAttribute="trailing" constant="1" id="Npj-nW-1Ej"/>
+                        <constraint firstAttribute="bottom" secondItem="7lY-Tl-lrZ" secondAttribute="bottom" constant="1" id="Wgb-r5-1th"/>
+                        <constraint firstAttribute="width" secondItem="kef-9X-fib" secondAttribute="height" multiplier="1:1" id="xm4-jD-Q6I"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Language Language" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G71-l6-FlB">
+                    <rect key="frame" x="0.0" y="155" width="150" height="36"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="15"/>
+                    <color key="textColor" red="0.19607843137254902" green="0.19607843137254902" blue="0.19607843137254902" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="kef-9X-fib" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="0AM-xN-mEq"/>
+                <constraint firstItem="G71-l6-FlB" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="CVk-s3-SpS"/>
+                <constraint firstItem="G71-l6-FlB" firstAttribute="top" secondItem="kef-9X-fib" secondAttribute="bottom" constant="5" id="gpG-dD-xlx"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="G71-l6-FlB" secondAttribute="trailing" id="juh-nh-eBC"/>
+                <constraint firstAttribute="trailing" secondItem="kef-9X-fib" secondAttribute="trailing" id="k1V-Us-uOG"/>
+                <constraint firstItem="kef-9X-fib" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="nDR-wx-Flb"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="imageContainerView" destination="kef-9X-fib" id="nlR-HJ-kli"/>
+                <outlet property="imageView" destination="7lY-Tl-lrZ" id="B84-90-pn8"/>
+                <outlet property="titleLabel" destination="G71-l6-FlB" id="27A-3a-tnR"/>
+            </connections>
+            <point key="canvasLocation" x="27" y="70.5"/>
+        </view>
+    </objects>
+</document>

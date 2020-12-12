@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "short de bain"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "manteau"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "robe"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "gants"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "veste"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "jean"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "pull"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "pyjama"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "chemise"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "chaussures"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "jupe"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "pantalon"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "lunettes de soleil"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "t-shirt"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "uniforme"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "dos nu"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "bikini"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "robe noire"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "robe de soirée"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "flamenco"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "robe licou"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "maillot une pièce"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "sari"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "sans bretelles"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "rayures"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "costume"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "robe d'été"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "toge"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "traditionnel"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "mariage"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "après-rasage"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "ceinture"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "nœud papillon"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "slip"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "bouton de manchette"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "chemise d'affaires"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "chaussures de ville"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "jogging"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "cravates"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "rasoir"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "blaireau"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "pantoufles"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "chaussettes"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "costume"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "pantalon"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "bonnet"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "bottes"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "casque"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "patins à glace"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "maillot"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "justaucorps"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "polo"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "short"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "combinaison de ski"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "montre intelligente"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "soutien-gorge de sport"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "maillot de bain"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "survêtement"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "combinaison de plongée"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "bande de poignet"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "chemisier"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "soutien-gorge"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "gilet"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "collier ras du cou"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "ceinture de mode"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "chapeau"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "talons hauts"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "salopette"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "kimono"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "culotte"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "sandales"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "châle"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "foulard en soie"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "collants"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "fermeture éclair"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "bracelet"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "bague de soirée"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "boucles d'oreilles"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "sac à main"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "porte-clés"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "rouge à lèvres"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "mascara"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "lime à ongles"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "collier"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "parfum"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "porte-monnaie"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "smartphone"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "mouchoirs"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "portefeuille"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "montre"
+  }
+]

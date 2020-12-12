@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "avantaj"
+  },
+  {
+    "id" : "business1",
+    "word" : "reklam"
+  },
+  {
+    "id" : "business2",
+    "word" : "fatura"
+  },
+  {
+    "id" : "business3",
+    "word" : "bütçe"
+  },
+  {
+    "id" : "business4",
+    "word" : "karşılaştırma"
+  },
+  {
+    "id" : "business5",
+    "word" : "rakip"
+  },
+  {
+    "id" : "business6",
+    "word" : "onay"
+  },
+  {
+    "id" : "business7",
+    "word" : "müşteri"
+  },
+  {
+    "id" : "business8",
+    "word" : "son gün"
+  },
+  {
+    "id" : "business9",
+    "word" : "borç"
+  },
+  {
+    "id" : "business10",
+    "word" : "karar"
+  },
+  {
+    "id" : "business11",
+    "word" : "teslim"
+  },
+  {
+    "id" : "business12",
+    "word" : "fiyat"
+  },
+  {
+    "id" : "business13",
+    "word" : "takvim"
+  },
+  {
+    "id" : "business14",
+    "word" : "takım çalışması"
+  },
+  {
+    "id" : "business15",
+    "word" : "değerlendirme"
+  },
+  {
+    "id" : "business16",
+    "word" : "sunum"
+  },
+  {
+    "id" : "business17",
+    "word" : "dağıtım"
+  },
+  {
+    "id" : "business18",
+    "word" : "çalışanlar"
+  },
+  {
+    "id" : "business19",
+    "word" : "işveren"
+  },
+  {
+    "id" : "business20",
+    "word" : "fabrika"
+  },
+  {
+    "id" : "business21",
+    "word" : "büyüme"
+  },
+  {
+    "id" : "business22",
+    "word" : "yönetici"
+  },
+  {
+    "id" : "business23",
+    "word" : "talimatlar"
+  },
+  {
+    "id" : "business24",
+    "word" : "röportaj"
+  },
+  {
+    "id" : "business25",
+    "word" : "fiş"
+  },
+  {
+    "id" : "business26",
+    "word" : "kayıp"
+  },
+  {
+    "id" : "business27",
+    "word" : "makinalar"
+  },
+  {
+    "id" : "business28",
+    "word" : "ticari eşya"
+  },
+  {
+    "id" : "business29",
+    "word" : "depolama"
+  },
+  {
+    "id" : "business30",
+    "word" : "iptal"
+  },
+  {
+    "id" : "business31",
+    "word" : "değiş tokuş"
+  },
+  {
+    "id" : "business32",
+    "word" : "geri bildirim"
+  },
+  {
+    "id" : "business33",
+    "word" : "kurulum"
+  },
+  {
+    "id" : "business34",
+    "word" : "sipariş"
+  },
+  {
+    "id" : "business35",
+    "word" : "ödeme"
+  },
+  {
+    "id" : "business36",
+    "word" : "ceza"
+  },
+  {
+    "id" : "business37",
+    "word" : "ürünler"
+  },
+  {
+    "id" : "business38",
+    "word" : "promosyon"
+  },
+  {
+    "id" : "business39",
+    "word" : "reddetmek"
+  },
+  {
+    "id" : "business40",
+    "word" : "tamirat"
+  },
+  {
+    "id" : "business41",
+    "word" : "rapor"
+  },
+  {
+    "id" : "business42",
+    "word" : "maaş"
+  },
+  {
+    "id" : "business43",
+    "word" : "gönderi"
+  },
+  {
+    "id" : "business44",
+    "word" : "hedef"
+  },
+  {
+    "id" : "business45",
+    "word" : "antikalar"
+  },
+  {
+    "id" : "business46",
+    "word" : "eserler"
+  },
+  {
+    "id" : "business47",
+    "word" : "çizgi romanlar"
+  },
+  {
+    "id" : "business48",
+    "word" : "elmaslar"
+  },
+  {
+    "id" : "business49",
+    "word" : "figürler"
+  },
+  {
+    "id" : "business50",
+    "word" : "fosiller"
+  },
+  {
+    "id" : "business51",
+    "word" : "altın paralar"
+  },
+  {
+    "id" : "business52",
+    "word" : "model arabalar"
+  },
+  {
+    "id" : "business53",
+    "word" : "posterler"
+  },
+  {
+    "id" : "business54",
+    "word" : "yakutlar"
+  },
+  {
+    "id" : "business55",
+    "word" : "safirler"
+  },
+  {
+    "id" : "business56",
+    "word" : "gümüş takımlar"
+  },
+  {
+    "id" : "business57",
+    "word" : "pullar"
+  },
+  {
+    "id" : "business58",
+    "word" : "klasik arabalar"
+  },
+  {
+    "id" : "business59",
+    "word" : "sanat eserleri"
+  },
+  {
+    "id" : "business60",
+    "word" : "nakit"
+  },
+  {
+    "id" : "business61",
+    "word" : "kasiyer"
+  },
+  {
+    "id" : "business62",
+    "word" : "kredi kartı"
+  },
+  {
+    "id" : "business63",
+    "word" : "rehber"
+  },
+  {
+    "id" : "business64",
+    "word" : "soyunma odası"
+  },
+  {
+    "id" : "business65",
+    "word" : "klavye"
+  },
+  {
+    "id" : "business66",
+    "word" : "inceleme"
+  },
+  {
+    "id" : "business67",
+    "word" : "ödeme yapma"
+  },
+  {
+    "id" : "business68",
+    "word" : "fiyat etiketi"
+  },
+  {
+    "id" : "business69",
+    "word" : "satış"
+  },
+  {
+    "id" : "business70",
+    "word" : "alışveriş çantası"
+  },
+  {
+    "id" : "business71",
+    "word" : "alışveriş yapmak"
+  },
+  {
+    "id" : "business72",
+    "word" : "işlemler"
+  },
+  {
+    "id" : "business73",
+    "word" : "deneme"
+  },
+  {
+    "id" : "business74",
+    "word" : "para çekme"
+  },
+  {
+    "id" : "business75",
+    "word" : "fırın"
+  },
+  {
+    "id" : "business76",
+    "word" : "kitapçı"
+  },
+  {
+    "id" : "business77",
+    "word" : "Kasap dükkânı"
+  },
+  {
+    "id" : "business78",
+    "word" : "Pastahane"
+  },
+  {
+    "id" : "business79",
+    "word" : "kimyacı dükkanı"
+  },
+  {
+    "id" : "business80",
+    "word" : "giyim mağazası"
+  },
+  {
+    "id" : "business81",
+    "word" : "balık ve cips"
+  },
+  {
+    "id" : "business82",
+    "word" : "çiçekçi"
+  },
+  {
+    "id" : "business83",
+    "word" : "Manav"
+  },
+  {
+    "id" : "business84",
+    "word" : "mücevher"
+  },
+  {
+    "id" : "business85",
+    "word" : "Market"
+  },
+  {
+    "id" : "business86",
+    "word" : "Online mağaza"
+  },
+  {
+    "id" : "business87",
+    "word" : "ayakkabı dükkanı"
+  },
+  {
+    "id" : "business88",
+    "word" : "oyuncak dükkanı"
+  },
+  {
+    "id" : "business89",
+    "word" : "seyahat bürosu"
+  }
+]

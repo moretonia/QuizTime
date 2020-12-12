@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "jacquet"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "touché-coulé"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "cartes"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "dames"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "échecs"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "puissance 4"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "dés"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "dominos"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "go"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "puzzle"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "ludo"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "mah-jong"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "monopoly"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "scrabble"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "tic-tac-toe"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "badminton"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "pétanque"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "escalade"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "fléchettes"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "Jeu de palet sur le pont"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "frisbee"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "marelle"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "hula"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "saute-mouton"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "limbo"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "flipper"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "poker"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "shuffleboard"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "tir à la corde"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "yo-yo"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "ballon"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "gant de boxe"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "batte de cricket"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "fléchette"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "haltères"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "moulinet de pêche"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "nageoires"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "ballon de football"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "lunettes de protection"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "club de golf"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "piolet"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "parachute"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "skis"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "chaussures de football"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "raquette de tennis"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "aérobic"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "baseball"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "basketball"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "bobsleigh"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "boxe"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "criquet"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "football"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "gymnastique"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "handball"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "hockey"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "rugby"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "ski"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "tennis"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "volley"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "planche à voile"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "tir à l'arc"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "cyclisme"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "dressage"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "golf"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "saut en hauteur"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "course d'orientation"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "polo"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "aviron"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "plongée sous-marine"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "tir"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "parachutisme"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "snooker"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "tennis de table"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "water polo"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "lutte"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "base jump"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "bmx"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "bodysurf"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "camping"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "spéléologie"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "jardinage"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "randonnée"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "joute"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "judo"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "kitesurf"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "rafting"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "nautisme à la voile"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "plongée en apnée"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "snowboard"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "tai-chi"
+  }
+]

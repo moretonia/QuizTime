@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "szarlotka"
+  },
+  {
+    "id" : "food1",
+    "word" : "baklawa"
+  },
+  {
+    "id" : "food2",
+    "word" : "sernik"
+  },
+  {
+    "id" : "food3",
+    "word" : "ciasteczka"
+  },
+  {
+    "id" : "food4",
+    "word" : "babeczka"
+  },
+  {
+    "id" : "food5",
+    "word" : "donut"
+  },
+  {
+    "id" : "food6",
+    "word" : "ciasto owocowe"
+  },
+  {
+    "id" : "food7",
+    "word" : "sałatka owocowa"
+  },
+  {
+    "id" : "food8",
+    "word" : "lody"
+  },
+  {
+    "id" : "food9",
+    "word" : "ciasto mięsne"
+  },
+  {
+    "id" : "food10",
+    "word" : "naleśniki"
+  },
+  {
+    "id" : "food11",
+    "word" : "pawlowa"
+  },
+  {
+    "id" : "food12",
+    "word" : "herbatniki"
+  },
+  {
+    "id" : "food13",
+    "word" : "deser"
+  },
+  {
+    "id" : "food14",
+    "word" : "wafle"
+  },
+  {
+    "id" : "food15",
+    "word" : "kurczak"
+  },
+  {
+    "id" : "food16",
+    "word" : "czipsy"
+  },
+  {
+    "id" : "food17",
+    "word" : "czekolada"
+  },
+  {
+    "id" : "food18",
+    "word" : "jajka"
+  },
+  {
+    "id" : "food19",
+    "word" : "falafel"
+  },
+  {
+    "id" : "food20",
+    "word" : "ryba"
+  },
+  {
+    "id" : "food21",
+    "word" : "smażony ryż"
+  },
+  {
+    "id" : "food22",
+    "word" : "hamburger"
+  },
+  {
+    "id" : "food23",
+    "word" : "miód"
+  },
+  {
+    "id" : "food24",
+    "word" : "ciasto"
+  },
+  {
+    "id" : "food25",
+    "word" : "pizza"
+  },
+  {
+    "id" : "food26",
+    "word" : "kanapka"
+  },
+  {
+    "id" : "food27",
+    "word" : "kiełbaski"
+  },
+  {
+    "id" : "food28",
+    "word" : "stek"
+  },
+  {
+    "id" : "food29",
+    "word" : "saładka z tuńczyka"
+  },
+  {
+    "id" : "food30",
+    "word" : "jabłko"
+  },
+  {
+    "id" : "food31",
+    "word" : "morela"
+  },
+  {
+    "id" : "food32",
+    "word" : "banan"
+  },
+  {
+    "id" : "food33",
+    "word" : "jagody"
+  },
+  {
+    "id" : "food34",
+    "word" : "figa"
+  },
+  {
+    "id" : "food35",
+    "word" : "grejpfrut"
+  },
+  {
+    "id" : "food36",
+    "word" : "winogrona"
+  },
+  {
+    "id" : "food37",
+    "word" : "cytryna"
+  },
+  {
+    "id" : "food38",
+    "word" : "pomarańcza"
+  },
+  {
+    "id" : "food39",
+    "word" : "marakuja"
+  },
+  {
+    "id" : "food40",
+    "word" : "brzoskwinia"
+  },
+  {
+    "id" : "food41",
+    "word" : "ananas"
+  },
+  {
+    "id" : "food42",
+    "word" : "śliwka"
+  },
+  {
+    "id" : "food43",
+    "word" : "truskawka"
+  },
+  {
+    "id" : "food44",
+    "word" : "pomidor"
+  },
+  {
+    "id" : "food45",
+    "word" : "awokado"
+  },
+  {
+    "id" : "food46",
+    "word" : "wiśnia"
+  },
+  {
+    "id" : "food47",
+    "word" : "kokos"
+  },
+  {
+    "id" : "food48",
+    "word" : "daktyle"
+  },
+  {
+    "id" : "food49",
+    "word" : "pitaja"
+  },
+  {
+    "id" : "food50",
+    "word" : "gujawa"
+  },
+  {
+    "id" : "food51",
+    "word" : "kiwi"
+  },
+  {
+    "id" : "food52",
+    "word" : "mandarynka"
+  },
+  {
+    "id" : "food53",
+    "word" : "mango"
+  },
+  {
+    "id" : "food54",
+    "word" : "oliwki"
+  },
+  {
+    "id" : "food55",
+    "word" : "papaja"
+  },
+  {
+    "id" : "food56",
+    "word" : "gruszka"
+  },
+  {
+    "id" : "food57",
+    "word" : "granat"
+  },
+  {
+    "id" : "food58",
+    "word" : "malina"
+  },
+  {
+    "id" : "food59",
+    "word" : "arbuz"
+  },
+  {
+    "id" : "food60",
+    "word" : "fasola"
+  },
+  {
+    "id" : "food61",
+    "word" : "brokuły"
+  },
+  {
+    "id" : "food62",
+    "word" : "kabaczek"
+  },
+  {
+    "id" : "food63",
+    "word" : "marchew"
+  },
+  {
+    "id" : "food64",
+    "word" : "kalafior"
+  },
+  {
+    "id" : "food65",
+    "word" : "seler"
+  },
+  {
+    "id" : "food66",
+    "word" : "kukurydza"
+  },
+  {
+    "id" : "food67",
+    "word" : "ogórek"
+  },
+  {
+    "id" : "food68",
+    "word" : "bakłażan"
+  },
+  {
+    "id" : "food69",
+    "word" : "por"
+  },
+  {
+    "id" : "food70",
+    "word" : "sałąta"
+  },
+  {
+    "id" : "food71",
+    "word" : "cebula"
+  },
+  {
+    "id" : "food72",
+    "word" : "ziemniaki"
+  },
+  {
+    "id" : "food73",
+    "word" : "dynia"
+  },
+  {
+    "id" : "food74",
+    "word" : "szpinak"
+  },
+  {
+    "id" : "food75",
+    "word" : "karchoch"
+  },
+  {
+    "id" : "food76",
+    "word" : "szparag"
+  },
+  {
+    "id" : "food77",
+    "word" : "bambus"
+  },
+  {
+    "id" : "food78",
+    "word" : "burak"
+  },
+  {
+    "id" : "food79",
+    "word" : "botwina"
+  },
+  {
+    "id" : "food80",
+    "word" : "czosnek"
+  },
+  {
+    "id" : "food81",
+    "word" : "imbir"
+  },
+  {
+    "id" : "food82",
+    "word" : "grzyb"
+  },
+  {
+    "id" : "food83",
+    "word" : "pasternak"
+  },
+  {
+    "id" : "food84",
+    "word" : "groszek"
+  },
+  {
+    "id" : "food85",
+    "word" : "papryczki"
+  },
+  {
+    "id" : "food86",
+    "word" : "rzodkiewka"
+  },
+  {
+    "id" : "food87",
+    "word" : "kiełki"
+  },
+  {
+    "id" : "food88",
+    "word" : "rzepa"
+  },
+  {
+    "id" : "food89",
+    "word" : "cukinie"
+  }
+]

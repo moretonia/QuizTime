@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "衣類"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "グラマー"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "メンズアイテム"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "スポーツウエア"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "女性の服"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "女性のアイテム"
+  }
+]

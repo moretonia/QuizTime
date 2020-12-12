@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "이점"
+  },
+  {
+    "id" : "business1",
+    "word" : "광고하다"
+  },
+  {
+    "id" : "business2",
+    "word" : "고지서"
+  },
+  {
+    "id" : "business3",
+    "word" : "예산"
+  },
+  {
+    "id" : "business4",
+    "word" : "비교"
+  },
+  {
+    "id" : "business5",
+    "word" : "경쟁 상대"
+  },
+  {
+    "id" : "business6",
+    "word" : "승인"
+  },
+  {
+    "id" : "business7",
+    "word" : "고객"
+  },
+  {
+    "id" : "business8",
+    "word" : "기한"
+  },
+  {
+    "id" : "business9",
+    "word" : "부채"
+  },
+  {
+    "id" : "business10",
+    "word" : "의사 결정"
+  },
+  {
+    "id" : "business11",
+    "word" : "전달"
+  },
+  {
+    "id" : "business12",
+    "word" : "비용"
+  },
+  {
+    "id" : "business13",
+    "word" : "일정"
+  },
+  {
+    "id" : "business14",
+    "word" : "팀워크"
+  },
+  {
+    "id" : "business15",
+    "word" : "평가"
+  },
+  {
+    "id" : "business16",
+    "word" : "표시"
+  },
+  {
+    "id" : "business17",
+    "word" : "유통"
+  },
+  {
+    "id" : "business18",
+    "word" : "고용인"
+  },
+  {
+    "id" : "business19",
+    "word" : "고용주"
+  },
+  {
+    "id" : "business20",
+    "word" : "공장"
+  },
+  {
+    "id" : "business21",
+    "word" : "성장"
+  },
+  {
+    "id" : "business22",
+    "word" : "매니저"
+  },
+  {
+    "id" : "business23",
+    "word" : "지침"
+  },
+  {
+    "id" : "business24",
+    "word" : "면접"
+  },
+  {
+    "id" : "business25",
+    "word" : "청구서"
+  },
+  {
+    "id" : "business26",
+    "word" : "손실"
+  },
+  {
+    "id" : "business27",
+    "word" : "기계"
+  },
+  {
+    "id" : "business28",
+    "word" : "상품"
+  },
+  {
+    "id" : "business29",
+    "word" : "보관"
+  },
+  {
+    "id" : "business30",
+    "word" : "취소하다"
+  },
+  {
+    "id" : "business31",
+    "word" : "교환"
+  },
+  {
+    "id" : "business32",
+    "word" : "피드백"
+  },
+  {
+    "id" : "business33",
+    "word" : "설치"
+  },
+  {
+    "id" : "business34",
+    "word" : "주문"
+  },
+  {
+    "id" : "business35",
+    "word" : "결제"
+  },
+  {
+    "id" : "business36",
+    "word" : "처벌"
+  },
+  {
+    "id" : "business37",
+    "word" : "제품"
+  },
+  {
+    "id" : "business38",
+    "word" : "판촉 활동"
+  },
+  {
+    "id" : "business39",
+    "word" : "거절"
+  },
+  {
+    "id" : "business40",
+    "word" : "보수"
+  },
+  {
+    "id" : "business41",
+    "word" : "보고"
+  },
+  {
+    "id" : "business42",
+    "word" : "급여"
+  },
+  {
+    "id" : "business43",
+    "word" : "수송"
+  },
+  {
+    "id" : "business44",
+    "word" : "타겟"
+  },
+  {
+    "id" : "business45",
+    "word" : "골동품"
+  },
+  {
+    "id" : "business46",
+    "word" : "공예품"
+  },
+  {
+    "id" : "business47",
+    "word" : "만화책"
+  },
+  {
+    "id" : "business48",
+    "word" : "다이아몬드"
+  },
+  {
+    "id" : "business49",
+    "word" : "피규어"
+  },
+  {
+    "id" : "business50",
+    "word" : "화석"
+  },
+  {
+    "id" : "business51",
+    "word" : "금화"
+  },
+  {
+    "id" : "business52",
+    "word" : "자동차 모형"
+  },
+  {
+    "id" : "business53",
+    "word" : "포스터"
+  },
+  {
+    "id" : "business54",
+    "word" : "루비"
+  },
+  {
+    "id" : "business55",
+    "word" : "사파이어"
+  },
+  {
+    "id" : "business56",
+    "word" : "은제품"
+  },
+  {
+    "id" : "business57",
+    "word" : "우표"
+  },
+  {
+    "id" : "business58",
+    "word" : "빈티지 자동차"
+  },
+  {
+    "id" : "business59",
+    "word" : "예술 작품"
+  },
+  {
+    "id" : "business60",
+    "word" : "현금"
+  },
+  {
+    "id" : "business61",
+    "word" : "출납원"
+  },
+  {
+    "id" : "business62",
+    "word" : "신용 카드"
+  },
+  {
+    "id" : "business63",
+    "word" : "안내 책자"
+  },
+  {
+    "id" : "business64",
+    "word" : "탈의실"
+  },
+  {
+    "id" : "business65",
+    "word" : "키패드"
+  },
+  {
+    "id" : "business66",
+    "word" : "구매 의사가 있는"
+  },
+  {
+    "id" : "business67",
+    "word" : "결제하는"
+  },
+  {
+    "id" : "business68",
+    "word" : "가격표"
+  },
+  {
+    "id" : "business69",
+    "word" : "할인"
+  },
+  {
+    "id" : "business70",
+    "word" : "쇼핑 백"
+  },
+  {
+    "id" : "business71",
+    "word" : "쇼핑"
+  },
+  {
+    "id" : "business72",
+    "word" : "트랜잭션"
+  },
+  {
+    "id" : "business73",
+    "word" : "시도하다"
+  },
+  {
+    "id" : "business74",
+    "word" : "인출"
+  },
+  {
+    "id" : "business75",
+    "word" : "제과점"
+  },
+  {
+    "id" : "business76",
+    "word" : "서점"
+  },
+  {
+    "id" : "business77",
+    "word" : "정육점"
+  },
+  {
+    "id" : "business78",
+    "word" : "케이크 가게"
+  },
+  {
+    "id" : "business79",
+    "word" : "약국"
+  },
+  {
+    "id" : "business80",
+    "word" : "의류 매장"
+  },
+  {
+    "id" : "business81",
+    "word" : "피시 앤 칩스 가게"
+  },
+  {
+    "id" : "business82",
+    "word" : "꽃집"
+  },
+  {
+    "id" : "business83",
+    "word" : "과일 가게"
+  },
+  {
+    "id" : "business84",
+    "word" : "보석상"
+  },
+  {
+    "id" : "business85",
+    "word" : "시장"
+  },
+  {
+    "id" : "business86",
+    "word" : "온라인 매장"
+  },
+  {
+    "id" : "business87",
+    "word" : "신발 가게"
+  },
+  {
+    "id" : "business88",
+    "word" : "장난감 가게"
+  },
+  {
+    "id" : "business89",
+    "word" : "여행사"
+  }
+]

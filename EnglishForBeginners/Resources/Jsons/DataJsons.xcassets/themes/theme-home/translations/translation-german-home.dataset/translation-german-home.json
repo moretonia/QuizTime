@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "home0",
+    "word" : "die Badewanne"
+  },
+  {
+    "id" : "home1",
+    "word" : "der Kamm"
+  },
+  {
+    "id" : "home2",
+    "word" : "der Armatur"
+  },
+  {
+    "id" : "home3",
+    "word" : "die Fußmatte"
+  },
+  {
+    "id" : "home4",
+    "word" : "der Spiegel"
+  },
+  {
+    "id" : "home5",
+    "word" : "der Stöpsel"
+  },
+  {
+    "id" : "home6",
+    "word" : "das Shampoo"
+  },
+  {
+    "id" : "home7",
+    "word" : "das Duschgel"
+  },
+  {
+    "id" : "home8",
+    "word" : "die Dusche"
+  },
+  {
+    "id" : "home9",
+    "word" : "die Seife"
+  },
+  {
+    "id" : "home10",
+    "word" : "die Zahnbürste"
+  },
+  {
+    "id" : "home11",
+    "word" : "die Zahnpasta"
+  },
+  {
+    "id" : "home12",
+    "word" : "der Handtuchhalter"
+  },
+  {
+    "id" : "home13",
+    "word" : "das Handtuch"
+  },
+  {
+    "id" : "home14",
+    "word" : "das Waschbecken"
+  },
+  {
+    "id" : "home15",
+    "word" : "die Schüssel"
+  },
+  {
+    "id" : "home16",
+    "word" : "das Buttermesser"
+  },
+  {
+    "id" : "home17",
+    "word" : "die Essstäbchen"
+  },
+  {
+    "id" : "home18",
+    "word" : "die Tasse"
+  },
+  {
+    "id" : "home19",
+    "word" : "die Vase"
+  },
+  {
+    "id" : "home20",
+    "word" : "die Serviette"
+  },
+  {
+    "id" : "home21",
+    "word" : "die Gabel"
+  },
+  {
+    "id" : "home22",
+    "word" : "das Trinkglas"
+  },
+  {
+    "id" : "home23",
+    "word" : "die Kanne"
+  },
+  {
+    "id" : "home24",
+    "word" : "das Messer"
+  },
+  {
+    "id" : "home25",
+    "word" : "der Becher"
+  },
+  {
+    "id" : "home26",
+    "word" : "der Teller"
+  },
+  {
+    "id" : "home27",
+    "word" : "der Salzstreuer"
+  },
+  {
+    "id" : "home28",
+    "word" : "die Untertasse"
+  },
+  {
+    "id" : "home29",
+    "word" : "der Löffel"
+  },
+  {
+    "id" : "home30",
+    "word" : "der Sessel"
+  },
+  {
+    "id" : "home31",
+    "word" : "das Bett"
+  },
+  {
+    "id" : "home32",
+    "word" : "das Bücherregal"
+  },
+  {
+    "id" : "home33",
+    "word" : "der Stuhl"
+  },
+  {
+    "id" : "home34",
+    "word" : "die Uhr"
+  },
+  {
+    "id" : "home35",
+    "word" : "die Liege"
+  },
+  {
+    "id" : "home36",
+    "word" : "die Gardinen"
+  },
+  {
+    "id" : "home37",
+    "word" : "das Kissen"
+  },
+  {
+    "id" : "home38",
+    "word" : "die Feuerstelle"
+  },
+  {
+    "id" : "home39",
+    "word" : "der Lampenschirm"
+  },
+  {
+    "id" : "home40",
+    "word" : "der Teppich"
+  },
+  {
+    "id" : "home41",
+    "word" : "das Sofa"
+  },
+  {
+    "id" : "home42",
+    "word" : "der Hocker"
+  },
+  {
+    "id" : "home43",
+    "word" : "der Fernseher"
+  },
+  {
+    "id" : "home44",
+    "word" : "der Kleiderschrank"
+  },
+  {
+    "id" : "home45",
+    "word" : "die Vogeltränke"
+  },
+  {
+    "id" : "home46",
+    "word" : "der Eimer"
+  },
+  {
+    "id" : "home47",
+    "word" : "der Schornstein"
+  },
+  {
+    "id" : "home48",
+    "word" : "die Tür"
+  },
+  {
+    "id" : "home49",
+    "word" : "der Gnom"
+  },
+  {
+    "id" : "home50",
+    "word" : "der Briefkasten"
+  },
+  {
+    "id" : "home51",
+    "word" : "der Weg"
+  },
+  {
+    "id" : "home52",
+    "word" : "das Vordach"
+  },
+  {
+    "id" : "home53",
+    "word" : "das Dach"
+  },
+  {
+    "id" : "home54",
+    "word" : "der Sprinkler"
+  },
+  {
+    "id" : "home55",
+    "word" : "die Treppe"
+  },
+  {
+    "id" : "home56",
+    "word" : "der Wasserhahn"
+  },
+  {
+    "id" : "home57",
+    "word" : "die Veranda"
+  },
+  {
+    "id" : "home58",
+    "word" : "der Wassertank"
+  },
+  {
+    "id" : "home59",
+    "word" : "das Fenster"
+  },
+  {
+    "id" : "home60",
+    "word" : "die Schürze"
+  },
+  {
+    "id" : "home61",
+    "word" : "die Flasche"
+  },
+  {
+    "id" : "home62",
+    "word" : "das Geschirr"
+  },
+  {
+    "id" : "home63",
+    "word" : "das Waschmittel"
+  },
+  {
+    "id" : "home64",
+    "word" : "der Wasserkessel"
+  },
+  {
+    "id" : "home65",
+    "word" : "die Pfanne"
+  },
+  {
+    "id" : "home66",
+    "word" : "der Topf"
+  },
+  {
+    "id" : "home67",
+    "word" : "der Kühlschrank"
+  },
+  {
+    "id" : "home68",
+    "word" : "das Nudelholz"
+  },
+  {
+    "id" : "home69",
+    "word" : "die Spüle"
+  },
+  {
+    "id" : "home70",
+    "word" : "der Herd"
+  },
+  {
+    "id" : "home71",
+    "word" : "die Tischdecke"
+  },
+  {
+    "id" : "home72",
+    "word" : "das Geschirrhandtuch"
+  },
+  {
+    "id" : "home73",
+    "word" : "die Teekanne"
+  },
+  {
+    "id" : "home74",
+    "word" : "der Wok"
+  },
+  {
+    "id" : "home75",
+    "word" : "das Aluminium"
+  },
+  {
+    "id" : "home76",
+    "word" : "die Ziegel"
+  },
+  {
+    "id" : "home77",
+    "word" : "der Karton"
+  },
+  {
+    "id" : "home78",
+    "word" : "die Keramik"
+  },
+  {
+    "id" : "home79",
+    "word" : "der Beton"
+  },
+  {
+    "id" : "home80",
+    "word" : "die Baumwolle"
+  },
+  {
+    "id" : "home81",
+    "word" : "das Glas"
+  },
+  {
+    "id" : "home82",
+    "word" : "das Papier"
+  },
+  {
+    "id" : "home83",
+    "word" : "das Plastik"
+  },
+  {
+    "id" : "home84",
+    "word" : "das Gummi"
+  },
+  {
+    "id" : "home85",
+    "word" : "der Sand"
+  },
+  {
+    "id" : "home86",
+    "word" : "der Stahl"
+  },
+  {
+    "id" : "home87",
+    "word" : "die Steine"
+  },
+  {
+    "id" : "home88",
+    "word" : "das Holz"
+  },
+  {
+    "id" : "home89",
+    "word" : "die Wolle"
+  }
+]

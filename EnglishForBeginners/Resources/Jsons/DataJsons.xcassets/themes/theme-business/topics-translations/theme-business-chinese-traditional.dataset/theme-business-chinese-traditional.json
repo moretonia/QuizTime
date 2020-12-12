@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "商務I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "商務II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "商務III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "收藏品"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "購物"
+  },
+  {
+    "id" : "Shops",
+    "word" : "店鋪"
+  }
+]

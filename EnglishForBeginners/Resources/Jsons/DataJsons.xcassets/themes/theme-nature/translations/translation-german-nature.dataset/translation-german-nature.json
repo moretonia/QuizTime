@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "der saure Regen"
+  },
+  {
+    "id" : "nature1",
+    "word" : "der Kahlschlag"
+  },
+  {
+    "id" : "nature2",
+    "word" : "das Kohlebergwerk"
+  },
+  {
+    "id" : "nature3",
+    "word" : "die tote Koralle"
+  },
+  {
+    "id" : "nature4",
+    "word" : "die Wüste"
+  },
+  {
+    "id" : "nature5",
+    "word" : "die Erosion"
+  },
+  {
+    "id" : "nature6",
+    "word" : "die Auspuffgase"
+  },
+  {
+    "id" : "nature7",
+    "word" : "der fossile Brennstoff"
+  },
+  {
+    "id" : "nature8",
+    "word" : "der Abfall"
+  },
+  {
+    "id" : "nature9",
+    "word" : "die Ölkatastrophe"
+  },
+  {
+    "id" : "nature10",
+    "word" : "die Ölquelle"
+  },
+  {
+    "id" : "nature11",
+    "word" : "die Umweltverschmutzung"
+  },
+  {
+    "id" : "nature12",
+    "word" : "der Smog"
+  },
+  {
+    "id" : "nature13",
+    "word" : "die Solarzellen"
+  },
+  {
+    "id" : "nature14",
+    "word" : "der Windpark"
+  },
+  {
+    "id" : "nature15",
+    "word" : "die Scheune"
+  },
+  {
+    "id" : "nature16",
+    "word" : "der Hühnerstall"
+  },
+  {
+    "id" : "nature17",
+    "word" : "der Bauer"
+  },
+  {
+    "id" : "nature18",
+    "word" : "der Zaun"
+  },
+  {
+    "id" : "nature19",
+    "word" : "das Tor"
+  },
+  {
+    "id" : "nature20",
+    "word" : "der Erntearbeiter"
+  },
+  {
+    "id" : "nature21",
+    "word" : "die Bewässerung"
+  },
+  {
+    "id" : "nature22",
+    "word" : "der Pflug"
+  },
+  {
+    "id" : "nature23",
+    "word" : "der Teich"
+  },
+  {
+    "id" : "nature24",
+    "word" : "die Vogelscheuche"
+  },
+  {
+    "id" : "nature25",
+    "word" : "der Stall"
+  },
+  {
+    "id" : "nature26",
+    "word" : "der Traktor"
+  },
+  {
+    "id" : "nature27",
+    "word" : "das Dorf"
+  },
+  {
+    "id" : "nature28",
+    "word" : "der Brunnen"
+  },
+  {
+    "id" : "nature29",
+    "word" : "die Windmühle"
+  },
+  {
+    "id" : "nature30",
+    "word" : "die Aster"
+  },
+  {
+    "id" : "nature31",
+    "word" : "die Nelke"
+  },
+  {
+    "id" : "nature32",
+    "word" : "die Narzisse"
+  },
+  {
+    "id" : "nature33",
+    "word" : "die Dahlie"
+  },
+  {
+    "id" : "nature34",
+    "word" : "das Gänseblümchen"
+  },
+  {
+    "id" : "nature35",
+    "word" : "die Wachsblume"
+  },
+  {
+    "id" : "nature36",
+    "word" : "die Freesie"
+  },
+  {
+    "id" : "nature37",
+    "word" : "die Geranie"
+  },
+  {
+    "id" : "nature38",
+    "word" : "die Gerbera"
+  },
+  {
+    "id" : "nature39",
+    "word" : "der Hibiskus"
+  },
+  {
+    "id" : "nature40",
+    "word" : "die Lilie"
+  },
+  {
+    "id" : "nature41",
+    "word" : "die Magnolie"
+  },
+  {
+    "id" : "nature42",
+    "word" : "die Orchidee"
+  },
+  {
+    "id" : "nature43",
+    "word" : "die Rose"
+  },
+  {
+    "id" : "nature44",
+    "word" : "die Tulpe"
+  },
+  {
+    "id" : "nature45",
+    "word" : "die Ameise"
+  },
+  {
+    "id" : "nature46",
+    "word" : "die Biene"
+  },
+  {
+    "id" : "nature47",
+    "word" : "der Käfer"
+  },
+  {
+    "id" : "nature48",
+    "word" : "der Schmetterling"
+  },
+  {
+    "id" : "nature49",
+    "word" : "die Kakerlake"
+  },
+  {
+    "id" : "nature50",
+    "word" : "die Grille"
+  },
+  {
+    "id" : "nature51",
+    "word" : "die Libelle"
+  },
+  {
+    "id" : "nature52",
+    "word" : "die Fliege"
+  },
+  {
+    "id" : "nature53",
+    "word" : "der Grashüpfer"
+  },
+  {
+    "id" : "nature54",
+    "word" : "der Marienkäfer"
+  },
+  {
+    "id" : "nature55",
+    "word" : "die Gottesanbeterin"
+  },
+  {
+    "id" : "nature56",
+    "word" : "die Mücke"
+  },
+  {
+    "id" : "nature57",
+    "word" : "die Motte"
+  },
+  {
+    "id" : "nature58",
+    "word" : "die Termiten"
+  },
+  {
+    "id" : "nature59",
+    "word" : "die Wespe"
+  },
+  {
+    "id" : "nature60",
+    "word" : "die Farne"
+  },
+  {
+    "id" : "nature61",
+    "word" : "der Garten"
+  },
+  {
+    "id" : "nature62",
+    "word" : "das Gras"
+  },
+  {
+    "id" : "nature63",
+    "word" : "der Rasen"
+  },
+  {
+    "id" : "nature64",
+    "word" : "das Blatt"
+  },
+  {
+    "id" : "nature65",
+    "word" : "die Palme"
+  },
+  {
+    "id" : "nature66",
+    "word" : "das Blütenblatt"
+  },
+  {
+    "id" : "nature67",
+    "word" : "der Kiefernwald"
+  },
+  {
+    "id" : "nature68",
+    "word" : "der Regenwald"
+  },
+  {
+    "id" : "nature69",
+    "word" : "die Wurzeln"
+  },
+  {
+    "id" : "nature70",
+    "word" : "der Setzling"
+  },
+  {
+    "id" : "nature71",
+    "word" : "der Samen"
+  },
+  {
+    "id" : "nature72",
+    "word" : "die Dornen"
+  },
+  {
+    "id" : "nature73",
+    "word" : "der Baum"
+  },
+  {
+    "id" : "nature74",
+    "word" : "der Stamm"
+  },
+  {
+    "id" : "nature75",
+    "word" : "der Wirbelsturm"
+  },
+  {
+    "id" : "nature76",
+    "word" : "die Dürre"
+  },
+  {
+    "id" : "nature77",
+    "word" : "die Überschwemmung"
+  },
+  {
+    "id" : "nature78",
+    "word" : "der Nebel"
+  },
+  {
+    "id" : "nature79",
+    "word" : "die Vorhersage"
+  },
+  {
+    "id" : "nature80",
+    "word" : "die Hitzewelle"
+  },
+  {
+    "id" : "nature81",
+    "word" : "das Eis"
+  },
+  {
+    "id" : "nature82",
+    "word" : "der Blitz"
+  },
+  {
+    "id" : "nature83",
+    "word" : "die Pfütze"
+  },
+  {
+    "id" : "nature84",
+    "word" : "der Regen"
+  },
+  {
+    "id" : "nature85",
+    "word" : "der Regenmantel"
+  },
+  {
+    "id" : "nature86",
+    "word" : "der Sandsturm"
+  },
+  {
+    "id" : "nature87",
+    "word" : "der Schnee"
+  },
+  {
+    "id" : "nature88",
+    "word" : "der Tornado"
+  },
+  {
+    "id" : "nature89",
+    "word" : "der Regenschirm"
+  }
+]

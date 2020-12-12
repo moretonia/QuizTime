@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Air Travel",
+    "word" : "航空旅行"
+  },
+  {
+    "id" : "Currency",
+    "word" : "货币"
+  },
+  {
+    "id" : "Famous Cities",
+    "word" : "著名城市"
+  },
+  {
+    "id" : "Famous Cities II",
+    "word" : "著名城市II"
+  },
+  {
+    "id" : "Hotel",
+    "word" : "酒店"
+  },
+  {
+    "id" : "Tourist Sights",
+    "word" : "旅游景点"
+  }
+]

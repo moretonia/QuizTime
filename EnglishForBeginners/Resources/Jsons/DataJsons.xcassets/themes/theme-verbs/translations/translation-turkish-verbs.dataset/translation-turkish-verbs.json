@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "dengeleme"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "vuruş"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "kontrol etme"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "ağlama"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "dans etme"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "düşme"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "sıçrama"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "fırlatma"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "koşma"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "şarkı söyleme"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "oturma"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "uyuma"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "gülümseme"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "ayakta durma"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "yürüme"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "fırçalama"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "doğrama"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "temizleme"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "yemek pişirme"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "çizme"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "içme"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "kurutma"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "yemek yeme"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "egzersiz yapma"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "yanıp sönme"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "okuma"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "tıraş olma"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "uyanma"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "yıkama"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "yazma"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "sürme"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "rendemele"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "yardım etme"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "vurma"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "süt sağma"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "açma"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "gönderme"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "rahatlama"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "yuvarlama"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "atlama"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "konuşma"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "sıkma"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "yüzme"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "sallanma"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "mesajlaşma"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "alkışlama"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "fırında pişirme"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "hesaplama"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "takip etme"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "dekore etme"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "girme"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "dövme"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "koşu yapma"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "diz çökme"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "tempolu yürüme"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "oynama"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "geri gitme"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "sürtme"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "sigara içme"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "sallama"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "tartışma"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "tutuklama"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "kamp yapma"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "taşıma"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "damlama"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "davul çalma"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "yüzmek"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "selamlama"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "örme"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "gösterme"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "pompalama"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "dikiş dikme"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "kayma"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "kar yağma"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "kıvırma"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "ısırma"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "nimet duyma"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "bowling oynama"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "yanma"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "tezahürat etme"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "tarama"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "emeklemek"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "film çekme"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "süzülme"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "erime"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "karıştırmak"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "kürek çekmek"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "gagalama"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "parlatmak"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "esnemek"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "ボードショーツ"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "コート"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "ドレス"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "手袋"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "ジャケット"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "ジーンズ"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "ジャンパー"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "パジャマ"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "シャツ"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "靴"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "スカート"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "スラックス"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "サングラス"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "Tシャツ"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "制服"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "バックレス"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "ビキニ"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "黒いドレス"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "ガウン"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "フラメンコ"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "ホルターネック"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "ワンピース"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "サリー"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "ストラップレス"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "ストライプ"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "スーツ"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "サンドレス"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "トーガ"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "伝統的"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "結婚式"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "アフターシェーブ"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "ベルト"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "ちょうネクタイ"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "ブリーフ"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "カフスリンク"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "ドレスシャツ"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "ドレスシューズ"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "スウェット"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "ネクタイ"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "シェーバー"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "ひげそり用ブラシ"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "スリッパ"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "靴下"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "スーツ"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "ズボン"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "ビーニー"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "ブーツ"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "ヘルメット"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "アイススケート"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "ジャージー"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "レオタード"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "ポロシャツ"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "ショートパンツ"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "スキーウェア"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "スマートウォッチ"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "スポーツブラジャー"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "水着"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "トラックスーツ"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "ウェットスーツ"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "リストバンド"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "ブラウス"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "ブラジャー"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "カーディガン"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "チョーカー"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "ファッションベルト"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "帽子"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "ハイヒール"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "ジャンプスーツ"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "着物"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "パンツ"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "サンダル"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "ショール"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "シルクスカーフ"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "タイツ"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "ジップ"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "ブレスレット"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "ドレスリング"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "イヤリング"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "ハンドバッグ"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "キーホルダー"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "口紅"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "マスカラ"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "爪やすり"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "ネックレス"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "香水"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "財布"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "スマートフォン"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "ティッシュ"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "札入れ"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "時計"
+  }
+]

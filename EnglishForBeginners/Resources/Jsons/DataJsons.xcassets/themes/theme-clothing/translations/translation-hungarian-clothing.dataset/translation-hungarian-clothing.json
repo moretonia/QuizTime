@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "rövid nadrág"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "kabát"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "ruha"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "kesztyű"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "dzseki"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "farmer"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "pulcsi"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "pizsama"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "ing"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "cipő"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "szoknya"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "vasalt nadrág"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "napszemüveg"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "ingpulóver"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "egyenruha"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "hátnélküli"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "bikini"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "fekete ruha"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "estélyi ruha"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "flamenco"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "lógó nyak"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "egy darab"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "szári"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "pánt nélküli"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "csíkok"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "blézer"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "nyári ruha"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "tóga"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "hagyományos"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "esküvő"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "borotválkozás után"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "öv"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "csokornyakkendő"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "alsónemű"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "mandzsettagomb"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "üzleti ing"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "ruha cipő"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "kocogók"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "nyakkendők"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "villanyborotva"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "borotválkozó pamacs"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "papucs"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "zokni"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "öltöny"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "nadrág"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "micisapka"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "csizma"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "sisak"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "korcsolya"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "jersey"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "akrobatatrikó"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "póló"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "rövidnadrág"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "síruha"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "okos óra"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "sport melltartó"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "úszók"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "melegítő"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "búvárruha"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "csuklópánt"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "blúz"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "melltartó"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "kardigán"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "choker lánc"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "divat öv"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "kalap"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "magassarkú"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "kezeslábas"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "kimonó"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "bugyi"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "szandál"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "vállkendő"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "selyem sál"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "harisnyanadrág"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "cipzár"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "karkötő"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "ruha gyűrű"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "fülbevaló"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "kézitáska"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "kulcstartó"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "rúzs"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "szempillafesték"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "körömreszelő"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "nyaklánc"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "parfüm"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "pénztárca"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "okostelefon"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "szövetek"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "tárca"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "óra"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "бабуїн"
+  },
+  {
+    "id" : "animals1",
+    "word" : "буйвол"
+  },
+  {
+    "id" : "animals2",
+    "word" : "верблюд"
+  },
+  {
+    "id" : "animals3",
+    "word" : "шимпанзе"
+  },
+  {
+    "id" : "animals4",
+    "word" : "крокодил"
+  },
+  {
+    "id" : "animals5",
+    "word" : "слон"
+  },
+  {
+    "id" : "animals6",
+    "word" : "жираф"
+  },
+  {
+    "id" : "animals7",
+    "word" : "горила"
+  },
+  {
+    "id" : "animals8",
+    "word" : "бегемот"
+  },
+  {
+    "id" : "animals9",
+    "word" : "гієна"
+  },
+  {
+    "id" : "animals10",
+    "word" : "леопард"
+  },
+  {
+    "id" : "animals11",
+    "word" : "лев"
+  },
+  {
+    "id" : "animals12",
+    "word" : "страус"
+  },
+  {
+    "id" : "animals13",
+    "word" : "носорог"
+  },
+  {
+    "id" : "animals14",
+    "word" : "гну"
+  },
+  {
+    "id" : "animals15",
+    "word" : "бігль"
+  },
+  {
+    "id" : "animals16",
+    "word" : "боксер"
+  },
+  {
+    "id" : "animals17",
+    "word" : "чихуахуа"
+  },
+  {
+    "id" : "animals18",
+    "word" : "колі"
+  },
+  {
+    "id" : "animals19",
+    "word" : "такса"
+  },
+  {
+    "id" : "animals20",
+    "word" : "далматин"
+  },
+  {
+    "id" : "animals21",
+    "word" : "доберман"
+  },
+  {
+    "id" : "animals22",
+    "word" : "ґрейгаунд"
+  },
+  {
+    "id" : "animals23",
+    "word" : "хаскі"
+  },
+  {
+    "id" : "animals24",
+    "word" : "ірландський сетер"
+  },
+  {
+    "id" : "animals25",
+    "word" : "лабрадор-ретрівер"
+  },
+  {
+    "id" : "animals26",
+    "word" : "мальтез"
+  },
+  {
+    "id" : "animals27",
+    "word" : "пудель"
+  },
+  {
+    "id" : "animals28",
+    "word" : "ротвейлер"
+  },
+  {
+    "id" : "animals29",
+    "word" : "вівчарка"
+  },
+  {
+    "id" : "animals30",
+    "word" : "бик"
+  },
+  {
+    "id" : "animals31",
+    "word" : "теля"
+  },
+  {
+    "id" : "animals32",
+    "word" : "кішка"
+  },
+  {
+    "id" : "animals33",
+    "word" : "віслюк"
+  },
+  {
+    "id" : "animals34",
+    "word" : "качка"
+  },
+  {
+    "id" : "animals35",
+    "word" : "лоша"
+  },
+  {
+    "id" : "animals36",
+    "word" : "коза"
+  },
+  {
+    "id" : "animals37",
+    "word" : "гуска"
+  },
+  {
+    "id" : "animals38",
+    "word" : "кінь"
+  },
+  {
+    "id" : "animals39",
+    "word" : "ягня"
+  },
+  {
+    "id" : "animals40",
+    "word" : "свиня"
+  },
+  {
+    "id" : "animals41",
+    "word" : "порося"
+  },
+  {
+    "id" : "animals42",
+    "word" : "півень"
+  },
+  {
+    "id" : "animals43",
+    "word" : "вівця"
+  },
+  {
+    "id" : "animals44",
+    "word" : "індик"
+  },
+  {
+    "id" : "animals45",
+    "word" : "тріска"
+  },
+  {
+    "id" : "animals46",
+    "word" : "краб"
+  },
+  {
+    "id" : "animals47",
+    "word" : "медуза"
+  },
+  {
+    "id" : "animals48",
+    "word" : "омар"
+  },
+  {
+    "id" : "animals49",
+    "word" : "восьминіг"
+  },
+  {
+    "id" : "animals50",
+    "word" : "устриця"
+  },
+  {
+    "id" : "animals51",
+    "word" : "рак"
+  },
+  {
+    "id" : "animals52",
+    "word" : "лосось"
+  },
+  {
+    "id" : "animals53",
+    "word" : "сардини"
+  },
+  {
+    "id" : "animals54",
+    "word" : "морський коник"
+  },
+  {
+    "id" : "animals55",
+    "word" : "акула"
+  },
+  {
+    "id" : "animals56",
+    "word" : "кальмар"
+  },
+  {
+    "id" : "animals57",
+    "word" : "риба-меч"
+  },
+  {
+    "id" : "animals58",
+    "word" : "форель"
+  },
+  {
+    "id" : "animals59",
+    "word" : "тунець"
+  },
+  {
+    "id" : "animals60",
+    "word" : "альбатрос"
+  },
+  {
+    "id" : "animals61",
+    "word" : "молюск"
+  },
+  {
+    "id" : "animals62",
+    "word" : "корал"
+  },
+  {
+    "id" : "animals63",
+    "word" : "дельфін"
+  },
+  {
+    "id" : "animals64",
+    "word" : "мурена"
+  },
+  {
+    "id" : "animals65",
+    "word" : "пелікан"
+  },
+  {
+    "id" : "animals66",
+    "word" : "пінгвін"
+  },
+  {
+    "id" : "animals67",
+    "word" : "білий ведмідь"
+  },
+  {
+    "id" : "animals68",
+    "word" : "морський їжак"
+  },
+  {
+    "id" : "animals69",
+    "word" : "тюлень"
+  },
+  {
+    "id" : "animals70",
+    "word" : "скат"
+  },
+  {
+    "id" : "animals71",
+    "word" : "морська черепаха"
+  },
+  {
+    "id" : "animals72",
+    "word" : "морж"
+  },
+  {
+    "id" : "animals73",
+    "word" : "китова акула"
+  },
+  {
+    "id" : "animals74",
+    "word" : "кит"
+  },
+  {
+    "id" : "animals75",
+    "word" : "хвилястий папуга"
+  },
+  {
+    "id" : "animals76",
+    "word" : "канарейка"
+  },
+  {
+    "id" : "animals77",
+    "word" : "шиншила"
+  },
+  {
+    "id" : "animals78",
+    "word" : "тхір"
+  },
+  {
+    "id" : "animals79",
+    "word" : "в'юрок"
+  },
+  {
+    "id" : "animals80",
+    "word" : "гекон"
+  },
+  {
+    "id" : "animals81",
+    "word" : "золота рибка"
+  },
+  {
+    "id" : "animals82",
+    "word" : "морська свинка"
+  },
+  {
+    "id" : "animals83",
+    "word" : "рак-самітник"
+  },
+  {
+    "id" : "animals84",
+    "word" : "киценя"
+  },
+  {
+    "id" : "animals85",
+    "word" : "папуга ара"
+  },
+  {
+    "id" : "animals86",
+    "word" : "миша"
+  },
+  {
+    "id" : "animals87",
+    "word" : "цуценя"
+  },
+  {
+    "id" : "animals88",
+    "word" : "кролик"
+  },
+  {
+    "id" : "animals89",
+    "word" : "сухопутна черепаха"
+  }
+]

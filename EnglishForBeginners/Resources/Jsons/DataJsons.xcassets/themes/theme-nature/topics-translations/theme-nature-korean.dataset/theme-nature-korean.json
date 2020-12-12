@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Environment",
+    "word" : "환경"
+  },
+  {
+    "id" : "Farm",
+    "word" : "농장"
+  },
+  {
+    "id" : "Flowers",
+    "word" : "꽃"
+  },
+  {
+    "id" : "Insects",
+    "word" : "곤충"
+  },
+  {
+    "id" : "Plants",
+    "word" : "식물"
+  },
+  {
+    "id" : "Weather",
+    "word" : "기후"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "ploaie acidă"
+  },
+  {
+    "id" : "nature1",
+    "word" : "tăierea copacilor"
+  },
+  {
+    "id" : "nature2",
+    "word" : "mină de cărbune"
+  },
+  {
+    "id" : "nature3",
+    "word" : "coral mort"
+  },
+  {
+    "id" : "nature4",
+    "word" : "deşert"
+  },
+  {
+    "id" : "nature5",
+    "word" : "eroziune"
+  },
+  {
+    "id" : "nature6",
+    "word" : "eșapament"
+  },
+  {
+    "id" : "nature7",
+    "word" : "combustibil fosil"
+  },
+  {
+    "id" : "nature8",
+    "word" : "gunoi"
+  },
+  {
+    "id" : "nature9",
+    "word" : "scurgere de ulei"
+  },
+  {
+    "id" : "nature10",
+    "word" : "sondă de țiței"
+  },
+  {
+    "id" : "nature11",
+    "word" : "poluare"
+  },
+  {
+    "id" : "nature12",
+    "word" : "ceață și fum"
+  },
+  {
+    "id" : "nature13",
+    "word" : "panou solar"
+  },
+  {
+    "id" : "nature14",
+    "word" : "fermă eoliană"
+  },
+  {
+    "id" : "nature15",
+    "word" : "hambar"
+  },
+  {
+    "id" : "nature16",
+    "word" : "coteț de pui"
+  },
+  {
+    "id" : "nature17",
+    "word" : "agricultor"
+  },
+  {
+    "id" : "nature18",
+    "word" : "gard"
+  },
+  {
+    "id" : "nature19",
+    "word" : "poartă"
+  },
+  {
+    "id" : "nature20",
+    "word" : "secerătoare"
+  },
+  {
+    "id" : "nature21",
+    "word" : "irigare"
+  },
+  {
+    "id" : "nature22",
+    "word" : "ara"
+  },
+  {
+    "id" : "nature23",
+    "word" : "lac"
+  },
+  {
+    "id" : "nature24",
+    "word" : "sperietoare de ciori"
+  },
+  {
+    "id" : "nature25",
+    "word" : "grajd"
+  },
+  {
+    "id" : "nature26",
+    "word" : "tractor"
+  },
+  {
+    "id" : "nature27",
+    "word" : "sat"
+  },
+  {
+    "id" : "nature28",
+    "word" : "fântănă"
+  },
+  {
+    "id" : "nature29",
+    "word" : "moară de vânt"
+  },
+  {
+    "id" : "nature30",
+    "word" : "ochiul boului"
+  },
+  {
+    "id" : "nature31",
+    "word" : "carnație"
+  },
+  {
+    "id" : "nature32",
+    "word" : "narcisă"
+  },
+  {
+    "id" : "nature33",
+    "word" : "dalie"
+  },
+  {
+    "id" : "nature34",
+    "word" : "margaretă"
+  },
+  {
+    "id" : "nature35",
+    "word" : "plumeria"
+  },
+  {
+    "id" : "nature36",
+    "word" : "frezii"
+  },
+  {
+    "id" : "nature37",
+    "word" : "geranium"
+  },
+  {
+    "id" : "nature38",
+    "word" : "gerbera"
+  },
+  {
+    "id" : "nature39",
+    "word" : "hibiscus"
+  },
+  {
+    "id" : "nature40",
+    "word" : "crin"
+  },
+  {
+    "id" : "nature41",
+    "word" : "magnolie"
+  },
+  {
+    "id" : "nature42",
+    "word" : "orhidee"
+  },
+  {
+    "id" : "nature43",
+    "word" : "trandafir"
+  },
+  {
+    "id" : "nature44",
+    "word" : "lalea"
+  },
+  {
+    "id" : "nature45",
+    "word" : "furnică"
+  },
+  {
+    "id" : "nature46",
+    "word" : "albină"
+  },
+  {
+    "id" : "nature47",
+    "word" : "gândac"
+  },
+  {
+    "id" : "nature48",
+    "word" : "fluture"
+  },
+  {
+    "id" : "nature49",
+    "word" : "gândac de bucătărie"
+  },
+  {
+    "id" : "nature50",
+    "word" : "greiere"
+  },
+  {
+    "id" : "nature51",
+    "word" : "libelulă"
+  },
+  {
+    "id" : "nature52",
+    "word" : "muscă"
+  },
+  {
+    "id" : "nature53",
+    "word" : "lăcustă"
+  },
+  {
+    "id" : "nature54",
+    "word" : "buburuză"
+  },
+  {
+    "id" : "nature55",
+    "word" : "călugăriță"
+  },
+  {
+    "id" : "nature56",
+    "word" : "ţânţar"
+  },
+  {
+    "id" : "nature57",
+    "word" : "molie"
+  },
+  {
+    "id" : "nature58",
+    "word" : "termite"
+  },
+  {
+    "id" : "nature59",
+    "word" : "viespe"
+  },
+  {
+    "id" : "nature60",
+    "word" : "ferigi"
+  },
+  {
+    "id" : "nature61",
+    "word" : "grădină"
+  },
+  {
+    "id" : "nature62",
+    "word" : "iarbă"
+  },
+  {
+    "id" : "nature63",
+    "word" : "peluză"
+  },
+  {
+    "id" : "nature64",
+    "word" : "frunze"
+  },
+  {
+    "id" : "nature65",
+    "word" : "palmier"
+  },
+  {
+    "id" : "nature66",
+    "word" : "petale"
+  },
+  {
+    "id" : "nature67",
+    "word" : "pădure de conifere"
+  },
+  {
+    "id" : "nature68",
+    "word" : "pădure tropicală"
+  },
+  {
+    "id" : "nature69",
+    "word" : "rădăcini"
+  },
+  {
+    "id" : "nature70",
+    "word" : "răsad"
+  },
+  {
+    "id" : "nature71",
+    "word" : "semințe"
+  },
+  {
+    "id" : "nature72",
+    "word" : "spini"
+  },
+  {
+    "id" : "nature73",
+    "word" : "copac"
+  },
+  {
+    "id" : "nature74",
+    "word" : "trunchi"
+  },
+  {
+    "id" : "nature75",
+    "word" : "ciclon"
+  },
+  {
+    "id" : "nature76",
+    "word" : "secetă"
+  },
+  {
+    "id" : "nature77",
+    "word" : "potop"
+  },
+  {
+    "id" : "nature78",
+    "word" : "ceaţă"
+  },
+  {
+    "id" : "nature79",
+    "word" : "prognoză"
+  },
+  {
+    "id" : "nature80",
+    "word" : "val de caldura"
+  },
+  {
+    "id" : "nature81",
+    "word" : "gheaţă"
+  },
+  {
+    "id" : "nature82",
+    "word" : "fulger"
+  },
+  {
+    "id" : "nature83",
+    "word" : "baltă"
+  },
+  {
+    "id" : "nature84",
+    "word" : "ploaie"
+  },
+  {
+    "id" : "nature85",
+    "word" : "pelerină de ploaie"
+  },
+  {
+    "id" : "nature86",
+    "word" : "furtună de nisip"
+  },
+  {
+    "id" : "nature87",
+    "word" : "zăpadă"
+  },
+  {
+    "id" : "nature88",
+    "word" : "tornadă"
+  },
+  {
+    "id" : "nature89",
+    "word" : "umbrelă"
+  }
+]

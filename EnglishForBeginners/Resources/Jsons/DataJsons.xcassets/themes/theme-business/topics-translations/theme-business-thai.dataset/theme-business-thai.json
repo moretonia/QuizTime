@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "ธุรกิจ I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "ธุรกิจ III"
+  },
+  {
+    "id" : "Business III",
+    "word" : "ธุรกิจ III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "ของสะสม"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "การซื้อของ"
+  },
+  {
+    "id" : "Shops",
+    "word" : "ร้านค้า"
+  }
+]

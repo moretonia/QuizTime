@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "home0",
+    "word" : "fürdőkád"
+  },
+  {
+    "id" : "home1",
+    "word" : "fésű"
+  },
+  {
+    "id" : "home2",
+    "word" : "csaptelep"
+  },
+  {
+    "id" : "home3",
+    "word" : "lábtörlő"
+  },
+  {
+    "id" : "home4",
+    "word" : "tükör"
+  },
+  {
+    "id" : "home5",
+    "word" : "dugó"
+  },
+  {
+    "id" : "home6",
+    "word" : "sampon"
+  },
+  {
+    "id" : "home7",
+    "word" : "tusfürdő"
+  },
+  {
+    "id" : "home8",
+    "word" : "zuhany"
+  },
+  {
+    "id" : "home9",
+    "word" : "szappan"
+  },
+  {
+    "id" : "home10",
+    "word" : "fogkefe"
+  },
+  {
+    "id" : "home11",
+    "word" : "fogkrém"
+  },
+  {
+    "id" : "home12",
+    "word" : "törölközőtartó"
+  },
+  {
+    "id" : "home13",
+    "word" : "törülköző"
+  },
+  {
+    "id" : "home14",
+    "word" : "mosdótál"
+  },
+  {
+    "id" : "home15",
+    "word" : "edény"
+  },
+  {
+    "id" : "home16",
+    "word" : "kenőkés"
+  },
+  {
+    "id" : "home17",
+    "word" : "kínai evőpálcikák"
+  },
+  {
+    "id" : "home18",
+    "word" : "csésze"
+  },
+  {
+    "id" : "home19",
+    "word" : "Váza"
+  },
+  {
+    "id" : "home20",
+    "word" : "szalvéta"
+  },
+  {
+    "id" : "home21",
+    "word" : "villa"
+  },
+  {
+    "id" : "home22",
+    "word" : "pohár"
+  },
+  {
+    "id" : "home23",
+    "word" : "kancsó"
+  },
+  {
+    "id" : "home24",
+    "word" : "kés"
+  },
+  {
+    "id" : "home25",
+    "word" : "bögre"
+  },
+  {
+    "id" : "home26",
+    "word" : "tál"
+  },
+  {
+    "id" : "home27",
+    "word" : "sószóró"
+  },
+  {
+    "id" : "home28",
+    "word" : "csészealj"
+  },
+  {
+    "id" : "home29",
+    "word" : "kanál"
+  },
+  {
+    "id" : "home30",
+    "word" : "fotel"
+  },
+  {
+    "id" : "home31",
+    "word" : "ágy"
+  },
+  {
+    "id" : "home32",
+    "word" : "könyvszekrény"
+  },
+  {
+    "id" : "home33",
+    "word" : "szék"
+  },
+  {
+    "id" : "home34",
+    "word" : "óra"
+  },
+  {
+    "id" : "home35",
+    "word" : "gyermekágy"
+  },
+  {
+    "id" : "home36",
+    "word" : "függöny"
+  },
+  {
+    "id" : "home37",
+    "word" : "párna"
+  },
+  {
+    "id" : "home38",
+    "word" : "kandalló"
+  },
+  {
+    "id" : "home39",
+    "word" : "lámpaernyő"
+  },
+  {
+    "id" : "home40",
+    "word" : "szőnyeg"
+  },
+  {
+    "id" : "home41",
+    "word" : "kanapé"
+  },
+  {
+    "id" : "home42",
+    "word" : "széklet"
+  },
+  {
+    "id" : "home43",
+    "word" : "televízió"
+  },
+  {
+    "id" : "home44",
+    "word" : "ruhásszekrény"
+  },
+  {
+    "id" : "home45",
+    "word" : "madárfürdő"
+  },
+  {
+    "id" : "home46",
+    "word" : "vödör"
+  },
+  {
+    "id" : "home47",
+    "word" : "kémény"
+  },
+  {
+    "id" : "home48",
+    "word" : "ajtó"
+  },
+  {
+    "id" : "home49",
+    "word" : "törpe"
+  },
+  {
+    "id" : "home50",
+    "word" : "levélszekrény"
+  },
+  {
+    "id" : "home51",
+    "word" : "ösvény"
+  },
+  {
+    "id" : "home52",
+    "word" : "tornác"
+  },
+  {
+    "id" : "home53",
+    "word" : "tető"
+  },
+  {
+    "id" : "home54",
+    "word" : "locsoló"
+  },
+  {
+    "id" : "home55",
+    "word" : "lépcső"
+  },
+  {
+    "id" : "home56",
+    "word" : "csap"
+  },
+  {
+    "id" : "home57",
+    "word" : "veranda"
+  },
+  {
+    "id" : "home58",
+    "word" : "víztartály"
+  },
+  {
+    "id" : "home59",
+    "word" : "ablak"
+  },
+  {
+    "id" : "home60",
+    "word" : "kötény"
+  },
+  {
+    "id" : "home61",
+    "word" : "flaska"
+  },
+  {
+    "id" : "home62",
+    "word" : "cserépedény"
+  },
+  {
+    "id" : "home63",
+    "word" : "mosószer"
+  },
+  {
+    "id" : "home64",
+    "word" : "vízforraló"
+  },
+  {
+    "id" : "home65",
+    "word" : "serpenyő"
+  },
+  {
+    "id" : "home66",
+    "word" : "fazék"
+  },
+  {
+    "id" : "home67",
+    "word" : "hűtőszekrény"
+  },
+  {
+    "id" : "home68",
+    "word" : "sodrófa"
+  },
+  {
+    "id" : "home69",
+    "word" : "mosogató"
+  },
+  {
+    "id" : "home70",
+    "word" : "tűzhely"
+  },
+  {
+    "id" : "home71",
+    "word" : "asztalterítő"
+  },
+  {
+    "id" : "home72",
+    "word" : "konyharuha"
+  },
+  {
+    "id" : "home73",
+    "word" : "teáskanna"
+  },
+  {
+    "id" : "home74",
+    "word" : "wok"
+  },
+  {
+    "id" : "home75",
+    "word" : "alumínium"
+  },
+  {
+    "id" : "home76",
+    "word" : "téglák"
+  },
+  {
+    "id" : "home77",
+    "word" : "karton"
+  },
+  {
+    "id" : "home78",
+    "word" : "kerámiai"
+  },
+  {
+    "id" : "home79",
+    "word" : "beton"
+  },
+  {
+    "id" : "home80",
+    "word" : "pamut"
+  },
+  {
+    "id" : "home81",
+    "word" : "üveg"
+  },
+  {
+    "id" : "home82",
+    "word" : "papír"
+  },
+  {
+    "id" : "home83",
+    "word" : "műanyag"
+  },
+  {
+    "id" : "home84",
+    "word" : "gumi"
+  },
+  {
+    "id" : "home85",
+    "word" : "homok"
+  },
+  {
+    "id" : "home86",
+    "word" : "acél"
+  },
+  {
+    "id" : "home87",
+    "word" : "kövek"
+  },
+  {
+    "id" : "home88",
+    "word" : "fa"
+  },
+  {
+    "id" : "home89",
+    "word" : "gyapjú"
+  }
+]

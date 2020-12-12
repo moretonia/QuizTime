@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "пляжні шорти"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "пальто"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "сукня"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "рукавички"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "піджак"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "джинси"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "джемпер"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "піжама"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "сорочка"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "туфлі"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "спідниця"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "брюки"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "сонцезахисні окуляри"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "футболка"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "уніформа"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "сукня з низьким вирізом на спині"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "бікіні"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "чорна сукня"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "вечірня сукня"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "фламенко"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "халтернек"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "суцільний купальник"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "сарі"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "сукня-бюстьє"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "смужки"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "жіночий костюм"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "сарафан"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "тога"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "народний одяг"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "весілля"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "лосьйон після гоління"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "ремінь"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "краватка-метелик"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "брифи"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "запонка"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "ділова сорочка"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "вечірні черевики"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "кросівки"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "краватка"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "бритва"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "помазок"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "шльопанці"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "шкарпетки"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "костюм"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "штани"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "лижна шапочка"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "чоботи"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "шолом"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "ковзани"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "джерсі"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "трико"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "теніска"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "шорти"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "лижний костюм"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "розумний годинник"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "спортивне бра"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "плавки"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "спортивний костюм"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "гідрокостюм"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "наручний ремінець"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "блузка"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "бюстгальтер"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "кардиган"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "чокер"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "пояс"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "капелюх"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "високі підбори"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "жіночий комбінезон"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "кімоно"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "труси"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "сандалі"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "шаль"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "шовковий шарф"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "колготки"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "застібка-блискавка"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "браслет"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "каблучка"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "сережки"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "жіноча сумочка"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "брелок для ключів"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "губна помада"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "туш для вій"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "пилка для нігтів"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "намисто"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "парфум"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "ридикюль"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "смартфон"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "серветки"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "гаманець"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "годинник"
+  }
+]

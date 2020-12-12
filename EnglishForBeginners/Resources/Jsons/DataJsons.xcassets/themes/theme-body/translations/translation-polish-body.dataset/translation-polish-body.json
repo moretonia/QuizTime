@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "wyciskanie sztangi"
+  },
+  {
+    "id" : "body1",
+    "word" : "zawijanie bicepsa"
+  },
+  {
+    "id" : "body2",
+    "word" : "podciąganie na drążku"
+  },
+  {
+    "id" : "body3",
+    "word" : "skłony"
+  },
+  {
+    "id" : "body4",
+    "word" : "martwy ciąg"
+  },
+  {
+    "id" : "body5",
+    "word" : "spadki"
+  },
+  {
+    "id" : "body6",
+    "word" : "piłka fitneswa"
+  },
+  {
+    "id" : "body7",
+    "word" : "skręty nóg"
+  },
+  {
+    "id" : "body8",
+    "word" : "pchnięcie"
+  },
+  {
+    "id" : "body9",
+    "word" : "worek treningowy"
+  },
+  {
+    "id" : "body10",
+    "word" : "pompoki statyczne"
+  },
+  {
+    "id" : "body11",
+    "word" : "wiosłowanie"
+  },
+  {
+    "id" : "body12",
+    "word" : "pompki"
+  },
+  {
+    "id" : "body13",
+    "word" : "przysiady"
+  },
+  {
+    "id" : "body14",
+    "word" : "stepowanie"
+  },
+  {
+    "id" : "body15",
+    "word" : "biceps"
+  },
+  {
+    "id" : "body16",
+    "word" : "pośladki"
+  },
+  {
+    "id" : "body17",
+    "word" : "biust"
+  },
+  {
+    "id" : "body18",
+    "word" : "łydka"
+  },
+  {
+    "id" : "body19",
+    "word" : "klatka piersiowa"
+  },
+  {
+    "id" : "body20",
+    "word" : "biodra"
+  },
+  {
+    "id" : "body21",
+    "word" : "kosteczka"
+  },
+  {
+    "id" : "body22",
+    "word" : "łopatka"
+  },
+  {
+    "id" : "body23",
+    "word" : "ramię"
+  },
+  {
+    "id" : "body24",
+    "word" : "podbicie stopy"
+  },
+  {
+    "id" : "body25",
+    "word" : "żołądek"
+  },
+  {
+    "id" : "body26",
+    "word" : "udo"
+  },
+  {
+    "id" : "body27",
+    "word" : "gardło"
+  },
+  {
+    "id" : "body28",
+    "word" : "talia"
+  },
+  {
+    "id" : "body29",
+    "word" : "nadgarstek"
+  },
+  {
+    "id" : "body30",
+    "word" : "kostka"
+  },
+  {
+    "id" : "body31",
+    "word" : "ręka"
+  },
+  {
+    "id" : "body32",
+    "word" : "duży paluch"
+  },
+  {
+    "id" : "body33",
+    "word" : "łokieć"
+  },
+  {
+    "id" : "body34",
+    "word" : "palec"
+  },
+  {
+    "id" : "body35",
+    "word" : "pięść"
+  },
+  {
+    "id" : "body36",
+    "word" : "stopa"
+  },
+  {
+    "id" : "body37",
+    "word" : "przedramie"
+  },
+  {
+    "id" : "body38",
+    "word" : "ręka"
+  },
+  {
+    "id" : "body39",
+    "word" : "głowa"
+  },
+  {
+    "id" : "body40",
+    "word" : "kolano"
+  },
+  {
+    "id" : "body41",
+    "word" : "noga"
+  },
+  {
+    "id" : "body42",
+    "word" : "pępek"
+  },
+  {
+    "id" : "body43",
+    "word" : "dłoń"
+  },
+  {
+    "id" : "body44",
+    "word" : "kciuk"
+  },
+  {
+    "id" : "body45",
+    "word" : "niebieskie oczy"
+  },
+  {
+    "id" : "body46",
+    "word" : "brązowe oczy"
+  },
+  {
+    "id" : "body47",
+    "word" : "piegi"
+  },
+  {
+    "id" : "body48",
+    "word" : "broda"
+  },
+  {
+    "id" : "body49",
+    "word" : "okulary"
+  },
+  {
+    "id" : "body50",
+    "word" : "kozia bródka"
+  },
+  {
+    "id" : "body51",
+    "word" : "zielone oczy"
+  },
+  {
+    "id" : "body52",
+    "word" : "pieprzyk"
+  },
+  {
+    "id" : "body53",
+    "word" : "wąsy"
+  },
+  {
+    "id" : "body54",
+    "word" : "pryszcz"
+  },
+  {
+    "id" : "body55",
+    "word" : "blizna"
+  },
+  {
+    "id" : "body56",
+    "word" : "opalenizna"
+  },
+  {
+    "id" : "body57",
+    "word" : "tatuaż"
+  },
+  {
+    "id" : "body58",
+    "word" : "chuda twarz"
+  },
+  {
+    "id" : "body59",
+    "word" : "zmarszczki"
+  },
+  {
+    "id" : "body60",
+    "word" : "policzek"
+  },
+  {
+    "id" : "body61",
+    "word" : "podbródek"
+  },
+  {
+    "id" : "body62",
+    "word" : "dołeczek"
+  },
+  {
+    "id" : "body63",
+    "word" : "płatek ucha"
+  },
+  {
+    "id" : "body64",
+    "word" : "ucho"
+  },
+  {
+    "id" : "body65",
+    "word" : "oko"
+  },
+  {
+    "id" : "body66",
+    "word" : "brew"
+  },
+  {
+    "id" : "body67",
+    "word" : "rzęsy"
+  },
+  {
+    "id" : "body68",
+    "word" : "czoło"
+  },
+  {
+    "id" : "body69",
+    "word" : "marszczyć brwi"
+  },
+  {
+    "id" : "body70",
+    "word" : "usta"
+  },
+  {
+    "id" : "body71",
+    "word" : "szyja"
+  },
+  {
+    "id" : "body72",
+    "word" : "nos"
+  },
+  {
+    "id" : "body73",
+    "word" : "zęby"
+  },
+  {
+    "id" : "body74",
+    "word" : "język"
+  },
+  {
+    "id" : "body75",
+    "word" : "afro"
+  },
+  {
+    "id" : "body76",
+    "word" : "łysina"
+  },
+  {
+    "id" : "body77",
+    "word" : "kok"
+  },
+  {
+    "id" : "body78",
+    "word" : "jeż"
+  },
+  {
+    "id" : "body79",
+    "word" : "kręcone"
+  },
+  {
+    "id" : "body80",
+    "word" : "zmierzwione"
+  },
+  {
+    "id" : "body81",
+    "word" : "dredy"
+  },
+  {
+    "id" : "body82",
+    "word" : "długie włosy"
+  },
+  {
+    "id" : "body83",
+    "word" : "irokez"
+  },
+  {
+    "id" : "body84",
+    "word" : "kucyk"
+  },
+  {
+    "id" : "body85",
+    "word" : "wygolone"
+  },
+  {
+    "id" : "body86",
+    "word" : "krótkie"
+  },
+  {
+    "id" : "body87",
+    "word" : "szpiczaste"
+  },
+  {
+    "id" : "body88",
+    "word" : "proste"
+  },
+  {
+    "id" : "body89",
+    "word" : "fale"
+  }
+]

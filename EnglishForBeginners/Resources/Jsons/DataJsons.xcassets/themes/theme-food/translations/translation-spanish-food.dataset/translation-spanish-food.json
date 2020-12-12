@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "pie de manzana"
+  },
+  {
+    "id" : "food1",
+    "word" : "baklava"
+  },
+  {
+    "id" : "food2",
+    "word" : "tarta de queso"
+  },
+  {
+    "id" : "food3",
+    "word" : "galletas"
+  },
+  {
+    "id" : "food4",
+    "word" : "cupcake"
+  },
+  {
+    "id" : "food5",
+    "word" : "rosquillas"
+  },
+  {
+    "id" : "food6",
+    "word" : "pastel de frutas"
+  },
+  {
+    "id" : "food7",
+    "word" : "ensalada de frutas"
+  },
+  {
+    "id" : "food8",
+    "word" : "helado"
+  },
+  {
+    "id" : "food9",
+    "word" : "pastel de carne"
+  },
+  {
+    "id" : "food10",
+    "word" : "panqueques"
+  },
+  {
+    "id" : "food11",
+    "word" : "pavlova"
+  },
+  {
+    "id" : "food12",
+    "word" : "bollos"
+  },
+  {
+    "id" : "food13",
+    "word" : "helado sundae"
+  },
+  {
+    "id" : "food14",
+    "word" : "waffles"
+  },
+  {
+    "id" : "food15",
+    "word" : "pollo"
+  },
+  {
+    "id" : "food16",
+    "word" : "papas"
+  },
+  {
+    "id" : "food17",
+    "word" : "chocolate"
+  },
+  {
+    "id" : "food18",
+    "word" : "huevos"
+  },
+  {
+    "id" : "food19",
+    "word" : "falafel"
+  },
+  {
+    "id" : "food20",
+    "word" : "pescado"
+  },
+  {
+    "id" : "food21",
+    "word" : "arroz frito"
+  },
+  {
+    "id" : "food22",
+    "word" : "hamburguesa"
+  },
+  {
+    "id" : "food23",
+    "word" : "miel"
+  },
+  {
+    "id" : "food24",
+    "word" : "pie"
+  },
+  {
+    "id" : "food25",
+    "word" : "pizza"
+  },
+  {
+    "id" : "food26",
+    "word" : "sándwich"
+  },
+  {
+    "id" : "food27",
+    "word" : "salchichas"
+  },
+  {
+    "id" : "food28",
+    "word" : "carne"
+  },
+  {
+    "id" : "food29",
+    "word" : "ensalada de atún"
+  },
+  {
+    "id" : "food30",
+    "word" : "manzana"
+  },
+  {
+    "id" : "food31",
+    "word" : "albaricoque"
+  },
+  {
+    "id" : "food32",
+    "word" : "banana"
+  },
+  {
+    "id" : "food33",
+    "word" : "moras azules"
+  },
+  {
+    "id" : "food34",
+    "word" : "higo"
+  },
+  {
+    "id" : "food35",
+    "word" : "pomelo"
+  },
+  {
+    "id" : "food36",
+    "word" : "uvas"
+  },
+  {
+    "id" : "food37",
+    "word" : "limón"
+  },
+  {
+    "id" : "food38",
+    "word" : "naranja"
+  },
+  {
+    "id" : "food39",
+    "word" : "maracuyá"
+  },
+  {
+    "id" : "food40",
+    "word" : "durazno"
+  },
+  {
+    "id" : "food41",
+    "word" : "piña"
+  },
+  {
+    "id" : "food42",
+    "word" : "ciruela"
+  },
+  {
+    "id" : "food43",
+    "word" : "fresa"
+  },
+  {
+    "id" : "food44",
+    "word" : "tomate"
+  },
+  {
+    "id" : "food45",
+    "word" : "aguacate"
+  },
+  {
+    "id" : "food46",
+    "word" : "cereza"
+  },
+  {
+    "id" : "food47",
+    "word" : "coco"
+  },
+  {
+    "id" : "food48",
+    "word" : "dátiles"
+  },
+  {
+    "id" : "food49",
+    "word" : "pitahaya"
+  },
+  {
+    "id" : "food50",
+    "word" : "guayaba"
+  },
+  {
+    "id" : "food51",
+    "word" : "kiwi"
+  },
+  {
+    "id" : "food52",
+    "word" : "mandarina"
+  },
+  {
+    "id" : "food53",
+    "word" : "mango"
+  },
+  {
+    "id" : "food54",
+    "word" : "olivos"
+  },
+  {
+    "id" : "food55",
+    "word" : "papaya"
+  },
+  {
+    "id" : "food56",
+    "word" : "pera"
+  },
+  {
+    "id" : "food57",
+    "word" : "granada"
+  },
+  {
+    "id" : "food58",
+    "word" : "frambuesa"
+  },
+  {
+    "id" : "food59",
+    "word" : "sandía"
+  },
+  {
+    "id" : "food60",
+    "word" : "frijoles"
+  },
+  {
+    "id" : "food61",
+    "word" : "brócoli"
+  },
+  {
+    "id" : "food62",
+    "word" : "repollo"
+  },
+  {
+    "id" : "food63",
+    "word" : "zanahoria"
+  },
+  {
+    "id" : "food64",
+    "word" : "coliflor"
+  },
+  {
+    "id" : "food65",
+    "word" : "apio"
+  },
+  {
+    "id" : "food66",
+    "word" : "elote"
+  },
+  {
+    "id" : "food67",
+    "word" : "pepino"
+  },
+  {
+    "id" : "food68",
+    "word" : "berenjena"
+  },
+  {
+    "id" : "food69",
+    "word" : "puerros"
+  },
+  {
+    "id" : "food70",
+    "word" : "lechuga"
+  },
+  {
+    "id" : "food71",
+    "word" : "cebolla"
+  },
+  {
+    "id" : "food72",
+    "word" : "patatas"
+  },
+  {
+    "id" : "food73",
+    "word" : "calabaza"
+  },
+  {
+    "id" : "food74",
+    "word" : "espinaca"
+  },
+  {
+    "id" : "food75",
+    "word" : "alcachofa"
+  },
+  {
+    "id" : "food76",
+    "word" : "espárragos"
+  },
+  {
+    "id" : "food77",
+    "word" : "bambú"
+  },
+  {
+    "id" : "food78",
+    "word" : "remolacha"
+  },
+  {
+    "id" : "food79",
+    "word" : "acelga"
+  },
+  {
+    "id" : "food80",
+    "word" : "ajo"
+  },
+  {
+    "id" : "food81",
+    "word" : "jengibre"
+  },
+  {
+    "id" : "food82",
+    "word" : "champiñones"
+  },
+  {
+    "id" : "food83",
+    "word" : "chirivía"
+  },
+  {
+    "id" : "food84",
+    "word" : "chícharo"
+  },
+  {
+    "id" : "food85",
+    "word" : "pimientos"
+  },
+  {
+    "id" : "food86",
+    "word" : "rábano"
+  },
+  {
+    "id" : "food87",
+    "word" : "judías"
+  },
+  {
+    "id" : "food88",
+    "word" : "nabos"
+  },
+  {
+    "id" : "food89",
+    "word" : "calabacín"
+  }
+]

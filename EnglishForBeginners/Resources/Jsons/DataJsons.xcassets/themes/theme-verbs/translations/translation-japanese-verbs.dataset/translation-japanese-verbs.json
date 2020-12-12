@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "釣り合わせる"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "打つ"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "チェックする"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "泣く"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "踊る"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "落ちる"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "跳ぶ"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "打ち上げる"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "走る"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "歌う"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "座る"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "眠る"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "笑う"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "立つ"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "歩く"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "ブラシがけ"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "切る"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "掃除する"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "料理する"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "描く"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "飲む"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "乾燥させる"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "食べる"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "エクササイズする"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "点滅する"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "読む"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "剃る"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "目覚める"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "洗濯する"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "書く"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "運転する"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "すりつぶす"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "助ける"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "殴る"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "搾乳する"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "開ける"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "投函する"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "リラックスする"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "回る"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "スキップする"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "話す"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "絞る"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "泳ぐ"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "揺れる"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "テキストを送る"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "拍手する"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "お菓子を焼く"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "計算する"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "追う"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "飾る"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "入る"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "ハンマーで打つ"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "ジョギングする"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "ひざまずく"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "行進する"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "遊ぶ"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "逆転させる"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "擦る"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "喫煙する"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "手を振る"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "議論する"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "逮捕する"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "キャンプする"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "持ち運ぶ"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "垂れる"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "ドラムをたたく"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "浮かぶ"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "挨拶をする"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "編み物をする"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "指をさす"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "ポンプを使う"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "裁縫する"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "滑る"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "雪が降る"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "ねじれる"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "噛む"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "祝福する"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "ボウリングをする"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "燃える"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "応援する"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "髪をとかす"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "這う"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "撮影する"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "ホバリング"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "溶ける"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "混ぜる"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "漕ぐ"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "つつく"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "磨く"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "伸ばす"
+  }
+]

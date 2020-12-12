@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "die Kunstgalerie"
+  },
+  {
+    "id" : "school1",
+    "word" : "der Pinsel"
+  },
+  {
+    "id" : "school2",
+    "word" : "die Kohle"
+  },
+  {
+    "id" : "school3",
+    "word" : "die Staffelei"
+  },
+  {
+    "id" : "school4",
+    "word" : "die Landschaft"
+  },
+  {
+    "id" : "school5",
+    "word" : "das Wandgemälde"
+  },
+  {
+    "id" : "school6",
+    "word" : "die Ölfarbe"
+  },
+  {
+    "id" : "school7",
+    "word" : "die Palette"
+  },
+  {
+    "id" : "school8",
+    "word" : "die Felszeichnung"
+  },
+  {
+    "id" : "school9",
+    "word" : "die Fotos"
+  },
+  {
+    "id" : "school10",
+    "word" : "das Portrait"
+  },
+  {
+    "id" : "school11",
+    "word" : "die Skulptur"
+  },
+  {
+    "id" : "school12",
+    "word" : "die Skizze"
+  },
+  {
+    "id" : "school13",
+    "word" : "das Stillleben"
+  },
+  {
+    "id" : "school14",
+    "word" : "die Wasserlandschaft"
+  },
+  {
+    "id" : "school15",
+    "word" : "das Akkordeon"
+  },
+  {
+    "id" : "school16",
+    "word" : "das Banjo"
+  },
+  {
+    "id" : "school17",
+    "word" : "das Horn"
+  },
+  {
+    "id" : "school18",
+    "word" : "das Becken"
+  },
+  {
+    "id" : "school19",
+    "word" : "der Kontrabass"
+  },
+  {
+    "id" : "school20",
+    "word" : "das Schlagzeug"
+  },
+  {
+    "id" : "school21",
+    "word" : "die Flöte"
+  },
+  {
+    "id" : "school22",
+    "word" : "de Gitarre"
+  },
+  {
+    "id" : "school23",
+    "word" : "die Mundharmonika"
+  },
+  {
+    "id" : "school24",
+    "word" : "die Orgel"
+  },
+  {
+    "id" : "school25",
+    "word" : "das Klavier"
+  },
+  {
+    "id" : "school26",
+    "word" : "der Synthesizer"
+  },
+  {
+    "id" : "school27",
+    "word" : "die Posaune"
+  },
+  {
+    "id" : "school28",
+    "word" : "die Trompete"
+  },
+  {
+    "id" : "school29",
+    "word" : "die Geige"
+  },
+  {
+    "id" : "school30",
+    "word" : "die Versammlung"
+  },
+  {
+    "id" : "school31",
+    "word" : "die Tafel"
+  },
+  {
+    "id" : "school32",
+    "word" : "die Kantine"
+  },
+  {
+    "id" : "school33",
+    "word" : "der Unterricht"
+  },
+  {
+    "id" : "school34",
+    "word" : "das Klassenzimmer"
+  },
+  {
+    "id" : "school35",
+    "word" : "das Pult"
+  },
+  {
+    "id" : "school36",
+    "word" : "der Globus"
+  },
+  {
+    "id" : "school37",
+    "word" : "die Turnhalle"
+  },
+  {
+    "id" : "school38",
+    "word" : "die Toilette"
+  },
+  {
+    "id" : "school39",
+    "word" : "die Brotdose"
+  },
+  {
+    "id" : "school40",
+    "word" : "der Doktorhut"
+  },
+  {
+    "id" : "school41",
+    "word" : "der Spielplatz"
+  },
+  {
+    "id" : "school42",
+    "word" : "die Schulkrawatte"
+  },
+  {
+    "id" : "school43",
+    "word" : "das Schulbuch"
+  },
+  {
+    "id" : "school44",
+    "word" : "das Whiteboard"
+  },
+  {
+    "id" : "school45",
+    "word" : "die Kunst"
+  },
+  {
+    "id" : "school46",
+    "word" : "die Biologie"
+  },
+  {
+    "id" : "school47",
+    "word" : "die Chemie"
+  },
+  {
+    "id" : "school48",
+    "word" : "der Tanz"
+  },
+  {
+    "id" : "school49",
+    "word" : "das Englisch"
+  },
+  {
+    "id" : "school50",
+    "word" : "die Klausur"
+  },
+  {
+    "id" : "school51",
+    "word" : "die Prüfung"
+  },
+  {
+    "id" : "school52",
+    "word" : "die Fitness"
+  },
+  {
+    "id" : "school53",
+    "word" : "das Französisch"
+  },
+  {
+    "id" : "school54",
+    "word" : "die Geografie"
+  },
+  {
+    "id" : "school55",
+    "word" : "die Geometrie"
+  },
+  {
+    "id" : "school56",
+    "word" : "die Mathematik"
+  },
+  {
+    "id" : "school57",
+    "word" : "die Physik"
+  },
+  {
+    "id" : "school58",
+    "word" : "die Robotertechnik"
+  },
+  {
+    "id" : "school59",
+    "word" : "lernen"
+  },
+  {
+    "id" : "school60",
+    "word" : "der Taschenrechner"
+  },
+  {
+    "id" : "school61",
+    "word" : "der Kompass"
+  },
+  {
+    "id" : "school62",
+    "word" : "der Buntstift"
+  },
+  {
+    "id" : "school63",
+    "word" : "der Umschlag"
+  },
+  {
+    "id" : "school64",
+    "word" : "der Radierer"
+  },
+  {
+    "id" : "school65",
+    "word" : "das Notizbuch"
+  },
+  {
+    "id" : "school66",
+    "word" : "die Büroklammer"
+  },
+  {
+    "id" : "school67",
+    "word" : "der Kugelschreiber"
+  },
+  {
+    "id" : "school68",
+    "word" : "der Bleistift"
+  },
+  {
+    "id" : "school69",
+    "word" : "die Kopie"
+  },
+  {
+    "id" : "school70",
+    "word" : "das Geodreieck"
+  },
+  {
+    "id" : "school71",
+    "word" : "das Lineal"
+  },
+  {
+    "id" : "school72",
+    "word" : "der Hefter"
+  },
+  {
+    "id" : "school73",
+    "word" : "der Stift"
+  },
+  {
+    "id" : "school74",
+    "word" : "das Tablet"
+  },
+  {
+    "id" : "school75",
+    "word" : "das Alphabet"
+  },
+  {
+    "id" : "school76",
+    "word" : "das Buch"
+  },
+  {
+    "id" : "school77",
+    "word" : "die Kalligrafie"
+  },
+  {
+    "id" : "school78",
+    "word" : "das Wörterbuch"
+  },
+  {
+    "id" : "school79",
+    "word" : "das E-Book"
+  },
+  {
+    "id" : "school80",
+    "word" : "die Handschrift"
+  },
+  {
+    "id" : "school81",
+    "word" : "das Inhaltsverzeichnis"
+  },
+  {
+    "id" : "school82",
+    "word" : "die Zeitschriften"
+  },
+  {
+    "id" : "school83",
+    "word" : "die Musik"
+  },
+  {
+    "id" : "school84",
+    "word" : "die Zeitung"
+  },
+  {
+    "id" : "school85",
+    "word" : "der Planer"
+  },
+  {
+    "id" : "school86",
+    "word" : "der Liedschreiber"
+  },
+  {
+    "id" : "school87",
+    "word" : "die Haftnotiz"
+  },
+  {
+    "id" : "school88",
+    "word" : "das Sudoku"
+  },
+  {
+    "id" : "school89",
+    "word" : "tippen"
+  }
+]

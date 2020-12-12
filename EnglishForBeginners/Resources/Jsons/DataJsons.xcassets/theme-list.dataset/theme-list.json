@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Animals",
+    "imageName": "animals",
+    "opened": true
+  },
+  {
+    "id": 3,
+    "name": "Beliefs",
+    "imageName": "beliefs",
+    "opened": false
+  },
+  {
+    "id": 4,
+    "name": "Body",
+    "imageName": "body",
+    "opened": false
+  },
+  {
+    "id": 5,
+    "name": "Business",
+    "imageName": "business",
+    "opened": false
+  },
+  {
+    "id": 6,
+    "name": "Clothing",
+    "imageName": "clothing",
+    "opened": false
+  },
+  {
+    "id": 7,
+    "name": "Food",
+    "imageName": "food",
+    "opened": false
+  },
+  {
+    "id": 8,
+    "name": "Home",
+    "imageName": "home",
+    "opened": false
+  },
+  {
+    "id": 9,
+    "name": "Nature",
+    "imageName": "nature",
+    "opened": false
+  },
+  {
+    "id": 10,
+    "name": "School",
+    "imageName": "school",
+    "opened": false
+  },
+  {
+    "id": 2,
+    "name": "Recreation",
+    "imageName": "recreation",
+    "opened": true
+  },
+  {
+    "id": 11,
+    "name": "Transport",
+    "imageName": "transport",
+    "opened": false
+  },
+  {
+    "id": 12,
+    "name": "Travel",
+    "imageName": "travel",
+    "opened": false
+  },
+  {
+    "id": 13,
+    "name": "Verbs",
+    "imageName": "verbs",
+    "opened": false
+  },
+  {
+    "id": 14,
+    "name": "Work",
+    "imageName": "work",
+    "opened": false
+  }
+]

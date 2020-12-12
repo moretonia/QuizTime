@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "die Surfer-Badehose"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "der Mantel"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "das Kleid"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "die Handschuhe"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "die Jacke"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "die Jeans"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "der Pullover"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "der Schlafanzug"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "das Hemd"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "die Schuhe"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "der Rock"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "die Freizeithose"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "die Sonnenbrille"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "das T-Shirt"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "die Uniform"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "rückenlos"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "der Bikini"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "das schwarze Kleid"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "das Abendkleid"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "der Flamenco"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "der Nackenträger"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "der Einteiler"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "der Sari"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "trägerlos"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "streifen"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "der Damenanzug"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "das Sommerkleid"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "die Toga"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "die Tracht"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "die Hochzeit"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "das Rasierwasser"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "der Gürtel"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "die Fliege"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "die Unterhose"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "der Manschettenknopf"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "das Oberhemd"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "die Business Schuhe"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "die Jogginghose"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "die Krawatte"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "der Rasierer"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "der Rasierpinsel"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "die Hausschuhe"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "die Socken"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "der Herrenanzug"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "die Hose"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "die Haube"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "die Stiefel"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "der Helm"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "die Schlittschuhe"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "das Trikot"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "die Strumpfhosen"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "das Polohemd"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "die Shorts"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "der Skianzug"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "die Smart Watch"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "der Sport BH"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "die Schwimmsachen"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "der Trainingsanzug"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "der Neoprenanzug"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "das Armband"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "die Bluse"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "der BH"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "die Strickjacke"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "der Choker"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "der Modegürtel"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "der Hut"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "die High Heels"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "der Overall"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "der Kimono"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "der Schlüpfer"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "die Sandalen"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "das Schultertuch"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "der Seidenschal"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "die Strumpfhose"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "der Reißverschluss"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "der Armreif"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "der edle Ring"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "die Ohrringe"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "die Handtasche"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "der Schlüsselring"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "der Lippenstift"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "die Wimperntusche"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "die Nagelfeile"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "die Kette"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "das Parfüm"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "die Geldbörse"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "das Smartphone"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "das Taschentuch"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "der Geldbeutel"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "die Armbanduhr"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "صدقة"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "الأفخارستيا"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "إحراق جثث الموتى"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "تخرج"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "الحج"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "بخور"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "الكافا"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "مشكأة"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "افتتاح"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "الصلاة"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "سجادة حمراء"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "تقاعد"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "تشريفة ملكية"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "السونجكران"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "حفل الشاي"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "شمعة"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "بطاقة عيد الميلاد"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "شجرة عيد الميلاد"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "قزم"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "خبز الزنجبيل"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "شجره الايلكس"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "ميلاد يسوع"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "هدايا"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "حلوى"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "أيائل الرنة"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "بابا نويل"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "مزلجة الجليد"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "الرجل الثلجي"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "جورب بابا نويل"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "ديك رومي"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "المذبح"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "القبة"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "التعميد"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "الصليب"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "الكتاب المقدس"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "كأس"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "الكورال"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "الرعية"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "جنازة"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "مقبرة"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "مقاعد الكنيسة"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "واعظ"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "منبر الوعظ"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "المنارة"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "حفل زواج"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "الجوز"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "كهرمان"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "البرسيم"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "أصابع مشبوكه"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "كريستال"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "الدلافين"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "فينج شوي"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "حدوة الحصان"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "جني"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "خيزران الحظ"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "قط الحظ"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "الشهب"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "قوس قزح"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "خنفسة سوداء"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "عظم الدجاج"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "بوذا"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "كاتدرائية"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "كونفوشيوس"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "إمام"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "يسوع"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "دير"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "راهب"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "مسجد"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "راهبة"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "كاهن"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "الحاخام"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "شنتو"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "السيخ"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "معبد يهودي"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "الطاوية"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "الدلو"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "الحمل"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "السرطان"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "الجدي"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "كره بلورية"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "الجوزاء"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "الطالع"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "الأسد"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "الميزان"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "الحوت"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "القوس"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "العقرب"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "بطاقات التارو"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "الثور"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "العذراء"
+  }
+]

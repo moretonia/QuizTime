@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "ฝนกรด"
+  },
+  {
+    "id" : "nature1",
+    "word" : "การตัดโค่น"
+  },
+  {
+    "id" : "nature2",
+    "word" : "เหมืองถ่านหิน"
+  },
+  {
+    "id" : "nature3",
+    "word" : "ปะการังตาย"
+  },
+  {
+    "id" : "nature4",
+    "word" : "ทะเลทราย"
+  },
+  {
+    "id" : "nature5",
+    "word" : "การกัดกร่อน"
+  },
+  {
+    "id" : "nature6",
+    "word" : "ควันไอเสีย"
+  },
+  {
+    "id" : "nature7",
+    "word" : "เชื้อเพลิงฟอสซิล"
+  },
+  {
+    "id" : "nature8",
+    "word" : "ขยะ"
+  },
+  {
+    "id" : "nature9",
+    "word" : "น้ำมันรั่ว"
+  },
+  {
+    "id" : "nature10",
+    "word" : "แท่นขุดเจาะน้ำมัน"
+  },
+  {
+    "id" : "nature11",
+    "word" : "มลพิษ"
+  },
+  {
+    "id" : "nature12",
+    "word" : "หมอกควัน"
+  },
+  {
+    "id" : "nature13",
+    "word" : "เเผงโซล่าร์"
+  },
+  {
+    "id" : "nature14",
+    "word" : "ฟาร์มกังหันลม"
+  },
+  {
+    "id" : "nature15",
+    "word" : "โรงนา"
+  },
+  {
+    "id" : "nature16",
+    "word" : "เล้าไก่"
+  },
+  {
+    "id" : "nature17",
+    "word" : "ชาวนา"
+  },
+  {
+    "id" : "nature18",
+    "word" : "รั้ว"
+  },
+  {
+    "id" : "nature19",
+    "word" : "ประตูรั้ว"
+  },
+  {
+    "id" : "nature20",
+    "word" : "รถเก็บเกี่ยว"
+  },
+  {
+    "id" : "nature21",
+    "word" : "ชลประทาน"
+  },
+  {
+    "id" : "nature22",
+    "word" : "ผานไถ"
+  },
+  {
+    "id" : "nature23",
+    "word" : "แอ่งน้ำ"
+  },
+  {
+    "id" : "nature24",
+    "word" : "หุ่นไล่กา"
+  },
+  {
+    "id" : "nature25",
+    "word" : "คอกม้า"
+  },
+  {
+    "id" : "nature26",
+    "word" : "รถแทรกเตอร์"
+  },
+  {
+    "id" : "nature27",
+    "word" : "หมู่บ้าน"
+  },
+  {
+    "id" : "nature28",
+    "word" : "บ่อน้ำ"
+  },
+  {
+    "id" : "nature29",
+    "word" : "กังหันลม"
+  },
+  {
+    "id" : "nature30",
+    "word" : "แอสเตอร์"
+  },
+  {
+    "id" : "nature31",
+    "word" : "คาร์เนชั่น"
+  },
+  {
+    "id" : "nature32",
+    "word" : "แดฟโฟดิล"
+  },
+  {
+    "id" : "nature33",
+    "word" : "ดาเลีย"
+  },
+  {
+    "id" : "nature34",
+    "word" : "เดซี่"
+  },
+  {
+    "id" : "nature35",
+    "word" : "ลั่นทม"
+  },
+  {
+    "id" : "nature36",
+    "word" : "ฟรีเซีย"
+  },
+  {
+    "id" : "nature37",
+    "word" : "เจอร์เรเนี่ยม"
+  },
+  {
+    "id" : "nature38",
+    "word" : "เยอบีร่า"
+  },
+  {
+    "id" : "nature39",
+    "word" : "ชบา"
+  },
+  {
+    "id" : "nature40",
+    "word" : "ดอกกมล"
+  },
+  {
+    "id" : "nature41",
+    "word" : "แม็กโนเลีย"
+  },
+  {
+    "id" : "nature42",
+    "word" : "กล้วยไม้"
+  },
+  {
+    "id" : "nature43",
+    "word" : "กุหลาบ"
+  },
+  {
+    "id" : "nature44",
+    "word" : "ทิวลิป"
+  },
+  {
+    "id" : "nature45",
+    "word" : "มด"
+  },
+  {
+    "id" : "nature46",
+    "word" : "ผึ้ง"
+  },
+  {
+    "id" : "nature47",
+    "word" : "ด้วง"
+  },
+  {
+    "id" : "nature48",
+    "word" : "ผีเสื้อ"
+  },
+  {
+    "id" : "nature49",
+    "word" : "แมลงสาบ"
+  },
+  {
+    "id" : "nature50",
+    "word" : "จิ้งหรีด"
+  },
+  {
+    "id" : "nature51",
+    "word" : "แมลงปอ"
+  },
+  {
+    "id" : "nature52",
+    "word" : "แมลงวัน"
+  },
+  {
+    "id" : "nature53",
+    "word" : "ตั๊กแตน"
+  },
+  {
+    "id" : "nature54",
+    "word" : "เต่าทอง"
+  },
+  {
+    "id" : "nature55",
+    "word" : "ตั๊กแตนตำข้าว"
+  },
+  {
+    "id" : "nature56",
+    "word" : "ยุง"
+  },
+  {
+    "id" : "nature57",
+    "word" : "ผีเสื้อกลางคืน"
+  },
+  {
+    "id" : "nature58",
+    "word" : "ปลวก"
+  },
+  {
+    "id" : "nature59",
+    "word" : "ต่อ"
+  },
+  {
+    "id" : "nature60",
+    "word" : "เฟิร์น"
+  },
+  {
+    "id" : "nature61",
+    "word" : "สวน"
+  },
+  {
+    "id" : "nature62",
+    "word" : "หญ้า"
+  },
+  {
+    "id" : "nature63",
+    "word" : "สนามหญ้า"
+  },
+  {
+    "id" : "nature64",
+    "word" : "ใบไม้"
+  },
+  {
+    "id" : "nature65",
+    "word" : "ต้นปาล์ม"
+  },
+  {
+    "id" : "nature66",
+    "word" : "กลีบดอกไม้"
+  },
+  {
+    "id" : "nature67",
+    "word" : "ป่าสน"
+  },
+  {
+    "id" : "nature68",
+    "word" : "ป่าร้อนชื้น"
+  },
+  {
+    "id" : "nature69",
+    "word" : "ราก"
+  },
+  {
+    "id" : "nature70",
+    "word" : "ต้นอ่อน"
+  },
+  {
+    "id" : "nature71",
+    "word" : "เมล็ด"
+  },
+  {
+    "id" : "nature72",
+    "word" : "หนาม"
+  },
+  {
+    "id" : "nature73",
+    "word" : "ต้นไม้"
+  },
+  {
+    "id" : "nature74",
+    "word" : "ลำต้น"
+  },
+  {
+    "id" : "nature75",
+    "word" : "พายุไซโคลน"
+  },
+  {
+    "id" : "nature76",
+    "word" : "ภัยแล้ง"
+  },
+  {
+    "id" : "nature77",
+    "word" : "น้ำท่วม"
+  },
+  {
+    "id" : "nature78",
+    "word" : "หมอก"
+  },
+  {
+    "id" : "nature79",
+    "word" : "พยากรณ์อากาศ"
+  },
+  {
+    "id" : "nature80",
+    "word" : "คลื่นความร้อน"
+  },
+  {
+    "id" : "nature81",
+    "word" : "น้ำแข็ง"
+  },
+  {
+    "id" : "nature82",
+    "word" : "ฟ้าผ่า"
+  },
+  {
+    "id" : "nature83",
+    "word" : "บ่อ"
+  },
+  {
+    "id" : "nature84",
+    "word" : "ฝน"
+  },
+  {
+    "id" : "nature85",
+    "word" : "เสื้อกันฝน"
+  },
+  {
+    "id" : "nature86",
+    "word" : "พายุทราย"
+  },
+  {
+    "id" : "nature87",
+    "word" : "หิมะ"
+  },
+  {
+    "id" : "nature88",
+    "word" : "พายุทอร์นาโด"
+  },
+  {
+    "id" : "nature89",
+    "word" : "ร่ม"
+  }
+]

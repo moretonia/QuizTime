@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "vyvažování"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "pálkování"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "kontrolování"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "pláč"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "tancování"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "padání"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "skákání"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "odstartování"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "běh"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "zpěv"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "sezení"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "spaní"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "smích"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "stání"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "chození"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "čištění"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "sekání"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "uklízení"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "vaření"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "kreslení"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "pití"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "sušení"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "jezení"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "cvičení"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "blikající"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "čtení"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "holení"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "probouzení"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "mytí"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "psaní"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "řízení"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "strouhání"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "pomáhání"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "udeří"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "dojení"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "otevírání"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "posílání"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "relaxační"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "válení"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "přeskakování"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "mluvení"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "mačkání"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "plavání"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "houpání se"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "smskování"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "potlesk"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "pečení"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "počítání"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "honění"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "zdobení"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "zadávání"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "tloukání"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "běhání"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "klečení"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "pochodování"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "hraní"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "couvání"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "tření"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "kouření"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "mávání"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "dohadování"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "zatčení"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "kempování"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "nesení"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "kapající"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "bubnování"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "plavající"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "zdravení"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "pletení"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "ukazování"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "čerpání"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "šití"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "klouzání"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "sněžení"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "zkroucení"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "kousnutí"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "požehnání"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "kuželky"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "hořící"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "povzbuzování"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "česání"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "lezení"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "natáčení"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "vznášení se"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "tání"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "míchání"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "pádlování"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "pekování"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "leštění"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "protahování"
+  }
+]

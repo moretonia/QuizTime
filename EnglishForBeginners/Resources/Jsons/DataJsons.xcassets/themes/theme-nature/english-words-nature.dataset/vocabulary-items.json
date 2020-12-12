@@ -1,0 +1,542 @@
+[
+ {
+   "id": "nature0",
+   "word": "acid rain",
+   "transcription": "ˈæsəd ˈreɪn",
+   "imageName": "nature-acid rain"
+ },
+ {
+   "id": "nature1",
+   "word": "clearfelling",
+   "transcription": "ˈklɪr ˈfɛlɪŋ",
+   "imageName": "nature-clearfelling"
+ },
+ {
+   "id": "nature2",
+   "word": "coal mine",
+   "transcription": "ˈkoʊl ˈmaɪn",
+   "imageName": "nature-coal mine"
+ },
+ {
+   "id": "nature3",
+   "word": "dead coral",
+   "transcription": "ˈdɛd ˈkɔrəl",
+   "imageName": "nature-dead coral"
+ },
+ {
+   "id": "nature4",
+   "word": "desert",
+   "transcription": "ˈdɛzɚt",
+   "imageName": "nature-desert"
+ },
+ {
+   "id": "nature5",
+   "word": "erosion",
+   "transcription": "ɪˈroʊʒən",
+   "imageName": "nature-erosion"
+ },
+ {
+   "id": "nature6",
+   "word": "exhaust",
+   "transcription": "ɪɡˈzɔst",
+   "imageName": "nature-exhaust"
+ },
+ {
+   "id": "nature7",
+   "word": "fossil fuel",
+   "transcription": "ˈfɑsəl ˈfjuːəl",
+   "imageName": "nature-fossil fuel"
+ },
+ {
+   "id": "nature8",
+   "word": "litter",
+   "transcription": "ˈlɪtɚ",
+   "imageName": "nature-litter"
+ },
+ {
+   "id": "nature9",
+   "word": "oil spill",
+   "transcription": "ˈɔɪəl ˈspɪl",
+   "imageName": "nature-oil spill"
+ },
+ {
+   "id": "nature10",
+   "word": "oil well",
+   "transcription": "ˈɔɪəl ˈwɛl",
+   "imageName": "nature-oil well"
+ },
+ {
+   "id": "nature11",
+   "word": "pollution",
+   "transcription": "pəˈluːʃən",
+   "imageName": "nature-pollution"
+ },
+ {
+   "id": "nature12",
+   "word": "smog",
+   "transcription": "ˈsmɑɡ",
+   "imageName": "nature-smog"
+ },
+ {
+   "id": "nature13",
+   "word": "solar panel",
+   "transcription": "ˈsoʊlɚ ˈpænl̩",
+   "imageName": "nature-solar panel"
+ },
+ {
+   "id": "nature14",
+   "word": "wind farm",
+   "transcription": "ˈwɪnd ˈfɑrm",
+   "imageName": "nature-wind farm"
+ },
+ {
+   "id": "nature15",
+   "word": "barn",
+   "transcription": "ˈbɑrn",
+   "imageName": "nature-barn"
+ },
+ {
+   "id": "nature16",
+   "word": "chicken coop",
+   "transcription": "ˈtʃɪkn̩ ˈkuːp",
+   "imageName": "nature-chicken coop"
+ },
+ {
+   "id": "nature17",
+   "word": "farmer",
+   "transcription": "ˈfɑrmɚ",
+   "imageName": "nature-farmer"
+ },
+ {
+   "id": "nature18",
+   "word": "fence",
+   "transcription": "ˈfɛns",
+   "imageName": "nature-fence"
+ },
+ {
+   "id": "nature19",
+   "word": "gate",
+   "transcription": "ˈɡeɪt",
+   "imageName": "nature-gate"
+ },
+ {
+   "id": "nature20",
+   "word": "harvester",
+   "transcription": "ˈhɑrvəstɚ",
+   "imageName": "nature-harvester"
+ },
+ {
+   "id": "nature21",
+   "word": "irrigation",
+   "transcription": "ˌɪrəˈɡeɪʃən",
+   "imageName": "nature-irrigation"
+ },
+ {
+   "id": "nature22",
+   "word": "plough",
+   "transcription": "ˈplaʊ",
+   "imageName": "nature-plough"
+ },
+ {
+   "id": "nature23",
+   "word": "pond",
+   "transcription": "ˈpɑnd",
+   "imageName": "nature-pond"
+ },
+ {
+   "id": "nature24",
+   "word": "scarecrow",
+   "transcription": "ˈskɛrˌkroʊ",
+   "imageName": "nature-scarecrow"
+ },
+ {
+   "id": "nature25",
+   "word": "stable",
+   "transcription": "ˈsteɪbəl",
+   "imageName": "nature-stable"
+ },
+ {
+   "id": "nature26",
+   "word": "tractor",
+   "transcription": "ˈtræktɚ",
+   "imageName": "nature-tractor"
+ },
+ {
+   "id": "nature27",
+   "word": "village",
+   "transcription": "ˈvɪlɪdʒ",
+   "imageName": "nature-village"
+ },
+ {
+   "id": "nature28",
+   "word": "well",
+   "transcription": "ˈwɛl",
+   "imageName": "nature-well"
+ },
+ {
+   "id": "nature29",
+   "word": "windmill",
+   "transcription": "ˈwɪndˌmɪl",
+   "imageName": "nature-windmill"
+ },
+ {
+   "id": "nature30",
+   "word": "asters",
+   "transcription": "ˈæstɚz",
+   "imageName": "nature-asters"
+ },
+ {
+   "id": "nature31",
+   "word": "carnation",
+   "transcription": "kɑrˈneɪʃən",
+   "imageName": "nature-carnation"
+ },
+ {
+   "id": "nature32",
+   "word": "daffodil",
+   "transcription": "ˈdæfəˌdɪl",
+   "imageName": "nature-daffodil"
+ },
+ {
+   "id": "nature33",
+   "word": "dahlia",
+   "transcription": "ˈdæljə",
+   "imageName": "nature-dahlia"
+ },
+ {
+   "id": "nature34",
+   "word": "daisy",
+   "transcription": "ˈdeɪzɪ",
+   "imageName": "nature-daisy"
+ },
+ {
+   "id": "nature35",
+   "word": "frangipanni",
+   "transcription": "ˌfrændʒəˈpænɪ",
+   "imageName": "nature-frangipanni"
+ },
+ {
+   "id": "nature36",
+   "word": "freesia",
+   "transcription": "ˈfriːʒə",
+   "imageName": "nature-freesia"
+ },
+ {
+   "id": "nature37",
+   "word": "geranium",
+   "transcription": "dʒɚˈreɪniːəm",
+   "imageName": "nature-geranium"
+ },
+ {
+   "id": "nature38",
+   "word": "gerbera",
+   "transcription": "ˈɡɝbɚrə",
+   "imageName": "nature-gerbera"
+ },
+ {
+   "id": "nature39",
+   "word": "hibiscus",
+   "transcription": "haɪˈbɪskəs",
+   "imageName": "nature-hibiscus"
+ },
+ {
+   "id": "nature40",
+   "word": "lily",
+   "transcription": "ˈlɪlɪ",
+   "imageName": "nature-lily"
+ },
+ {
+   "id": "nature41",
+   "word": "magnolia",
+   "transcription": "mæɡˈnoʊljə",
+   "imageName": "nature-magnolia"
+ },
+ {
+   "id": "nature42",
+   "word": "orchid",
+   "transcription": "ˈɔrkəd",
+   "imageName": "nature-orchid"
+ },
+ {
+   "id": "nature43",
+   "word": "rose",
+   "transcription": "ˈroʊz",
+   "imageName": "nature-rose"
+ },
+ {
+   "id": "nature44",
+   "word": "tulip",
+   "transcription": "ˈtuːləp",
+   "imageName": "nature-tulip"
+ },
+ {
+   "id": "nature45",
+   "word": "ant",
+   "transcription": "ˈænt",
+   "imageName": "nature-ant"
+ },
+ {
+   "id": "nature46",
+   "word": "bee",
+   "transcription": "ˈbiː",
+   "imageName": "nature-bee"
+ },
+ {
+   "id": "nature47",
+   "word": "beetle",
+   "transcription": "ˈbiːtl̩",
+   "imageName": "nature-beetle"
+ },
+ {
+   "id": "nature48",
+   "word": "butterfly",
+   "transcription": "ˈbʌtɚˌflaɪ",
+   "imageName": "nature-butterfly"
+ },
+ {
+   "id": "nature49",
+   "word": "cockroach",
+   "transcription": "ˈkɑkˌroʊtʃ",
+   "imageName": "nature-cockroach"
+ },
+ {
+   "id": "nature50",
+   "word": "cricket",
+   "transcription": "ˈkrɪkət",
+   "imageName": "nature-cricket"
+ },
+ {
+   "id": "nature51",
+   "word": "dragonfly",
+   "transcription": "ˈdræɡənˌflaɪ",
+   "imageName": "nature-dragonfly"
+ },
+ {
+   "id": "nature52",
+   "word": "fly",
+   "transcription": "ˈflaɪ",
+   "imageName": "nature-fly"
+ },
+ {
+   "id": "nature53",
+   "word": "grasshopper",
+   "transcription": "ˈɡræsˌhɑpɚ",
+   "imageName": "nature-grasshopper"
+ },
+ {
+   "id": "nature54",
+   "word": "ladybug",
+   "transcription": "ˈleɪdiːˌbʌɡ",
+   "imageName": "nature-ladybug"
+ },
+ {
+   "id": "nature55",
+   "word": "mantis",
+   "transcription": "ˈmæntəs",
+   "imageName": "nature-mantis"
+ },
+ {
+   "id": "nature56",
+   "word": "mosquito",
+   "transcription": "məˈskiːtoʊ",
+   "imageName": "nature-mosquito"
+ },
+ {
+   "id": "nature57",
+   "word": "moth",
+   "transcription": "ˈmɔθ",
+   "imageName": "nature-moth"
+ },
+ {
+   "id": "nature58",
+   "word": "termites",
+   "transcription": "ˈtɝˌmaɪts",
+   "imageName": "nature-termites"
+ },
+ {
+   "id": "nature59",
+   "word": "wasp",
+   "transcription": "ˈwɑsp",
+   "imageName": "nature-wasp"
+ },
+ {
+   "id": "nature60",
+   "word": "ferns",
+   "transcription": "ˈfɝnz",
+   "imageName": "nature-ferns"
+ },
+ {
+   "id": "nature61",
+   "word": "garden",
+   "transcription": "ˈɡɑrdn̩",
+   "imageName": "nature-garden"
+ },
+ {
+   "id": "nature62",
+   "word": "grass",
+   "transcription": "ˈɡræs",
+   "imageName": "nature-grass"
+ },
+ {
+   "id": "nature63",
+   "word": "lawn",
+   "transcription": "ˈlɔn",
+   "imageName": "nature-lawn"
+ },
+ {
+   "id": "nature64",
+   "word": "leaf",
+   "transcription": "ˈliːf",
+   "imageName": "nature-leaf"
+ },
+ {
+   "id": "nature65",
+   "word": "palm",
+   "transcription": "ˈpɑm",
+   "imageName": "nature-palm"
+ },
+ {
+   "id": "nature66",
+   "word": "petals",
+   "transcription": "ˈpɛtl̩z",
+   "imageName": "nature-petals"
+ },
+ {
+   "id": "nature67",
+   "word": "pineforest",
+   "transcription": "ˈpaɪn ˈfɔrəst",
+   "imageName": "nature-pineforest"
+ },
+ {
+   "id": "nature68",
+   "word": "rainforest",
+   "transcription": "ˈreɪn ˈfɔrəst",
+   "imageName": "nature-rainforest"
+ },
+ {
+   "id": "nature69",
+   "word": "roots",
+   "transcription": "ˈruːts",
+   "imageName": "nature-roots"
+ },
+ {
+   "id": "nature70",
+   "word": "seedling",
+   "transcription": "ˈsiːdlɪŋ",
+   "imageName": "nature-seedling"
+ },
+ {
+   "id": "nature71",
+   "word": "seeds",
+   "transcription": "ˈsiːdz",
+   "imageName": "nature-seeds"
+ },
+ {
+   "id": "nature72",
+   "word": "thorns",
+   "transcription": "ˈθɔrnz",
+   "imageName": "nature-thorns"
+ },
+ {
+   "id": "nature73",
+   "word": "tree",
+   "transcription": "ˈtriː",
+   "imageName": "nature-tree"
+ },
+ {
+   "id": "nature74",
+   "word": "trunk",
+   "transcription": "ˈtrʌŋk",
+   "imageName": "nature-trunk"
+ },
+ {
+   "id": "nature75",
+   "word": "cyclone",
+   "transcription": "ˈsaɪˌkloʊn",
+   "imageName": "nature-cyclone"
+ },
+ {
+   "id": "nature76",
+   "word": "drought",
+   "transcription": "ˈdraʊt",
+   "imageName": "nature-drought"
+ },
+ {
+   "id": "nature77",
+   "word": "flood",
+   "transcription": "ˈflʌd",
+   "imageName": "nature-flood"
+ },
+ {
+   "id": "nature78",
+   "word": "fog",
+   "transcription": "ˈfɔɡ",
+   "imageName": "nature-fog"
+ },
+ {
+   "id": "nature79",
+   "word": "forecast",
+   "transcription": "ˈfɔrˌkæst",
+   "imageName": "nature-forecast"
+ },
+ {
+   "id": "nature80",
+   "word": "heatwave",
+   "transcription": "ˈhiːt ˈweɪv",
+   "imageName": "nature-heatwave"
+ },
+ {
+   "id": "nature81",
+   "word": "ice",
+   "transcription": "ˈaɪs",
+   "imageName": "nature-ice"
+ },
+ {
+   "id": "nature82",
+   "word": "lightning",
+   "transcription": "ˈlaɪtnɪŋ",
+   "imageName": "nature-lightning"
+ },
+ {
+   "id": "nature83",
+   "word": "puddle",
+   "transcription": "ˈpʌdl̩",
+   "imageName": "nature-puddle"
+ },
+ {
+   "id": "nature84",
+   "word": "rain",
+   "transcription": "ˈreɪn",
+   "imageName": "nature-rain"
+ },
+ {
+   "id": "nature85",
+   "word": "raincoat",
+   "transcription": "ˈreɪnˌkoʊt",
+   "imageName": "nature-raincoat"
+ },
+ {
+   "id": "nature86",
+   "word": "sandstorm",
+   "transcription": "ˈsændˌstɔrm",
+   "imageName": "nature-sandstorm"
+ },
+ {
+   "id": "nature87",
+   "word": "snow",
+   "transcription": "ˈsnoʊ",
+   "imageName": "nature-snow"
+ },
+ {
+   "id": "nature88",
+   "word": "tornado",
+   "transcription": "tɔrˈneɪdoʊ",
+   "imageName": "nature-tornado"
+ },
+ {
+   "id": "nature89",
+   "word": "umbrella",
+   "transcription": "ˌʌmˈbrɛlə",
+   "imageName": "nature-umbrella"
+ }
+]

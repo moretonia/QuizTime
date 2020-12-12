@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "alamizsna"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "úrvacsora"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "hamvasztás"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "iskola végzés"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "zarándoklat"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "tömjén"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "kava"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "lámpa"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "nyitás"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "imádkozás"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "vörös szőnyeg"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "nyugdíjazás"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "királyi tisztelgés"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "songkran"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "teaszertartás"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "gyertya"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "karácsonyi kártya"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "karácsonyfa"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "kobold"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "mézeskalács"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "magyal"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "születés"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "ajándékok"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "puding"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "rénszarvas"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "Mikulás"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "szánkó"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "hóember"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "harisnya"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "pulyka"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "oltár"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "szentély"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "keresztség"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "kereszt"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "Biblia"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "kehely"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "kórus"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "gyülekezet"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "temetés"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "temető"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "padok"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "prédikátor"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "szószék"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "templomtorony"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "esküvő"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "makk"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "borostyán"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "lóhere"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "csuri"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "kristály"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "delfinek"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "feng shui"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "lócipő"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "manó"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "szerencse bambusz"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "szerencse macska"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "meteorok"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "szivárvány"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "skarabeusz"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "keresztlengőkaros"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "buddha"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "katedrális"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "konfuciusz"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "imám"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "Jézus"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "kolostor"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "szerzetes"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "mecset"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "apáca"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "pap"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "rabbi"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "sintó"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "szikh"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "zsinagóga"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "taoizmus"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "Vízöntő"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "Kos"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "Rák"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "Bak"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "kristálygömb"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "Ikrek"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "horoszkóp"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "Oroszlán"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "Mérleg"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "Halak"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "Nyilas"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "Skorpió"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "tarot kártyák"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "Bika"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "Szűz"
+  }
+]

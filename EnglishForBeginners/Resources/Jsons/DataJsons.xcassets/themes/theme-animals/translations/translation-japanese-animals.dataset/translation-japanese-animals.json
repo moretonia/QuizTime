@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "ヒヒ"
+  },
+  {
+    "id" : "animals1",
+    "word" : "バッファロー"
+  },
+  {
+    "id" : "animals2",
+    "word" : "ラクダ"
+  },
+  {
+    "id" : "animals3",
+    "word" : "チンパンジー"
+  },
+  {
+    "id" : "animals4",
+    "word" : "ワニ"
+  },
+  {
+    "id" : "animals5",
+    "word" : "ゾウ"
+  },
+  {
+    "id" : "animals6",
+    "word" : "キリン"
+  },
+  {
+    "id" : "animals7",
+    "word" : "ゴリラ"
+  },
+  {
+    "id" : "animals8",
+    "word" : "カバ"
+  },
+  {
+    "id" : "animals9",
+    "word" : "ハイエナ"
+  },
+  {
+    "id" : "animals10",
+    "word" : "ヒョウ"
+  },
+  {
+    "id" : "animals11",
+    "word" : "ライオン"
+  },
+  {
+    "id" : "animals12",
+    "word" : "ダチョウ"
+  },
+  {
+    "id" : "animals13",
+    "word" : "サイ"
+  },
+  {
+    "id" : "animals14",
+    "word" : "ヌー"
+  },
+  {
+    "id" : "animals15",
+    "word" : "ビーグル"
+  },
+  {
+    "id" : "animals16",
+    "word" : "ボクサー"
+  },
+  {
+    "id" : "animals17",
+    "word" : "チワワ"
+  },
+  {
+    "id" : "animals18",
+    "word" : "コリー"
+  },
+  {
+    "id" : "animals19",
+    "word" : "ダックスフント"
+  },
+  {
+    "id" : "animals20",
+    "word" : "ダルメシアン"
+  },
+  {
+    "id" : "animals21",
+    "word" : "ドーベルマン"
+  },
+  {
+    "id" : "animals22",
+    "word" : "グレーハウンド"
+  },
+  {
+    "id" : "animals23",
+    "word" : "ハスキー"
+  },
+  {
+    "id" : "animals24",
+    "word" : "アイリッシュセッター"
+  },
+  {
+    "id" : "animals25",
+    "word" : "ラブラドール"
+  },
+  {
+    "id" : "animals26",
+    "word" : "マルチーズ"
+  },
+  {
+    "id" : "animals27",
+    "word" : "プードル"
+  },
+  {
+    "id" : "animals28",
+    "word" : "ロットワイラー"
+  },
+  {
+    "id" : "animals29",
+    "word" : "牧羊犬"
+  },
+  {
+    "id" : "animals30",
+    "word" : "雄牛"
+  },
+  {
+    "id" : "animals31",
+    "word" : "子羊"
+  },
+  {
+    "id" : "animals32",
+    "word" : "ネコ"
+  },
+  {
+    "id" : "animals33",
+    "word" : "ドンキー"
+  },
+  {
+    "id" : "animals34",
+    "word" : "アヒル"
+  },
+  {
+    "id" : "animals35",
+    "word" : "仔馬"
+  },
+  {
+    "id" : "animals36",
+    "word" : "山羊"
+  },
+  {
+    "id" : "animals37",
+    "word" : "ガチョウ"
+  },
+  {
+    "id" : "animals38",
+    "word" : "馬"
+  },
+  {
+    "id" : "animals39",
+    "word" : "ラム"
+  },
+  {
+    "id" : "animals40",
+    "word" : "豚"
+  },
+  {
+    "id" : "animals41",
+    "word" : "子豚"
+  },
+  {
+    "id" : "animals42",
+    "word" : "ニワトリ"
+  },
+  {
+    "id" : "animals43",
+    "word" : "羊"
+  },
+  {
+    "id" : "animals44",
+    "word" : "七面鳥"
+  },
+  {
+    "id" : "animals45",
+    "word" : "タラ"
+  },
+  {
+    "id" : "animals46",
+    "word" : "カニ"
+  },
+  {
+    "id" : "animals47",
+    "word" : "くらげ"
+  },
+  {
+    "id" : "animals48",
+    "word" : "ロブスター"
+  },
+  {
+    "id" : "animals49",
+    "word" : "たこ"
+  },
+  {
+    "id" : "animals50",
+    "word" : "カキ"
+  },
+  {
+    "id" : "animals51",
+    "word" : "エビ"
+  },
+  {
+    "id" : "animals52",
+    "word" : "サーモン"
+  },
+  {
+    "id" : "animals53",
+    "word" : "イワシ"
+  },
+  {
+    "id" : "animals54",
+    "word" : "タツノオトシゴ"
+  },
+  {
+    "id" : "animals55",
+    "word" : "サメ"
+  },
+  {
+    "id" : "animals56",
+    "word" : "いか"
+  },
+  {
+    "id" : "animals57",
+    "word" : "メカジキ"
+  },
+  {
+    "id" : "animals58",
+    "word" : "マス"
+  },
+  {
+    "id" : "animals59",
+    "word" : "マグロ"
+  },
+  {
+    "id" : "animals60",
+    "word" : "アホウドリ"
+  },
+  {
+    "id" : "animals61",
+    "word" : "2枚貝"
+  },
+  {
+    "id" : "animals62",
+    "word" : "サンゴ"
+  },
+  {
+    "id" : "animals63",
+    "word" : "イルカ"
+  },
+  {
+    "id" : "animals64",
+    "word" : "ウツボ"
+  },
+  {
+    "id" : "animals65",
+    "word" : "ペリカン"
+  },
+  {
+    "id" : "animals66",
+    "word" : "ペンギン"
+  },
+  {
+    "id" : "animals67",
+    "word" : "ホッキョクグマ"
+  },
+  {
+    "id" : "animals68",
+    "word" : "うに"
+  },
+  {
+    "id" : "animals69",
+    "word" : "アザラシ"
+  },
+  {
+    "id" : "animals70",
+    "word" : "アカエイ"
+  },
+  {
+    "id" : "animals71",
+    "word" : "カメ"
+  },
+  {
+    "id" : "animals72",
+    "word" : "セイウチ"
+  },
+  {
+    "id" : "animals73",
+    "word" : "ジンベイザメ"
+  },
+  {
+    "id" : "animals74",
+    "word" : "クジラ"
+  },
+  {
+    "id" : "animals75",
+    "word" : "セキセイインコ"
+  },
+  {
+    "id" : "animals76",
+    "word" : "カナリア"
+  },
+  {
+    "id" : "animals77",
+    "word" : "チンチラ"
+  },
+  {
+    "id" : "animals78",
+    "word" : "フェレット"
+  },
+  {
+    "id" : "animals79",
+    "word" : "フィンチ"
+  },
+  {
+    "id" : "animals80",
+    "word" : "ゲッコー"
+  },
+  {
+    "id" : "animals81",
+    "word" : "金魚"
+  },
+  {
+    "id" : "animals82",
+    "word" : "モルモット"
+  },
+  {
+    "id" : "animals83",
+    "word" : "ヤドカリ"
+  },
+  {
+    "id" : "animals84",
+    "word" : "子猫"
+  },
+  {
+    "id" : "animals85",
+    "word" : "コンゴウインコ"
+  },
+  {
+    "id" : "animals86",
+    "word" : "ネズミ"
+  },
+  {
+    "id" : "animals87",
+    "word" : "子犬"
+  },
+  {
+    "id" : "animals88",
+    "word" : "うさぎ"
+  },
+  {
+    "id" : "animals89",
+    "word" : "リクガメ"
+  }
+]

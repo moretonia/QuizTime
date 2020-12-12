@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Art",
+    "word" : "Sanat"
+  },
+  {
+    "id" : "Musical Instruments",
+    "word" : "Müzik Enstrumanları"
+  },
+  {
+    "id" : "School",
+    "word" : "Okul"
+  },
+  {
+    "id" : "School Subjects",
+    "word" : "Okul Nesneleri"
+  },
+  {
+    "id" : "Stationery",
+    "word" : "Kırtasiye"
+  },
+  {
+    "id" : "Writing",
+    "word" : "Yazma"
+  }
+]

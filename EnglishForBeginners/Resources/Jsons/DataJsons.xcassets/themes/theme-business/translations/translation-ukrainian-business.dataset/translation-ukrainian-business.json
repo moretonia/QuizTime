@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "перевага"
+  },
+  {
+    "id" : "business1",
+    "word" : "реклама"
+  },
+  {
+    "id" : "business2",
+    "word" : "рахунок"
+  },
+  {
+    "id" : "business3",
+    "word" : "бюджет"
+  },
+  {
+    "id" : "business4",
+    "word" : "порівняння"
+  },
+  {
+    "id" : "business5",
+    "word" : "конкурент"
+  },
+  {
+    "id" : "business6",
+    "word" : "підтвердження"
+  },
+  {
+    "id" : "business7",
+    "word" : "клієнт"
+  },
+  {
+    "id" : "business8",
+    "word" : "крайній термін"
+  },
+  {
+    "id" : "business9",
+    "word" : "борг"
+  },
+  {
+    "id" : "business10",
+    "word" : "рішення"
+  },
+  {
+    "id" : "business11",
+    "word" : "доставка"
+  },
+  {
+    "id" : "business12",
+    "word" : "ціна"
+  },
+  {
+    "id" : "business13",
+    "word" : "розклад"
+  },
+  {
+    "id" : "business14",
+    "word" : "командна робота"
+  },
+  {
+    "id" : "business15",
+    "word" : "оцінка"
+  },
+  {
+    "id" : "business16",
+    "word" : "презентація"
+  },
+  {
+    "id" : "business17",
+    "word" : "дистрибуція"
+  },
+  {
+    "id" : "business18",
+    "word" : "персонал"
+  },
+  {
+    "id" : "business19",
+    "word" : "работодавець"
+  },
+  {
+    "id" : "business20",
+    "word" : "завод"
+  },
+  {
+    "id" : "business21",
+    "word" : "приріст"
+  },
+  {
+    "id" : "business22",
+    "word" : "mенеджер"
+  },
+  {
+    "id" : "business23",
+    "word" : "інструкції"
+  },
+  {
+    "id" : "business24",
+    "word" : "інтерв'ю"
+  },
+  {
+    "id" : "business25",
+    "word" : "рахунок-фактура"
+  },
+  {
+    "id" : "business26",
+    "word" : "збиток"
+  },
+  {
+    "id" : "business27",
+    "word" : "машинне обладнання"
+  },
+  {
+    "id" : "business28",
+    "word" : "супутні товари"
+  },
+  {
+    "id" : "business29",
+    "word" : "зберігання"
+  },
+  {
+    "id" : "business30",
+    "word" : "скасування"
+  },
+  {
+    "id" : "business31",
+    "word" : "обмін"
+  },
+  {
+    "id" : "business32",
+    "word" : "відгук"
+  },
+  {
+    "id" : "business33",
+    "word" : "монтаж"
+  },
+  {
+    "id" : "business34",
+    "word" : "замовлення"
+  },
+  {
+    "id" : "business35",
+    "word" : "оплата"
+  },
+  {
+    "id" : "business36",
+    "word" : "штраф"
+  },
+  {
+    "id" : "business37",
+    "word" : "товари"
+  },
+  {
+    "id" : "business38",
+    "word" : "промоакція"
+  },
+  {
+    "id" : "business39",
+    "word" : "відмова"
+  },
+  {
+    "id" : "business40",
+    "word" : "ремонтні роботи"
+  },
+  {
+    "id" : "business41",
+    "word" : "звіт"
+  },
+  {
+    "id" : "business42",
+    "word" : "зарплата"
+  },
+  {
+    "id" : "business43",
+    "word" : "транспортування"
+  },
+  {
+    "id" : "business44",
+    "word" : "мета"
+  },
+  {
+    "id" : "business45",
+    "word" : "антикваріат"
+  },
+  {
+    "id" : "business46",
+    "word" : "артефакти"
+  },
+  {
+    "id" : "business47",
+    "word" : "комікси"
+  },
+  {
+    "id" : "business48",
+    "word" : "діаманти"
+  },
+  {
+    "id" : "business49",
+    "word" : "статуетки"
+  },
+  {
+    "id" : "business50",
+    "word" : "копалини"
+  },
+  {
+    "id" : "business51",
+    "word" : "золоті монети"
+  },
+  {
+    "id" : "business52",
+    "word" : "колекційні машинки"
+  },
+  {
+    "id" : "business53",
+    "word" : "постери"
+  },
+  {
+    "id" : "business54",
+    "word" : "рубіни"
+  },
+  {
+    "id" : "business55",
+    "word" : "сапфіри"
+  },
+  {
+    "id" : "business56",
+    "word" : "срібло"
+  },
+  {
+    "id" : "business57",
+    "word" : "марки"
+  },
+  {
+    "id" : "business58",
+    "word" : "ретро-автомобілі"
+  },
+  {
+    "id" : "business59",
+    "word" : "твори мистецтва"
+  },
+  {
+    "id" : "business60",
+    "word" : "готівка"
+  },
+  {
+    "id" : "business61",
+    "word" : "касир"
+  },
+  {
+    "id" : "business62",
+    "word" : "кредитна картка"
+  },
+  {
+    "id" : "business63",
+    "word" : "каталог"
+  },
+  {
+    "id" : "business64",
+    "word" : "примірочна"
+  },
+  {
+    "id" : "business65",
+    "word" : "клавіатура"
+  },
+  {
+    "id" : "business66",
+    "word" : "дивитися"
+  },
+  {
+    "id" : "business67",
+    "word" : "заплатити"
+  },
+  {
+    "id" : "business68",
+    "word" : "цінник"
+  },
+  {
+    "id" : "business69",
+    "word" : "продаж"
+  },
+  {
+    "id" : "business70",
+    "word" : "сумка для покупок"
+  },
+  {
+    "id" : "business71",
+    "word" : "шопінг"
+  },
+  {
+    "id" : "business72",
+    "word" : "транзакції"
+  },
+  {
+    "id" : "business73",
+    "word" : "примірка"
+  },
+  {
+    "id" : "business74",
+    "word" : "зняття"
+  },
+  {
+    "id" : "business75",
+    "word" : "пекарня"
+  },
+  {
+    "id" : "business76",
+    "word" : "книжковий магазин"
+  },
+  {
+    "id" : "business77",
+    "word" : "м'ясна лавка"
+  },
+  {
+    "id" : "business78",
+    "word" : "кондитерська"
+  },
+  {
+    "id" : "business79",
+    "word" : "аптека"
+  },
+  {
+    "id" : "business80",
+    "word" : "магазин одягу"
+  },
+  {
+    "id" : "business81",
+    "word" : "риба та чіпси"
+  },
+  {
+    "id" : "business82",
+    "word" : "магазин квітів"
+  },
+  {
+    "id" : "business83",
+    "word" : "фруктовий магазин"
+  },
+  {
+    "id" : "business84",
+    "word" : "ювелірний магазин"
+  },
+  {
+    "id" : "business85",
+    "word" : "ринок"
+  },
+  {
+    "id" : "business86",
+    "word" : "інтернет-магазин"
+  },
+  {
+    "id" : "business87",
+    "word" : "магазин взуття"
+  },
+  {
+    "id" : "business88",
+    "word" : "магазин іграшок"
+  },
+  {
+    "id" : "business89",
+    "word" : "туристичне бюро"
+  }
+]

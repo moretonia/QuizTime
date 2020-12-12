@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "преимущество"
+  },
+  {
+    "id" : "business1",
+    "word" : "реклама"
+  },
+  {
+    "id" : "business2",
+    "word" : "счет"
+  },
+  {
+    "id" : "business3",
+    "word" : "бюджет"
+  },
+  {
+    "id" : "business4",
+    "word" : "сравнение"
+  },
+  {
+    "id" : "business5",
+    "word" : "конкурент"
+  },
+  {
+    "id" : "business6",
+    "word" : "подтверждение"
+  },
+  {
+    "id" : "business7",
+    "word" : "клиент"
+  },
+  {
+    "id" : "business8",
+    "word" : "конечный срок"
+  },
+  {
+    "id" : "business9",
+    "word" : "долг"
+  },
+  {
+    "id" : "business10",
+    "word" : "решение"
+  },
+  {
+    "id" : "business11",
+    "word" : "доставка"
+  },
+  {
+    "id" : "business12",
+    "word" : "цена"
+  },
+  {
+    "id" : "business13",
+    "word" : "расписание"
+  },
+  {
+    "id" : "business14",
+    "word" : "командная работа"
+  },
+  {
+    "id" : "business15",
+    "word" : "оценка"
+  },
+  {
+    "id" : "business16",
+    "word" : "презентация"
+  },
+  {
+    "id" : "business17",
+    "word" : "дистрибуция"
+  },
+  {
+    "id" : "business18",
+    "word" : "персонал"
+  },
+  {
+    "id" : "business19",
+    "word" : "работодатель"
+  },
+  {
+    "id" : "business20",
+    "word" : "завод"
+  },
+  {
+    "id" : "business21",
+    "word" : "прирост"
+  },
+  {
+    "id" : "business22",
+    "word" : "mенеджер"
+  },
+  {
+    "id" : "business23",
+    "word" : "инструкции"
+  },
+  {
+    "id" : "business24",
+    "word" : "собеседование"
+  },
+  {
+    "id" : "business25",
+    "word" : "счет на оплату"
+  },
+  {
+    "id" : "business26",
+    "word" : "убыток"
+  },
+  {
+    "id" : "business27",
+    "word" : "машинное оборудование"
+  },
+  {
+    "id" : "business28",
+    "word" : "сопутствующие товары"
+  },
+  {
+    "id" : "business29",
+    "word" : "хранение"
+  },
+  {
+    "id" : "business30",
+    "word" : "отмена"
+  },
+  {
+    "id" : "business31",
+    "word" : "обмен"
+  },
+  {
+    "id" : "business32",
+    "word" : "обратная связь"
+  },
+  {
+    "id" : "business33",
+    "word" : "монтаж"
+  },
+  {
+    "id" : "business34",
+    "word" : "заказ"
+  },
+  {
+    "id" : "business35",
+    "word" : "оплата"
+  },
+  {
+    "id" : "business36",
+    "word" : "неустойка"
+  },
+  {
+    "id" : "business37",
+    "word" : "товары"
+  },
+  {
+    "id" : "business38",
+    "word" : "промоакция"
+  },
+  {
+    "id" : "business39",
+    "word" : "отказ"
+  },
+  {
+    "id" : "business40",
+    "word" : "ремонтные работы"
+  },
+  {
+    "id" : "business41",
+    "word" : "доклад"
+  },
+  {
+    "id" : "business42",
+    "word" : "зарплата"
+  },
+  {
+    "id" : "business43",
+    "word" : "транспортировка"
+  },
+  {
+    "id" : "business44",
+    "word" : "цель"
+  },
+  {
+    "id" : "business45",
+    "word" : "антиквариат"
+  },
+  {
+    "id" : "business46",
+    "word" : "артефакты"
+  },
+  {
+    "id" : "business47",
+    "word" : "комиксы"
+  },
+  {
+    "id" : "business48",
+    "word" : "бриллианты"
+  },
+  {
+    "id" : "business49",
+    "word" : "статуэтки"
+  },
+  {
+    "id" : "business50",
+    "word" : "ископаемые"
+  },
+  {
+    "id" : "business51",
+    "word" : "золотые монеты"
+  },
+  {
+    "id" : "business52",
+    "word" : "коллекционные машинки"
+  },
+  {
+    "id" : "business53",
+    "word" : "постеры"
+  },
+  {
+    "id" : "business54",
+    "word" : "рубины"
+  },
+  {
+    "id" : "business55",
+    "word" : "сапфиры"
+  },
+  {
+    "id" : "business56",
+    "word" : "серебро"
+  },
+  {
+    "id" : "business57",
+    "word" : "марки"
+  },
+  {
+    "id" : "business58",
+    "word" : "ретро-автомобили"
+  },
+  {
+    "id" : "business59",
+    "word" : "произведения искусства"
+  },
+  {
+    "id" : "business60",
+    "word" : "наличные деньги"
+  },
+  {
+    "id" : "business61",
+    "word" : "кассир"
+  },
+  {
+    "id" : "business62",
+    "word" : "кредитная карта"
+  },
+  {
+    "id" : "business63",
+    "word" : "каталог"
+  },
+  {
+    "id" : "business64",
+    "word" : "примерочная"
+  },
+  {
+    "id" : "business65",
+    "word" : "клавиатура"
+  },
+  {
+    "id" : "business66",
+    "word" : "интересующийся"
+  },
+  {
+    "id" : "business67",
+    "word" : "заплатить"
+  },
+  {
+    "id" : "business68",
+    "word" : "ценник"
+  },
+  {
+    "id" : "business69",
+    "word" : "распродажа"
+  },
+  {
+    "id" : "business70",
+    "word" : "сумка для покупок"
+  },
+  {
+    "id" : "business71",
+    "word" : "шоппинг"
+  },
+  {
+    "id" : "business72",
+    "word" : "транзакции"
+  },
+  {
+    "id" : "business73",
+    "word" : "примерка"
+  },
+  {
+    "id" : "business74",
+    "word" : "выдача денег"
+  },
+  {
+    "id" : "business75",
+    "word" : "булочная"
+  },
+  {
+    "id" : "business76",
+    "word" : "книжный магазин"
+  },
+  {
+    "id" : "business77",
+    "word" : "мясная лавка"
+  },
+  {
+    "id" : "business78",
+    "word" : "кондитерская"
+  },
+  {
+    "id" : "business79",
+    "word" : "аптека"
+  },
+  {
+    "id" : "business80",
+    "word" : "магазин одежды"
+  },
+  {
+    "id" : "business81",
+    "word" : "закусочная с рыбой с картошкой фри"
+  },
+  {
+    "id" : "business82",
+    "word" : "цветочный магазин"
+  },
+  {
+    "id" : "business83",
+    "word" : "фруктовый магазин"
+  },
+  {
+    "id" : "business84",
+    "word" : "ювелирные украшения"
+  },
+  {
+    "id" : "business85",
+    "word" : "рынок"
+  },
+  {
+    "id" : "business86",
+    "word" : "интернет-магазин"
+  },
+  {
+    "id" : "business87",
+    "word" : "обувный магазин"
+  },
+  {
+    "id" : "business88",
+    "word" : "магазин игрушек"
+  },
+  {
+    "id" : "business89",
+    "word" : "туристическое бюро"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "Fürdőszoba"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "Étkező"
+  },
+  {
+    "id" : "Home",
+    "word" : "Otthon"
+  },
+  {
+    "id" : "House",
+    "word" : "Ház"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "Konyha"
+  },
+  {
+    "id" : "Materials",
+    "word" : "Anyagok"
+  }
+]

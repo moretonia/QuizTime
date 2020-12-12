@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "avantaj"
+  },
+  {
+    "id" : "business1",
+    "word" : "a face publicitate"
+  },
+  {
+    "id" : "business2",
+    "word" : "factură"
+  },
+  {
+    "id" : "business3",
+    "word" : "buget"
+  },
+  {
+    "id" : "business4",
+    "word" : "comparaţie"
+  },
+  {
+    "id" : "business5",
+    "word" : "concurent"
+  },
+  {
+    "id" : "business6",
+    "word" : "confirmare"
+  },
+  {
+    "id" : "business7",
+    "word" : "client"
+  },
+  {
+    "id" : "business8",
+    "word" : "termen limită"
+  },
+  {
+    "id" : "business9",
+    "word" : "datorie"
+  },
+  {
+    "id" : "business10",
+    "word" : "decizie"
+  },
+  {
+    "id" : "business11",
+    "word" : "livrare"
+  },
+  {
+    "id" : "business12",
+    "word" : "preț"
+  },
+  {
+    "id" : "business13",
+    "word" : "orar"
+  },
+  {
+    "id" : "business14",
+    "word" : "lucru în echipă"
+  },
+  {
+    "id" : "business15",
+    "word" : "evaluare"
+  },
+  {
+    "id" : "business16",
+    "word" : "prezentare"
+  },
+  {
+    "id" : "business17",
+    "word" : "distribuire"
+  },
+  {
+    "id" : "business18",
+    "word" : "angajați"
+  },
+  {
+    "id" : "business19",
+    "word" : "angajator"
+  },
+  {
+    "id" : "business20",
+    "word" : "fabrică"
+  },
+  {
+    "id" : "business21",
+    "word" : "creştere"
+  },
+  {
+    "id" : "business22",
+    "word" : "manager"
+  },
+  {
+    "id" : "business23",
+    "word" : "instrucțiuni"
+  },
+  {
+    "id" : "business24",
+    "word" : "interviu"
+  },
+  {
+    "id" : "business25",
+    "word" : "factură fiscală"
+  },
+  {
+    "id" : "business26",
+    "word" : "pierderi"
+  },
+  {
+    "id" : "business27",
+    "word" : "mașini"
+  },
+  {
+    "id" : "business28",
+    "word" : "mărfuri"
+  },
+  {
+    "id" : "business29",
+    "word" : "depozitare"
+  },
+  {
+    "id" : "business30",
+    "word" : "anulare"
+  },
+  {
+    "id" : "business31",
+    "word" : "schimb valutar"
+  },
+  {
+    "id" : "business32",
+    "word" : "feedback"
+  },
+  {
+    "id" : "business33",
+    "word" : "instalare"
+  },
+  {
+    "id" : "business34",
+    "word" : "comandă"
+  },
+  {
+    "id" : "business35",
+    "word" : "plată"
+  },
+  {
+    "id" : "business36",
+    "word" : "penalizare"
+  },
+  {
+    "id" : "business37",
+    "word" : "produse"
+  },
+  {
+    "id" : "business38",
+    "word" : "promovare"
+  },
+  {
+    "id" : "business39",
+    "word" : "respinge"
+  },
+  {
+    "id" : "business40",
+    "word" : "reparații"
+  },
+  {
+    "id" : "business41",
+    "word" : "raport"
+  },
+  {
+    "id" : "business42",
+    "word" : "salariu"
+  },
+  {
+    "id" : "business43",
+    "word" : "expediere"
+  },
+  {
+    "id" : "business44",
+    "word" : "ţintă"
+  },
+  {
+    "id" : "business45",
+    "word" : "antichități"
+  },
+  {
+    "id" : "business46",
+    "word" : "artefacte"
+  },
+  {
+    "id" : "business47",
+    "word" : "benzi desenate"
+  },
+  {
+    "id" : "business48",
+    "word" : "diamante"
+  },
+  {
+    "id" : "business49",
+    "word" : "figurine"
+  },
+  {
+    "id" : "business50",
+    "word" : "fosile"
+  },
+  {
+    "id" : "business51",
+    "word" : "monezi de aur"
+  },
+  {
+    "id" : "business52",
+    "word" : "automodele"
+  },
+  {
+    "id" : "business53",
+    "word" : "postere"
+  },
+  {
+    "id" : "business54",
+    "word" : "rubine"
+  },
+  {
+    "id" : "business55",
+    "word" : "safire"
+  },
+  {
+    "id" : "business56",
+    "word" : "argintărie"
+  },
+  {
+    "id" : "business57",
+    "word" : "timbre"
+  },
+  {
+    "id" : "business58",
+    "word" : "mașini de epocă"
+  },
+  {
+    "id" : "business59",
+    "word" : "opere de artă"
+  },
+  {
+    "id" : "business60",
+    "word" : "bani gheață"
+  },
+  {
+    "id" : "business61",
+    "word" : "casier"
+  },
+  {
+    "id" : "business62",
+    "word" : "card de credit"
+  },
+  {
+    "id" : "business63",
+    "word" : "director"
+  },
+  {
+    "id" : "business64",
+    "word" : "cameră de probă"
+  },
+  {
+    "id" : "business65",
+    "word" : "tastatură"
+  },
+  {
+    "id" : "business66",
+    "word" : "în căutare de"
+  },
+  {
+    "id" : "business67",
+    "word" : "de plată"
+  },
+  {
+    "id" : "business68",
+    "word" : "eticheta de preț"
+  },
+  {
+    "id" : "business69",
+    "word" : "vânzare"
+  },
+  {
+    "id" : "business70",
+    "word" : "plasă de cumpărături"
+  },
+  {
+    "id" : "business71",
+    "word" : "cumpărături"
+  },
+  {
+    "id" : "business72",
+    "word" : "tranzacții"
+  },
+  {
+    "id" : "business73",
+    "word" : "a proba"
+  },
+  {
+    "id" : "business74",
+    "word" : "retragere"
+  },
+  {
+    "id" : "business75",
+    "word" : "brutărie"
+  },
+  {
+    "id" : "business76",
+    "word" : "librărie"
+  },
+  {
+    "id" : "business77",
+    "word" : "măcelarie"
+  },
+  {
+    "id" : "business78",
+    "word" : "cofetărie"
+  },
+  {
+    "id" : "business79",
+    "word" : "farmacie"
+  },
+  {
+    "id" : "business80",
+    "word" : "magazin de haine"
+  },
+  {
+    "id" : "business81",
+    "word" : "pește și cartofi prăjiți"
+  },
+  {
+    "id" : "business82",
+    "word" : "florarie"
+  },
+  {
+    "id" : "business83",
+    "word" : "magazin de fructe"
+  },
+  {
+    "id" : "business84",
+    "word" : "magazin de bijuterii"
+  },
+  {
+    "id" : "business85",
+    "word" : "piaţă"
+  },
+  {
+    "id" : "business86",
+    "word" : "magazin online"
+  },
+  {
+    "id" : "business87",
+    "word" : "magazin de pantofi"
+  },
+  {
+    "id" : "business88",
+    "word" : "magazin de jucării"
+  },
+  {
+    "id" : "business89",
+    "word" : "agenție de călătorii"
+  }
+]

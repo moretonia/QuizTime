@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Desserts",
+    "word" : "甜点"
+  },
+  {
+    "id" : "Food",
+    "word" : "食物"
+  },
+  {
+    "id" : "Fruit",
+    "word" : "水果"
+  },
+  {
+    "id" : "Fruit II",
+    "word" : "水果II"
+  },
+  {
+    "id" : "Vegetables",
+    "word" : "蔬菜"
+  },
+  {
+    "id" : "Vegetables II",
+    "word" : "蔬菜 II"
+  }
+]

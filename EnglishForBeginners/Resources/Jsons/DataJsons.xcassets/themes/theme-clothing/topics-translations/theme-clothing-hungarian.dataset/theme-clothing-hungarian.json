@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "Ruházat"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "Ragyogás"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "Férfi tárgyak"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "Sport ruházat"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "Női ruhák"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "Női tárgyak"
+  }
+]

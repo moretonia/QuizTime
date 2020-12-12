@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "African Animals",
+    "word" : "สัตว์ในแอฟริกา"
+  },
+  {
+    "id" : "Dog Breeds",
+    "word" : "พันธุ์สุนัข"
+  },
+  {
+    "id" : "Farm Animals",
+    "word" : "สัตว์ในฟาร์ม"
+  },
+  {
+    "id" : "Fish",
+    "word" : "สัตว์ทะเล"
+  },
+  {
+    "id" : "Marine Animals",
+    "word" : "สัตว์น้ำ"
+  },
+  {
+    "id" : "Pets",
+    "word" : "สัตว์เลี้ยง"
+  }
+]

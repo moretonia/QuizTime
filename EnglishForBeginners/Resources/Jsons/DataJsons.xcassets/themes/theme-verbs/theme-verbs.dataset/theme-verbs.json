@@ -1,0 +1,133 @@
+{
+   "id": 13,
+   "name": "Verbs",
+   "imageName": "verbs",
+   "topics": [
+      {
+         "name": "Verbs I",
+         "imageName": "verbs-topic-1",
+         "vocabularyItemIds": [
+            "verbs0",
+            "verbs1",
+            "verbs2",
+            "verbs3",
+            "verbs4",
+            "verbs5",
+            "verbs6",
+            "verbs7",
+            "verbs8",
+            "verbs9",
+            "verbs10",
+            "verbs11",
+            "verbs12",
+            "verbs13",
+            "verbs14"
+         ]
+      },
+      {
+         "name": "Verbs II",
+         "imageName": "verbs-topic-2",
+         "vocabularyItemIds": [
+            "verbs15",
+            "verbs16",
+            "verbs17",
+            "verbs18",
+            "verbs19",
+            "verbs20",
+            "verbs21",
+            "verbs22",
+            "verbs23",
+            "verbs24",
+            "verbs25",
+            "verbs26",
+            "verbs27",
+            "verbs28",
+            "verbs29"
+         ]
+      },
+      {
+         "name": "Verbs III",
+         "imageName": "verbs-topic-3",
+         "vocabularyItemIds": [
+            "verbs30",
+            "verbs31",
+            "verbs32",
+            "verbs33",
+            "verbs34",
+            "verbs35",
+            "verbs36",
+            "verbs37",
+            "verbs38",
+            "verbs39",
+            "verbs40",
+            "verbs41",
+            "verbs42",
+            "verbs43",
+            "verbs44"
+         ]
+      },
+      {
+         "name": "Verbs IV",
+         "imageName": "verbs-topic-4",
+         "vocabularyItemIds": [
+            "verbs45",
+            "verbs46",
+            "verbs47",
+            "verbs48",
+            "verbs49",
+            "verbs50",
+            "verbs51",
+            "verbs52",
+            "verbs53",
+            "verbs54",
+            "verbs55",
+            "verbs56",
+            "verbs57",
+            "verbs58",
+            "verbs59"
+         ]
+      },
+      {
+         "name": "Verbs V",
+         "imageName": "verbs-topic-5",
+         "vocabularyItemIds": [
+            "verbs60",
+            "verbs61",
+            "verbs62",
+            "verbs63",
+            "verbs64",
+            "verbs65",
+            "verbs66",
+            "verbs67",
+            "verbs68",
+            "verbs69",
+            "verbs70",
+            "verbs71",
+            "verbs72",
+            "verbs73",
+            "verbs74"
+         ]
+      },
+      {
+         "name": "Verbs VI",
+         "imageName": "verbs-topic-6",
+         "vocabularyItemIds": [
+            "verbs75",
+            "verbs76",
+            "verbs77",
+            "verbs78",
+            "verbs79",
+            "verbs80",
+            "verbs81",
+            "verbs82",
+            "verbs83",
+            "verbs84",
+            "verbs85",
+            "verbs86",
+            "verbs87",
+            "verbs88",
+            "verbs89"
+         ]
+      }
+   ]
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "limosna"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "comunión"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "cremación"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "graduación"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "hach"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "incienso"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "kava"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "linterna"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "apertura"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "rezo"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "alfombra roja"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "retiro"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "saludo real"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "songkran"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "ceremonia de té"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "vela"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "tarjeta navideña"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "árbol de navidad"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "elfo"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "pan de jengibre"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "acebo"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "natividad"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "regalos"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "pudín"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "reno"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "Papá Noel"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "trineo"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "hombre de nieve"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "calcetines"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "pavo"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "altar"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "ábside"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "bautizo"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "cruz"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "biblia"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "cáliz"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "coro"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "congregación"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "funeral"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "cementerio"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "bancos de iglesia"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "pastor"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "púlpito"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "campanario"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "boda"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "bellota"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "ámbar"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "trébol"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "cruzar los dedos"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "cristal"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "delfines"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "feng shui"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "herradura"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "duende"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "bambú de la suerte"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "gato de la fortuna"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "meteoros"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "arcoíris"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "escarabajo"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "espoleta"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "Buda"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "catedral"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "Confucio"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "imán"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "Jesús"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "monasterio"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "monje"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "mezquita"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "monja"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "sacerdote"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "rabino"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "sintoísmo"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "sij"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "sinagoga"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "taoísmo"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "acuario"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "aries"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "cáncer"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "capricornio"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "bola de cristal"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "géminis"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "horóscopo"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "leo"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "libra"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "piscis"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "sagitario"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "escorpión"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "cartas de tarot"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "tauro"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "virgo"
+  }
+]

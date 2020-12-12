@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "кислотный дождь"
+  },
+  {
+    "id" : "nature1",
+    "word" : "вырубка леса"
+  },
+  {
+    "id" : "nature2",
+    "word" : "угольная шахта"
+  },
+  {
+    "id" : "nature3",
+    "word" : "мертвый коралл"
+  },
+  {
+    "id" : "nature4",
+    "word" : "пустыня"
+  },
+  {
+    "id" : "nature5",
+    "word" : "эрозия"
+  },
+  {
+    "id" : "nature6",
+    "word" : "выхлопная труба"
+  },
+  {
+    "id" : "nature7",
+    "word" : "ископаемое топливо"
+  },
+  {
+    "id" : "nature8",
+    "word" : "мусор"
+  },
+  {
+    "id" : "nature9",
+    "word" : "разлив нефти"
+  },
+  {
+    "id" : "nature10",
+    "word" : "нефтяная скважина"
+  },
+  {
+    "id" : "nature11",
+    "word" : "загрязнение"
+  },
+  {
+    "id" : "nature12",
+    "word" : "смог"
+  },
+  {
+    "id" : "nature13",
+    "word" : "солнечная батарея"
+  },
+  {
+    "id" : "nature14",
+    "word" : "ветряная электростанция"
+  },
+  {
+    "id" : "nature15",
+    "word" : "амбар"
+  },
+  {
+    "id" : "nature16",
+    "word" : "курятник"
+  },
+  {
+    "id" : "nature17",
+    "word" : "фермер"
+  },
+  {
+    "id" : "nature18",
+    "word" : "забор"
+  },
+  {
+    "id" : "nature19",
+    "word" : "ворота"
+  },
+  {
+    "id" : "nature20",
+    "word" : "комбайн"
+  },
+  {
+    "id" : "nature21",
+    "word" : "орошение"
+  },
+  {
+    "id" : "nature22",
+    "word" : "плуг"
+  },
+  {
+    "id" : "nature23",
+    "word" : "пруд"
+  },
+  {
+    "id" : "nature24",
+    "word" : "пугало"
+  },
+  {
+    "id" : "nature25",
+    "word" : "конюшня"
+  },
+  {
+    "id" : "nature26",
+    "word" : "трактор"
+  },
+  {
+    "id" : "nature27",
+    "word" : "деревня"
+  },
+  {
+    "id" : "nature28",
+    "word" : "колодец"
+  },
+  {
+    "id" : "nature29",
+    "word" : "ветряная мельница"
+  },
+  {
+    "id" : "nature30",
+    "word" : "астры"
+  },
+  {
+    "id" : "nature31",
+    "word" : "гвоздика"
+  },
+  {
+    "id" : "nature32",
+    "word" : "нарцисс"
+  },
+  {
+    "id" : "nature33",
+    "word" : "георгина"
+  },
+  {
+    "id" : "nature34",
+    "word" : "маргаритка"
+  },
+  {
+    "id" : "nature35",
+    "word" : "красный жасмин"
+  },
+  {
+    "id" : "nature36",
+    "word" : "фрезия"
+  },
+  {
+    "id" : "nature37",
+    "word" : "герань"
+  },
+  {
+    "id" : "nature38",
+    "word" : "гербера"
+  },
+  {
+    "id" : "nature39",
+    "word" : "гибискус"
+  },
+  {
+    "id" : "nature40",
+    "word" : "лилия"
+  },
+  {
+    "id" : "nature41",
+    "word" : "магнолия"
+  },
+  {
+    "id" : "nature42",
+    "word" : "орхидея"
+  },
+  {
+    "id" : "nature43",
+    "word" : "роза"
+  },
+  {
+    "id" : "nature44",
+    "word" : "тюльпан"
+  },
+  {
+    "id" : "nature45",
+    "word" : "муравей"
+  },
+  {
+    "id" : "nature46",
+    "word" : "пчела"
+  },
+  {
+    "id" : "nature47",
+    "word" : "жук"
+  },
+  {
+    "id" : "nature48",
+    "word" : "бабочка"
+  },
+  {
+    "id" : "nature49",
+    "word" : "таракан"
+  },
+  {
+    "id" : "nature50",
+    "word" : "сверчок"
+  },
+  {
+    "id" : "nature51",
+    "word" : "стрекоза"
+  },
+  {
+    "id" : "nature52",
+    "word" : "муха"
+  },
+  {
+    "id" : "nature53",
+    "word" : "кузнечик"
+  },
+  {
+    "id" : "nature54",
+    "word" : "божья коровка"
+  },
+  {
+    "id" : "nature55",
+    "word" : "богомол"
+  },
+  {
+    "id" : "nature56",
+    "word" : "комар"
+  },
+  {
+    "id" : "nature57",
+    "word" : "моль"
+  },
+  {
+    "id" : "nature58",
+    "word" : "термиты"
+  },
+  {
+    "id" : "nature59",
+    "word" : "оса"
+  },
+  {
+    "id" : "nature60",
+    "word" : "папоротник"
+  },
+  {
+    "id" : "nature61",
+    "word" : "сад"
+  },
+  {
+    "id" : "nature62",
+    "word" : "трава"
+  },
+  {
+    "id" : "nature63",
+    "word" : "газон"
+  },
+  {
+    "id" : "nature64",
+    "word" : "лист"
+  },
+  {
+    "id" : "nature65",
+    "word" : "пальма"
+  },
+  {
+    "id" : "nature66",
+    "word" : "лепестки"
+  },
+  {
+    "id" : "nature67",
+    "word" : "сосновый лес"
+  },
+  {
+    "id" : "nature68",
+    "word" : "тропический лес"
+  },
+  {
+    "id" : "nature69",
+    "word" : "корни"
+  },
+  {
+    "id" : "nature70",
+    "word" : "всходы"
+  },
+  {
+    "id" : "nature71",
+    "word" : "семена"
+  },
+  {
+    "id" : "nature72",
+    "word" : "колючки"
+  },
+  {
+    "id" : "nature73",
+    "word" : "дерево"
+  },
+  {
+    "id" : "nature74",
+    "word" : "ствол"
+  },
+  {
+    "id" : "nature75",
+    "word" : "циклон"
+  },
+  {
+    "id" : "nature76",
+    "word" : "засуха"
+  },
+  {
+    "id" : "nature77",
+    "word" : "наводнение"
+  },
+  {
+    "id" : "nature78",
+    "word" : "туман"
+  },
+  {
+    "id" : "nature79",
+    "word" : "прогноз"
+  },
+  {
+    "id" : "nature80",
+    "word" : "период аномально жаркой погоды"
+  },
+  {
+    "id" : "nature81",
+    "word" : "лед"
+  },
+  {
+    "id" : "nature82",
+    "word" : "молния"
+  },
+  {
+    "id" : "nature83",
+    "word" : "лужа"
+  },
+  {
+    "id" : "nature84",
+    "word" : "дождь"
+  },
+  {
+    "id" : "nature85",
+    "word" : "дождевик"
+  },
+  {
+    "id" : "nature86",
+    "word" : "песчаная буря"
+  },
+  {
+    "id" : "nature87",
+    "word" : "снег"
+  },
+  {
+    "id" : "nature88",
+    "word" : "торнадо"
+  },
+  {
+    "id" : "nature89",
+    "word" : "зонтик"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "recreation0",
+    "word" : "нарди"
+  },
+  {
+    "id" : "recreation1",
+    "word" : "морський бій"
+  },
+  {
+    "id" : "recreation2",
+    "word" : "карти"
+  },
+  {
+    "id" : "recreation3",
+    "word" : "шашки"
+  },
+  {
+    "id" : "recreation4",
+    "word" : "шахи"
+  },
+  {
+    "id" : "recreation5",
+    "word" : "чотири в ряд"
+  },
+  {
+    "id" : "recreation6",
+    "word" : "кості"
+  },
+  {
+    "id" : "recreation7",
+    "word" : "доміно"
+  },
+  {
+    "id" : "recreation8",
+    "word" : "хід"
+  },
+  {
+    "id" : "recreation9",
+    "word" : "джігсоу"
+  },
+  {
+    "id" : "recreation10",
+    "word" : "лудо"
+  },
+  {
+    "id" : "recreation11",
+    "word" : "маджонг"
+  },
+  {
+    "id" : "recreation12",
+    "word" : "монополія"
+  },
+  {
+    "id" : "recreation13",
+    "word" : "ерудит"
+  },
+  {
+    "id" : "recreation14",
+    "word" : "хрестики-нолики"
+  },
+  {
+    "id" : "recreation15",
+    "word" : "бадмінтон"
+  },
+  {
+    "id" : "recreation16",
+    "word" : "кеглі"
+  },
+  {
+    "id" : "recreation17",
+    "word" : "лазіння"
+  },
+  {
+    "id" : "recreation18",
+    "word" : "дартс"
+  },
+  {
+    "id" : "recreation19",
+    "word" : "койтс"
+  },
+  {
+    "id" : "recreation20",
+    "word" : "літаючий диск"
+  },
+  {
+    "id" : "recreation21",
+    "word" : "класики"
+  },
+  {
+    "id" : "recreation22",
+    "word" : "крутіння обруча"
+  },
+  {
+    "id" : "recreation23",
+    "word" : "чехарда"
+  },
+  {
+    "id" : "recreation24",
+    "word" : "лімбо"
+  },
+  {
+    "id" : "recreation25",
+    "word" : "пінбол"
+  },
+  {
+    "id" : "recreation26",
+    "word" : "покер"
+  },
+  {
+    "id" : "recreation27",
+    "word" : "шаффлборд"
+  },
+  {
+    "id" : "recreation28",
+    "word" : "перетягування канату"
+  },
+  {
+    "id" : "recreation29",
+    "word" : "йо-йо"
+  },
+  {
+    "id" : "recreation30",
+    "word" : "м'яч"
+  },
+  {
+    "id" : "recreation31",
+    "word" : "боксерська рукавиця"
+  },
+  {
+    "id" : "recreation32",
+    "word" : "біта для крикету"
+  },
+  {
+    "id" : "recreation33",
+    "word" : "дротик"
+  },
+  {
+    "id" : "recreation34",
+    "word" : "гантеля"
+  },
+  {
+    "id" : "recreation35",
+    "word" : "рибальська котушка"
+  },
+  {
+    "id" : "recreation36",
+    "word" : "ласти"
+  },
+  {
+    "id" : "recreation37",
+    "word" : "футбольний м'яч"
+  },
+  {
+    "id" : "recreation38",
+    "word" : "окуляри для плавання"
+  },
+  {
+    "id" : "recreation39",
+    "word" : "клюшка для гольфу"
+  },
+  {
+    "id" : "recreation40",
+    "word" : "льодовий топірець"
+  },
+  {
+    "id" : "recreation41",
+    "word" : "парашут"
+  },
+  {
+    "id" : "recreation42",
+    "word" : "лижі"
+  },
+  {
+    "id" : "recreation43",
+    "word" : "футбольні бутси"
+  },
+  {
+    "id" : "recreation44",
+    "word" : "тенісна ракетка"
+  },
+  {
+    "id" : "recreation45",
+    "word" : "аеробіка"
+  },
+  {
+    "id" : "recreation46",
+    "word" : "бейсбол"
+  },
+  {
+    "id" : "recreation47",
+    "word" : "баскетбол"
+  },
+  {
+    "id" : "recreation48",
+    "word" : "бобслей"
+  },
+  {
+    "id" : "recreation49",
+    "word" : "бокс"
+  },
+  {
+    "id" : "recreation50",
+    "word" : "крикет"
+  },
+  {
+    "id" : "recreation51",
+    "word" : "футбол"
+  },
+  {
+    "id" : "recreation52",
+    "word" : "гімнастика"
+  },
+  {
+    "id" : "recreation53",
+    "word" : "гандбол"
+  },
+  {
+    "id" : "recreation54",
+    "word" : "хокей"
+  },
+  {
+    "id" : "recreation55",
+    "word" : "регбі"
+  },
+  {
+    "id" : "recreation56",
+    "word" : "лижний спорт"
+  },
+  {
+    "id" : "recreation57",
+    "word" : "теніс"
+  },
+  {
+    "id" : "recreation58",
+    "word" : "волейбол"
+  },
+  {
+    "id" : "recreation59",
+    "word" : "віндсерфінг"
+  },
+  {
+    "id" : "recreation60",
+    "word" : "стрільба з лука"
+  },
+  {
+    "id" : "recreation61",
+    "word" : "велоспорт"
+  },
+  {
+    "id" : "recreation62",
+    "word" : "виїздка"
+  },
+  {
+    "id" : "recreation63",
+    "word" : "гольф"
+  },
+  {
+    "id" : "recreation64",
+    "word" : "стрибки у висоту"
+  },
+  {
+    "id" : "recreation65",
+    "word" : "спортивне орієнтування"
+  },
+  {
+    "id" : "recreation66",
+    "word" : "поло"
+  },
+  {
+    "id" : "recreation67",
+    "word" : "веслування"
+  },
+  {
+    "id" : "recreation68",
+    "word" : "підводне плавання"
+  },
+  {
+    "id" : "recreation69",
+    "word" : "стрільба"
+  },
+  {
+    "id" : "recreation70",
+    "word" : "стрибки з парашутом"
+  },
+  {
+    "id" : "recreation71",
+    "word" : "снукер"
+  },
+  {
+    "id" : "recreation72",
+    "word" : "настільний теніс"
+  },
+  {
+    "id" : "recreation73",
+    "word" : "водне поло"
+  },
+  {
+    "id" : "recreation74",
+    "word" : "боротьба"
+  },
+  {
+    "id" : "recreation75",
+    "word" : "бейсджампінг"
+  },
+  {
+    "id" : "recreation76",
+    "word" : "велосипедний мотокрос"
+  },
+  {
+    "id" : "recreation77",
+    "word" : "серфінг"
+  },
+  {
+    "id" : "recreation78",
+    "word" : "відпочинок на природі"
+  },
+  {
+    "id" : "recreation79",
+    "word" : "спелеотуризм"
+  },
+  {
+    "id" : "recreation80",
+    "word" : "садівництво"
+  },
+  {
+    "id" : "recreation81",
+    "word" : "піший туризм"
+  },
+  {
+    "id" : "recreation82",
+    "word" : "лицарські турніри"
+  },
+  {
+    "id" : "recreation83",
+    "word" : "дзюдо"
+  },
+  {
+    "id" : "recreation84",
+    "word" : "кайтсерфінг"
+  },
+  {
+    "id" : "recreation85",
+    "word" : "рафтинг"
+  },
+  {
+    "id" : "recreation86",
+    "word" : "парусний спорт"
+  },
+  {
+    "id" : "recreation87",
+    "word" : "сноркелінг"
+  },
+  {
+    "id" : "recreation88",
+    "word" : "сноубординг"
+  },
+  {
+    "id" : "recreation89",
+    "word" : "тайцзи"
+  }
+]

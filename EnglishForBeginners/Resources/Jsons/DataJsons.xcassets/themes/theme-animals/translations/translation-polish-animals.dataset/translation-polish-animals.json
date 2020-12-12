@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "animals0",
+    "word" : "pawian"
+  },
+  {
+    "id" : "animals1",
+    "word" : "bawół"
+  },
+  {
+    "id" : "animals2",
+    "word" : "wielbłąd"
+  },
+  {
+    "id" : "animals3",
+    "word" : "szympans"
+  },
+  {
+    "id" : "animals4",
+    "word" : "krokodyl"
+  },
+  {
+    "id" : "animals5",
+    "word" : "słoń"
+  },
+  {
+    "id" : "animals6",
+    "word" : "żyrafa"
+  },
+  {
+    "id" : "animals7",
+    "word" : "goryl"
+  },
+  {
+    "id" : "animals8",
+    "word" : "hipopotam"
+  },
+  {
+    "id" : "animals9",
+    "word" : "hiena"
+  },
+  {
+    "id" : "animals10",
+    "word" : "leopard"
+  },
+  {
+    "id" : "animals11",
+    "word" : "lew"
+  },
+  {
+    "id" : "animals12",
+    "word" : "struś"
+  },
+  {
+    "id" : "animals13",
+    "word" : "nosorożec"
+  },
+  {
+    "id" : "animals14",
+    "word" : "antylopa gnu"
+  },
+  {
+    "id" : "animals15",
+    "word" : "beagle"
+  },
+  {
+    "id" : "animals16",
+    "word" : "bokser"
+  },
+  {
+    "id" : "animals17",
+    "word" : "chihuahua"
+  },
+  {
+    "id" : "animals18",
+    "word" : "collie"
+  },
+  {
+    "id" : "animals19",
+    "word" : "jamnik"
+  },
+  {
+    "id" : "animals20",
+    "word" : "dalmatyńczyk"
+  },
+  {
+    "id" : "animals21",
+    "word" : "doberman"
+  },
+  {
+    "id" : "animals22",
+    "word" : "owczarek niemiecki"
+  },
+  {
+    "id" : "animals23",
+    "word" : "husky"
+  },
+  {
+    "id" : "animals24",
+    "word" : "seter irlandzki"
+  },
+  {
+    "id" : "animals25",
+    "word" : "labrador"
+  },
+  {
+    "id" : "animals26",
+    "word" : "maltańczyk"
+  },
+  {
+    "id" : "animals27",
+    "word" : "pudel"
+  },
+  {
+    "id" : "animals28",
+    "word" : "rotweiler"
+  },
+  {
+    "id" : "animals29",
+    "word" : "pies pasterski"
+  },
+  {
+    "id" : "animals30",
+    "word" : "byk"
+  },
+  {
+    "id" : "animals31",
+    "word" : "cielak"
+  },
+  {
+    "id" : "animals32",
+    "word" : "kot"
+  },
+  {
+    "id" : "animals33",
+    "word" : "osioł"
+  },
+  {
+    "id" : "animals34",
+    "word" : "kaczka"
+  },
+  {
+    "id" : "animals35",
+    "word" : "źrebak"
+  },
+  {
+    "id" : "animals36",
+    "word" : "koza"
+  },
+  {
+    "id" : "animals37",
+    "word" : "gęś"
+  },
+  {
+    "id" : "animals38",
+    "word" : "koń"
+  },
+  {
+    "id" : "animals39",
+    "word" : "jagnię"
+  },
+  {
+    "id" : "animals40",
+    "word" : "świnia"
+  },
+  {
+    "id" : "animals41",
+    "word" : "prosiaczek"
+  },
+  {
+    "id" : "animals42",
+    "word" : "kurczak"
+  },
+  {
+    "id" : "animals43",
+    "word" : "owca"
+  },
+  {
+    "id" : "animals44",
+    "word" : "indyk"
+  },
+  {
+    "id" : "animals45",
+    "word" : "dorsz"
+  },
+  {
+    "id" : "animals46",
+    "word" : "krab"
+  },
+  {
+    "id" : "animals47",
+    "word" : "meduza"
+  },
+  {
+    "id" : "animals48",
+    "word" : "homar"
+  },
+  {
+    "id" : "animals49",
+    "word" : "ośmiornica"
+  },
+  {
+    "id" : "animals50",
+    "word" : "ostryga"
+  },
+  {
+    "id" : "animals51",
+    "word" : "krewetka"
+  },
+  {
+    "id" : "animals52",
+    "word" : " łosoś"
+  },
+  {
+    "id" : "animals53",
+    "word" : "sardynki"
+  },
+  {
+    "id" : "animals54",
+    "word" : "konik morski"
+  },
+  {
+    "id" : "animals55",
+    "word" : "rekin"
+  },
+  {
+    "id" : "animals56",
+    "word" : "kalmar"
+  },
+  {
+    "id" : "animals57",
+    "word" : "ryba miecz"
+  },
+  {
+    "id" : "animals58",
+    "word" : "pstrąg"
+  },
+  {
+    "id" : "animals59",
+    "word" : "tuńczyk"
+  },
+  {
+    "id" : "animals60",
+    "word" : "albatros"
+  },
+  {
+    "id" : "animals61",
+    "word" : "małż"
+  },
+  {
+    "id" : "animals62",
+    "word" : "koralowiec"
+  },
+  {
+    "id" : "animals63",
+    "word" : "delfin"
+  },
+  {
+    "id" : "animals64",
+    "word" : "murena"
+  },
+  {
+    "id" : "animals65",
+    "word" : "pelican"
+  },
+  {
+    "id" : "animals66",
+    "word" : "pingwin"
+  },
+  {
+    "id" : "animals67",
+    "word" : "niedźwiedź polarny"
+  },
+  {
+    "id" : "animals68",
+    "word" : "jeżowiec"
+  },
+  {
+    "id" : "animals69",
+    "word" : "foka"
+  },
+  {
+    "id" : "animals70",
+    "word" : "płaszczka"
+  },
+  {
+    "id" : "animals71",
+    "word" : "żółw"
+  },
+  {
+    "id" : "animals72",
+    "word" : "mors"
+  },
+  {
+    "id" : "animals73",
+    "word" : "rekin wielorybi"
+  },
+  {
+    "id" : "animals74",
+    "word" : "wieloryb"
+  },
+  {
+    "id" : "animals75",
+    "word" : "papużka falista"
+  },
+  {
+    "id" : "animals76",
+    "word" : "kanarek"
+  },
+  {
+    "id" : "animals77",
+    "word" : "szynszyla"
+  },
+  {
+    "id" : "animals78",
+    "word" : "tchórzofretka"
+  },
+  {
+    "id" : "animals79",
+    "word" : "łuszczak"
+  },
+  {
+    "id" : "animals80",
+    "word" : "gekon"
+  },
+  {
+    "id" : "animals81",
+    "word" : "złota rybka"
+  },
+  {
+    "id" : "animals82",
+    "word" : "świnka morska"
+  },
+  {
+    "id" : "animals83",
+    "word" : "krab pustelnik"
+  },
+  {
+    "id" : "animals84",
+    "word" : "kociak"
+  },
+  {
+    "id" : "animals85",
+    "word" : "ara"
+  },
+  {
+    "id" : "animals86",
+    "word" : "mysz"
+  },
+  {
+    "id" : "animals87",
+    "word" : "szczeniak"
+  },
+  {
+    "id" : "animals88",
+    "word" : "królik"
+  },
+  {
+    "id" : "animals89",
+    "word" : "żółw"
+  }
+]

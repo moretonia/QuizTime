@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "ベンチプレス"
+  },
+  {
+    "id" : "body1",
+    "word" : "上腕二頭筋カール"
+  },
+  {
+    "id" : "body2",
+    "word" : "懸垂"
+  },
+  {
+    "id" : "body3",
+    "word" : "腹筋"
+  },
+  {
+    "id" : "body4",
+    "word" : "デッドリフト"
+  },
+  {
+    "id" : "body5",
+    "word" : "ディップ"
+  },
+  {
+    "id" : "body6",
+    "word" : "フィットネスボール"
+  },
+  {
+    "id" : "body7",
+    "word" : "レッグカール"
+  },
+  {
+    "id" : "body8",
+    "word" : "ランジ"
+  },
+  {
+    "id" : "body9",
+    "word" : "サンドバッグ"
+  },
+  {
+    "id" : "body10",
+    "word" : "腕立て伏せ"
+  },
+  {
+    "id" : "body11",
+    "word" : "ボート漕ぎ"
+  },
+  {
+    "id" : "body12",
+    "word" : "腹筋運動"
+  },
+  {
+    "id" : "body13",
+    "word" : "スクワット"
+  },
+  {
+    "id" : "body14",
+    "word" : "ステップアップ"
+  },
+  {
+    "id" : "body15",
+    "word" : "二頭筋"
+  },
+  {
+    "id" : "body16",
+    "word" : "ボトム"
+  },
+  {
+    "id" : "body17",
+    "word" : "胸部"
+  },
+  {
+    "id" : "body18",
+    "word" : "ふくらはぎ"
+  },
+  {
+    "id" : "body19",
+    "word" : "チェスト"
+  },
+  {
+    "id" : "body20",
+    "word" : "腰"
+  },
+  {
+    "id" : "body21",
+    "word" : "関節"
+  },
+  {
+    "id" : "body22",
+    "word" : "すね"
+  },
+  {
+    "id" : "body23",
+    "word" : "肩"
+  },
+  {
+    "id" : "body24",
+    "word" : "足の裏"
+  },
+  {
+    "id" : "body25",
+    "word" : "胃"
+  },
+  {
+    "id" : "body26",
+    "word" : "太もも"
+  },
+  {
+    "id" : "body27",
+    "word" : "喉"
+  },
+  {
+    "id" : "body28",
+    "word" : "ウエスト"
+  },
+  {
+    "id" : "body29",
+    "word" : "手首"
+  },
+  {
+    "id" : "body30",
+    "word" : "足首"
+  },
+  {
+    "id" : "body31",
+    "word" : "腕"
+  },
+  {
+    "id" : "body32",
+    "word" : "足の親指"
+  },
+  {
+    "id" : "body33",
+    "word" : "肘"
+  },
+  {
+    "id" : "body34",
+    "word" : "指"
+  },
+  {
+    "id" : "body35",
+    "word" : "拳"
+  },
+  {
+    "id" : "body36",
+    "word" : "足"
+  },
+  {
+    "id" : "body37",
+    "word" : "前腕"
+  },
+  {
+    "id" : "body38",
+    "word" : "手"
+  },
+  {
+    "id" : "body39",
+    "word" : "頭"
+  },
+  {
+    "id" : "body40",
+    "word" : "膝"
+  },
+  {
+    "id" : "body41",
+    "word" : "脚"
+  },
+  {
+    "id" : "body42",
+    "word" : "臍"
+  },
+  {
+    "id" : "body43",
+    "word" : "手のひら"
+  },
+  {
+    "id" : "body44",
+    "word" : "親指"
+  },
+  {
+    "id" : "body45",
+    "word" : "碧眼"
+  },
+  {
+    "id" : "body46",
+    "word" : "茶色の目"
+  },
+  {
+    "id" : "body47",
+    "word" : "そばかす"
+  },
+  {
+    "id" : "body48",
+    "word" : "髭"
+  },
+  {
+    "id" : "body49",
+    "word" : "眼鏡"
+  },
+  {
+    "id" : "body50",
+    "word" : "ヤギ髭"
+  },
+  {
+    "id" : "body51",
+    "word" : "緑の目"
+  },
+  {
+    "id" : "body52",
+    "word" : "ほくろ"
+  },
+  {
+    "id" : "body53",
+    "word" : "口ひげ"
+  },
+  {
+    "id" : "body54",
+    "word" : "にきび"
+  },
+  {
+    "id" : "body55",
+    "word" : "傷跡"
+  },
+  {
+    "id" : "body56",
+    "word" : "日焼け"
+  },
+  {
+    "id" : "body57",
+    "word" : "タトゥー"
+  },
+  {
+    "id" : "body58",
+    "word" : "薄い顔"
+  },
+  {
+    "id" : "body59",
+    "word" : "しわ"
+  },
+  {
+    "id" : "body60",
+    "word" : "頬"
+  },
+  {
+    "id" : "body61",
+    "word" : "顎"
+  },
+  {
+    "id" : "body62",
+    "word" : "えくぼ"
+  },
+  {
+    "id" : "body63",
+    "word" : "耳たぶ"
+  },
+  {
+    "id" : "body64",
+    "word" : "耳"
+  },
+  {
+    "id" : "body65",
+    "word" : "眼"
+  },
+  {
+    "id" : "body66",
+    "word" : "眉"
+  },
+  {
+    "id" : "body67",
+    "word" : "睫毛"
+  },
+  {
+    "id" : "body68",
+    "word" : "額"
+  },
+  {
+    "id" : "body69",
+    "word" : "眉をひそめる"
+  },
+  {
+    "id" : "body70",
+    "word" : "唇"
+  },
+  {
+    "id" : "body71",
+    "word" : "ネック"
+  },
+  {
+    "id" : "body72",
+    "word" : "鼻"
+  },
+  {
+    "id" : "body73",
+    "word" : "歯"
+  },
+  {
+    "id" : "body74",
+    "word" : "舌"
+  },
+  {
+    "id" : "body75",
+    "word" : "アフロ"
+  },
+  {
+    "id" : "body76",
+    "word" : "ハゲ"
+  },
+  {
+    "id" : "body77",
+    "word" : "お団子"
+  },
+  {
+    "id" : "body78",
+    "word" : "角刈り"
+  },
+  {
+    "id" : "body79",
+    "word" : "巻き髪"
+  },
+  {
+    "id" : "body80",
+    "word" : "だらしない"
+  },
+  {
+    "id" : "body81",
+    "word" : "ドレッドロック"
+  },
+  {
+    "id" : "body82",
+    "word" : "長髪"
+  },
+  {
+    "id" : "body83",
+    "word" : "モヒカン"
+  },
+  {
+    "id" : "body84",
+    "word" : "ポニーテール"
+  },
+  {
+    "id" : "body85",
+    "word" : "スキンヘッド"
+  },
+  {
+    "id" : "body86",
+    "word" : "短髪"
+  },
+  {
+    "id" : "body87",
+    "word" : "スパイキー"
+  },
+  {
+    "id" : "body88",
+    "word" : "直毛"
+  },
+  {
+    "id" : "body89",
+    "word" : "ウェーブのかかった"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "平衡"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "擊球"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "檢查"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "哭泣"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "跳舞"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "降落"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "躍"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "發射"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "跑"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "唱"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "坐"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "睡覺"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "微笑"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "站立"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "行走"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "刷"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "剁"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "打掃"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "烹飪"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "繪畫"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "喝"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "烘幹"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "吃"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "運動"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "閃爍"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "閱讀"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "剃"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "醒"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "洗"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "寫"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "駕駛"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "刨碎"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "幫助"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "擊中"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "擠奶"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "開"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "張貼"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "放松"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "滾動"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "跳"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "講"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "擠"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "遊"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "擺動"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "發短信"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "鼓掌"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "烘烤"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "計算"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "追逐"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "裝飾"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "進入"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "錘打"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "慢跑"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "跪下"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "行進"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "玩"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "倒退"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "摩擦"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "吸煙"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "揮手"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "爭論"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "逮捕"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "露營"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "攜帶"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "滴落"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "擊鼓"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "漂浮"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "問候"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "編織"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "指向"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "打氣"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "縫紉"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "滑動"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "下雪"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "扭轉"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "咬"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "祝福"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "投擲或滾動（球）"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "燃燒"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "歡呼"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "梳理"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "爬"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "拍攝"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "徘徊"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "融化"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "混合"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "划"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "啄"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "磨光"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "拉伸"
+  }
+]

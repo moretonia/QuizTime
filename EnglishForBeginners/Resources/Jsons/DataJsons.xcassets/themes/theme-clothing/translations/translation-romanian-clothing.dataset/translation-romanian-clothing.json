@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "șort"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "haină"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "rochie"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "mănuși"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "sacou"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "blugi"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "pulover"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "pijama"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "cămaşă"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "pantofi"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "fustă"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "pantaloni largi"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "ochelari de soare"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "tricou"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "uniformă"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "rochie fără spate"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "bikini"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "rochie neagră"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "rochie de seară"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "rochie flamenco"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "rochie halterneck"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "costum de baie într-o bucată"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "sari"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "rochie fără bretele"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "dungi"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "costum de damă"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "sarafan"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "toga"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "tradițională"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "de nuntă"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "after shave"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "curea"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "papion"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "boxeri"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "buton"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "cămaşă elegantă"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "pantofi eleganți"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "pantofi de alergat"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "cravate"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "aparat de ras electric"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "perie de ras"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "papuci de casă"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "ciorapi"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "costum"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "pantaloni"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "căciulă"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "cizme"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "cască"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "patine"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "jerseu"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "leotard"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "tricou polo"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "pantaloni scurți"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "costum de ski"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "ceas inteligent"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "sutien pentru sport"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "înotătoare"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "trening"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "costum de surfing"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "bandă pentru încheietură"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "Bluză"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "Sutien"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "Cardigan"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "Choker"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "Curea la modă"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "Pălărie"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "Tocuri înalte"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "Salopetă"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "Chimono"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "Chiloți"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "Sandale"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "Șal"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "șal de mătase"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "Colanți"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "Fermoar"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "Brățară"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "Inel pentru rochie"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "Cercei"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "Geantă"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "Breloc"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "Ruj"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "Rimel"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "Pilă"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "Colier"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "Parfum"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "Poșetă"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "smartphone"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "Șervețele"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "Portofel"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "Ceas de mână"
+  }
+]

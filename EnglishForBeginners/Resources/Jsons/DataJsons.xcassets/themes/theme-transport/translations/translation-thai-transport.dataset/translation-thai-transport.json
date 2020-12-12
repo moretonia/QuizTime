@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "กระดิ่ง"
+  },
+  {
+    "id" : "transport1",
+    "word" : "เบรค"
+  },
+  {
+    "id" : "transport2",
+    "word" : "โซ่"
+  },
+  {
+    "id" : "transport3",
+    "word" : "นักปั่นจักรยาน"
+  },
+  {
+    "id" : "transport4",
+    "word" : "เกียร์"
+  },
+  {
+    "id" : "transport5",
+    "word" : "มือจับจักรยาน"
+  },
+  {
+    "id" : "transport6",
+    "word" : "หมวกกันน็อค"
+  },
+  {
+    "id" : "transport7",
+    "word" : "เส้นทาง"
+  },
+  {
+    "id" : "transport8",
+    "word" : "ที่ถีบจักรยาน"
+  },
+  {
+    "id" : "transport9",
+    "word" : "ที่สูบลม"
+  },
+  {
+    "id" : "transport10",
+    "word" : "รูรั่วล้อจักรยาน"
+  },
+  {
+    "id" : "transport11",
+    "word" : "แถบสะท้อนแสง"
+  },
+  {
+    "id" : "transport12",
+    "word" : "อานนั่ง"
+  },
+  {
+    "id" : "transport13",
+    "word" : "ซี่ล้อ"
+  },
+  {
+    "id" : "transport14",
+    "word" : "ล้อ"
+  },
+  {
+    "id" : "transport15",
+    "word" : "เรือขนสินค้า"
+  },
+  {
+    "id" : "transport16",
+    "word" : "เรือสำราญ"
+  },
+  {
+    "id" : "transport17",
+    "word" : "เรือข้ามฟาก"
+  },
+  {
+    "id" : "transport18",
+    "word" : "เรือตกปลา"
+  },
+  {
+    "id" : "transport19",
+    "word" : "เรือแจว"
+  },
+  {
+    "id" : "transport20",
+    "word" : "เรือบ้าน"
+  },
+  {
+    "id" : "transport21",
+    "word" : "เรือไฮโดรฟอยล์"
+  },
+  {
+    "id" : "transport22",
+    "word" : "เรือเป่าลม"
+  },
+  {
+    "id" : "transport23",
+    "word" : "เรือเจ็ทสกี"
+  },
+  {
+    "id" : "transport24",
+    "word" : "เรือสำเภาโบราณ"
+  },
+  {
+    "id" : "transport25",
+    "word" : "เรือคายัค"
+  },
+  {
+    "id" : "transport26",
+    "word" : "คานค้ำเรือ"
+  },
+  {
+    "id" : "transport27",
+    "word" : "เรือถีบ"
+  },
+  {
+    "id" : "transport28",
+    "word" : "เรือพาย"
+  },
+  {
+    "id" : "transport29",
+    "word" : "เรือยอชท์"
+  },
+  {
+    "id" : "transport30",
+    "word" : "แม่แรงยกรถ"
+  },
+  {
+    "id" : "transport31",
+    "word" : "รถพ่วงบ้าน"
+  },
+  {
+    "id" : "transport32",
+    "word" : "แผงหน้าปัดรถยนต์"
+  },
+  {
+    "id" : "transport33",
+    "word" : "น้ำมันเครื่อง"
+  },
+  {
+    "id" : "transport34",
+    "word" : "เครื่องยนต์"
+  },
+  {
+    "id" : "transport35",
+    "word" : "ปั๊มน้ำมัน"
+  },
+  {
+    "id" : "transport36",
+    "word" : "ไฟหน้า"
+  },
+  {
+    "id" : "transport37",
+    "word" : "ทางด่วน"
+  },
+  {
+    "id" : "transport38",
+    "word" : "ทะเบียนรถ"
+  },
+  {
+    "id" : "transport39",
+    "word" : "คนเดินเท้า"
+  },
+  {
+    "id" : "transport40",
+    "word" : "รถเก๋ง"
+  },
+  {
+    "id" : "transport41",
+    "word" : "กระจกข้าง"
+  },
+  {
+    "id" : "transport42",
+    "word" : "พวงมาลัย"
+  },
+  {
+    "id" : "transport43",
+    "word" : "ไฟท้าย"
+  },
+  {
+    "id" : "transport44",
+    "word" : "รถพ่วง"
+  },
+  {
+    "id" : "transport45",
+    "word" : "วัว"
+  },
+  {
+    "id" : "transport46",
+    "word" : "เด็ก"
+  },
+  {
+    "id" : "transport47",
+    "word" : "อันตราย"
+  },
+  {
+    "id" : "transport48",
+    "word" : "สี่แยก"
+  },
+  {
+    "id" : "transport49",
+    "word" : "ทางรถไฟ"
+  },
+  {
+    "id" : "transport50",
+    "word" : "หมีขั้วโลก"
+  },
+  {
+    "id" : "transport51",
+    "word" : "วงเวียน"
+  },
+  {
+    "id" : "transport52",
+    "word" : "ลื่น"
+  },
+  {
+    "id" : "transport53",
+    "word" : "หิมะ"
+  },
+  {
+    "id" : "transport54",
+    "word" : "จำกัดความเร็ว"
+  },
+  {
+    "id" : "transport55",
+    "word" : "เนินชัน"
+  },
+  {
+    "id" : "transport56",
+    "word" : "ไฟจราจร"
+  },
+  {
+    "id" : "transport57",
+    "word" : "ถนนคดเคี้ยว"
+  },
+  {
+    "id" : "transport58",
+    "word" : "คนงาน"
+  },
+  {
+    "id" : "transport59",
+    "word" : "ทางม้าลาย"
+  },
+  {
+    "id" : "transport60",
+    "word" : "ตู้โดยสารบริการอาหาร"
+  },
+  {
+    "id" : "transport61",
+    "word" : "คนเก็บตั๋ว"
+  },
+  {
+    "id" : "transport62",
+    "word" : "ผู้โดยสาร"
+  },
+  {
+    "id" : "transport63",
+    "word" : "ผู้นำ"
+  },
+  {
+    "id" : "transport64",
+    "word" : "รถไฟส่งสินค้า"
+  },
+  {
+    "id" : "transport65",
+    "word" : "ห้องน้ำ"
+  },
+  {
+    "id" : "transport66",
+    "word" : "หัวรถจักร"
+  },
+  {
+    "id" : "transport67",
+    "word" : "ชานชาลา"
+  },
+  {
+    "id" : "transport68",
+    "word" : "สะพานทางรถไฟ"
+  },
+  {
+    "id" : "transport69",
+    "word" : "ชั่วโมงเร่งด่วน"
+  },
+  {
+    "id" : "transport70",
+    "word" : "ที่นั่ง"
+  },
+  {
+    "id" : "transport71",
+    "word" : "รถไฟไอน้ำ"
+  },
+  {
+    "id" : "transport72",
+    "word" : "ห่วงยืนเกาะ"
+  },
+  {
+    "id" : "transport73",
+    "word" : "ตารางเวลา"
+  },
+  {
+    "id" : "transport74",
+    "word" : "รางรถไฟ"
+  },
+  {
+    "id" : "transport75",
+    "word" : "จักรยาน"
+  },
+  {
+    "id" : "transport76",
+    "word" : "รถเมล์"
+  },
+  {
+    "id" : "transport77",
+    "word" : "รถยนต์"
+  },
+  {
+    "id" : "transport78",
+    "word" : "มินิแวน"
+  },
+  {
+    "id" : "transport79",
+    "word" : "รถไฟรางเดี่ยว"
+  },
+  {
+    "id" : "transport80",
+    "word" : "มอเตอร์ไซค์"
+  },
+  {
+    "id" : "transport81",
+    "word" : "รถสกู๊ตเตอร์"
+  },
+  {
+    "id" : "transport82",
+    "word" : "รถลาก"
+  },
+  {
+    "id" : "transport83",
+    "word" : "โรลเลอร์เบลด"
+  },
+  {
+    "id" : "transport84",
+    "word" : "สกู๊ตเตอร์"
+  },
+  {
+    "id" : "transport85",
+    "word" : "รถไฟใต้ดิน"
+  },
+  {
+    "id" : "transport86",
+    "word" : "แท็กซี่"
+  },
+  {
+    "id" : "transport87",
+    "word" : "รถไฟ"
+  },
+  {
+    "id" : "transport88",
+    "word" : "รถราง"
+  },
+  {
+    "id" : "transport89",
+    "word" : "รถบรรทุก"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Indoor Tools",
+    "word" : "Домашние инструменты"
+  },
+  {
+    "id" : "Jobs",
+    "word" : "Профессии"
+  },
+  {
+    "id" : "Jobs II",
+    "word" : "Профессии II"
+  },
+  {
+    "id" : "Jobs III",
+    "word" : "Профессии III"
+  },
+  {
+    "id" : "Jobs IV",
+    "word" : "Профессии IV"
+  },
+  {
+    "id" : "Outdoor Tools",
+    "word" : "Надворные инструменты"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "사과 파이"
+  },
+  {
+    "id" : "food1",
+    "word" : "바클라바"
+  },
+  {
+    "id" : "food2",
+    "word" : "치즈 케이크"
+  },
+  {
+    "id" : "food3",
+    "word" : "쿠키"
+  },
+  {
+    "id" : "food4",
+    "word" : "컵 케이크"
+  },
+  {
+    "id" : "food5",
+    "word" : "도넛"
+  },
+  {
+    "id" : "food6",
+    "word" : "과일 케이크"
+  },
+  {
+    "id" : "food7",
+    "word" : "과일 샐러드"
+  },
+  {
+    "id" : "food8",
+    "word" : "아이스크림"
+  },
+  {
+    "id" : "food9",
+    "word" : "민스파이"
+  },
+  {
+    "id" : "food10",
+    "word" : "팬케이크"
+  },
+  {
+    "id" : "food11",
+    "word" : "파블로바"
+  },
+  {
+    "id" : "food12",
+    "word" : "스콘"
+  },
+  {
+    "id" : "food13",
+    "word" : "선데이 아이스크림"
+  },
+  {
+    "id" : "food14",
+    "word" : "와플"
+  },
+  {
+    "id" : "food15",
+    "word" : "닭고기"
+  },
+  {
+    "id" : "food16",
+    "word" : "감자 튀김"
+  },
+  {
+    "id" : "food17",
+    "word" : "초콜릿"
+  },
+  {
+    "id" : "food18",
+    "word" : "달걀"
+  },
+  {
+    "id" : "food19",
+    "word" : "팔라펠"
+  },
+  {
+    "id" : "food20",
+    "word" : "생선"
+  },
+  {
+    "id" : "food21",
+    "word" : "볶음밥"
+  },
+  {
+    "id" : "food22",
+    "word" : "햄버거"
+  },
+  {
+    "id" : "food23",
+    "word" : "꿀"
+  },
+  {
+    "id" : "food24",
+    "word" : "파이"
+  },
+  {
+    "id" : "food25",
+    "word" : "피자"
+  },
+  {
+    "id" : "food26",
+    "word" : "샌드위치"
+  },
+  {
+    "id" : "food27",
+    "word" : "소시지"
+  },
+  {
+    "id" : "food28",
+    "word" : "스테이크"
+  },
+  {
+    "id" : "food29",
+    "word" : "참치 샐러드"
+  },
+  {
+    "id" : "food30",
+    "word" : "사과"
+  },
+  {
+    "id" : "food31",
+    "word" : "살구"
+  },
+  {
+    "id" : "food32",
+    "word" : "바나나"
+  },
+  {
+    "id" : "food33",
+    "word" : "블루베리"
+  },
+  {
+    "id" : "food34",
+    "word" : "무화과"
+  },
+  {
+    "id" : "food35",
+    "word" : "자몽"
+  },
+  {
+    "id" : "food36",
+    "word" : "포도"
+  },
+  {
+    "id" : "food37",
+    "word" : "레몬"
+  },
+  {
+    "id" : "food38",
+    "word" : "오렌지"
+  },
+  {
+    "id" : "food39",
+    "word" : "패션 푸르츠"
+  },
+  {
+    "id" : "food40",
+    "word" : "복숭아"
+  },
+  {
+    "id" : "food41",
+    "word" : "파인애플"
+  },
+  {
+    "id" : "food42",
+    "word" : "자두"
+  },
+  {
+    "id" : "food43",
+    "word" : "딸기"
+  },
+  {
+    "id" : "food44",
+    "word" : "토마토"
+  },
+  {
+    "id" : "food45",
+    "word" : "아보카도"
+  },
+  {
+    "id" : "food46",
+    "word" : "체리"
+  },
+  {
+    "id" : "food47",
+    "word" : "코코넛"
+  },
+  {
+    "id" : "food48",
+    "word" : "대추"
+  },
+  {
+    "id" : "food49",
+    "word" : "용과"
+  },
+  {
+    "id" : "food50",
+    "word" : "구아바"
+  },
+  {
+    "id" : "food51",
+    "word" : "키위"
+  },
+  {
+    "id" : "food52",
+    "word" : "귤"
+  },
+  {
+    "id" : "food53",
+    "word" : "망고"
+  },
+  {
+    "id" : "food54",
+    "word" : "올리브"
+  },
+  {
+    "id" : "food55",
+    "word" : "파파야"
+  },
+  {
+    "id" : "food56",
+    "word" : "배"
+  },
+  {
+    "id" : "food57",
+    "word" : "석류"
+  },
+  {
+    "id" : "food58",
+    "word" : "라즈베리"
+  },
+  {
+    "id" : "food59",
+    "word" : "수박"
+  },
+  {
+    "id" : "food60",
+    "word" : "콩"
+  },
+  {
+    "id" : "food61",
+    "word" : "브로콜리"
+  },
+  {
+    "id" : "food62",
+    "word" : "양배추"
+  },
+  {
+    "id" : "food63",
+    "word" : "당근"
+  },
+  {
+    "id" : "food64",
+    "word" : "콜리플라워"
+  },
+  {
+    "id" : "food65",
+    "word" : "셀러리"
+  },
+  {
+    "id" : "food66",
+    "word" : "옥수수"
+  },
+  {
+    "id" : "food67",
+    "word" : "오이"
+  },
+  {
+    "id" : "food68",
+    "word" : "가지"
+  },
+  {
+    "id" : "food69",
+    "word" : "부추"
+  },
+  {
+    "id" : "food70",
+    "word" : "상추"
+  },
+  {
+    "id" : "food71",
+    "word" : "양파"
+  },
+  {
+    "id" : "food72",
+    "word" : "감자들"
+  },
+  {
+    "id" : "food73",
+    "word" : "호박"
+  },
+  {
+    "id" : "food74",
+    "word" : "시금치"
+  },
+  {
+    "id" : "food75",
+    "word" : "아티초크"
+  },
+  {
+    "id" : "food76",
+    "word" : "아스파라거스"
+  },
+  {
+    "id" : "food77",
+    "word" : "죽순"
+  },
+  {
+    "id" : "food78",
+    "word" : "비트"
+  },
+  {
+    "id" : "food79",
+    "word" : "근대"
+  },
+  {
+    "id" : "food80",
+    "word" : "마늘"
+  },
+  {
+    "id" : "food81",
+    "word" : "생각"
+  },
+  {
+    "id" : "food82",
+    "word" : "버섯"
+  },
+  {
+    "id" : "food83",
+    "word" : "파스닙"
+  },
+  {
+    "id" : "food84",
+    "word" : "완두콩"
+  },
+  {
+    "id" : "food85",
+    "word" : "피망"
+  },
+  {
+    "id" : "food86",
+    "word" : "무"
+  },
+  {
+    "id" : "food87",
+    "word" : "콩나물"
+  },
+  {
+    "id" : "food88",
+    "word" : "순무"
+  },
+  {
+    "id" : "food89",
+    "word" : "애호박"
+  }
+]

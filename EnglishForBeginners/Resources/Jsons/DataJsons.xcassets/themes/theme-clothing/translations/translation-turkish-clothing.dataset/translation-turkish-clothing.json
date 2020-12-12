@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "clothing0",
+    "word" : "deniz şortu"
+  },
+  {
+    "id" : "clothing1",
+    "word" : "palto"
+  },
+  {
+    "id" : "clothing2",
+    "word" : "elbise"
+  },
+  {
+    "id" : "clothing3",
+    "word" : "eldiven"
+  },
+  {
+    "id" : "clothing4",
+    "word" : "ceket"
+  },
+  {
+    "id" : "clothing5",
+    "word" : "kot"
+  },
+  {
+    "id" : "clothing6",
+    "word" : "süveter"
+  },
+  {
+    "id" : "clothing7",
+    "word" : "pijama"
+  },
+  {
+    "id" : "clothing8",
+    "word" : "gömlek"
+  },
+  {
+    "id" : "clothing9",
+    "word" : "ayakkabı"
+  },
+  {
+    "id" : "clothing10",
+    "word" : "etek"
+  },
+  {
+    "id" : "clothing11",
+    "word" : "bol pantolon"
+  },
+  {
+    "id" : "clothing12",
+    "word" : "güneş gözlüğü"
+  },
+  {
+    "id" : "clothing13",
+    "word" : "tişört"
+  },
+  {
+    "id" : "clothing14",
+    "word" : "üniforma"
+  },
+  {
+    "id" : "clothing15",
+    "word" : "sırtı açık"
+  },
+  {
+    "id" : "clothing16",
+    "word" : "bikini"
+  },
+  {
+    "id" : "clothing17",
+    "word" : "siyah elbise"
+  },
+  {
+    "id" : "clothing18",
+    "word" : "gece elbisesi"
+  },
+  {
+    "id" : "clothing19",
+    "word" : "flamenko"
+  },
+  {
+    "id" : "clothing20",
+    "word" : "boyundan bağlamalı"
+  },
+  {
+    "id" : "clothing21",
+    "word" : "tek parça"
+  },
+  {
+    "id" : "clothing22",
+    "word" : "sari"
+  },
+  {
+    "id" : "clothing23",
+    "word" : "askısız"
+  },
+  {
+    "id" : "clothing24",
+    "word" : "çizgili"
+  },
+  {
+    "id" : "clothing25",
+    "word" : "Kadın takım elbisesi"
+  },
+  {
+    "id" : "clothing26",
+    "word" : "askısız yazlık elbise"
+  },
+  {
+    "id" : "clothing27",
+    "word" : "yün harmani"
+  },
+  {
+    "id" : "clothing28",
+    "word" : "geleneksel"
+  },
+  {
+    "id" : "clothing29",
+    "word" : "düğün"
+  },
+  {
+    "id" : "clothing30",
+    "word" : "Tıraştan sonrası"
+  },
+  {
+    "id" : "clothing31",
+    "word" : "kemer"
+  },
+  {
+    "id" : "clothing32",
+    "word" : "papyon"
+  },
+  {
+    "id" : "clothing33",
+    "word" : "külot"
+  },
+  {
+    "id" : "clothing34",
+    "word" : "manşet bağlantısı"
+  },
+  {
+    "id" : "clothing35",
+    "word" : "elbise gömlek"
+  },
+  {
+    "id" : "clothing36",
+    "word" : "elbise ayakkabıları"
+  },
+  {
+    "id" : "clothing37",
+    "word" : "koşu ayakkabısı"
+  },
+  {
+    "id" : "clothing38",
+    "word" : "kravatlar"
+  },
+  {
+    "id" : "clothing39",
+    "word" : "tıraş makinesi"
+  },
+  {
+    "id" : "clothing40",
+    "word" : "traş fırçası"
+  },
+  {
+    "id" : "clothing41",
+    "word" : "terlik"
+  },
+  {
+    "id" : "clothing42",
+    "word" : "çorap"
+  },
+  {
+    "id" : "clothing43",
+    "word" : "takım elbise"
+  },
+  {
+    "id" : "clothing44",
+    "word" : "pantolon"
+  },
+  {
+    "id" : "clothing45",
+    "word" : "bere"
+  },
+  {
+    "id" : "clothing46",
+    "word" : "bot ayakkabı"
+  },
+  {
+    "id" : "clothing47",
+    "word" : "kask"
+  },
+  {
+    "id" : "clothing48",
+    "word" : "buz pateni"
+  },
+  {
+    "id" : "clothing49",
+    "word" : "kazak"
+  },
+  {
+    "id" : "clothing50",
+    "word" : "streç dansçı giysisi"
+  },
+  {
+    "id" : "clothing51",
+    "word" : "polo gömlek"
+  },
+  {
+    "id" : "clothing52",
+    "word" : "şort"
+  },
+  {
+    "id" : "clothing53",
+    "word" : "kayak elbisesi"
+  },
+  {
+    "id" : "clothing54",
+    "word" : "akıllı saat"
+  },
+  {
+    "id" : "clothing55",
+    "word" : "spor sütyen"
+  },
+  {
+    "id" : "clothing56",
+    "word" : "mayo"
+  },
+  {
+    "id" : "clothing57",
+    "word" : "eşofman"
+  },
+  {
+    "id" : "clothing58",
+    "word" : "dalgıç giysili"
+  },
+  {
+    "id" : "clothing59",
+    "word" : "bilek bandı"
+  },
+  {
+    "id" : "clothing60",
+    "word" : "bluz"
+  },
+  {
+    "id" : "clothing61",
+    "word" : "sutyen"
+  },
+  {
+    "id" : "clothing62",
+    "word" : "hırka"
+  },
+  {
+    "id" : "clothing63",
+    "word" : "gerdanlık"
+  },
+  {
+    "id" : "clothing64",
+    "word" : "moda kemer"
+  },
+  {
+    "id" : "clothing65",
+    "word" : "şapka"
+  },
+  {
+    "id" : "clothing66",
+    "word" : "yüksek topuklu"
+  },
+  {
+    "id" : "clothing67",
+    "word" : "tulum"
+  },
+  {
+    "id" : "clothing68",
+    "word" : "kimono"
+  },
+  {
+    "id" : "clothing69",
+    "word" : "kısa pantolon"
+  },
+  {
+    "id" : "clothing70",
+    "word" : "sandalet"
+  },
+  {
+    "id" : "clothing71",
+    "word" : "şal"
+  },
+  {
+    "id" : "clothing72",
+    "word" : "ipek şal"
+  },
+  {
+    "id" : "clothing73",
+    "word" : "tayt"
+  },
+  {
+    "id" : "clothing74",
+    "word" : "fermuar"
+  },
+  {
+    "id" : "clothing75",
+    "word" : "bilezik"
+  },
+  {
+    "id" : "clothing76",
+    "word" : "elbise halkası"
+  },
+  {
+    "id" : "clothing77",
+    "word" : "küpe"
+  },
+  {
+    "id" : "clothing78",
+    "word" : "el çantası"
+  },
+  {
+    "id" : "clothing79",
+    "word" : "anahtarlık"
+  },
+  {
+    "id" : "clothing80",
+    "word" : "ruj"
+  },
+  {
+    "id" : "clothing81",
+    "word" : "maskara"
+  },
+  {
+    "id" : "clothing82",
+    "word" : "tırnak törpüsü"
+  },
+  {
+    "id" : "clothing83",
+    "word" : "kolye"
+  },
+  {
+    "id" : "clothing84",
+    "word" : "parfüm"
+  },
+  {
+    "id" : "clothing85",
+    "word" : "çanta"
+  },
+  {
+    "id" : "clothing86",
+    "word" : "akıllı telefon"
+  },
+  {
+    "id" : "clothing87",
+    "word" : "kağıt mendil"
+  },
+  {
+    "id" : "clothing88",
+    "word" : "cüzdan"
+  },
+  {
+    "id" : "clothing89",
+    "word" : "saat"
+  }
+]

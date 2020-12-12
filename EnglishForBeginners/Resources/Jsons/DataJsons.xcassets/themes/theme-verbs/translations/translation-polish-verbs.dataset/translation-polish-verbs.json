@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "balansowanie"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "odbijanie"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "sprawadzanie"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "płakanie"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "tańczenie"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "upadanie"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "skakanie"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "wystrzeliwanie"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "bieganie"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "śpiewanie"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "siedzenie"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "spanie"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "uśmiechanie"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "stanie"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "chodzenie"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "czyszczenie"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "siekanie"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "mycie"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "gotowanie"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "rysowanie"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "picie"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "suszenie"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "jedzenie"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "ćwiczenie"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "świecenie"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "czytanie"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "golenie"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "budzenie"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "sprzątanie"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "pisanie"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "jeżdżenie"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "ścieranie"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "pomaganie"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "uderzanie"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "dojenie"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "otwieranie"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "publikowanie"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "relaksowanie"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "rolowanie"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "przeskakiwanie"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "mówienie"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "ściskanie"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "pływanie"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "huśtanie"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "wysyłanie wiadomości"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "oklaskiwanie"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "pieczenie"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "kalkulowanie"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "gonienie"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "dekorowanie"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "wchodzenie"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "młotkowanie"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "jogging"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "klękanie"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "maszerowanie"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "granie"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "odwracanie"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "ocieranie"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "palenie"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "machanie"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "kłócenie"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "aresztowanie"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "obozowanie"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "noszenie"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "kapanie"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "bębnienie"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "unoszenie się"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "witanie"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "wyszywanie"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "wskazywanie"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "pompowanie"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "szycie"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "ślizgać się"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "śnieżenie"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "wykręcanie"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "gryzienie"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "poświęcanie"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "granie w kręgle"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "spalenie"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "pozdrawianie"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "czesanie"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "czołganie si"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "kręcenie"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "zakrywanie"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "topienie"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "wiwatować"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "wiosłowanie"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "dziobanie"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "polerowanie"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "rozciąganie"
+  }
+]

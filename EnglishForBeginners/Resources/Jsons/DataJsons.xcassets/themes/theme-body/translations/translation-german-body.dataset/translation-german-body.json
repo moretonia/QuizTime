@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "das Bankdrücken"
+  },
+  {
+    "id" : "body1",
+    "word" : "die Armbeugen"
+  },
+  {
+    "id" : "body2",
+    "word" : "die Chin-Ups"
+  },
+  {
+    "id" : "body3",
+    "word" : "die Bauchpressen"
+  },
+  {
+    "id" : "body4",
+    "word" : "das Kreuzheben"
+  },
+  {
+    "id" : "body5",
+    "word" : "die Barrenstützen"
+  },
+  {
+    "id" : "body6",
+    "word" : "der Gymnastikball"
+  },
+  {
+    "id" : "body7",
+    "word" : "die Beinbeugen"
+  },
+  {
+    "id" : "body8",
+    "word" : "die Lunges"
+  },
+  {
+    "id" : "body9",
+    "word" : "der Boxsack"
+  },
+  {
+    "id" : "body10",
+    "word" : "die Liegestützen"
+  },
+  {
+    "id" : "body11",
+    "word" : "rudern"
+  },
+  {
+    "id" : "body12",
+    "word" : "die Sit-Ups"
+  },
+  {
+    "id" : "body13",
+    "word" : "die Kniebeugen"
+  },
+  {
+    "id" : "body14",
+    "word" : "das Step Up"
+  },
+  {
+    "id" : "body15",
+    "word" : "der Bizeps"
+  },
+  {
+    "id" : "body16",
+    "word" : "das Gesäß"
+  },
+  {
+    "id" : "body17",
+    "word" : "der Busen"
+  },
+  {
+    "id" : "body18",
+    "word" : "die Wade"
+  },
+  {
+    "id" : "body19",
+    "word" : "die Brust"
+  },
+  {
+    "id" : "body20",
+    "word" : "die Hüfte"
+  },
+  {
+    "id" : "body21",
+    "word" : "der Fingerknöchel"
+  },
+  {
+    "id" : "body22",
+    "word" : "das Schienbein"
+  },
+  {
+    "id" : "body23",
+    "word" : "die Schulter"
+  },
+  {
+    "id" : "body24",
+    "word" : "die Fußsohle"
+  },
+  {
+    "id" : "body25",
+    "word" : "der Bauch"
+  },
+  {
+    "id" : "body26",
+    "word" : "der Oberschenkel"
+  },
+  {
+    "id" : "body27",
+    "word" : "der Hals"
+  },
+  {
+    "id" : "body28",
+    "word" : "die Taille"
+  },
+  {
+    "id" : "body29",
+    "word" : "das Handgelenk"
+  },
+  {
+    "id" : "body30",
+    "word" : "der Fußknöchel"
+  },
+  {
+    "id" : "body31",
+    "word" : "der Arm"
+  },
+  {
+    "id" : "body32",
+    "word" : "der große Zeh"
+  },
+  {
+    "id" : "body33",
+    "word" : "der Ellenbogen"
+  },
+  {
+    "id" : "body34",
+    "word" : "der Finger"
+  },
+  {
+    "id" : "body35",
+    "word" : "die Faust"
+  },
+  {
+    "id" : "body36",
+    "word" : "der Fuß"
+  },
+  {
+    "id" : "body37",
+    "word" : "der Unterarm"
+  },
+  {
+    "id" : "body38",
+    "word" : "die Hand"
+  },
+  {
+    "id" : "body39",
+    "word" : "der Kopf"
+  },
+  {
+    "id" : "body40",
+    "word" : "das Knie"
+  },
+  {
+    "id" : "body41",
+    "word" : "das Bein"
+  },
+  {
+    "id" : "body42",
+    "word" : "der Bauchnabel"
+  },
+  {
+    "id" : "body43",
+    "word" : "die Handfläche"
+  },
+  {
+    "id" : "body44",
+    "word" : "der Daumen"
+  },
+  {
+    "id" : "body45",
+    "word" : "die blauen Augen"
+  },
+  {
+    "id" : "body46",
+    "word" : "die braunen Augen"
+  },
+  {
+    "id" : "body47",
+    "word" : "die Sommersprossen"
+  },
+  {
+    "id" : "body48",
+    "word" : "der Vollbart"
+  },
+  {
+    "id" : "body49",
+    "word" : "die Brille"
+  },
+  {
+    "id" : "body50",
+    "word" : "der Kinnbart"
+  },
+  {
+    "id" : "body51",
+    "word" : "die grünen Augen"
+  },
+  {
+    "id" : "body52",
+    "word" : "das Muttermal"
+  },
+  {
+    "id" : "body53",
+    "word" : "der Schnurrbart"
+  },
+  {
+    "id" : "body54",
+    "word" : "der Pickel"
+  },
+  {
+    "id" : "body55",
+    "word" : "die Narbe"
+  },
+  {
+    "id" : "body56",
+    "word" : "gebräunt"
+  },
+  {
+    "id" : "body57",
+    "word" : "das Tattoo"
+  },
+  {
+    "id" : "body58",
+    "word" : "das schmales Gesicht"
+  },
+  {
+    "id" : "body59",
+    "word" : "die Falten"
+  },
+  {
+    "id" : "body60",
+    "word" : "die Wange"
+  },
+  {
+    "id" : "body61",
+    "word" : "das Kinn"
+  },
+  {
+    "id" : "body62",
+    "word" : "das Grübchen"
+  },
+  {
+    "id" : "body63",
+    "word" : "das Ohrläppchen"
+  },
+  {
+    "id" : "body64",
+    "word" : "das Ohr"
+  },
+  {
+    "id" : "body65",
+    "word" : "das Auge"
+  },
+  {
+    "id" : "body66",
+    "word" : "die Augenbraue"
+  },
+  {
+    "id" : "body67",
+    "word" : "die Wimpern"
+  },
+  {
+    "id" : "body68",
+    "word" : "die Stirn"
+  },
+  {
+    "id" : "body69",
+    "word" : "das Stirnrunzeln"
+  },
+  {
+    "id" : "body70",
+    "word" : "die Lippen"
+  },
+  {
+    "id" : "body71",
+    "word" : "der Nacken"
+  },
+  {
+    "id" : "body72",
+    "word" : "die Nase"
+  },
+  {
+    "id" : "body73",
+    "word" : "die Zähne"
+  },
+  {
+    "id" : "body74",
+    "word" : "die Zunge"
+  },
+  {
+    "id" : "body75",
+    "word" : "der Afro"
+  },
+  {
+    "id" : "body76",
+    "word" : "die Glatze"
+  },
+  {
+    "id" : "body77",
+    "word" : "der Dutt"
+  },
+  {
+    "id" : "body78",
+    "word" : "der Bürstenhaarschnitt"
+  },
+  {
+    "id" : "body79",
+    "word" : "lockig"
+  },
+  {
+    "id" : "body80",
+    "word" : "zerzaust"
+  },
+  {
+    "id" : "body81",
+    "word" : "die Dreadlocks"
+  },
+  {
+    "id" : "body82",
+    "word" : "die langen Haare"
+  },
+  {
+    "id" : "body83",
+    "word" : "die Irokesenfrisur"
+  },
+  {
+    "id" : "body84",
+    "word" : "der Pferdeschwanz"
+  },
+  {
+    "id" : "body85",
+    "word" : "kahl rasiert"
+  },
+  {
+    "id" : "body86",
+    "word" : "kurz"
+  },
+  {
+    "id" : "body87",
+    "word" : "die Igelfrisur"
+  },
+  {
+    "id" : "body88",
+    "word" : "glatt"
+  },
+  {
+    "id" : "body89",
+    "word" : "wellig"
+  }
+]

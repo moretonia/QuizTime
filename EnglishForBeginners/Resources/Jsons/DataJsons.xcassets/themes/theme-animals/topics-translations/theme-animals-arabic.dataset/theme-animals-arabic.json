@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "African Animals",
+    "word" : "الحيوانات الأفريقية"
+  },
+  {
+    "id" : "Dog Breeds",
+    "word" : "سلالات الكلاب"
+  },
+  {
+    "id" : "Farm Animals",
+    "word" : "حيوانات المزرعة"
+  },
+  {
+    "id" : "Fish",
+    "word" : "الأسماك"
+  },
+  {
+    "id" : "Marine Animals",
+    "word" : "حيوانات بحرية"
+  },
+  {
+    "id" : "Pets",
+    "word" : "الحيوانات الأليفة"
+  }
+]

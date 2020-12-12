@@ -1,0 +1,542 @@
+[
+ {
+   "id": "beliefs0",
+   "word": "alms",
+   "transcription": "ˈɑmz",
+   "imageName": "beliefs-alms"
+ },
+ {
+   "id": "beliefs1",
+   "word": "communion",
+   "transcription": "kəˈmjuːnjən",
+   "imageName": "beliefs-communion"
+ },
+ {
+   "id": "beliefs2",
+   "word": "cremation",
+   "transcription": "krɪˈmeɪʃən",
+   "imageName": "beliefs-cremation"
+ },
+ {
+   "id": "beliefs3",
+   "word": "graduation",
+   "transcription": "ˌɡrædʒəˈweɪʃən",
+   "imageName": "beliefs-graduation"
+ },
+ {
+   "id": "beliefs4",
+   "word": "hajj",
+   "transcription": "ˈhædʒ",
+   "imageName": "beliefs-hajj"
+ },
+ {
+   "id": "beliefs5",
+   "word": "incense",
+   "transcription": "ˈɪnˌsɛns",
+   "imageName": "beliefs-incense"
+ },
+ {
+   "id": "beliefs6",
+   "word": "kava",
+   "transcription": "ˈkɑvə",
+   "imageName": "beliefs-kava"
+ },
+ {
+   "id": "beliefs7",
+   "word": "lantern",
+   "transcription": "ˈlæntɚn",
+   "imageName": "beliefs-lantern"
+ },
+ {
+   "id": "beliefs8",
+   "word": "opening",
+   "transcription": "ˈoʊpənɪŋ",
+   "imageName": "beliefs-opening"
+ },
+ {
+   "id": "beliefs9",
+   "word": "praying",
+   "transcription": "ˈpreɪɪŋ",
+   "imageName": "beliefs-praying"
+ },
+ {
+   "id": "beliefs10",
+   "word": "red carpet",
+   "transcription": "ˈrɛd ˈkɑrpət",
+   "imageName": "beliefs-red carpet"
+ },
+ {
+   "id": "beliefs11",
+   "word": "retirement",
+   "transcription": "rɪˈtaɪɚmənt",
+   "imageName": "beliefs-retirement"
+ },
+ {
+   "id": "beliefs12",
+   "word": "royal salute",
+   "transcription": "ˈrɔɪəl səˈluːt",
+   "imageName": "beliefs-royal salute"
+ },
+ {
+   "id": "beliefs13",
+   "word": "songkran",
+   "transcription": "ˈsɒŋkrɑːn",
+   "imageName": "beliefs-songkran"
+ },
+ {
+   "id": "beliefs14",
+   "word": "tea ceremony",
+   "transcription": "ˈtiː ˈsɛrəˌmoʊnɪ",
+   "imageName": "beliefs-tea ceremony"
+ },
+ {
+   "id": "beliefs15",
+   "word": "candle",
+   "transcription": "ˈkændl̩",
+   "imageName": "beliefs-candle"
+ },
+ {
+   "id": "beliefs16",
+   "word": "christmas card",
+   "transcription": "ˈkrɪsməs ˈkɑrd",
+   "imageName": "beliefs-christmas card"
+ },
+ {
+   "id": "beliefs17",
+   "word": "christmas tree",
+   "transcription": "ˈkrɪsməs ˈtriː",
+   "imageName": "beliefs-christmas tree"
+ },
+ {
+   "id": "beliefs18",
+   "word": "elf",
+   "transcription": "ˈɛlf",
+   "imageName": "beliefs-elf"
+ },
+ {
+   "id": "beliefs19",
+   "word": "gingerbread",
+   "transcription": "ˈdʒɪndʒɚˌbrɛd",
+   "imageName": "beliefs-gingerbread"
+ },
+ {
+   "id": "beliefs20",
+   "word": "holly",
+   "transcription": "ˈhɑlɪ",
+   "imageName": "beliefs-holly"
+ },
+ {
+   "id": "beliefs21",
+   "word": "nativity",
+   "transcription": "nəˈtɪvətɪ",
+   "imageName": "beliefs-nativity"
+ },
+ {
+   "id": "beliefs22",
+   "word": "presents",
+   "transcription": "ˈprɛzn̩ts",
+   "imageName": "beliefs-presents"
+ },
+ {
+   "id": "beliefs23",
+   "word": "pudding",
+   "transcription": "ˈpʊdɪŋ",
+   "imageName": "beliefs-pudding"
+ },
+ {
+   "id": "beliefs24",
+   "word": "reindeer",
+   "transcription": "ˈreɪnˌdɪr",
+   "imageName": "beliefs-reindeer"
+ },
+ {
+   "id": "beliefs25",
+   "word": "Santa Claus",
+   "transcription": "ˈsæntə ˌklɔz",
+   "imageName": "beliefs-Santa Claus"
+ },
+ {
+   "id": "beliefs26",
+   "word": "sleigh",
+   "transcription": "ˈsleɪ",
+   "imageName": "beliefs-sleigh"
+ },
+ {
+   "id": "beliefs27",
+   "word": "snowman",
+   "transcription": "ˈsnoʊˌmæn",
+   "imageName": "beliefs-snowman"
+ },
+ {
+   "id": "beliefs28",
+   "word": "stocking",
+   "transcription": "ˈstɑkɪŋ",
+   "imageName": "beliefs-stocking"
+ },
+ {
+   "id": "beliefs29",
+   "word": "turkey",
+   "transcription": "ˈtɝkɪ",
+   "imageName": "beliefs-turkey"
+ },
+ {
+   "id": "beliefs30",
+   "word": "altar",
+   "transcription": "ˈɔltɚ",
+   "imageName": "beliefs-altar"
+ },
+ {
+   "id": "beliefs31",
+   "word": "apse",
+   "transcription": "ˈæps",
+   "imageName": "beliefs-apse"
+ },
+ {
+   "id": "beliefs32",
+   "word": "baptism",
+   "transcription": "ˈbæpˌtɪzəm",
+   "imageName": "beliefs-baptism"
+ },
+ {
+   "id": "beliefs33",
+   "word": "cross",
+   "transcription": "ˈkrɔs",
+   "imageName": "beliefs-cross"
+ },
+ {
+   "id": "beliefs34",
+   "word": "bible",
+   "transcription": "ˈbaɪbəl",
+   "imageName": "beliefs-bible"
+ },
+ {
+   "id": "beliefs35",
+   "word": "chalice",
+   "transcription": "ˈtʃæləs",
+   "imageName": "beliefs-chalice"
+ },
+ {
+   "id": "beliefs36",
+   "word": "choir",
+   "transcription": "ˈkwaɪɚ",
+   "imageName": "beliefs-choir"
+ },
+ {
+   "id": "beliefs37",
+   "word": "congregation",
+   "transcription": "ˌkɑŋɡrɪˈɡeɪʃən",
+   "imageName": "beliefs-congregation"
+ },
+ {
+   "id": "beliefs38",
+   "word": "funeral",
+   "transcription": "ˈfjuːnɚrəl",
+   "imageName": "beliefs-funeral"
+ },
+ {
+   "id": "beliefs39",
+   "word": "graveyard",
+   "transcription": "ˈɡreɪvˌjɑrd",
+   "imageName": "beliefs-graveyard"
+ },
+ {
+   "id": "beliefs40",
+   "word": "pews",
+   "transcription": "ˈpjuːz",
+   "imageName": "beliefs-pews"
+ },
+ {
+   "id": "beliefs41",
+   "word": "preacher",
+   "transcription": "ˈpriːtʃɚ",
+   "imageName": "beliefs-preacher"
+ },
+ {
+   "id": "beliefs42",
+   "word": "pulpit",
+   "transcription": "ˈpʊlˌpɪt",
+   "imageName": "beliefs-pulpit"
+ },
+ {
+   "id": "beliefs43",
+   "word": "steeple",
+   "transcription": "ˈstiːpəl",
+   "imageName": "beliefs-steeple"
+ },
+ {
+   "id": "beliefs44",
+   "word": "wedding",
+   "transcription": "ˈwɛdɪŋ",
+   "imageName": "beliefs-wedding"
+ },
+ {
+   "id": "beliefs45",
+   "word": "acorns",
+   "transcription": "ˈeɪˌkɔrnz",
+   "imageName": "beliefs-acorns"
+ },
+ {
+   "id": "beliefs46",
+   "word": "amber",
+   "transcription": "ˈæmbɚ",
+   "imageName": "beliefs-amber"
+ },
+ {
+   "id": "beliefs47",
+   "word": "clover",
+   "transcription": "ˈkloʊvɚ",
+   "imageName": "beliefs-clover"
+ },
+ {
+   "id": "beliefs48",
+   "word": "cross fingers",
+   "transcription": "ˈkrɔs ˈfɪŋɡɚz",
+   "imageName": "beliefs-cross fingers"
+ },
+ {
+   "id": "beliefs49",
+   "word": "crystal",
+   "transcription": "ˈkrɪstl̩",
+   "imageName": "beliefs-crystal"
+ },
+ {
+   "id": "beliefs50",
+   "word": "dolphins",
+   "transcription": "ˈdɑlfənz",
+   "imageName": "beliefs-dolphins"
+ },
+ {
+   "id": "beliefs51",
+   "word": "feng shui",
+   "transcription": "ˈfʌŋ ˈʃwiː",
+   "imageName": "beliefs-feng shui"
+ },
+ {
+   "id": "beliefs52",
+   "word": "horse shoe",
+   "transcription": "ˈhɔrs ˈʃuː",
+   "imageName": "beliefs-horse shoe"
+ },
+ {
+   "id": "beliefs53",
+   "word": "leprechaun",
+   "transcription": "ˈlɛprəˌkɑn",
+   "imageName": "beliefs-leprechaun"
+ },
+ {
+   "id": "beliefs54",
+   "word": "lucky bamboo",
+   "transcription": "ˈlʌkɪ bæmˈbuː",
+   "imageName": "beliefs-lucky bamboo"
+ },
+ {
+   "id": "beliefs55",
+   "word": "lucky cat",
+   "transcription": "ˈlʌkɪ ˈkæt",
+   "imageName": "beliefs-lucky cat"
+ },
+ {
+   "id": "beliefs56",
+   "word": "meteors",
+   "transcription": "ˈmiːtiːɚz",
+   "imageName": "beliefs-meteors"
+ },
+ {
+   "id": "beliefs57",
+   "word": "rainbow",
+   "transcription": "ˈreɪnˌboʊ",
+   "imageName": "beliefs-rainbow"
+ },
+ {
+   "id": "beliefs58",
+   "word": "scarab",
+   "transcription": "ˈskɛrəb",
+   "imageName": "beliefs-scarab"
+ },
+ {
+   "id": "beliefs59",
+   "word": "wishbone",
+   "transcription": "ˈwɪʃˌboʊn",
+   "imageName": "beliefs-wishbone"
+ },
+ {
+   "id": "beliefs60",
+   "word": "buddha",
+   "transcription": "ˈbuːdə",
+   "imageName": "beliefs-buddha"
+ },
+ {
+   "id": "beliefs61",
+   "word": "cathedral",
+   "transcription": "kəˈθiːdrəl",
+   "imageName": "beliefs-cathedral"
+ },
+ {
+   "id": "beliefs62",
+   "word": "confucius",
+   "transcription": "kənˈfjuːʃəs",
+   "imageName": "beliefs-confucius"
+ },
+ {
+   "id": "beliefs63",
+   "word": "imam",
+   "transcription": "ɪˈmɑm",
+   "imageName": "beliefs-imam"
+ },
+ {
+   "id": "beliefs64",
+   "word": "jesus",
+   "transcription": "ˈdʒiːzəs",
+   "imageName": "beliefs-jesus"
+ },
+ {
+   "id": "beliefs65",
+   "word": "monastery",
+   "transcription": "ˈmɑnəˌstɛrɪ",
+   "imageName": "beliefs-monastery"
+ },
+ {
+   "id": "beliefs66",
+   "word": "monk",
+   "transcription": "ˈmʌŋk",
+   "imageName": "beliefs-monk"
+ },
+ {
+   "id": "beliefs67",
+   "word": "mosque",
+   "transcription": "ˈmɑsk",
+   "imageName": "beliefs-mosque"
+ },
+ {
+   "id": "beliefs68",
+   "word": "nun",
+   "transcription": "ˈnʌn",
+   "imageName": "beliefs-nun"
+ },
+ {
+   "id": "beliefs69",
+   "word": "priest",
+   "transcription": "ˈpriːst",
+   "imageName": "beliefs-priest"
+ },
+ {
+   "id": "beliefs70",
+   "word": "rabbi",
+   "transcription": "ˈræˌbaɪ",
+   "imageName": "beliefs-rabbi"
+ },
+ {
+   "id": "beliefs71",
+   "word": "shinto",
+   "transcription": "ˈʃɪnˌtoʊ",
+   "imageName": "beliefs-shinto"
+ },
+ {
+   "id": "beliefs72",
+   "word": "sikh",
+   "transcription": "ˈsiːk",
+   "imageName": "beliefs-sikh"
+ },
+ {
+   "id": "beliefs73",
+   "word": "synagogue",
+   "transcription": "ˈsɪnəˌɡɑɡ",
+   "imageName": "beliefs-synagogue"
+ },
+ {
+   "id": "beliefs74",
+   "word": "taoism",
+   "transcription": "ˈdaʊˌɪzəm",
+   "imageName": "beliefs-taoism"
+ },
+ {
+   "id": "beliefs75",
+   "word": "aquarius",
+   "transcription": "əˈkwɛriːəs",
+   "imageName": "beliefs-aquarius"
+ },
+ {
+   "id": "beliefs76",
+   "word": "aries",
+   "transcription": "ˈɛriːz",
+   "imageName": "beliefs-aries"
+ },
+ {
+   "id": "beliefs77",
+   "word": "cancer",
+   "transcription": "ˈkænsɚ",
+   "imageName": "beliefs-cancer"
+ },
+ {
+   "id": "beliefs78",
+   "word": "capricorn",
+   "transcription": "ˈkæprɪˌkɔrn",
+   "imageName": "beliefs-capricorn"
+ },
+ {
+   "id": "beliefs79",
+   "word": "crystal ball",
+   "transcription": "ˈkrɪstl̩ ˈbɔl",
+   "imageName": "beliefs-crystal ball"
+ },
+ {
+   "id": "beliefs80",
+   "word": "gemini",
+   "transcription": "ˈdʒɛmənɪ",
+   "imageName": "beliefs-gemini"
+ },
+ {
+   "id": "beliefs81",
+   "word": "horoscope",
+   "transcription": "ˈhɔrəˌskoʊp",
+   "imageName": "beliefs-horoscope"
+ },
+ {
+   "id": "beliefs82",
+   "word": "leo",
+   "transcription": "ˈliːˌoʊ",
+   "imageName": "beliefs-leo"
+ },
+ {
+   "id": "beliefs83",
+   "word": "libra",
+   "transcription": "ˈliːbrə",
+   "imageName": "beliefs-libra"
+ },
+ {
+   "id": "beliefs84",
+   "word": "pisces",
+   "transcription": "ˈpaɪˌsiːz",
+   "imageName": "beliefs-pisces"
+ },
+ {
+   "id": "beliefs85",
+   "word": "sagittarius",
+   "transcription": "ˌsædʒəˈtɛriːəs",
+   "imageName": "beliefs-sagittarius"
+ },
+ {
+   "id": "beliefs86",
+   "word": "scorpio",
+   "transcription": "ˈskɔrpiːˌoʊ",
+   "imageName": "beliefs-scorpio"
+ },
+ {
+   "id": "beliefs87",
+   "word": "tarot cards",
+   "transcription": "ˈtɛroʊ ˈkɑrdz",
+   "imageName": "beliefs-tarot cards"
+ },
+ {
+   "id": "beliefs88",
+   "word": "taurus",
+   "transcription": "ˈtɔrəs",
+   "imageName": "beliefs-taurus"
+ },
+ {
+   "id": "beliefs89",
+   "word": "virgo",
+   "transcription": "ˈvɝɡoʊ",
+   "imageName": "beliefs-virgo"
+ }
+]

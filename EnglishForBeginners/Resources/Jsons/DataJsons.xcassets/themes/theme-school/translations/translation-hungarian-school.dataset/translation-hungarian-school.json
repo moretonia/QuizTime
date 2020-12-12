@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "művészeti galéria"
+  },
+  {
+    "id" : "school1",
+    "word" : "kefe"
+  },
+  {
+    "id" : "school2",
+    "word" : "faszén"
+  },
+  {
+    "id" : "school3",
+    "word" : "festőállvány"
+  },
+  {
+    "id" : "school4",
+    "word" : "tájkép"
+  },
+  {
+    "id" : "school5",
+    "word" : "falfestmény"
+  },
+  {
+    "id" : "school6",
+    "word" : "olajfesték"
+  },
+  {
+    "id" : "school7",
+    "word" : "paletta"
+  },
+  {
+    "id" : "school8",
+    "word" : "petroglif"
+  },
+  {
+    "id" : "school9",
+    "word" : "fotók"
+  },
+  {
+    "id" : "school10",
+    "word" : "portré"
+  },
+  {
+    "id" : "school11",
+    "word" : "szobor"
+  },
+  {
+    "id" : "school12",
+    "word" : "vázlat"
+  },
+  {
+    "id" : "school13",
+    "word" : "csendélet"
+  },
+  {
+    "id" : "school14",
+    "word" : "waterscape"
+  },
+  {
+    "id" : "school15",
+    "word" : "harmonika"
+  },
+  {
+    "id" : "school16",
+    "word" : "bendzsó"
+  },
+  {
+    "id" : "school17",
+    "word" : "kürt"
+  },
+  {
+    "id" : "school18",
+    "word" : "cintányérok"
+  },
+  {
+    "id" : "school19",
+    "word" : "nagybőgő"
+  },
+  {
+    "id" : "school20",
+    "word" : "dobok"
+  },
+  {
+    "id" : "school21",
+    "word" : "fuvola"
+  },
+  {
+    "id" : "school22",
+    "word" : "gitár"
+  },
+  {
+    "id" : "school23",
+    "word" : "szájharmonika"
+  },
+  {
+    "id" : "school24",
+    "word" : "orgona"
+  },
+  {
+    "id" : "school25",
+    "word" : "zongora"
+  },
+  {
+    "id" : "school26",
+    "word" : "szintetizátor"
+  },
+  {
+    "id" : "school27",
+    "word" : "harsona"
+  },
+  {
+    "id" : "school28",
+    "word" : "trombita"
+  },
+  {
+    "id" : "school29",
+    "word" : "hegedű"
+  },
+  {
+    "id" : "school30",
+    "word" : "gyülekezés"
+  },
+  {
+    "id" : "school31",
+    "word" : "iskolai tábla"
+  },
+  {
+    "id" : "school32",
+    "word" : "kantin"
+  },
+  {
+    "id" : "school33",
+    "word" : "osztály"
+  },
+  {
+    "id" : "school34",
+    "word" : "tanterem"
+  },
+  {
+    "id" : "school35",
+    "word" : "asztal"
+  },
+  {
+    "id" : "school36",
+    "word" : "földgolyó"
+  },
+  {
+    "id" : "school37",
+    "word" : "tornaterem"
+  },
+  {
+    "id" : "school38",
+    "word" : "laboratórium"
+  },
+  {
+    "id" : "school39",
+    "word" : "uzsonnás doboz"
+  },
+  {
+    "id" : "school40",
+    "word" : "négyszögletű kalap"
+  },
+  {
+    "id" : "school41",
+    "word" : "játszótér"
+  },
+  {
+    "id" : "school42",
+    "word" : "iskolai nyakkendő"
+  },
+  {
+    "id" : "school43",
+    "word" : "tankönyv"
+  },
+  {
+    "id" : "school44",
+    "word" : "tábla"
+  },
+  {
+    "id" : "school45",
+    "word" : "művészet"
+  },
+  {
+    "id" : "school46",
+    "word" : "biológia"
+  },
+  {
+    "id" : "school47",
+    "word" : "kémia"
+  },
+  {
+    "id" : "school48",
+    "word" : "tánc"
+  },
+  {
+    "id" : "school49",
+    "word" : "angol"
+  },
+  {
+    "id" : "school50",
+    "word" : "vizsga papír"
+  },
+  {
+    "id" : "school51",
+    "word" : "vizsga"
+  },
+  {
+    "id" : "school52",
+    "word" : "fitnesz"
+  },
+  {
+    "id" : "school53",
+    "word" : "francia"
+  },
+  {
+    "id" : "school54",
+    "word" : "földrajz"
+  },
+  {
+    "id" : "school55",
+    "word" : "geometria"
+  },
+  {
+    "id" : "school56",
+    "word" : "matematika"
+  },
+  {
+    "id" : "school57",
+    "word" : "fizika"
+  },
+  {
+    "id" : "school58",
+    "word" : "robotika"
+  },
+  {
+    "id" : "school59",
+    "word" : "tanul"
+  },
+  {
+    "id" : "school60",
+    "word" : "számológép"
+  },
+  {
+    "id" : "school61",
+    "word" : "iránytű"
+  },
+  {
+    "id" : "school62",
+    "word" : "zsírkréta"
+  },
+  {
+    "id" : "school63",
+    "word" : "boríték"
+  },
+  {
+    "id" : "school64",
+    "word" : "radír"
+  },
+  {
+    "id" : "school65",
+    "word" : "jegyzetfüzet"
+  },
+  {
+    "id" : "school66",
+    "word" : "gémkapocs"
+  },
+  {
+    "id" : "school67",
+    "word" : "toll"
+  },
+  {
+    "id" : "school68",
+    "word" : "ceruza"
+  },
+  {
+    "id" : "school69",
+    "word" : "nyomtatás"
+  },
+  {
+    "id" : "school70",
+    "word" : "szögmérő"
+  },
+  {
+    "id" : "school71",
+    "word" : "vonalzó"
+  },
+  {
+    "id" : "school72",
+    "word" : "tűzőgép"
+  },
+  {
+    "id" : "school73",
+    "word" : "íróvessző"
+  },
+  {
+    "id" : "school74",
+    "word" : "tablet"
+  },
+  {
+    "id" : "school75",
+    "word" : "ábécé"
+  },
+  {
+    "id" : "school76",
+    "word" : "könyv"
+  },
+  {
+    "id" : "school77",
+    "word" : "kalligráfia"
+  },
+  {
+    "id" : "school78",
+    "word" : "szótár"
+  },
+  {
+    "id" : "school79",
+    "word" : "ebook"
+  },
+  {
+    "id" : "school80",
+    "word" : "kézírás"
+  },
+  {
+    "id" : "school81",
+    "word" : "index"
+  },
+  {
+    "id" : "school82",
+    "word" : "folyóiratok"
+  },
+  {
+    "id" : "school83",
+    "word" : "zene"
+  },
+  {
+    "id" : "school84",
+    "word" : "újság"
+  },
+  {
+    "id" : "school85",
+    "word" : "tervező"
+  },
+  {
+    "id" : "school86",
+    "word" : "dal író"
+  },
+  {
+    "id" : "school87",
+    "word" : "ragadós cetli"
+  },
+  {
+    "id" : "school88",
+    "word" : "sudoku"
+  },
+  {
+    "id" : "school89",
+    "word" : "írás"
+  }
+]

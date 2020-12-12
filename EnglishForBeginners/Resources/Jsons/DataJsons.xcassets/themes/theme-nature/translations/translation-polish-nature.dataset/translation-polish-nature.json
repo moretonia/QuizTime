@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "kwaśny deszcz"
+  },
+  {
+    "id" : "nature1",
+    "word" : "wyrąb"
+  },
+  {
+    "id" : "nature2",
+    "word" : "kopalnia węgla"
+  },
+  {
+    "id" : "nature3",
+    "word" : "martwy koral"
+  },
+  {
+    "id" : "nature4",
+    "word" : "pustynia"
+  },
+  {
+    "id" : "nature5",
+    "word" : "erozja"
+  },
+  {
+    "id" : "nature6",
+    "word" : "spaliny"
+  },
+  {
+    "id" : "nature7",
+    "word" : "paliwo kopalne"
+  },
+  {
+    "id" : "nature8",
+    "word" : "śmieci"
+  },
+  {
+    "id" : "nature9",
+    "word" : "wyciek oleju"
+  },
+  {
+    "id" : "nature10",
+    "word" : "wytłaczarka"
+  },
+  {
+    "id" : "nature11",
+    "word" : "zanieczyszczenie"
+  },
+  {
+    "id" : "nature12",
+    "word" : "smog"
+  },
+  {
+    "id" : "nature13",
+    "word" : "panel solarny"
+  },
+  {
+    "id" : "nature14",
+    "word" : "farma wiatrowa"
+  },
+  {
+    "id" : "nature15",
+    "word" : "obora"
+  },
+  {
+    "id" : "nature16",
+    "word" : "kurnik"
+  },
+  {
+    "id" : "nature17",
+    "word" : "farmer"
+  },
+  {
+    "id" : "nature18",
+    "word" : "płot"
+  },
+  {
+    "id" : "nature19",
+    "word" : "brama"
+  },
+  {
+    "id" : "nature20",
+    "word" : "kombajn"
+  },
+  {
+    "id" : "nature21",
+    "word" : "nawadnianie"
+  },
+  {
+    "id" : "nature22",
+    "word" : "pług"
+  },
+  {
+    "id" : "nature23",
+    "word" : "staw"
+  },
+  {
+    "id" : "nature24",
+    "word" : "strach na wróble"
+  },
+  {
+    "id" : "nature25",
+    "word" : "stajnia"
+  },
+  {
+    "id" : "nature26",
+    "word" : "traktor"
+  },
+  {
+    "id" : "nature27",
+    "word" : "wioska"
+  },
+  {
+    "id" : "nature28",
+    "word" : "studnia"
+  },
+  {
+    "id" : "nature29",
+    "word" : "wiatrak"
+  },
+  {
+    "id" : "nature30",
+    "word" : "astry"
+  },
+  {
+    "id" : "nature31",
+    "word" : "goździk"
+  },
+  {
+    "id" : "nature32",
+    "word" : "kaczeniec"
+  },
+  {
+    "id" : "nature33",
+    "word" : "dalia"
+  },
+  {
+    "id" : "nature34",
+    "word" : "stokrotka"
+  },
+  {
+    "id" : "nature35",
+    "word" : "frangipanni"
+  },
+  {
+    "id" : "nature36",
+    "word" : "frezja"
+  },
+  {
+    "id" : "nature37",
+    "word" : "geranium"
+  },
+  {
+    "id" : "nature38",
+    "word" : "gerbera"
+  },
+  {
+    "id" : "nature39",
+    "word" : "hibiskus"
+  },
+  {
+    "id" : "nature40",
+    "word" : "lilia"
+  },
+  {
+    "id" : "nature41",
+    "word" : "magnolia"
+  },
+  {
+    "id" : "nature42",
+    "word" : "orchidea"
+  },
+  {
+    "id" : "nature43",
+    "word" : "róża"
+  },
+  {
+    "id" : "nature44",
+    "word" : "tulipan"
+  },
+  {
+    "id" : "nature45",
+    "word" : "mrówka"
+  },
+  {
+    "id" : "nature46",
+    "word" : "pszczoła"
+  },
+  {
+    "id" : "nature47",
+    "word" : "żuk"
+  },
+  {
+    "id" : "nature48",
+    "word" : "motyl"
+  },
+  {
+    "id" : "nature49",
+    "word" : "karaluch"
+  },
+  {
+    "id" : "nature50",
+    "word" : "świerszcz"
+  },
+  {
+    "id" : "nature51",
+    "word" : "ważka"
+  },
+  {
+    "id" : "nature52",
+    "word" : "mucha"
+  },
+  {
+    "id" : "nature53",
+    "word" : "pasikonik"
+  },
+  {
+    "id" : "nature54",
+    "word" : "biedronka"
+  },
+  {
+    "id" : "nature55",
+    "word" : "modliszka"
+  },
+  {
+    "id" : "nature56",
+    "word" : "komar"
+  },
+  {
+    "id" : "nature57",
+    "word" : "ćma"
+  },
+  {
+    "id" : "nature58",
+    "word" : "termity"
+  },
+  {
+    "id" : "nature59",
+    "word" : "osa"
+  },
+  {
+    "id" : "nature60",
+    "word" : "paproć"
+  },
+  {
+    "id" : "nature61",
+    "word" : "ogród"
+  },
+  {
+    "id" : "nature62",
+    "word" : "trawa"
+  },
+  {
+    "id" : "nature63",
+    "word" : "trawnik"
+  },
+  {
+    "id" : "nature64",
+    "word" : "liść"
+  },
+  {
+    "id" : "nature65",
+    "word" : "palma"
+  },
+  {
+    "id" : "nature66",
+    "word" : "płątki"
+  },
+  {
+    "id" : "nature67",
+    "word" : "las sosnowy"
+  },
+  {
+    "id" : "nature68",
+    "word" : "las deszczowy"
+  },
+  {
+    "id" : "nature69",
+    "word" : "korzenie"
+  },
+  {
+    "id" : "nature70",
+    "word" : "sadzonka"
+  },
+  {
+    "id" : "nature71",
+    "word" : "nasiona"
+  },
+  {
+    "id" : "nature72",
+    "word" : "kolec"
+  },
+  {
+    "id" : "nature73",
+    "word" : "drzewo"
+  },
+  {
+    "id" : "nature74",
+    "word" : "konar"
+  },
+  {
+    "id" : "nature75",
+    "word" : "cyklon"
+  },
+  {
+    "id" : "nature76",
+    "word" : "susza"
+  },
+  {
+    "id" : "nature77",
+    "word" : "powódź"
+  },
+  {
+    "id" : "nature78",
+    "word" : "mgła"
+  },
+  {
+    "id" : "nature79",
+    "word" : "prognoza"
+  },
+  {
+    "id" : "nature80",
+    "word" : "upał"
+  },
+  {
+    "id" : "nature81",
+    "word" : "lód"
+  },
+  {
+    "id" : "nature82",
+    "word" : "piorun"
+  },
+  {
+    "id" : "nature83",
+    "word" : "kałuża"
+  },
+  {
+    "id" : "nature84",
+    "word" : "deszcz"
+  },
+  {
+    "id" : "nature85",
+    "word" : "płaszcz przeciwdeszczowy"
+  },
+  {
+    "id" : "nature86",
+    "word" : "burza piaskowa"
+  },
+  {
+    "id" : "nature87",
+    "word" : "śnieg"
+  },
+  {
+    "id" : "nature88",
+    "word" : "tornado"
+  },
+  {
+    "id" : "nature89",
+    "word" : "parasolka"
+  }
+]

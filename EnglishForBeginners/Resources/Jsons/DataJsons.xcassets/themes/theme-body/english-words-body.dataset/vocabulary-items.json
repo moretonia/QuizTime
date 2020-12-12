@@ -1,0 +1,542 @@
+[
+ {
+   "id": "body0",
+   "word": "bench press",
+   "transcription": "ˈbɛntʃ ˈprɛs",
+   "imageName": "body-bench press"
+ },
+ {
+   "id": "body1",
+   "word": "biceps curl",
+   "transcription": "ˈbaɪˌsɛps ˈkɝl",
+   "imageName": "body-biceps curl"
+ },
+ {
+   "id": "body2",
+   "word": "chin ups",
+   "transcription": "ˈtʃɪn ˈʌps",
+   "imageName": "body-chin ups"
+ },
+ {
+   "id": "body3",
+   "word": "crunches",
+   "transcription": "ˈkrʌntʃəz",
+   "imageName": "body-crunches"
+ },
+ {
+   "id": "body4",
+   "word": "deadlift",
+   "transcription": "ˈdɛdˌlɪft",
+   "imageName": "body-deadlift"
+ },
+ {
+   "id": "body5",
+   "word": "dips",
+   "transcription": "ˈdɪps",
+   "imageName": "body-dips"
+ },
+ {
+   "id": "body6",
+   "word": "fitness ball",
+   "transcription": "ˈfɪtnəs ˈbɔl",
+   "imageName": "body-fitness ball"
+ },
+ {
+   "id": "body7",
+   "word": "leg curls",
+   "transcription": "ˈlɛɡ ˈkɝlz",
+   "imageName": "body-leg curls"
+ },
+ {
+   "id": "body8",
+   "word": "lunges",
+   "transcription": "ˈlʌndʒəz",
+   "imageName": "body-lunges"
+ },
+ {
+   "id": "body9",
+   "word": "punching bag",
+   "transcription": "ˈpʌntʃɪŋ ˈbæɡ",
+   "imageName": "body-punching bag"
+ },
+ {
+   "id": "body10",
+   "word": "push ups",
+   "transcription": "ˈpʊʃ ˈʌps",
+   "imageName": "body-push ups"
+ },
+ {
+   "id": "body11",
+   "word": "rowing",
+   "transcription": "ˈroʊɪŋ",
+   "imageName": "body-rowing"
+ },
+ {
+   "id": "body12",
+   "word": "sit ups",
+   "transcription": "ˈsɪt ˈʌps",
+   "imageName": "body-sit ups"
+ },
+ {
+   "id": "body13",
+   "word": "squats",
+   "transcription": "ˈskwɑts",
+   "imageName": "body-squats"
+ },
+ {
+   "id": "body14",
+   "word": "step up",
+   "transcription": "ˈstɛp ˈʌp",
+   "imageName": "body-step up"
+ },
+ {
+   "id": "body15",
+   "word": "biceps",
+   "transcription": "ˈbaɪˌsɛps",
+   "imageName": "body-biceps"
+ },
+ {
+   "id": "body16",
+   "word": "bottom",
+   "transcription": "ˈbɑtəm",
+   "imageName": "body-bottom"
+ },
+ {
+   "id": "body17",
+   "word": "bust",
+   "transcription": "ˈbʌst",
+   "imageName": "body-bust"
+ },
+ {
+   "id": "body18",
+   "word": "calf",
+   "transcription": "ˈkæf",
+   "imageName": "body-calf"
+ },
+ {
+   "id": "body19",
+   "word": "chest",
+   "transcription": "ˈtʃɛst",
+   "imageName": "body-chest"
+ },
+ {
+   "id": "body20",
+   "word": "hips",
+   "transcription": "ˈhɪps",
+   "imageName": "body-hips"
+ },
+ {
+   "id": "body21",
+   "word": "knuckle",
+   "transcription": "ˈnʌkəl",
+   "imageName": "body-knuckle"
+ },
+ {
+   "id": "body22",
+   "word": "shin",
+   "transcription": "ˈʃɪn",
+   "imageName": "body-shin"
+ },
+ {
+   "id": "body23",
+   "word": "shoulder",
+   "transcription": "ˈʃoʊldɚ",
+   "imageName": "body-shoulder"
+ },
+ {
+   "id": "body24",
+   "word": "sole",
+   "transcription": "ˈsoʊl",
+   "imageName": "body-sole"
+ },
+ {
+   "id": "body25",
+   "word": "stomach",
+   "transcription": "ˈstʌmək",
+   "imageName": "body-stomach"
+ },
+ {
+   "id": "body26",
+   "word": "thigh",
+   "transcription": "ˈθaɪ",
+   "imageName": "body-thigh"
+ },
+ {
+   "id": "body27",
+   "word": "throat",
+   "transcription": "ˈθroʊt",
+   "imageName": "body-throat"
+ },
+ {
+   "id": "body28",
+   "word": "waist",
+   "transcription": "ˈweɪst",
+   "imageName": "body-waist"
+ },
+ {
+   "id": "body29",
+   "word": "wrist",
+   "transcription": "ˈrɪst",
+   "imageName": "body-wrist"
+ },
+ {
+   "id": "body30",
+   "word": "ankle",
+   "transcription": "ˈæŋkəl",
+   "imageName": "body-ankle"
+ },
+ {
+   "id": "body31",
+   "word": "arm",
+   "transcription": "ˈɑrm",
+   "imageName": "body-arm"
+ },
+ {
+   "id": "body32",
+   "word": "big toe",
+   "transcription": "ˈbɪɡ ˈtoʊ",
+   "imageName": "body-big toe"
+ },
+ {
+   "id": "body33",
+   "word": "elbow",
+   "transcription": "ˈɛlˌboʊ",
+   "imageName": "body-elbow"
+ },
+ {
+   "id": "body34",
+   "word": "finger",
+   "transcription": "ˈfɪŋɡɚ",
+   "imageName": "body-finger"
+ },
+ {
+   "id": "body35",
+   "word": "fist",
+   "transcription": "ˈfɪst",
+   "imageName": "body-fist"
+ },
+ {
+   "id": "body36",
+   "word": "foot",
+   "transcription": "ˈfʊt",
+   "imageName": "body-foot"
+ },
+ {
+   "id": "body37",
+   "word": "forearm",
+   "transcription": "ˈfɔrˌɑrm",
+   "imageName": "body-forearm"
+ },
+ {
+   "id": "body38",
+   "word": "hand",
+   "transcription": "ˈhænd",
+   "imageName": "body-hand"
+ },
+ {
+   "id": "body39",
+   "word": "head",
+   "transcription": "ˈhɛd",
+   "imageName": "body-head"
+ },
+ {
+   "id": "body40",
+   "word": "knee",
+   "transcription": "ˈniː",
+   "imageName": "body-knee"
+ },
+ {
+   "id": "body41",
+   "word": "leg",
+   "transcription": "ˈlɛɡ",
+   "imageName": "body-leg"
+ },
+ {
+   "id": "body42",
+   "word": "navel",
+   "transcription": "ˈneɪvəl",
+   "imageName": "body-navel"
+ },
+ {
+   "id": "body43",
+   "word": "palm",
+   "transcription": "ˈpɑm",
+   "imageName": "body-palm"
+ },
+ {
+   "id": "body44",
+   "word": "thumb",
+   "transcription": "ˈθʌm",
+   "imageName": "body-thumb"
+ },
+ {
+   "id": "body45",
+   "word": "blue eyes",
+   "transcription": "ˈbluː ˈaɪz",
+   "imageName": "body-blue eyes"
+ },
+ {
+   "id": "body46",
+   "word": "brown eyes",
+   "transcription": "ˈbraʊn ˈaɪz",
+   "imageName": "body-brown eyes"
+ },
+ {
+   "id": "body47",
+   "word": "freckles",
+   "transcription": "ˈfrɛkəlz",
+   "imageName": "body-freckles"
+ },
+ {
+   "id": "body48",
+   "word": "full beard",
+   "transcription": "ˈfʊl ˈbɪrd",
+   "imageName": "body-full beard"
+ },
+ {
+   "id": "body49",
+   "word": "glasses",
+   "transcription": "ˈɡlæsəz",
+   "imageName": "body-glasses"
+ },
+ {
+   "id": "body50",
+   "word": "goatee",
+   "transcription": "ɡoˈtiː",
+   "imageName": "body-goatee"
+ },
+ {
+   "id": "body51",
+   "word": "green eyes",
+   "transcription": "ˈɡriːn ˈaɪz",
+   "imageName": "body-green eyes"
+ },
+ {
+   "id": "body52",
+   "word": "mole",
+   "transcription": "ˈmoʊl",
+   "imageName": "body-mole"
+ },
+ {
+   "id": "body53",
+   "word": "moustache",
+   "transcription": "ˈmʌˌstæʃ",
+   "imageName": "body-moustache"
+ },
+ {
+   "id": "body54",
+   "word": "pimple",
+   "transcription": "ˈpɪmpəl",
+   "imageName": "body-pimple"
+ },
+ {
+   "id": "body55",
+   "word": "scar",
+   "transcription": "ˈskɑr",
+   "imageName": "body-scar"
+ },
+ {
+   "id": "body56",
+   "word": "tanned",
+   "transcription": "ˈtænd",
+   "imageName": "body-tanned"
+ },
+ {
+   "id": "body57",
+   "word": "tattoo",
+   "transcription": "tæˈtuː",
+   "imageName": "body-tattoo"
+ },
+ {
+   "id": "body58",
+   "word": "thin face",
+   "transcription": "ˈθɪn ˈfeɪs",
+   "imageName": "body-thin face"
+ },
+ {
+   "id": "body59",
+   "word": "wrinkles",
+   "transcription": "ˈrɪŋkəlz",
+   "imageName": "body-wrinkles"
+ },
+ {
+   "id": "body60",
+   "word": "cheek",
+   "transcription": "ˈtʃiːk",
+   "imageName": "body-cheek"
+ },
+ {
+   "id": "body61",
+   "word": "chin",
+   "transcription": "ˈtʃɪn",
+   "imageName": "body-chin"
+ },
+ {
+   "id": "body62",
+   "word": "dimple",
+   "transcription": "ˈdɪmpəl",
+   "imageName": "body-dimple"
+ },
+ {
+   "id": "body63",
+   "word": "ear lobe",
+   "transcription": "ˈɪr ˈloʊb",
+   "imageName": "body-ear lobe"
+ },
+ {
+   "id": "body64",
+   "word": "ear",
+   "transcription": "ˈɪr",
+   "imageName": "body-ear"
+ },
+ {
+   "id": "body65",
+   "word": "eye",
+   "transcription": "ˈaɪ",
+   "imageName": "body-eye"
+ },
+ {
+   "id": "body66",
+   "word": "eyebrow",
+   "transcription": "ˈaɪˌbraʊ",
+   "imageName": "body-eyebrow"
+ },
+ {
+   "id": "body67",
+   "word": "eyelashes",
+   "transcription": "ˈaɪˌlæʃəz",
+   "imageName": "body-eyelashes"
+ },
+ {
+   "id": "body68",
+   "word": "forehead",
+   "transcription": "ˈfɔrˌhɛd",
+   "imageName": "body-forehead"
+ },
+ {
+   "id": "body69",
+   "word": "frown",
+   "transcription": "ˈfraʊn",
+   "imageName": "body-frown"
+ },
+ {
+   "id": "body70",
+   "word": "lips",
+   "transcription": "ˈlɪps",
+   "imageName": "body-lips"
+ },
+ {
+   "id": "body71",
+   "word": "neck",
+   "transcription": "ˈnɛk",
+   "imageName": "body-neck"
+ },
+ {
+   "id": "body72",
+   "word": "nose",
+   "transcription": "ˈnoʊz",
+   "imageName": "body-nose"
+ },
+ {
+   "id": "body73",
+   "word": "teeth",
+   "transcription": "ˈtiːθ",
+   "imageName": "body-teeth"
+ },
+ {
+   "id": "body74",
+   "word": "tongue",
+   "transcription": "ˈtʌŋ",
+   "imageName": "body-tongue"
+ },
+ {
+   "id": "body75",
+   "word": "afro",
+   "transcription": "ˈæfroʊ",
+   "imageName": "body-afro"
+ },
+ {
+   "id": "body76",
+   "word": "bald",
+   "transcription": "ˈbɔld",
+   "imageName": "body-bald"
+ },
+ {
+   "id": "body77",
+   "word": "bun",
+   "transcription": "ˈbʌn",
+   "imageName": "body-bun"
+ },
+ {
+   "id": "body78",
+   "word": "crewcut",
+   "transcription": "ˈkruː ˈkʌt",
+   "imageName": "body-crewcut"
+ },
+ {
+   "id": "body79",
+   "word": "curly",
+   "transcription": "ˈkɝlɪ",
+   "imageName": "body-curly"
+ },
+ {
+   "id": "body80",
+   "word": "dishevelled",
+   "transcription": "dɪˈʃɛvəld",
+   "imageName": "body-dishevelled"
+ },
+ {
+   "id": "body81",
+   "word": "dreadlocks",
+   "transcription": "ˈdrɛdˌlɑks",
+   "imageName": "body-dreadlocks"
+ },
+ {
+   "id": "body82",
+   "word": "long hair",
+   "transcription": "ˈlɔŋ ˈhɛr",
+   "imageName": "body-long hair"
+ },
+ {
+   "id": "body83",
+   "word": "mohawk",
+   "transcription": "ˈmoʊˌhɔk",
+   "imageName": "body-mohawk"
+ },
+ {
+   "id": "body84",
+   "word": "pony tail",
+   "transcription": "ˈpoʊnɪ ˈteɪl",
+   "imageName": "body-pony tail"
+ },
+ {
+   "id": "body85",
+   "word": "shaved",
+   "transcription": "ˈʃeɪvd",
+   "imageName": "body-shaved"
+ },
+ {
+   "id": "body86",
+   "word": "short",
+   "transcription": "ˈʃɔrt",
+   "imageName": "body-short"
+ },
+ {
+   "id": "body87",
+   "word": "spiky",
+   "transcription": "ˈspaɪkɪ",
+   "imageName": "body-spiky"
+ },
+ {
+   "id": "body88",
+   "word": "straight",
+   "transcription": "ˈstreɪt",
+   "imageName": "body-straight"
+ },
+ {
+   "id": "body89",
+   "word": "wavy",
+   "transcription": "ˈweɪvɪ",
+   "imageName": "body-wavy"
+ }
+]

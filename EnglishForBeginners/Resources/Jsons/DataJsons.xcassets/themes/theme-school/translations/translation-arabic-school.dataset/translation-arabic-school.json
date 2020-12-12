@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "معرض فني"
+  },
+  {
+    "id" : "school1",
+    "word" : "فرشاة"
+  },
+  {
+    "id" : "school2",
+    "word" : "فحم"
+  },
+  {
+    "id" : "school3",
+    "word" : "حامل لوحات"
+  },
+  {
+    "id" : "school4",
+    "word" : "المناظر الطبيعيه"
+  },
+  {
+    "id" : "school5",
+    "word" : "لوحة جدارية"
+  },
+  {
+    "id" : "school6",
+    "word" : "لوحة زيتية"
+  },
+  {
+    "id" : "school7",
+    "word" : "لوحة ألوان"
+  },
+  {
+    "id" : "school8",
+    "word" : "النحت على الصخر"
+  },
+  {
+    "id" : "school9",
+    "word" : "صور"
+  },
+  {
+    "id" : "school10",
+    "word" : "صورة"
+  },
+  {
+    "id" : "school11",
+    "word" : "نحت"
+  },
+  {
+    "id" : "school12",
+    "word" : "رسم"
+  },
+  {
+    "id" : "school13",
+    "word" : "طبيعة صامتة"
+  },
+  {
+    "id" : "school14",
+    "word" : "منظر البحر"
+  },
+  {
+    "id" : "school15",
+    "word" : "أكورديون"
+  },
+  {
+    "id" : "school16",
+    "word" : "البانجو"
+  },
+  {
+    "id" : "school17",
+    "word" : "البوق"
+  },
+  {
+    "id" : "school18",
+    "word" : "الصنوج"
+  },
+  {
+    "id" : "school19",
+    "word" : "كمان كبير"
+  },
+  {
+    "id" : "school20",
+    "word" : "طبول"
+  },
+  {
+    "id" : "school21",
+    "word" : "مزمار"
+  },
+  {
+    "id" : "school22",
+    "word" : "جيتار"
+  },
+  {
+    "id" : "school23",
+    "word" : "الهارمونيكا"
+  },
+  {
+    "id" : "school24",
+    "word" : "الأرغن"
+  },
+  {
+    "id" : "school25",
+    "word" : "البيانو"
+  },
+  {
+    "id" : "school26",
+    "word" : "ميكسر"
+  },
+  {
+    "id" : "school27",
+    "word" : "الترومبون"
+  },
+  {
+    "id" : "school28",
+    "word" : "بوق"
+  },
+  {
+    "id" : "school29",
+    "word" : "كمان"
+  },
+  {
+    "id" : "school30",
+    "word" : "تجمع الطلاب"
+  },
+  {
+    "id" : "school31",
+    "word" : "سبورة"
+  },
+  {
+    "id" : "school32",
+    "word" : "المقصف"
+  },
+  {
+    "id" : "school33",
+    "word" : "صف دراسي"
+  },
+  {
+    "id" : "school34",
+    "word" : "حجرة الدراسة"
+  },
+  {
+    "id" : "school35",
+    "word" : "منضدة"
+  },
+  {
+    "id" : "school36",
+    "word" : "الكرة الأرضية"
+  },
+  {
+    "id" : "school37",
+    "word" : "صالة رياضية"
+  },
+  {
+    "id" : "school38",
+    "word" : "مختبر"
+  },
+  {
+    "id" : "school39",
+    "word" : "صندوق الغداء"
+  },
+  {
+    "id" : "school40",
+    "word" : "القبعة الجامعية"
+  },
+  {
+    "id" : "school41",
+    "word" : "ملعب"
+  },
+  {
+    "id" : "school42",
+    "word" : "رابطة عنق مدرسية"
+  },
+  {
+    "id" : "school43",
+    "word" : "الكتاب المدرسي"
+  },
+  {
+    "id" : "school44",
+    "word" : "سبورة بيضاء"
+  },
+  {
+    "id" : "school45",
+    "word" : "الفن"
+  },
+  {
+    "id" : "school46",
+    "word" : "الاحياء"
+  },
+  {
+    "id" : "school47",
+    "word" : "الكيمياء"
+  },
+  {
+    "id" : "school48",
+    "word" : "الرقص"
+  },
+  {
+    "id" : "school49",
+    "word" : "الإنجليزية"
+  },
+  {
+    "id" : "school50",
+    "word" : "ورقة الامتحان"
+  },
+  {
+    "id" : "school51",
+    "word" : "امتحان"
+  },
+  {
+    "id" : "school52",
+    "word" : "اللياقه البدنيه"
+  },
+  {
+    "id" : "school53",
+    "word" : "الفرنسية"
+  },
+  {
+    "id" : "school54",
+    "word" : "الجغرافية"
+  },
+  {
+    "id" : "school55",
+    "word" : "علم الهندسة"
+  },
+  {
+    "id" : "school56",
+    "word" : "الرياضيات"
+  },
+  {
+    "id" : "school57",
+    "word" : "العلوم الفيزيائية"
+  },
+  {
+    "id" : "school58",
+    "word" : "الروبوتات"
+  },
+  {
+    "id" : "school59",
+    "word" : "دراسة"
+  },
+  {
+    "id" : "school60",
+    "word" : "آلة حاسبة"
+  },
+  {
+    "id" : "school61",
+    "word" : "بوصلة"
+  },
+  {
+    "id" : "school62",
+    "word" : "قلم للتلوين"
+  },
+  {
+    "id" : "school63",
+    "word" : "ظرف"
+  },
+  {
+    "id" : "school64",
+    "word" : "ممحاة"
+  },
+  {
+    "id" : "school65",
+    "word" : "دفتر"
+  },
+  {
+    "id" : "school66",
+    "word" : "مشبك ورق"
+  },
+  {
+    "id" : "school67",
+    "word" : "قلم جاف"
+  },
+  {
+    "id" : "school68",
+    "word" : "قلم رصاص"
+  },
+  {
+    "id" : "school69",
+    "word" : "طباعة"
+  },
+  {
+    "id" : "school70",
+    "word" : "منقلة"
+  },
+  {
+    "id" : "school71",
+    "word" : "مسطرة"
+  },
+  {
+    "id" : "school72",
+    "word" : "دباسة"
+  },
+  {
+    "id" : "school73",
+    "word" : "قلم ستايلس تاتش"
+  },
+  {
+    "id" : "school74",
+    "word" : "تابلت"
+  },
+  {
+    "id" : "school75",
+    "word" : "الأبجدية"
+  },
+  {
+    "id" : "school76",
+    "word" : "كتاب"
+  },
+  {
+    "id" : "school77",
+    "word" : "فن الخط"
+  },
+  {
+    "id" : "school78",
+    "word" : "قاموس"
+  },
+  {
+    "id" : "school79",
+    "word" : "الكتاب الإلكتروني"
+  },
+  {
+    "id" : "school80",
+    "word" : "خط يد"
+  },
+  {
+    "id" : "school81",
+    "word" : "فهرس"
+  },
+  {
+    "id" : "school82",
+    "word" : "مجلات"
+  },
+  {
+    "id" : "school83",
+    "word" : "موسيقى"
+  },
+  {
+    "id" : "school84",
+    "word" : "جريدة"
+  },
+  {
+    "id" : "school85",
+    "word" : "مخطط"
+  },
+  {
+    "id" : "school86",
+    "word" : "كاتب أغاني"
+  },
+  {
+    "id" : "school87",
+    "word" : "ورقة ملاحظات لاصقة"
+  },
+  {
+    "id" : "school88",
+    "word" : "لعبة سودوكو"
+  },
+  {
+    "id" : "school89",
+    "word" : "كتابة على الكمبيوتر"
+  }
+]

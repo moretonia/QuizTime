@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Environment",
+    "word" : "Окружающая среда"
+  },
+  {
+    "id" : "Farm",
+    "word" : "Ферма"
+  },
+  {
+    "id" : "Flowers",
+    "word" : "Цветы"
+  },
+  {
+    "id" : "Insects",
+    "word" : "Насекомые"
+  },
+  {
+    "id" : "Plants",
+    "word" : "Растения"
+  },
+  {
+    "id" : "Weather",
+    "word" : "Погода"
+  }
+]

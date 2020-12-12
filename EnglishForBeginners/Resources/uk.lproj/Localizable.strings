@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "Теми";
+"3-themes" = "3 теми";
+"6-topics" = "6 тематик";
+"90-words" = "90 слів";
+"words" = "Слова";
+"view" = "Продивитись";
+"main-buy-button" = "Купити за";
+
+// Topics
+"matching" = "Співпадіння";
+"translation" = "Переклад";
+"pronunciation" = "Вимова";
+"spelling" = "Правопис";
+"dictionary" = "Словник";
+"buy-theme" = "Купити Тему";
+"locked" = "заблоковано";
+
+// Quiz
+"some-theme-quiz" = "%@\nТема вікторини";
+"collect-stars-to-unlock" = "Зберіть %d зірок, щоб розблокувати вікторину";
+"can-start-quiz" = "Ви можете розпочати вікторину";
+"quiz" = "Вікторина";
+"pass-quiz-again" = "Пройдіть вікторину ще раз і отримайте більше досвіду";
+"repeat" = "Повторити";
+
+// Match Level
+"match" = "Співпадіння";
+"verify" = "Перевірити";
+
+// Translate level
+"translate" = "Перекладіть";
+"wrong" = "Неправильно";
+"next" = "Далі";
+
+// Spelling level
+"spell" = "Пропишіть по літерам";
+"english-translation" = "Переклад англійською";
+
+// Listen & Say level
+"listen-and-say" = "Прослухайте и Повторіть";
+"try-again" = "Будь ласка, спробуйте ще раз";
+
+// Alerts
+"warning" = "Попередження";
+"progress-lost" = "Хочете закрити цей рівень? Весь прогрес буде втрачено";
+"cancel" = "Відмінити";
+"close" = "Закрити";
+"quiz-fail" = "На жаль, ви не пройшли вікторину";
+"not-pass-level" = "На жаль, ви не пройшли рівень";
+"back-to-theme" = "Назад до теми";
+"retry" = "Повторити ще раз";
+
+// Profile
+/*"profile" = "Профіль";
+"experience" = "Досвід";
+"skills" = "Навики";
+"next-level" = "Наступний: %d";
+
+// Ranks
+"beginner" = "Початківець";
+"pupil" = "Школяр";
+"student" = "Студент";
+"connoisseur" = "Знавець";
+"outstanding" = "Видатний";
+"specialist" = "Спеціаліст";
+"pro" = "Про";
+"master" = "Майстер";
+"magister" = "Магітср";
+"guru" = "Гуру";
+"sage" = "Мудрець";
+"enlightened" = "Освічений";
+"oracle" = "Авторитет";
+"genius" = "Геній";
+"higher-mind" = "Вищий розум";
+"supermind" = "Супер-знавець";
+
+// Profile
+"leaderboard" = "Дошка лідерів";
+"restore-purchases" = "Відновити покупки";
+"rate-us" = "Оцініть нас";
+"share" = "Поділитися";
+"change-language" = "Змінити мову";
+"about-us" = "Про нас";*/
+
+// Sharing
+"experience-and-rank-share" = "В мене %d досвід роботи у програмі Quiz Time, і тепер по званню я - \"%@\".";
+"new-rank-share" = "Я досяг нового звання \"%@\" у програмі Quiz Time! Спробуй і ти!";
+"experience-share" = "Я отримав %d досвід у програмі Quiz Time. Мої знання англійської мови покращуються з кожним днем!";
+"1-star-share" = "Я заробив 1 зірку та %d досвід. Я з задоволенням вивчаю англійську мову з програмою Quiz Time.";
+"2-stars-share" = "Я заробив 2 зірки та %d досвід у програмі Quiz Time. Постарайся обігнати мене!";
+"3-stars-share" = "Я заробив 3 зірки та %d досвід у програмі Quiz Time. Мої знання англійської мови покращуються з кожним днем!";
+
+// Language
+/*"my-language" = "Рідна мова";
+"ok" = "OK";
+
+// Congratulations
+"congratulations" = "Вітаємо!";
+"xp" = "+%d xp";
+"new-rank" = "Нове Звання";*/
+
+// About us
+"about-us-title" = "Про нас";
+"model-english-mission" = "Програма Quiz Time покращить ваш словниковий запас, допоможе покращити вимову та правопис, і все це у формі гри.";
+"app-structure" = "Слова в програмі розділені на теми, кожна тема складається з 6 тематик та вікторини по всій темі. Кожна тема також містить словник  _  з 15 слів.";
+"about-mechanics-description" = "Унікальне поєднання кількох ігрових механізмів допоможе вам швидко і ефективно вивчити слова:";
+"matching" = "Співпадіння";
+"about-mechanics-matching-description" = "На цьому рівні потрібно вибрати правильне зображення, яке відповідає слову";
+"translation" = "Переклад";
+"about-mechanics-translator-description" = "виберіть правильний переклад слова";
+"pronunciation" = "Вимова";
+"about-mechanics-pronunciation-description" = "Прослухайте і вимовьте слово. Переконайтеся, що ваш мікрофон увімкнено.";
+"spelling" = "Правопис";
+"about-mechanics-spelling-description" = "Введіть слово на клавітурі";
+"about-rewards-little-star-description" = "За успішне проходження рівнів ви отримуєте від 1 до 3 маленьких зірок";
+"about-rewards-bronze-star-description" = "Ви отримаєте бронзову зірку, якщо наберете принаймні 50 маленьких зірок";
+"about-rewards-silver-star-description" = "Ви отримаєте срібну зірку, якщо наберете принаймні 75 маленьких зірок";
+"about-rewards-golden-star-description" = "Ви отримаєте золоту зірку, якщо наберете принаймні 100 маленьких зірок";
+"about-rewards-passed-exam-description" = "Академічний капелюх символізує успішне проходження вікторини на обрану тему";
+"about-rewards-description" = "За проходження кожного рівня або вікторини ви отримаєте досвід і різні звання: початківець, майстер та інші. Більше інформації про ваші досягнення можна знайти в профілі  _ .";
+"copyright" = "Авторське право © B. V. Rolandsen 2020";
+"design-and-development" = "Дизайн та розробка від Bryan Rolandsen";
+
+// Alerts
+"correct" = "Правильно";
+"finish" = "Кінець";
+"error" = "Помилка";
+"error-load-leaderboard" = "Помилка завантаження дошки лідерів. Будь-ласка, спробуйте пізніше";
+"timeout" = "Тайм-аут минув";
+"speech-recognition-unavailable" = "Функція розпізнавання мови недоступна";
+"device-settings-for-speech" = "1. Перевірте налаштування пристрою (Налаштування -> Загальні -> Клавіатура -> Увімкнути диктування)";
+"check-internet-for-speech" = "2. Якщо розпізнавання все одно не працює, перевірте підключення до Інтернету та повторіть спробу ще раз";
+"already-cancel-auth" = "Будь-ласка, увійдіть у свій обліковий запис Game Center за допомогою налаштувань пристрою";
+"settings" = "Налаштування";
+"micro-usage-cancel" = "Доступ до мікрофона заборонений. Будь ласка, перевірте налаштування пристрою";
+"speech-usage-cancel" = "Доступ до функції розпізнавання мови було заборонений. Будь ласка, перевірте налаштування пристрою";
+"not-support-speech-recognition" = "Ваш пристрій не підтримує функцію розпізнавання мови";
+
+// Packs
+"main-pack-info" = "3 теми, 18 тематик, 270 слів";
+
+// Other
+"topics-count" = "6 тематик, 90 слів";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

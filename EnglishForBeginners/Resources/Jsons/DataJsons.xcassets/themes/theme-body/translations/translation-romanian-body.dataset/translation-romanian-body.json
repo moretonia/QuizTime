@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "bancă de presă"
+  },
+  {
+    "id" : "body1",
+    "word" : "gantere"
+  },
+  {
+    "id" : "body2",
+    "word" : "tracțiuni"
+  },
+  {
+    "id" : "body3",
+    "word" : "abdomene"
+  },
+  {
+    "id" : "body4",
+    "word" : "haltere"
+  },
+  {
+    "id" : "body5",
+    "word" : "coborâre"
+  },
+  {
+    "id" : "body6",
+    "word" : "minge de fitness"
+  },
+  {
+    "id" : "body7",
+    "word" : "tracțiuni ale picioarelor"
+  },
+  {
+    "id" : "body8",
+    "word" : "fandări"
+  },
+  {
+    "id" : "body9",
+    "word" : "sac de box"
+  },
+  {
+    "id" : "body10",
+    "word" : "flotări"
+  },
+  {
+    "id" : "body11",
+    "word" : "vâslire"
+  },
+  {
+    "id" : "body12",
+    "word" : "sit up uri"
+  },
+  {
+    "id" : "body13",
+    "word" : "genuflexiuni"
+  },
+  {
+    "id" : "body14",
+    "word" : "scări"
+  },
+  {
+    "id" : "body15",
+    "word" : "bicepși"
+  },
+  {
+    "id" : "body16",
+    "word" : "fund"
+  },
+  {
+    "id" : "body17",
+    "word" : "bust"
+  },
+  {
+    "id" : "body18",
+    "word" : "gambă"
+  },
+  {
+    "id" : "body19",
+    "word" : "piept"
+  },
+  {
+    "id" : "body20",
+    "word" : "șolduri"
+  },
+  {
+    "id" : "body21",
+    "word" : "articulaţie"
+  },
+  {
+    "id" : "body22",
+    "word" : "fluierul piciorului"
+  },
+  {
+    "id" : "body23",
+    "word" : "umăr"
+  },
+  {
+    "id" : "body24",
+    "word" : "talpă"
+  },
+  {
+    "id" : "body25",
+    "word" : "stomac"
+  },
+  {
+    "id" : "body26",
+    "word" : "coapsă"
+  },
+  {
+    "id" : "body27",
+    "word" : "grumaz"
+  },
+  {
+    "id" : "body28",
+    "word" : "talie"
+  },
+  {
+    "id" : "body29",
+    "word" : "încheietura"
+  },
+  {
+    "id" : "body30",
+    "word" : "gleznă"
+  },
+  {
+    "id" : "body31",
+    "word" : "braţ"
+  },
+  {
+    "id" : "body32",
+    "word" : "degetul mare de la picior"
+  },
+  {
+    "id" : "body33",
+    "word" : "cot"
+  },
+  {
+    "id" : "body34",
+    "word" : "deget"
+  },
+  {
+    "id" : "body35",
+    "word" : "pumn"
+  },
+  {
+    "id" : "body36",
+    "word" : "plantă picior"
+  },
+  {
+    "id" : "body37",
+    "word" : "antebraț"
+  },
+  {
+    "id" : "body38",
+    "word" : "mână"
+  },
+  {
+    "id" : "body39",
+    "word" : "cap"
+  },
+  {
+    "id" : "body40",
+    "word" : "genunchi"
+  },
+  {
+    "id" : "body41",
+    "word" : "picior"
+  },
+  {
+    "id" : "body42",
+    "word" : "buric"
+  },
+  {
+    "id" : "body43",
+    "word" : "palmă"
+  },
+  {
+    "id" : "body44",
+    "word" : "degetul mare de la mână"
+  },
+  {
+    "id" : "body45",
+    "word" : "ochi albaștrii"
+  },
+  {
+    "id" : "body46",
+    "word" : "ochi caprui"
+  },
+  {
+    "id" : "body47",
+    "word" : "pistrui"
+  },
+  {
+    "id" : "body48",
+    "word" : "barbă plină"
+  },
+  {
+    "id" : "body49",
+    "word" : "ochelari"
+  },
+  {
+    "id" : "body50",
+    "word" : "cioc"
+  },
+  {
+    "id" : "body51",
+    "word" : "ochi verzi"
+  },
+  {
+    "id" : "body52",
+    "word" : "aluniță"
+  },
+  {
+    "id" : "body53",
+    "word" : "mustață"
+  },
+  {
+    "id" : "body54",
+    "word" : "coș"
+  },
+  {
+    "id" : "body55",
+    "word" : "cicatrice"
+  },
+  {
+    "id" : "body56",
+    "word" : "bronzat"
+  },
+  {
+    "id" : "body57",
+    "word" : "tatuaj"
+  },
+  {
+    "id" : "body58",
+    "word" : "față slabă"
+  },
+  {
+    "id" : "body59",
+    "word" : "riduri"
+  },
+  {
+    "id" : "body60",
+    "word" : "obraz"
+  },
+  {
+    "id" : "body61",
+    "word" : "bărbie"
+  },
+  {
+    "id" : "body62",
+    "word" : "gropiţă"
+  },
+  {
+    "id" : "body63",
+    "word" : "lobul urechii"
+  },
+  {
+    "id" : "body64",
+    "word" : "ureche"
+  },
+  {
+    "id" : "body65",
+    "word" : "ochi"
+  },
+  {
+    "id" : "body66",
+    "word" : "sprânceană"
+  },
+  {
+    "id" : "body67",
+    "word" : "gene"
+  },
+  {
+    "id" : "body68",
+    "word" : "frunte"
+  },
+  {
+    "id" : "body69",
+    "word" : "a se încrunta"
+  },
+  {
+    "id" : "body70",
+    "word" : "buze"
+  },
+  {
+    "id" : "body71",
+    "word" : "gât"
+  },
+  {
+    "id" : "body72",
+    "word" : "nas"
+  },
+  {
+    "id" : "body73",
+    "word" : "dinți"
+  },
+  {
+    "id" : "body74",
+    "word" : "limbă"
+  },
+  {
+    "id" : "body75",
+    "word" : "afro"
+  },
+  {
+    "id" : "body76",
+    "word" : "chel"
+  },
+  {
+    "id" : "body77",
+    "word" : "coc"
+  },
+  {
+    "id" : "body78",
+    "word" : "tuns scurt"
+  },
+  {
+    "id" : "body79",
+    "word" : "creț"
+  },
+  {
+    "id" : "body80",
+    "word" : "despletit"
+  },
+  {
+    "id" : "body81",
+    "word" : "dreadlocks"
+  },
+  {
+    "id" : "body82",
+    "word" : "păr lung"
+  },
+  {
+    "id" : "body83",
+    "word" : "Mohawk"
+  },
+  {
+    "id" : "body84",
+    "word" : "coadă de cal"
+  },
+  {
+    "id" : "body85",
+    "word" : "ras"
+  },
+  {
+    "id" : "body86",
+    "word" : "scurt"
+  },
+  {
+    "id" : "body87",
+    "word" : "ţepos"
+  },
+  {
+    "id" : "body88",
+    "word" : "drept"
+  },
+  {
+    "id" : "body89",
+    "word" : "ondulat"
+  }
+]

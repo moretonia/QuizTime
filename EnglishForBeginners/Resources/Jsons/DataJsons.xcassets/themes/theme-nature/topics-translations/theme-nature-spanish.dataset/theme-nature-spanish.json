@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Environment",
+    "word" : "ambiente"
+  },
+  {
+    "id" : "Farm",
+    "word" : "granja"
+  },
+  {
+    "id" : "Flowers",
+    "word" : "flores"
+  },
+  {
+    "id" : "Insects",
+    "word" : "insectos"
+  },
+  {
+    "id" : "Plants",
+    "word" : "plantas"
+  },
+  {
+    "id" : "Weather",
+    "word" : "clima"
+  }
+]

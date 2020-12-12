@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "équilibrer"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "battre"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "vérifier"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "pleurer"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "danser"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "tomber"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "sauter"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "lancer"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "courir"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "chanter"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "s'asseoir"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "dormir"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "sourire"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "se lever"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "marcher"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "brosser"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "hacher"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "nettoyer"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "cuisiner"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "dessiner"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "boire"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "sécher"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "manger"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "s'entraîner"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "clignoter"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "lire"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "se raser"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "se réveiller"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "laver"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "écrire"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "conduire"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "grincer"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "aider"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "frapper"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "traire"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "ouvrir"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "envoyer une lettre"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "se détendre"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "étaler"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "sautiller"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "parler"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "presser"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "nager"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "se balancer"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "envoyer un message"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "applaudir"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "cuire"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "calculer"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "chasser"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "décorer"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "entrer"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "enfoncer"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "faire du jogging"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "s'agenouiller"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "marcher"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "jouer"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "faire marche arrière"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "frotter"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "fumer"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "saluer"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "se disputer"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "arrêter"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "camper"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "porter"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "goutter"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "jouer du tambour"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "flotter"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "saluer"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "tricoter"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "indiquer"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "gonfler"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "coudre"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "glisser"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "neiger"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "torsion"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "mordre"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "bénir"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "jouer au bowling"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "brûler"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "acclamer"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "peigner"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "ramper"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "filmer"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "planer"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "fondre"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "mélanger"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "pagayer"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "picorer"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "polir"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "s’étirer"
+  }
+]

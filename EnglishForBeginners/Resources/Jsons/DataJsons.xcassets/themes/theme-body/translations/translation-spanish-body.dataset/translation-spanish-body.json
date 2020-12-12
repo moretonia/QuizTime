@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "press de banca"
+  },
+  {
+    "id" : "body1",
+    "word" : "curl de bíceps"
+  },
+  {
+    "id" : "body2",
+    "word" : "barra fija"
+  },
+  {
+    "id" : "body3",
+    "word" : "abdominales"
+  },
+  {
+    "id" : "body4",
+    "word" : "peso muerto"
+  },
+  {
+    "id" : "body5",
+    "word" : "zambullidas"
+  },
+  {
+    "id" : "body6",
+    "word" : "bola de ejercicios"
+  },
+  {
+    "id" : "body7",
+    "word" : "curl de piernas"
+  },
+  {
+    "id" : "body8",
+    "word" : "estocadas"
+  },
+  {
+    "id" : "body9",
+    "word" : "saco de boxeo"
+  },
+  {
+    "id" : "body10",
+    "word" : "lagartijas"
+  },
+  {
+    "id" : "body11",
+    "word" : "remo"
+  },
+  {
+    "id" : "body12",
+    "word" : "sentadillas"
+  },
+  {
+    "id" : "body13",
+    "word" : "agachadillas"
+  },
+  {
+    "id" : "body14",
+    "word" : "aumentos"
+  },
+  {
+    "id" : "body15",
+    "word" : "bíceps"
+  },
+  {
+    "id" : "body16",
+    "word" : "trasero"
+  },
+  {
+    "id" : "body17",
+    "word" : "busto"
+  },
+  {
+    "id" : "body18",
+    "word" : "pantorrilla"
+  },
+  {
+    "id" : "body19",
+    "word" : "pecho"
+  },
+  {
+    "id" : "body20",
+    "word" : "caderas"
+  },
+  {
+    "id" : "body21",
+    "word" : "nudillo"
+  },
+  {
+    "id" : "body22",
+    "word" : "espinilla"
+  },
+  {
+    "id" : "body23",
+    "word" : "hombro"
+  },
+  {
+    "id" : "body24",
+    "word" : "planta"
+  },
+  {
+    "id" : "body25",
+    "word" : "estómago"
+  },
+  {
+    "id" : "body26",
+    "word" : "muslo"
+  },
+  {
+    "id" : "body27",
+    "word" : "garganta"
+  },
+  {
+    "id" : "body28",
+    "word" : "cintura"
+  },
+  {
+    "id" : "body29",
+    "word" : "muñeca"
+  },
+  {
+    "id" : "body30",
+    "word" : "tobillo"
+  },
+  {
+    "id" : "body31",
+    "word" : "brazo"
+  },
+  {
+    "id" : "body32",
+    "word" : "dedo pulgar del pie"
+  },
+  {
+    "id" : "body33",
+    "word" : "codo"
+  },
+  {
+    "id" : "body34",
+    "word" : "dedo"
+  },
+  {
+    "id" : "body35",
+    "word" : "puño"
+  },
+  {
+    "id" : "body36",
+    "word" : "pie"
+  },
+  {
+    "id" : "body37",
+    "word" : "antebrazo"
+  },
+  {
+    "id" : "body38",
+    "word" : "mano"
+  },
+  {
+    "id" : "body39",
+    "word" : "cabeza"
+  },
+  {
+    "id" : "body40",
+    "word" : "rodilla"
+  },
+  {
+    "id" : "body41",
+    "word" : "pierna"
+  },
+  {
+    "id" : "body42",
+    "word" : "ombligo"
+  },
+  {
+    "id" : "body43",
+    "word" : "palma"
+  },
+  {
+    "id" : "body44",
+    "word" : "pulgar"
+  },
+  {
+    "id" : "body45",
+    "word" : "ojos azules"
+  },
+  {
+    "id" : "body46",
+    "word" : "ojos marrones"
+  },
+  {
+    "id" : "body47",
+    "word" : "pecas"
+  },
+  {
+    "id" : "body48",
+    "word" : "barba"
+  },
+  {
+    "id" : "body49",
+    "word" : "lentes"
+  },
+  {
+    "id" : "body50",
+    "word" : "barba de chivo"
+  },
+  {
+    "id" : "body51",
+    "word" : "ojos verdes"
+  },
+  {
+    "id" : "body52",
+    "word" : "lunar"
+  },
+  {
+    "id" : "body53",
+    "word" : "bigote"
+  },
+  {
+    "id" : "body54",
+    "word" : "grano"
+  },
+  {
+    "id" : "body55",
+    "word" : "cicatriz"
+  },
+  {
+    "id" : "body56",
+    "word" : "bronceado"
+  },
+  {
+    "id" : "body57",
+    "word" : "tatuaje"
+  },
+  {
+    "id" : "body58",
+    "word" : "cara delgada"
+  },
+  {
+    "id" : "body59",
+    "word" : "arrugas"
+  },
+  {
+    "id" : "body60",
+    "word" : "mejilla"
+  },
+  {
+    "id" : "body61",
+    "word" : "barbilla"
+  },
+  {
+    "id" : "body62",
+    "word" : "hoyuelo"
+  },
+  {
+    "id" : "body63",
+    "word" : "lóbulo"
+  },
+  {
+    "id" : "body64",
+    "word" : "oreja"
+  },
+  {
+    "id" : "body65",
+    "word" : "ojo"
+  },
+  {
+    "id" : "body66",
+    "word" : "ceja"
+  },
+  {
+    "id" : "body67",
+    "word" : "pestañas"
+  },
+  {
+    "id" : "body68",
+    "word" : "frente"
+  },
+  {
+    "id" : "body69",
+    "word" : "fruncir el ceño"
+  },
+  {
+    "id" : "body70",
+    "word" : "labios"
+  },
+  {
+    "id" : "body71",
+    "word" : "cuello"
+  },
+  {
+    "id" : "body72",
+    "word" : "nariz"
+  },
+  {
+    "id" : "body73",
+    "word" : "dientes"
+  },
+  {
+    "id" : "body74",
+    "word" : "lengua"
+  },
+  {
+    "id" : "body75",
+    "word" : "afro"
+  },
+  {
+    "id" : "body76",
+    "word" : "calvo"
+  },
+  {
+    "id" : "body77",
+    "word" : "moño"
+  },
+  {
+    "id" : "body78",
+    "word" : "corte bajo"
+  },
+  {
+    "id" : "body79",
+    "word" : "rizado"
+  },
+  {
+    "id" : "body80",
+    "word" : "despeinado"
+  },
+  {
+    "id" : "body81",
+    "word" : "rastas"
+  },
+  {
+    "id" : "body82",
+    "word" : "cabello largo"
+  },
+  {
+    "id" : "body83",
+    "word" : "mohicano"
+  },
+  {
+    "id" : "body84",
+    "word" : "cola de caballo"
+  },
+  {
+    "id" : "body85",
+    "word" : "rasurado"
+  },
+  {
+    "id" : "body86",
+    "word" : "corto"
+  },
+  {
+    "id" : "body87",
+    "word" : "con pinchos"
+  },
+  {
+    "id" : "body88",
+    "word" : "lacio"
+  },
+  {
+    "id" : "body89",
+    "word" : "ondulado"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "school0",
+    "word" : "sanat galerisi"
+  },
+  {
+    "id" : "school1",
+    "word" : "fırça"
+  },
+  {
+    "id" : "school2",
+    "word" : "kömürü"
+  },
+  {
+    "id" : "school3",
+    "word" : "şövale"
+  },
+  {
+    "id" : "school4",
+    "word" : "peyzaj"
+  },
+  {
+    "id" : "school5",
+    "word" : "duvar"
+  },
+  {
+    "id" : "school6",
+    "word" : "yağlı boya"
+  },
+  {
+    "id" : "school7",
+    "word" : "palet"
+  },
+  {
+    "id" : "school8",
+    "word" : "petroglif"
+  },
+  {
+    "id" : "school9",
+    "word" : "fotoğraflar"
+  },
+  {
+    "id" : "school10",
+    "word" : "portre"
+  },
+  {
+    "id" : "school11",
+    "word" : "heykel"
+  },
+  {
+    "id" : "school12",
+    "word" : "kroki"
+  },
+  {
+    "id" : "school13",
+    "word" : "natürmort"
+  },
+  {
+    "id" : "school14",
+    "word" : "deniz manzarası"
+  },
+  {
+    "id" : "school15",
+    "word" : "akordeon"
+  },
+  {
+    "id" : "school16",
+    "word" : "banjo"
+  },
+  {
+    "id" : "school17",
+    "word" : "boru"
+  },
+  {
+    "id" : "school18",
+    "word" : "ziller"
+  },
+  {
+    "id" : "school19",
+    "word" : "kontrbas"
+  },
+  {
+    "id" : "school20",
+    "word" : "davul"
+  },
+  {
+    "id" : "school21",
+    "word" : "flüt"
+  },
+  {
+    "id" : "school22",
+    "word" : "gitar"
+  },
+  {
+    "id" : "school23",
+    "word" : "armonika"
+  },
+  {
+    "id" : "school24",
+    "word" : "org"
+  },
+  {
+    "id" : "school25",
+    "word" : "piyano"
+  },
+  {
+    "id" : "school26",
+    "word" : "sentezör"
+  },
+  {
+    "id" : "school27",
+    "word" : "trombon"
+  },
+  {
+    "id" : "school28",
+    "word" : "trompet"
+  },
+  {
+    "id" : "school29",
+    "word" : "keman"
+  },
+  {
+    "id" : "school30",
+    "word" : "toplantı"
+  },
+  {
+    "id" : "school31",
+    "word" : "tahta"
+  },
+  {
+    "id" : "school32",
+    "word" : "kantin"
+  },
+  {
+    "id" : "school33",
+    "word" : "sınıf"
+  },
+  {
+    "id" : "school34",
+    "word" : "derslik"
+  },
+  {
+    "id" : "school35",
+    "word" : "masa"
+  },
+  {
+    "id" : "school36",
+    "word" : "küre"
+  },
+  {
+    "id" : "school37",
+    "word" : "spor salonu"
+  },
+  {
+    "id" : "school38",
+    "word" : "laboratuvar"
+  },
+  {
+    "id" : "school39",
+    "word" : "yemek kutusu"
+  },
+  {
+    "id" : "school40",
+    "word" : "kep"
+  },
+  {
+    "id" : "school41",
+    "word" : "oyun alanı"
+  },
+  {
+    "id" : "school42",
+    "word" : "okul kravatı"
+  },
+  {
+    "id" : "school43",
+    "word" : "ders kitabı"
+  },
+  {
+    "id" : "school44",
+    "word" : "beyaz tahta"
+  },
+  {
+    "id" : "school45",
+    "word" : "sanat"
+  },
+  {
+    "id" : "school46",
+    "word" : "biyoloji"
+  },
+  {
+    "id" : "school47",
+    "word" : "kimya"
+  },
+  {
+    "id" : "school48",
+    "word" : "dans"
+  },
+  {
+    "id" : "school49",
+    "word" : "ingilizce"
+  },
+  {
+    "id" : "school50",
+    "word" : "sınav kağıdı"
+  },
+  {
+    "id" : "school51",
+    "word" : "sınav"
+  },
+  {
+    "id" : "school52",
+    "word" : "fitness"
+  },
+  {
+    "id" : "school53",
+    "word" : "fransızca"
+  },
+  {
+    "id" : "school54",
+    "word" : "coğrafya"
+  },
+  {
+    "id" : "school55",
+    "word" : "geometri"
+  },
+  {
+    "id" : "school56",
+    "word" : "matematik"
+  },
+  {
+    "id" : "school57",
+    "word" : "fizik"
+  },
+  {
+    "id" : "school58",
+    "word" : "robotik"
+  },
+  {
+    "id" : "school59",
+    "word" : "ders çalışma"
+  },
+  {
+    "id" : "school60",
+    "word" : "hesap makinesi"
+  },
+  {
+    "id" : "school61",
+    "word" : "pusula"
+  },
+  {
+    "id" : "school62",
+    "word" : "pastel boya"
+  },
+  {
+    "id" : "school63",
+    "word" : "zarf"
+  },
+  {
+    "id" : "school64",
+    "word" : "silgi"
+  },
+  {
+    "id" : "school65",
+    "word" : "not defteri"
+  },
+  {
+    "id" : "school66",
+    "word" : "ataç"
+  },
+  {
+    "id" : "school67",
+    "word" : "dolma kalem"
+  },
+  {
+    "id" : "school68",
+    "word" : "kalem"
+  },
+  {
+    "id" : "school69",
+    "word" : "baskı"
+  },
+  {
+    "id" : "school70",
+    "word" : "iletki"
+  },
+  {
+    "id" : "school71",
+    "word" : "cetvel"
+  },
+  {
+    "id" : "school72",
+    "word" : "zımba"
+  },
+  {
+    "id" : "school73",
+    "word" : "iğne"
+  },
+  {
+    "id" : "school74",
+    "word" : "tablet"
+  },
+  {
+    "id" : "school75",
+    "word" : "alfabe"
+  },
+  {
+    "id" : "school76",
+    "word" : "kitap"
+  },
+  {
+    "id" : "school77",
+    "word" : "kaligrafi"
+  },
+  {
+    "id" : "school78",
+    "word" : "sözlük"
+  },
+  {
+    "id" : "school79",
+    "word" : "e-kitap"
+  },
+  {
+    "id" : "school80",
+    "word" : "el yazısı"
+  },
+  {
+    "id" : "school81",
+    "word" : "içindekiler"
+  },
+  {
+    "id" : "school82",
+    "word" : "dergiler"
+  },
+  {
+    "id" : "school83",
+    "word" : "müzik"
+  },
+  {
+    "id" : "school84",
+    "word" : "gazete"
+  },
+  {
+    "id" : "school85",
+    "word" : "ajanda"
+  },
+  {
+    "id" : "school86",
+    "word" : "şarkı yazarı"
+  },
+  {
+    "id" : "school87",
+    "word" : "yapışkan not"
+  },
+  {
+    "id" : "school88",
+    "word" : "sudoku"
+  },
+  {
+    "id" : "school89",
+    "word" : "yazmak"
+  }
+]

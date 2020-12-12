@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "verbs0",
+    "word" : "يوازن"
+  },
+  {
+    "id" : "verbs1",
+    "word" : "يضرب الكرة"
+  },
+  {
+    "id" : "verbs2",
+    "word" : "يفحص"
+  },
+  {
+    "id" : "verbs3",
+    "word" : "يبكي"
+  },
+  {
+    "id" : "verbs4",
+    "word" : "يرقص"
+  },
+  {
+    "id" : "verbs5",
+    "word" : "يهبط"
+  },
+  {
+    "id" : "verbs6",
+    "word" : "يقفز"
+  },
+  {
+    "id" : "verbs7",
+    "word" : "إطلاق"
+  },
+  {
+    "id" : "verbs8",
+    "word" : "يجري"
+  },
+  {
+    "id" : "verbs9",
+    "word" : "يغني"
+  },
+  {
+    "id" : "verbs10",
+    "word" : "يجلس"
+  },
+  {
+    "id" : "verbs11",
+    "word" : "ينام"
+  },
+  {
+    "id" : "verbs12",
+    "word" : "يبتسم"
+  },
+  {
+    "id" : "verbs13",
+    "word" : "يقف"
+  },
+  {
+    "id" : "verbs14",
+    "word" : "يمشي"
+  },
+  {
+    "id" : "verbs15",
+    "word" : "ينظف بالفرشاة"
+  },
+  {
+    "id" : "verbs16",
+    "word" : "يقطع"
+  },
+  {
+    "id" : "verbs17",
+    "word" : "ينظف"
+  },
+  {
+    "id" : "verbs18",
+    "word" : "يطبخ"
+  },
+  {
+    "id" : "verbs19",
+    "word" : "يرسم"
+  },
+  {
+    "id" : "verbs20",
+    "word" : "يشرب"
+  },
+  {
+    "id" : "verbs21",
+    "word" : "يجفف"
+  },
+  {
+    "id" : "verbs22",
+    "word" : "يتناول الطعام"
+  },
+  {
+    "id" : "verbs23",
+    "word" : "يمارس"
+  },
+  {
+    "id" : "verbs24",
+    "word" : "يومض"
+  },
+  {
+    "id" : "verbs25",
+    "word" : "يقرأ"
+  },
+  {
+    "id" : "verbs26",
+    "word" : "للحلاقة"
+  },
+  {
+    "id" : "verbs27",
+    "word" : "يصحو"
+  },
+  {
+    "id" : "verbs28",
+    "word" : "يغسل"
+  },
+  {
+    "id" : "verbs29",
+    "word" : "يكتب"
+  },
+  {
+    "id" : "verbs30",
+    "word" : "يقود السيارة"
+  },
+  {
+    "id" : "verbs31",
+    "word" : "يفرم"
+  },
+  {
+    "id" : "verbs32",
+    "word" : "يساعد"
+  },
+  {
+    "id" : "verbs33",
+    "word" : "ضرب"
+  },
+  {
+    "id" : "verbs34",
+    "word" : "يحلب"
+  },
+  {
+    "id" : "verbs35",
+    "word" : "يفتتح"
+  },
+  {
+    "id" : "verbs36",
+    "word" : "ينشر"
+  },
+  {
+    "id" : "verbs37",
+    "word" : "يستريح"
+  },
+  {
+    "id" : "verbs38",
+    "word" : "يلف"
+  },
+  {
+    "id" : "verbs39",
+    "word" : "يتخطي"
+  },
+  {
+    "id" : "verbs40",
+    "word" : "يتكلم"
+  },
+  {
+    "id" : "verbs41",
+    "word" : "يعصر"
+  },
+  {
+    "id" : "verbs42",
+    "word" : "يسبح"
+  },
+  {
+    "id" : "verbs43",
+    "word" : "يتأرجح"
+  },
+  {
+    "id" : "verbs44",
+    "word" : "يراسل"
+  },
+  {
+    "id" : "verbs45",
+    "word" : "يصفق"
+  },
+  {
+    "id" : "verbs46",
+    "word" : "يخبز"
+  },
+  {
+    "id" : "verbs47",
+    "word" : "يحسب"
+  },
+  {
+    "id" : "verbs48",
+    "word" : "يطارد"
+  },
+  {
+    "id" : "verbs49",
+    "word" : "يزين"
+  },
+  {
+    "id" : "verbs50",
+    "word" : "يدخل"
+  },
+  {
+    "id" : "verbs51",
+    "word" : "يدق"
+  },
+  {
+    "id" : "verbs52",
+    "word" : "يركض"
+  },
+  {
+    "id" : "verbs53",
+    "word" : "يركع"
+  },
+  {
+    "id" : "verbs54",
+    "word" : "يسير"
+  },
+  {
+    "id" : "verbs55",
+    "word" : "يلعب"
+  },
+  {
+    "id" : "verbs56",
+    "word" : "يعكس"
+  },
+  {
+    "id" : "verbs57",
+    "word" : "يفرك"
+  },
+  {
+    "id" : "verbs58",
+    "word" : "يدخن"
+  },
+  {
+    "id" : "verbs59",
+    "word" : "يلوح"
+  },
+  {
+    "id" : "verbs60",
+    "word" : "يجادل"
+  },
+  {
+    "id" : "verbs61",
+    "word" : "يعتقل"
+  },
+  {
+    "id" : "verbs62",
+    "word" : "يخيِم"
+  },
+  {
+    "id" : "verbs63",
+    "word" : "يحمل"
+  },
+  {
+    "id" : "verbs64",
+    "word" : "يقطر"
+  },
+  {
+    "id" : "verbs65",
+    "word" : "يطبل"
+  },
+  {
+    "id" : "verbs66",
+    "word" : "يطفو"
+  },
+  {
+    "id" : "verbs67",
+    "word" : "يحيي"
+  },
+  {
+    "id" : "verbs68",
+    "word" : "يحيك"
+  },
+  {
+    "id" : "verbs69",
+    "word" : "يشير"
+  },
+  {
+    "id" : "verbs70",
+    "word" : "يضخ"
+  },
+  {
+    "id" : "verbs71",
+    "word" : "يخيط"
+  },
+  {
+    "id" : "verbs72",
+    "word" : "انزلق"
+  },
+  {
+    "id" : "verbs73",
+    "word" : "يمطر ثلجاً"
+  },
+  {
+    "id" : "verbs74",
+    "word" : "يلوي"
+  },
+  {
+    "id" : "verbs75",
+    "word" : "يقضم"
+  },
+  {
+    "id" : "verbs76",
+    "word" : "يبارك"
+  },
+  {
+    "id" : "verbs77",
+    "word" : "يلعب البولينج"
+  },
+  {
+    "id" : "verbs78",
+    "word" : "يحترق"
+  },
+  {
+    "id" : "verbs79",
+    "word" : "يهتف"
+  },
+  {
+    "id" : "verbs80",
+    "word" : "يمشط"
+  },
+  {
+    "id" : "verbs81",
+    "word" : "يزحف"
+  },
+  {
+    "id" : "verbs82",
+    "word" : "يصور فيلم"
+  },
+  {
+    "id" : "verbs83",
+    "word" : "يحلق"
+  },
+  {
+    "id" : "verbs84",
+    "word" : "يذيب"
+  },
+  {
+    "id" : "verbs85",
+    "word" : "يخلط"
+  },
+  {
+    "id" : "verbs86",
+    "word" : "يجدف"
+  },
+  {
+    "id" : "verbs87",
+    "word" : "ينقر"
+  },
+  {
+    "id" : "verbs88",
+    "word" : "يلمع"
+  },
+  {
+    "id" : "verbs89",
+    "word" : "يمدد"
+  }
+]

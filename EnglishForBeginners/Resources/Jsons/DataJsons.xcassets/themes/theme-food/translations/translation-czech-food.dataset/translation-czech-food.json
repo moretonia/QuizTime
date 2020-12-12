@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "food0",
+    "word" : "jablečný koláč"
+  },
+  {
+    "id" : "food1",
+    "word" : "baklava"
+  },
+  {
+    "id" : "food2",
+    "word" : "cheesecake"
+  },
+  {
+    "id" : "food3",
+    "word" : "sušenky"
+  },
+  {
+    "id" : "food4",
+    "word" : "cupcake"
+  },
+  {
+    "id" : "food5",
+    "word" : "kobliha"
+  },
+  {
+    "id" : "food6",
+    "word" : "ovocný dort"
+  },
+  {
+    "id" : "food7",
+    "word" : "ovocný salát"
+  },
+  {
+    "id" : "food8",
+    "word" : "zmrzlina"
+  },
+  {
+    "id" : "food9",
+    "word" : "koláč"
+  },
+  {
+    "id" : "food10",
+    "word" : "palačinky"
+  },
+  {
+    "id" : "food11",
+    "word" : "pavlova"
+  },
+  {
+    "id" : "food12",
+    "word" : "koláčky"
+  },
+  {
+    "id" : "food13",
+    "word" : "zmrzlinový pohár"
+  },
+  {
+    "id" : "food14",
+    "word" : "vafle"
+  },
+  {
+    "id" : "food15",
+    "word" : "kuře"
+  },
+  {
+    "id" : "food16",
+    "word" : "hranolky"
+  },
+  {
+    "id" : "food17",
+    "word" : "čokoláda"
+  },
+  {
+    "id" : "food18",
+    "word" : "vejce"
+  },
+  {
+    "id" : "food19",
+    "word" : "falafel"
+  },
+  {
+    "id" : "food20",
+    "word" : "ryba"
+  },
+  {
+    "id" : "food21",
+    "word" : "smažená rýže"
+  },
+  {
+    "id" : "food22",
+    "word" : "hamburger"
+  },
+  {
+    "id" : "food23",
+    "word" : "med"
+  },
+  {
+    "id" : "food24",
+    "word" : "masový koláč"
+  },
+  {
+    "id" : "food25",
+    "word" : "pizza"
+  },
+  {
+    "id" : "food26",
+    "word" : "sendvič"
+  },
+  {
+    "id" : "food27",
+    "word" : "klobásy"
+  },
+  {
+    "id" : "food28",
+    "word" : "steak"
+  },
+  {
+    "id" : "food29",
+    "word" : "tuňákový salát"
+  },
+  {
+    "id" : "food30",
+    "word" : "jablko"
+  },
+  {
+    "id" : "food31",
+    "word" : "meruňka"
+  },
+  {
+    "id" : "food32",
+    "word" : "banán"
+  },
+  {
+    "id" : "food33",
+    "word" : "borůvky"
+  },
+  {
+    "id" : "food34",
+    "word" : "fíky"
+  },
+  {
+    "id" : "food35",
+    "word" : "grapefruit"
+  },
+  {
+    "id" : "food36",
+    "word" : "hrozny"
+  },
+  {
+    "id" : "food37",
+    "word" : "citrón"
+  },
+  {
+    "id" : "food38",
+    "word" : "pomeranč"
+  },
+  {
+    "id" : "food39",
+    "word" : "marakuja"
+  },
+  {
+    "id" : "food40",
+    "word" : "broskev"
+  },
+  {
+    "id" : "food41",
+    "word" : "ananas"
+  },
+  {
+    "id" : "food42",
+    "word" : "švestka"
+  },
+  {
+    "id" : "food43",
+    "word" : "jahoda"
+  },
+  {
+    "id" : "food44",
+    "word" : "rajče"
+  },
+  {
+    "id" : "food45",
+    "word" : "avokádo"
+  },
+  {
+    "id" : "food46",
+    "word" : "třešeň"
+  },
+  {
+    "id" : "food47",
+    "word" : "kokosový ořech"
+  },
+  {
+    "id" : "food48",
+    "word" : "datle"
+  },
+  {
+    "id" : "food49",
+    "word" : "pitahaya"
+  },
+  {
+    "id" : "food50",
+    "word" : "guava"
+  },
+  {
+    "id" : "food51",
+    "word" : "kiwi"
+  },
+  {
+    "id" : "food52",
+    "word" : "mandarinka"
+  },
+  {
+    "id" : "food53",
+    "word" : "mango"
+  },
+  {
+    "id" : "food54",
+    "word" : "olivy"
+  },
+  {
+    "id" : "food55",
+    "word" : "papája"
+  },
+  {
+    "id" : "food56",
+    "word" : "hruška"
+  },
+  {
+    "id" : "food57",
+    "word" : "granátové jablko"
+  },
+  {
+    "id" : "food58",
+    "word" : "malina"
+  },
+  {
+    "id" : "food59",
+    "word" : "vodní meloun"
+  },
+  {
+    "id" : "food60",
+    "word" : "fazole"
+  },
+  {
+    "id" : "food61",
+    "word" : "brokolice"
+  },
+  {
+    "id" : "food62",
+    "word" : "zelí"
+  },
+  {
+    "id" : "food63",
+    "word" : "mrkev"
+  },
+  {
+    "id" : "food64",
+    "word" : "květák"
+  },
+  {
+    "id" : "food65",
+    "word" : "celer"
+  },
+  {
+    "id" : "food66",
+    "word" : "kukuřice"
+  },
+  {
+    "id" : "food67",
+    "word" : "okurka"
+  },
+  {
+    "id" : "food68",
+    "word" : "lilek"
+  },
+  {
+    "id" : "food69",
+    "word" : "pórek"
+  },
+  {
+    "id" : "food70",
+    "word" : "hlávkový salát"
+  },
+  {
+    "id" : "food71",
+    "word" : "cibule"
+  },
+  {
+    "id" : "food72",
+    "word" : "brambory"
+  },
+  {
+    "id" : "food73",
+    "word" : "dýně"
+  },
+  {
+    "id" : "food74",
+    "word" : "špenát"
+  },
+  {
+    "id" : "food75",
+    "word" : "artyčok"
+  },
+  {
+    "id" : "food76",
+    "word" : "chřest"
+  },
+  {
+    "id" : "food77",
+    "word" : "bambus"
+  },
+  {
+    "id" : "food78",
+    "word" : "červená řepa"
+  },
+  {
+    "id" : "food79",
+    "word" : "mangold"
+  },
+  {
+    "id" : "food80",
+    "word" : "česnek"
+  },
+  {
+    "id" : "food81",
+    "word" : "zázvor"
+  },
+  {
+    "id" : "food82",
+    "word" : "houba"
+  },
+  {
+    "id" : "food83",
+    "word" : "pastinák"
+  },
+  {
+    "id" : "food84",
+    "word" : "hrášek"
+  },
+  {
+    "id" : "food85",
+    "word" : "papriky"
+  },
+  {
+    "id" : "food86",
+    "word" : "ředkev"
+  },
+  {
+    "id" : "food87",
+    "word" : "růžičková kapusta"
+  },
+  {
+    "id" : "food88",
+    "word" : "tuřín"
+  },
+  {
+    "id" : "food89",
+    "word" : "cuketa"
+  }
+]

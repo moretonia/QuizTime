@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "Entreprise I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "Entreprise II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "Entreprise III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "Objets de collection"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "Courses"
+  },
+  {
+    "id" : "Shops",
+    "word" : "Magasins"
+  }
+]

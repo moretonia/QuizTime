@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "business0",
+    "word" : "優位"
+  },
+  {
+    "id" : "business1",
+    "word" : "広告"
+  },
+  {
+    "id" : "business2",
+    "word" : "明細書"
+  },
+  {
+    "id" : "business3",
+    "word" : "予算"
+  },
+  {
+    "id" : "business4",
+    "word" : "比較"
+  },
+  {
+    "id" : "business5",
+    "word" : "競合相手"
+  },
+  {
+    "id" : "business6",
+    "word" : "確認"
+  },
+  {
+    "id" : "business7",
+    "word" : "顧客"
+  },
+  {
+    "id" : "business8",
+    "word" : "締め切り"
+  },
+  {
+    "id" : "business9",
+    "word" : "債務"
+  },
+  {
+    "id" : "business10",
+    "word" : "決定"
+  },
+  {
+    "id" : "business11",
+    "word" : "納品"
+  },
+  {
+    "id" : "business12",
+    "word" : "価格"
+  },
+  {
+    "id" : "business13",
+    "word" : "スケジュール"
+  },
+  {
+    "id" : "business14",
+    "word" : "チームワーク"
+  },
+  {
+    "id" : "business15",
+    "word" : "評価"
+  },
+  {
+    "id" : "business16",
+    "word" : "プレゼンテーション"
+  },
+  {
+    "id" : "business17",
+    "word" : "分配"
+  },
+  {
+    "id" : "business18",
+    "word" : "従業員"
+  },
+  {
+    "id" : "business19",
+    "word" : "雇用主"
+  },
+  {
+    "id" : "business20",
+    "word" : "工場"
+  },
+  {
+    "id" : "business21",
+    "word" : "成長"
+  },
+  {
+    "id" : "business22",
+    "word" : "マネージャー"
+  },
+  {
+    "id" : "business23",
+    "word" : "指示"
+  },
+  {
+    "id" : "business24",
+    "word" : "面接"
+  },
+  {
+    "id" : "business25",
+    "word" : "送り状"
+  },
+  {
+    "id" : "business26",
+    "word" : "損失"
+  },
+  {
+    "id" : "business27",
+    "word" : "機械"
+  },
+  {
+    "id" : "business28",
+    "word" : "商品"
+  },
+  {
+    "id" : "business29",
+    "word" : "保管"
+  },
+  {
+    "id" : "business30",
+    "word" : "キャンセル"
+  },
+  {
+    "id" : "business31",
+    "word" : "交換"
+  },
+  {
+    "id" : "business32",
+    "word" : "フィードバック"
+  },
+  {
+    "id" : "business33",
+    "word" : "取り付け"
+  },
+  {
+    "id" : "business34",
+    "word" : "注文"
+  },
+  {
+    "id" : "business35",
+    "word" : "支払い"
+  },
+  {
+    "id" : "business36",
+    "word" : "ペナルティ"
+  },
+  {
+    "id" : "business37",
+    "word" : "製品"
+  },
+  {
+    "id" : "business38",
+    "word" : "昇進"
+  },
+  {
+    "id" : "business39",
+    "word" : "拒絶"
+  },
+  {
+    "id" : "business40",
+    "word" : "修理"
+  },
+  {
+    "id" : "business41",
+    "word" : "報告"
+  },
+  {
+    "id" : "business42",
+    "word" : "給料"
+  },
+  {
+    "id" : "business43",
+    "word" : "出荷"
+  },
+  {
+    "id" : "business44",
+    "word" : "ターゲット"
+  },
+  {
+    "id" : "business45",
+    "word" : "骨董品"
+  },
+  {
+    "id" : "business46",
+    "word" : "工芸品"
+  },
+  {
+    "id" : "business47",
+    "word" : "漫画"
+  },
+  {
+    "id" : "business48",
+    "word" : "ダイヤモンド"
+  },
+  {
+    "id" : "business49",
+    "word" : "フィギュア"
+  },
+  {
+    "id" : "business50",
+    "word" : "化石"
+  },
+  {
+    "id" : "business51",
+    "word" : "金貨"
+  },
+  {
+    "id" : "business52",
+    "word" : "モデルカー"
+  },
+  {
+    "id" : "business53",
+    "word" : "ポスター"
+  },
+  {
+    "id" : "business54",
+    "word" : "ルビー"
+  },
+  {
+    "id" : "business55",
+    "word" : "サファイア"
+  },
+  {
+    "id" : "business56",
+    "word" : "銀食器"
+  },
+  {
+    "id" : "business57",
+    "word" : "切手"
+  },
+  {
+    "id" : "business58",
+    "word" : "ヴィンテージカー"
+  },
+  {
+    "id" : "business59",
+    "word" : "芸術作品"
+  },
+  {
+    "id" : "business60",
+    "word" : "現金"
+  },
+  {
+    "id" : "business61",
+    "word" : "レジ"
+  },
+  {
+    "id" : "business62",
+    "word" : "クレジットカード"
+  },
+  {
+    "id" : "business63",
+    "word" : "指導書"
+  },
+  {
+    "id" : "business64",
+    "word" : "試着室"
+  },
+  {
+    "id" : "business65",
+    "word" : "キーパッド"
+  },
+  {
+    "id" : "business66",
+    "word" : "探している"
+  },
+  {
+    "id" : "business67",
+    "word" : "払う"
+  },
+  {
+    "id" : "business68",
+    "word" : "値札"
+  },
+  {
+    "id" : "business69",
+    "word" : "セール"
+  },
+  {
+    "id" : "business70",
+    "word" : "買い物袋"
+  },
+  {
+    "id" : "business71",
+    "word" : "ショッピング"
+  },
+  {
+    "id" : "business72",
+    "word" : "取引"
+  },
+  {
+    "id" : "business73",
+    "word" : "試着"
+  },
+  {
+    "id" : "business74",
+    "word" : "引き出し"
+  },
+  {
+    "id" : "business75",
+    "word" : "パン屋"
+  },
+  {
+    "id" : "business76",
+    "word" : "書店"
+  },
+  {
+    "id" : "business77",
+    "word" : "精肉店"
+  },
+  {
+    "id" : "business78",
+    "word" : "ケーキ屋"
+  },
+  {
+    "id" : "business79",
+    "word" : "薬局"
+  },
+  {
+    "id" : "business80",
+    "word" : "服屋"
+  },
+  {
+    "id" : "business81",
+    "word" : "フィッシュ＆チップス"
+  },
+  {
+    "id" : "business82",
+    "word" : "花屋"
+  },
+  {
+    "id" : "business83",
+    "word" : "八百屋"
+  },
+  {
+    "id" : "business84",
+    "word" : "宝石店"
+  },
+  {
+    "id" : "business85",
+    "word" : "市場"
+  },
+  {
+    "id" : "business86",
+    "word" : "オンラインストア"
+  },
+  {
+    "id" : "business87",
+    "word" : "靴屋"
+  },
+  {
+    "id" : "business88",
+    "word" : "おもちゃ屋"
+  },
+  {
+    "id" : "business89",
+    "word" : "旅行会社"
+  }
+]

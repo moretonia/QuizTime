@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  EnglishForBeginners
+
+  Created by Nikita Egoshin on 4/6/18.
+  Copyright © 2018 Omega-R. All rights reserved.
+*/
+
+// Main
+"themes" = "Témák";
+"3-themes" = "3 téma";
+"6-topics" = "6 témakör";
+"90-words" = "90 szó";
+"words" = "Szavak";
+"view" = "Nézet";
+"main-buy-button" = "Vásárol";
+
+// Topics
+"matching" = "Párosítás";
+"translation" = "Fordítás";
+"pronunciation" = "Kiejtés";
+"spelling" = "Helyesírás";
+"dictionary" = "Szótár";
+"buy-theme" = "Téma vásárlása";
+"locked" = "zárva";
+
+// Quiz
+"some-theme-quiz" = "%@\nTéma kvíz";
+"collect-stars-to-unlock" = "Gyűjtsön össze %d csillagot a kvíz feloldásához";
+"can-start-quiz" = "Elindíthatja a kvízt";
+"quiz" = "Kvíz";
+"pass-quiz-again" = "Végezze el ismét a kvízt és szerezzen több tapasztalatot.";
+"repeat" = "Ismétlés";
+
+// Match Level
+"match" = "Párosítsa";
+"verify" = "Ellenőrizze";
+
+// Translate level
+"translate" = "Fordítás";
+"wrong" = "Helytelen";
+"next" = "Tovább";
+
+// Spelling level
+"spell" = "Írja le";
+"english-translation" = "Angol fordítás";
+
+// Listen & Say level
+"listen-and-say" = "Figyelje és mondja";
+"try-again" = "Kérem próbálja újra";
+
+// Alerts
+"warning" = "Figyelem";
+"progress-lost" = "Be akarja zárni a szintet? Minden folyamat elveszik";
+"cancel" = "Mégsem";
+"close" = "Bezárás";
+"quiz-fail" = "Sajnos nem sikerült a kvíz";
+"not-pass-level" = "Sajnos nem sikerült a szint";
+"back-to-theme" = "Vissza a témához";
+"retry" = "Próbálja újra";
+
+// Profile
+/*"profile" = "Profil";
+"experience" = "Tapasztalat";
+"skills" = "Készségek";
+"next-level" = "Következő: %d";
+
+// Ranks
+"beginner" = "Kezdő";
+"pupil" = "Tanítvány";
+"student" = "Diák";
+"connoisseur" = "Szakértő";
+"outstanding" = "Kimagasló";
+"specialist" = "Szakember";
+"pro" = "Profi";
+"master" = "Mester";
+"magister" = "Magisztrátus";
+"guru" = "Guru";
+"sage" = "Bölcs";
+"enlightened" = "Felvilágosult";
+"oracle" = "Orákulum";
+"genius" = "Zseni";
+"higher-mind" = "Kimagasló elme";
+"supermind" = "Szuper elme";
+
+// Profile
+"leaderboard" = "Ranglista";
+"restore-purchases" = "Vásárlás visszaállítása";
+"rate-us" = "Értékeljen minket";
+"share" = "Ossza meg";
+"change-language" = "Nyelvváltoztatás";
+"about-us" = "Rólunk";*/
+
+// Sharing
+"experience-and-rank-share" = "Nekem van %d tapasztalatom a Quiz Time-ben, és most a rangom \"%@\".";
+"new-rank-share" = "A Quiz Time-ben elértem egy új rangot “%@”! Próbáld ki!";
+"experience-share" = "Kaptam %d tapasztalatot a Quiz Time. Az Angolom minden nap jobb lesz!";
+"1-star-share" = "1 csillagot és %d tapasztalatot szereztem. Angolul tanulok örömmel a Quiz Time alkalmazással.";
+"2-stars-share" = "2 csillagot és %d tapasztalatot szereztem a Quiz Time-ben. Próbálj felülmúlni!";
+"3-stars-share" = "3 csillagot és %d tapasztalatot szereztem a Quiz Time-ben. Az Angolom minden nap jobb lesz!";
+
+// Language
+/*"my-language" = "Az anyanyelvem";
+"ok" = "OK";
+
+// Congratulations
+"congratulations" = "Gratulálok!";
+"xp" = "+%d xp";
+"new-rank" = "Új rang";*/
+
+// About us
+"about-us-title" = "Rólunk";
+"model-english-mission" = "A Quiz Time alkalmazás növeli a szókincsét, javítja a kiejtését és a helyesírását mindezt játék formájában.";
+"app-structure" = "Az alkalmazásokban szereplő szavak témákra tagolódnak, minden téma 6 témakörből és egy kvízből áll az egész témában. Minden téma 15 szóból álló szótárt tartalmaz  _ .";
+"about-mechanics-description" = "Több játékmód egyedi kombinációja segít a szavak gyors és hatékony elsajátításában:";
+"matching" = "Párosítás";
+"about-mechanics-matching-description" = "Ezen a szinten ki kell választania a szónak megfelelő képet";
+"translation" = "Fordítás";
+"about-mechanics-translator-description" = "Válassza ki a szó helyes fordítását";
+"pronunciation" = "Kiejtés";
+"about-mechanics-pronunciation-description" = "Hallgassa meg és mondja ki a szót. Győződjön meg róla, hogy a mikrofon be van kapcsolva.";
+"spelling" = "Helyesírás";
+"about-mechanics-spelling-description" = "Írja be a szót a billentyűzet segítségével";
+"about-rewards-little-star-description" = "A szintek sikeres teljesítésekor 1-3 kis csillagot kap";
+"about-rewards-bronze-star-description" = "Kap egy bronz csillagot, ha legalább el ér 50 kis csillagot";
+"about-rewards-silver-star-description" = "Kap egy ezüst csillagot, ha a el ér legalább 75 kis csillagot";
+"about-rewards-golden-star-description" = "Kapsz arany csillagot, ha el ér legalább 100 kis csillagot";
+"about-rewards-passed-exam-description" = "Az egyetemi kalap szimbolizálja a kvíz sikeres teljesítését a témában";
+"about-rewards-description" = "Az egyes szintek vagy kvízek teljesítésével tapasztalatokat és különböző rangokat szerez: kezdő, mester és egyéb. Az eredményekről bővebben a  _  profilban találhatók.";
+"copyright" = "Szerzői jog © B. V. Rolandsen 2020";
+"design-and-development" = "Tervezés és fejlesztés Bryan Rolandsen";
+
+// Alerts
+"correct" = "Helyes";
+"finish" = "Befejezés";
+"error" = "Hiba";
+"error-load-leaderboard" = "Ranglista betöltési hiba. Kérem, próbálja újra később";
+"timeout" = "Az időtúllépés lejárt";
+"speech-recognition-unavailable" = "A beszédfelismerés nem érhető el";
+"device-settings-for-speech" = "1. Ellenőrizze az eszköz beállításait (Beállítások -> Általános -> Billentyűzet -> Diktálás engedélyezése)";
+"check-internet-for-speech" = "2. Ha a felismerés még mindig nem működik, ellenőrizze az internetkapcsolatot, és próbálja újra";
+"already-cancel-auth" = "Kérjük, jelentkezzen be a Game Center-fiókjába az eszközbeállítások használatával";
+"settings" = "Beállítások";
+"micro-usage-cancel" = "A mikrofon hozzáférése megtagadva. Kérjük, ellenőrizze az eszköz beállításait";
+"speech-usage-cancel" = "A beszédfelismerési hozzáférés megtagadva. Kérjük, ellenőrizze az eszköz beállításait";
+"not-support-speech-recognition" = "A készüléke nem támogatja a beszédfelismerést";
+
+// Packs
+"main-pack-info" = "3 téma, 18 témakör, 270 szó";
+
+// Other
+"topics-count" = "6 témakör, 90 szó";
+
+//Profile in English
+"profile" = "Profile";
+"next-level" = "Next Level: %d";
+"experience" = "Skill Level";
+"skills"= "Skills";
+
+// Ranks in English
+"beginner" = "Beginner";
+"pupil" = "Pupil";
+"student" = "Student";
+"connoisseur" = "Graduate";
+"outstanding" = "Teacher";
+"specialist" = "Master";
+"pro" = "Professor";
+"master" = "Maestro";
+"magister" = "Doyen";
+"guru" = "Guru";
+"sage" = "Sage";
+"enlightened" = "Whiz";
+"oracle" = "Oracle";
+"genius" = "Genius";
+"higher-mind" = "Expert";
+"supermind" = "Linguist";
+
+//Profile in English
+"share" = "Share";
+"leaderboard" = "Leaderboard";
+"rate-us" = "Rate";
+"change-language" = "Language";
+"about-us" = "About";
+"restore-purchases" = "Restore";
+
+//Language in English
+"my-language" = "Language";
+"ok" = "OK";
+
+//Congratulations in English
+"congratulations" = "Congratulations!";
+"xp" = "+%d";
+"new-rank" = "New Rank";

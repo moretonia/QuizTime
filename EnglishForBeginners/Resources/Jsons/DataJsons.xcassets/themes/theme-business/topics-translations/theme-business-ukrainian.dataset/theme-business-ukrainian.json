@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Business I",
+    "word" : "Бізнес I"
+  },
+  {
+    "id" : "Business II",
+    "word" : "Бізнес II"
+  },
+  {
+    "id" : "Business III",
+    "word" : "Бізнес III"
+  },
+  {
+    "id" : "Collectibles",
+    "word" : "Предмети колекціонування"
+  },
+  {
+    "id" : "Shopping",
+    "word" : "Закупи"
+  },
+  {
+    "id" : "Shops",
+    "word" : "Магазини"
+  }
+]

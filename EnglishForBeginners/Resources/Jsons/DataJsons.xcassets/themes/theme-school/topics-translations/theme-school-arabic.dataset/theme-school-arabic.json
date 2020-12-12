@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Art",
+    "word" : "الفن"
+  },
+  {
+    "id" : "Musical Instruments",
+    "word" : "الآلات الموسيقية"
+  },
+  {
+    "id" : "School",
+    "word" : "المدرسة"
+  },
+  {
+    "id" : "School Subjects",
+    "word" : "المواد الدراسية"
+  },
+  {
+    "id" : "Stationery",
+    "word" : "الأدوات المكتبية"
+  },
+  {
+    "id" : "Writing",
+    "word" : "الكتابة"
+  }
+]

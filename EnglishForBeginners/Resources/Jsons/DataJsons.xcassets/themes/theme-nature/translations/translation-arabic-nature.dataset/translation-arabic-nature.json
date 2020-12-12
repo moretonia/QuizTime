@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "أمطار حمضية"
+  },
+  {
+    "id" : "nature1",
+    "word" : "إزالة الأشجار"
+  },
+  {
+    "id" : "nature2",
+    "word" : "منجم الفحم"
+  },
+  {
+    "id" : "nature3",
+    "word" : "الشعاب المرجانية"
+  },
+  {
+    "id" : "nature4",
+    "word" : "الصحراء"
+  },
+  {
+    "id" : "nature5",
+    "word" : "تآكل"
+  },
+  {
+    "id" : "nature6",
+    "word" : "العادم"
+  },
+  {
+    "id" : "nature7",
+    "word" : "وقود حفرى"
+  },
+  {
+    "id" : "nature8",
+    "word" : "المخلفات"
+  },
+  {
+    "id" : "nature9",
+    "word" : "تسرب النفط"
+  },
+  {
+    "id" : "nature10",
+    "word" : "بئر نفط"
+  },
+  {
+    "id" : "nature11",
+    "word" : "تلوث"
+  },
+  {
+    "id" : "nature12",
+    "word" : "ضَباب دُخانيّ"
+  },
+  {
+    "id" : "nature13",
+    "word" : "لوحة شمسية"
+  },
+  {
+    "id" : "nature14",
+    "word" : "مزرعة الرياح"
+  },
+  {
+    "id" : "nature15",
+    "word" : "حظيرة"
+  },
+  {
+    "id" : "nature16",
+    "word" : "قن الدجاج"
+  },
+  {
+    "id" : "nature17",
+    "word" : "مُزارٍع"
+  },
+  {
+    "id" : "nature18",
+    "word" : "سياج"
+  },
+  {
+    "id" : "nature19",
+    "word" : "بوابة"
+  },
+  {
+    "id" : "nature20",
+    "word" : "حصاد"
+  },
+  {
+    "id" : "nature21",
+    "word" : "ري"
+  },
+  {
+    "id" : "nature22",
+    "word" : "محراث"
+  },
+  {
+    "id" : "nature23",
+    "word" : "بركة ماء"
+  },
+  {
+    "id" : "nature24",
+    "word" : "خيال مآتة"
+  },
+  {
+    "id" : "nature25",
+    "word" : "إسطبل"
+  },
+  {
+    "id" : "nature26",
+    "word" : "جرار زراعى"
+  },
+  {
+    "id" : "nature27",
+    "word" : "قرية"
+  },
+  {
+    "id" : "nature28",
+    "word" : "بئر ماء"
+  },
+  {
+    "id" : "nature29",
+    "word" : "طاحونة هوائية"
+  },
+  {
+    "id" : "nature30",
+    "word" : "زهور النجم"
+  },
+  {
+    "id" : "nature31",
+    "word" : "قرنفل"
+  },
+  {
+    "id" : "nature32",
+    "word" : "النرجس البري"
+  },
+  {
+    "id" : "nature33",
+    "word" : "زهور الأضاليا"
+  },
+  {
+    "id" : "nature34",
+    "word" : "الاقحوان"
+  },
+  {
+    "id" : "nature35",
+    "word" : "البلوميريا"
+  },
+  {
+    "id" : "nature36",
+    "word" : "زهرة فريزيا"
+  },
+  {
+    "id" : "nature37",
+    "word" : "المسك"
+  },
+  {
+    "id" : "nature38",
+    "word" : "الجربارة"
+  },
+  {
+    "id" : "nature39",
+    "word" : "زهرة الكركدي"
+  },
+  {
+    "id" : "nature40",
+    "word" : "زهرة السوسن"
+  },
+  {
+    "id" : "nature41",
+    "word" : "المغنولية"
+  },
+  {
+    "id" : "nature42",
+    "word" : "الأوركيد"
+  },
+  {
+    "id" : "nature43",
+    "word" : "الورود"
+  },
+  {
+    "id" : "nature44",
+    "word" : "الخزامي"
+  },
+  {
+    "id" : "nature45",
+    "word" : "نملة"
+  },
+  {
+    "id" : "nature46",
+    "word" : "نحلة"
+  },
+  {
+    "id" : "nature47",
+    "word" : "خنفساء"
+  },
+  {
+    "id" : "nature48",
+    "word" : "فراشة"
+  },
+  {
+    "id" : "nature49",
+    "word" : "صرصور"
+  },
+  {
+    "id" : "nature50",
+    "word" : "صرصور الليل"
+  },
+  {
+    "id" : "nature51",
+    "word" : "اليعسوب"
+  },
+  {
+    "id" : "nature52",
+    "word" : "ذبابة"
+  },
+  {
+    "id" : "nature53",
+    "word" : "الجراد"
+  },
+  {
+    "id" : "nature54",
+    "word" : "الدعسوقة"
+  },
+  {
+    "id" : "nature55",
+    "word" : "السرعوف"
+  },
+  {
+    "id" : "nature56",
+    "word" : "بعوض"
+  },
+  {
+    "id" : "nature57",
+    "word" : "العتة"
+  },
+  {
+    "id" : "nature58",
+    "word" : "النمل الأبيض"
+  },
+  {
+    "id" : "nature59",
+    "word" : "دبور"
+  },
+  {
+    "id" : "nature60",
+    "word" : "السرخس"
+  },
+  {
+    "id" : "nature61",
+    "word" : "حديقة"
+  },
+  {
+    "id" : "nature62",
+    "word" : "أَعْشاب"
+  },
+  {
+    "id" : "nature63",
+    "word" : "عشب"
+  },
+  {
+    "id" : "nature64",
+    "word" : "ورق شجر"
+  },
+  {
+    "id" : "nature65",
+    "word" : "نخلة"
+  },
+  {
+    "id" : "nature66",
+    "word" : "بتلات"
+  },
+  {
+    "id" : "nature67",
+    "word" : "غابة الصنوبر"
+  },
+  {
+    "id" : "nature68",
+    "word" : "غابة مطرية"
+  },
+  {
+    "id" : "nature69",
+    "word" : "جذور"
+  },
+  {
+    "id" : "nature70",
+    "word" : "نبتة"
+  },
+  {
+    "id" : "nature71",
+    "word" : "بذور"
+  },
+  {
+    "id" : "nature72",
+    "word" : "الشوك"
+  },
+  {
+    "id" : "nature73",
+    "word" : "شجرة"
+  },
+  {
+    "id" : "nature74",
+    "word" : "جذع"
+  },
+  {
+    "id" : "nature75",
+    "word" : "زوبعة"
+  },
+  {
+    "id" : "nature76",
+    "word" : "جفاف"
+  },
+  {
+    "id" : "nature77",
+    "word" : "فيضان"
+  },
+  {
+    "id" : "nature78",
+    "word" : "ضباب"
+  },
+  {
+    "id" : "nature79",
+    "word" : "توقعات"
+  },
+  {
+    "id" : "nature80",
+    "word" : "موجة حر"
+  },
+  {
+    "id" : "nature81",
+    "word" : "جليد"
+  },
+  {
+    "id" : "nature82",
+    "word" : "برق"
+  },
+  {
+    "id" : "nature83",
+    "word" : "بركة صغيرة"
+  },
+  {
+    "id" : "nature84",
+    "word" : "مطر"
+  },
+  {
+    "id" : "nature85",
+    "word" : "معطف واق من المطر"
+  },
+  {
+    "id" : "nature86",
+    "word" : "عاصفة رملية"
+  },
+  {
+    "id" : "nature87",
+    "word" : "ثلج"
+  },
+  {
+    "id" : "nature88",
+    "word" : "إعصار"
+  },
+  {
+    "id" : "nature89",
+    "word" : "مظلة"
+  }
+]

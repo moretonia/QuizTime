@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Air Travel",
+    "word" : "비행기 여행"
+  },
+  {
+    "id" : "Currency",
+    "word" : "통화"
+  },
+  {
+    "id" : "Famous Cities",
+    "word" : "유명 도시"
+  },
+  {
+    "id" : "Famous Cities II",
+    "word" : "유명 도시 ll"
+  },
+  {
+    "id" : "Hotel",
+    "word" : "호텔"
+  },
+  {
+    "id" : "Tourist Sights",
+    "word" : "관광 장소"
+  }
+]

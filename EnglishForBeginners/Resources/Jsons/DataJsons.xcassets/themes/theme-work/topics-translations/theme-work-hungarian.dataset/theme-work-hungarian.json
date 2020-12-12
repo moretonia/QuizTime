@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Indoor Tools",
+    "word" : "Beltéri szerszámok"
+  },
+  {
+    "id" : "Jobs",
+    "word" : "Állások"
+  },
+  {
+    "id" : "Jobs II",
+    "word" : "Állások II"
+  },
+  {
+    "id" : "Jobs III",
+    "word" : "Állások III"
+  },
+  {
+    "id" : "Jobs IV",
+    "word" : "Állások IV"
+  },
+  {
+    "id" : "Outdoor Tools",
+    "word" : "Külső szerszámok"
+  }
+]

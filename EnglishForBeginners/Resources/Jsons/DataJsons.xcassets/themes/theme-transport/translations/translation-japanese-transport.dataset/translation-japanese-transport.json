@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "transport0",
+    "word" : "ベル"
+  },
+  {
+    "id" : "transport1",
+    "word" : "ブレーキ"
+  },
+  {
+    "id" : "transport2",
+    "word" : "チェーン"
+  },
+  {
+    "id" : "transport3",
+    "word" : "サイクリスト"
+  },
+  {
+    "id" : "transport4",
+    "word" : "ギア"
+  },
+  {
+    "id" : "transport5",
+    "word" : "ハンドルバー"
+  },
+  {
+    "id" : "transport6",
+    "word" : "ヘルメット"
+  },
+  {
+    "id" : "transport7",
+    "word" : "小道"
+  },
+  {
+    "id" : "transport8",
+    "word" : "ペダル"
+  },
+  {
+    "id" : "transport9",
+    "word" : "ポンプ"
+  },
+  {
+    "id" : "transport10",
+    "word" : "パンク"
+  },
+  {
+    "id" : "transport11",
+    "word" : "リフレクター"
+  },
+  {
+    "id" : "transport12",
+    "word" : "サドル"
+  },
+  {
+    "id" : "transport13",
+    "word" : "スポーク"
+  },
+  {
+    "id" : "transport14",
+    "word" : "車輪"
+  },
+  {
+    "id" : "transport15",
+    "word" : "貨物船"
+  },
+  {
+    "id" : "transport16",
+    "word" : "クルーズライナー"
+  },
+  {
+    "id" : "transport17",
+    "word" : "フェリーボート"
+  },
+  {
+    "id" : "transport18",
+    "word" : "漁船"
+  },
+  {
+    "id" : "transport19",
+    "word" : "ゴンドラ"
+  },
+  {
+    "id" : "transport20",
+    "word" : "ハウスボート"
+  },
+  {
+    "id" : "transport21",
+    "word" : "水中翼船"
+  },
+  {
+    "id" : "transport22",
+    "word" : "空気注入式カヌー"
+  },
+  {
+    "id" : "transport23",
+    "word" : "ジェットスキー"
+  },
+  {
+    "id" : "transport24",
+    "word" : "帆船"
+  },
+  {
+    "id" : "transport25",
+    "word" : "カヤック"
+  },
+  {
+    "id" : "transport26",
+    "word" : "舷外浮材"
+  },
+  {
+    "id" : "transport27",
+    "word" : "パドルボート"
+  },
+  {
+    "id" : "transport28",
+    "word" : "漕艇"
+  },
+  {
+    "id" : "transport29",
+    "word" : "ヨット"
+  },
+  {
+    "id" : "transport30",
+    "word" : "カージャック"
+  },
+  {
+    "id" : "transport31",
+    "word" : "キャンピングカー"
+  },
+  {
+    "id" : "transport32",
+    "word" : "ダッシュボード"
+  },
+  {
+    "id" : "transport33",
+    "word" : "エンジンオイル"
+  },
+  {
+    "id" : "transport34",
+    "word" : "エンジン"
+  },
+  {
+    "id" : "transport35",
+    "word" : "ガソリンスタンド"
+  },
+  {
+    "id" : "transport36",
+    "word" : "ヘッドライト"
+  },
+  {
+    "id" : "transport37",
+    "word" : "高速道路"
+  },
+  {
+    "id" : "transport38",
+    "word" : "ナンバープレート"
+  },
+  {
+    "id" : "transport39",
+    "word" : "歩行者"
+  },
+  {
+    "id" : "transport40",
+    "word" : "セダン"
+  },
+  {
+    "id" : "transport41",
+    "word" : "サイドミラー"
+  },
+  {
+    "id" : "transport42",
+    "word" : "ハンドル"
+  },
+  {
+    "id" : "transport43",
+    "word" : "テールライト"
+  },
+  {
+    "id" : "transport44",
+    "word" : "トレーラー"
+  },
+  {
+    "id" : "transport45",
+    "word" : "牛"
+  },
+  {
+    "id" : "transport46",
+    "word" : "子供に注意"
+  },
+  {
+    "id" : "transport47",
+    "word" : "危険"
+  },
+  {
+    "id" : "transport48",
+    "word" : "交差点"
+  },
+  {
+    "id" : "transport49",
+    "word" : "踏切"
+  },
+  {
+    "id" : "transport50",
+    "word" : "ホッキョクグマ"
+  },
+  {
+    "id" : "transport51",
+    "word" : "環状交差点"
+  },
+  {
+    "id" : "transport52",
+    "word" : "滑りやすい"
+  },
+  {
+    "id" : "transport53",
+    "word" : "雪"
+  },
+  {
+    "id" : "transport54",
+    "word" : "制限速度"
+  },
+  {
+    "id" : "transport55",
+    "word" : "急な坂"
+  },
+  {
+    "id" : "transport56",
+    "word" : "信号機"
+  },
+  {
+    "id" : "transport57",
+    "word" : "曲がりくねった道"
+  },
+  {
+    "id" : "transport58",
+    "word" : "工事中"
+  },
+  {
+    "id" : "transport59",
+    "word" : "横断歩道"
+  },
+  {
+    "id" : "transport60",
+    "word" : "食堂列車"
+  },
+  {
+    "id" : "transport61",
+    "word" : "コレクタ"
+  },
+  {
+    "id" : "transport62",
+    "word" : "通勤列車"
+  },
+  {
+    "id" : "transport63",
+    "word" : "運転手"
+  },
+  {
+    "id" : "transport64",
+    "word" : "貨物列車"
+  },
+  {
+    "id" : "transport65",
+    "word" : "トイレ"
+  },
+  {
+    "id" : "transport66",
+    "word" : "機関車"
+  },
+  {
+    "id" : "transport67",
+    "word" : "駅のホーム"
+  },
+  {
+    "id" : "transport68",
+    "word" : "鉄道橋"
+  },
+  {
+    "id" : "transport69",
+    "word" : "ラッシュアワー"
+  },
+  {
+    "id" : "transport70",
+    "word" : "座席"
+  },
+  {
+    "id" : "transport71",
+    "word" : "蒸気機関車"
+  },
+  {
+    "id" : "transport72",
+    "word" : "つり革"
+  },
+  {
+    "id" : "transport73",
+    "word" : "時刻表"
+  },
+  {
+    "id" : "transport74",
+    "word" : "線路"
+  },
+  {
+    "id" : "transport75",
+    "word" : "自転車"
+  },
+  {
+    "id" : "transport76",
+    "word" : "バス"
+  },
+  {
+    "id" : "transport77",
+    "word" : "車"
+  },
+  {
+    "id" : "transport78",
+    "word" : "ミニバン"
+  },
+  {
+    "id" : "transport79",
+    "word" : "モノレール"
+  },
+  {
+    "id" : "transport80",
+    "word" : "バイク"
+  },
+  {
+    "id" : "transport81",
+    "word" : "スクーター"
+  },
+  {
+    "id" : "transport82",
+    "word" : "人力車"
+  },
+  {
+    "id" : "transport83",
+    "word" : "ローラーブレード"
+  },
+  {
+    "id" : "transport84",
+    "word" : "ローラースクーター"
+  },
+  {
+    "id" : "transport85",
+    "word" : "地下鉄"
+  },
+  {
+    "id" : "transport86",
+    "word" : "タクシー"
+  },
+  {
+    "id" : "transport87",
+    "word" : "列車"
+  },
+  {
+    "id" : "transport88",
+    "word" : "路面電車"
+  },
+  {
+    "id" : "transport89",
+    "word" : "トラック"
+  }
+]

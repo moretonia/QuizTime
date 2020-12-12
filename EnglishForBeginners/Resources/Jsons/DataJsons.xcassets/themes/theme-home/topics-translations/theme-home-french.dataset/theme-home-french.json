@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "Salle de Bain"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "Salle à manger"
+  },
+  {
+    "id" : "Home",
+    "word" : "Maison"
+  },
+  {
+    "id" : "House",
+    "word" : "Foyer"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "Cuisine"
+  },
+  {
+    "id" : "Materials",
+    "word" : "Matériaux"
+  }
+]

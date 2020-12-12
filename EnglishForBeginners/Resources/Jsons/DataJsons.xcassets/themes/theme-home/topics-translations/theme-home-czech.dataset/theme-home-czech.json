@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "Koupelna"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "Jídelna"
+  },
+  {
+    "id" : "Home",
+    "word" : "Domov"
+  },
+  {
+    "id" : "House",
+    "word" : "Dům"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "Kuchyň"
+  },
+  {
+    "id" : "Materials",
+    "word" : "Materiály"
+  }
+]

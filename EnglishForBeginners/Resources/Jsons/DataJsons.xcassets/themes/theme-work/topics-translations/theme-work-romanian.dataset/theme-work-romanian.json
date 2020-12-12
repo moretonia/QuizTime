@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Indoor Tools",
+    "word" : "Unelte pentru interior"
+  },
+  {
+    "id" : "Jobs",
+    "word" : "Meserii"
+  },
+  {
+    "id" : "Jobs II",
+    "word" : "Meserii II"
+  },
+  {
+    "id" : "Jobs III",
+    "word" : "Meserii III"
+  },
+  {
+    "id" : "Jobs IV",
+    "word" : "Meserii IV"
+  },
+  {
+    "id" : "Outdoor Tools",
+    "word" : "Unelte pentru exterior"
+  }
+]

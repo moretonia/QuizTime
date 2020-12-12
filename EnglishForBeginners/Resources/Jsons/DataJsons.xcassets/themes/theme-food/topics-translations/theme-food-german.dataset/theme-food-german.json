@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Desserts",
+    "word" : "Nachtisch"
+  },
+  {
+    "id" : "Food",
+    "word" : "Essen"
+  },
+  {
+    "id" : "Fruit",
+    "word" : "Obst"
+  },
+  {
+    "id" : "Fruit II",
+    "word" : "Obst II"
+  },
+  {
+    "id" : "Vegetables",
+    "word" : "Gemüse"
+  },
+  {
+    "id" : "Vegetables II",
+    "word" : "Gemüse II"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "施し物"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "宗派"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "火葬"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "卒業"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "メッカ巡礼"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "焼香"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "カヴァ"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "灯籠"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "オープニング"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "祈願"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "レッドカーペット"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "退職"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "皇礼砲"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "ソンクラーン"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "茶道"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "キャンドル"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "クリスマスカード"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "クリスマスツリー"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "エルフ"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "ジンジャーブレッド"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "ホリー"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "出生"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "プレゼント"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "プリン"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "トナカイ"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "サンタクロース"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "そり"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "雪だるま"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "ストッキング"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "七面鳥"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "祭壇"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "アプス"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "洗礼"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "十字架"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "聖書"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "聖体"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "合唱団"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "会衆"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "葬儀"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "墓地"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "肘掛け"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "説教者"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "説教壇"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "尖塔"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "結婚式"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "ドングリ"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "琥珀"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "クローバー"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "幸運を祈る"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "クリスタル"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "イルカ"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "風水"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "馬蹄"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "レプラカーン"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "幸運な竹"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "幸運な猫"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "流星"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "虹"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "黄金虫"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "叉骨"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "仏"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "大聖堂"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "孔子"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "イマーム"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "イエス"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "修道院"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "モンク"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "モスク"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "修道女"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "祭司"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "宗教指導者"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "神道"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "シーク教徒"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "シナゴーグ"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "道教"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "みずがめ座"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "牡羊座"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "かに座"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "山羊座"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "水晶球"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "双子座"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "星占い"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "獅子座"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "てんびん座"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "魚座"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "射手座"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "蠍座"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "タロットカード"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "牡牛座"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "乙女座"
+  }
+]

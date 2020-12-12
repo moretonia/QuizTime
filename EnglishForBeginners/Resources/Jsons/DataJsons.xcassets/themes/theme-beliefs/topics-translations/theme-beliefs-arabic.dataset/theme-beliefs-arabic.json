@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Ceremonies",
+    "word" : "الاحتفالات"
+  },
+  {
+    "id" : "Christmas",
+    "word" : "عيد الميلاد"
+  },
+  {
+    "id" : "Church",
+    "word" : "كنيسة"
+  },
+  {
+    "id" : "Good Luck",
+    "word" : "حظاً طيباً"
+  },
+  {
+    "id" : "Religion",
+    "word" : "الدين"
+  },
+  {
+    "id" : "Zodiac",
+    "word" : "الأبراج"
+  }
+]

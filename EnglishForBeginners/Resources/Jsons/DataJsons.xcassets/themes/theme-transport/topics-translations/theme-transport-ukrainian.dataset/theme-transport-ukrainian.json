@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bicycles",
+    "word" : "Велосипеди"
+  },
+  {
+    "id" : "Boats",
+    "word" : "Кораблі"
+  },
+  {
+    "id" : "Driving",
+    "word" : "Водіння автомобіля"
+  },
+  {
+    "id" : "Road Signs",
+    "word" : "Дорожні знаки"
+  },
+  {
+    "id" : "Trains",
+    "word" : "Поїзди"
+  },
+  {
+    "id" : "Transportation",
+    "word" : "Транспорт"
+  }
+]

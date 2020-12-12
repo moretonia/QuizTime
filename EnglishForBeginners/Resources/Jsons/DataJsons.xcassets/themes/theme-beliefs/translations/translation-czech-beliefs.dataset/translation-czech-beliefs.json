@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "almužna"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "společenství"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "kremace"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "promoce"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "hajj"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "kadidlo"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "kava"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "lucerna"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "otevření"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "modlení"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "červený koberec"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "odchod do důchodu"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "královský pozdrav"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "songkran"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "čajový ceremoniál"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "svíčka"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "vánoční pohled"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "vánoční strom"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "elf"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "perník"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "cesmína"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "narození Páně"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "dárky"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "pudink"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "sob"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "Ježíšek"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "sáně"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "sněhulák"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "punčocha"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "krocan"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "oltář"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "apse"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "křest"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "kříž"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "bible"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "kalich"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "pěvecký sbor"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "kongregace"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "pohřeb"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "hřbitov"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "lavice"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "kazatel"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "kazatelna"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "kostelní věž"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "svatba"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "žaludy"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "jantar"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "jetel"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "držet pěsti"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "krystal"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "delfíni"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "feng shui"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "koňská bota"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "leprikón"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "šťastný bambus"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "šťastná kočka"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "meteory"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "duha"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "skarab"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "kost štěstí"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "buddha"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "katedrála"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "Konfucius"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "imám"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "Ježíš"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "klášter"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "mnich"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "mešita"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "jeptiška"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "kněz"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "rabín"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "shinto"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "sikh"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "synagoga"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "taoismus"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "vodnář"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "beran"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "rak"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "kozoroh"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "křišťálová koule"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "blíženci"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "horoskop"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "lev"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "váhy"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "ryby"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "střelec"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "štír"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "tarotové karty"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "býk"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "panna"
+  }
+]

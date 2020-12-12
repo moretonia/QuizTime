@@ -1,0 +1,542 @@
+[
+ {
+   "id": "business0",
+   "word": "advantage",
+   "transcription": "ədˈvæntɪdʒ",
+   "imageName": "business-advantage"
+ },
+ {
+   "id": "business1",
+   "word": "advertise",
+   "transcription": "ˈædvɚˌtaɪz",
+   "imageName": "business-advertise"
+ },
+ {
+   "id": "business2",
+   "word": "bill",
+   "transcription": "ˈbɪl",
+   "imageName": "business-bill"
+ },
+ {
+   "id": "business3",
+   "word": "budget",
+   "transcription": "ˈbʌdʒət",
+   "imageName": "business-budget"
+ },
+ {
+   "id": "business4",
+   "word": "comparison",
+   "transcription": "kəmˈpɛrəsən",
+   "imageName": "business-comparison"
+ },
+ {
+   "id": "business5",
+   "word": "competitor",
+   "transcription": "kəmˈpɛtətɚ",
+   "imageName": "business-competitor"
+ },
+ {
+   "id": "business6",
+   "word": "confirmation",
+   "transcription": "ˌkɑnfɚˈmeɪʃən",
+   "imageName": "business-confirmation"
+ },
+ {
+   "id": "business7",
+   "word": "customer",
+   "transcription": "ˈkʌstəmɚ",
+   "imageName": "business-customer"
+ },
+ {
+   "id": "business8",
+   "word": "deadline",
+   "transcription": "ˈdɛdˌlaɪn",
+   "imageName": "business-deadline"
+ },
+ {
+   "id": "business9",
+   "word": "debt",
+   "transcription": "ˈdɛt",
+   "imageName": "business-debt"
+ },
+ {
+   "id": "business10",
+   "word": "decision",
+   "transcription": "dɪˈsɪʒən",
+   "imageName": "business-decision"
+ },
+ {
+   "id": "business11",
+   "word": "delivery",
+   "transcription": "dɪˈlɪvɚrɪ",
+   "imageName": "business-delivery"
+ },
+ {
+   "id": "business12",
+   "word": "price",
+   "transcription": "ˈpraɪs",
+   "imageName": "business-price"
+ },
+ {
+   "id": "business13",
+   "word": "schedule",
+   "transcription": "ˈskɛˌdʒuːl",
+   "imageName": "business-schedule"
+ },
+ {
+   "id": "business14",
+   "word": "teamwork",
+   "transcription": "ˈtiːmˌwɝk",
+   "imageName": "business-teamwork"
+ },
+ {
+   "id": "business15",
+   "word": "assessment",
+   "transcription": "əˈsɛsmənt",
+   "imageName": "business-assessment"
+ },
+ {
+   "id": "business16",
+   "word": "presentation",
+   "transcription": "prɛzn̩ˈteɪʃən",
+   "imageName": "business-presentation"
+ },
+ {
+   "id": "business17",
+   "word": "distribution",
+   "transcription": "ˌdɪstrəˈbjuːʃən",
+   "imageName": "business-distribution"
+ },
+ {
+   "id": "business18",
+   "word": "employees",
+   "transcription": "ɪmˌplɔɪˈiːz",
+   "imageName": "business-employees"
+ },
+ {
+   "id": "business19",
+   "word": "employer",
+   "transcription": "ɪmˈplɔɪɚ",
+   "imageName": "business-employer"
+ },
+ {
+   "id": "business20",
+   "word": "factory",
+   "transcription": "ˈfæktɚrɪ",
+   "imageName": "business-factory"
+ },
+ {
+   "id": "business21",
+   "word": "growth",
+   "transcription": "ˈɡroʊθ",
+   "imageName": "business-growth"
+ },
+ {
+   "id": "business22",
+   "word": "manager",
+   "transcription": "ˈmænɪdʒɚ",
+   "imageName": "business-manager"
+ },
+ {
+   "id": "business23",
+   "word": "instructions",
+   "transcription": "ɪnˈstrʌkʃənz",
+   "imageName": "business-instructions"
+ },
+ {
+   "id": "business24",
+   "word": "interview",
+   "transcription": "ˈɪntɚˌvjuː",
+   "imageName": "business-interview"
+ },
+ {
+   "id": "business25",
+   "word": "invoice",
+   "transcription": "ˈɪnˌvɔɪs",
+   "imageName": "business-invoice"
+ },
+ {
+   "id": "business26",
+   "word": "loss",
+   "transcription": "ˈlɔs",
+   "imageName": "business-loss"
+ },
+ {
+   "id": "business27",
+   "word": "machinery",
+   "transcription": "məˈʃiːnɚrɪ",
+   "imageName": "business-machinery"
+ },
+ {
+   "id": "business28",
+   "word": "merchandise",
+   "transcription": "ˈmɝtʃənˌdaɪz",
+   "imageName": "business-merchandise"
+ },
+ {
+   "id": "business29",
+   "word": "storage",
+   "transcription": "ˈstɔrɪdʒ",
+   "imageName": "business-storage"
+ },
+ {
+   "id": "business30",
+   "word": "cancel",
+   "transcription": "ˈkænsəl",
+   "imageName": "business-cancel"
+ },
+ {
+   "id": "business31",
+   "word": "exchange",
+   "transcription": "ɪksˈtʃeɪndʒ",
+   "imageName": "business-exchange"
+ },
+ {
+   "id": "business32",
+   "word": "feedback",
+   "transcription": "ˈfiːdˌbæk",
+   "imageName": "business-feedback"
+ },
+ {
+   "id": "business33",
+   "word": "installation",
+   "transcription": "ˌɪnstəˈleɪʃən",
+   "imageName": "business-installation"
+ },
+ {
+   "id": "business34",
+   "word": "order",
+   "transcription": "ˈɔrdɚ",
+   "imageName": "business-order"
+ },
+ {
+   "id": "business35",
+   "word": "payment",
+   "transcription": "ˈpeɪmənt",
+   "imageName": "business-payment"
+ },
+ {
+   "id": "business36",
+   "word": "penalty",
+   "transcription": "ˈpɛnl̩tɪ",
+   "imageName": "business-penalty"
+ },
+ {
+   "id": "business37",
+   "word": "products",
+   "transcription": "ˈprɑˌdʌkts",
+   "imageName": "business-products"
+ },
+ {
+   "id": "business38",
+   "word": "promotion",
+   "transcription": "prəˈmoʊʃən",
+   "imageName": "business-promotion"
+ },
+ {
+   "id": "business39",
+   "word": "reject",
+   "transcription": "ˈriːˌdʒɛkt",
+   "imageName": "business-reject"
+ },
+ {
+   "id": "business40",
+   "word": "repairs",
+   "transcription": "rɪˈpɛrz",
+   "imageName": "business-repairs"
+ },
+ {
+   "id": "business41",
+   "word": "report",
+   "transcription": "rɪˈpɔrt",
+   "imageName": "business-report"
+ },
+ {
+   "id": "business42",
+   "word": "salary",
+   "transcription": "ˈsælɚrɪ",
+   "imageName": "business-salary"
+ },
+ {
+   "id": "business43",
+   "word": "shipment",
+   "transcription": "ˈʃɪpmənt",
+   "imageName": "business-shipment"
+ },
+ {
+   "id": "business44",
+   "word": "target",
+   "transcription": "ˈtɑrɡət",
+   "imageName": "business-target"
+ },
+ {
+   "id": "business45",
+   "word": "antiques",
+   "transcription": "ænˈtiːks",
+   "imageName": "business-antiques"
+ },
+ {
+   "id": "business46",
+   "word": "artifacts",
+   "transcription": "ˈɑrtɪˌfækts",
+   "imageName": "business-artifacts"
+ },
+ {
+   "id": "business47",
+   "word": "comics",
+   "transcription": "ˈkɑmɪks",
+   "imageName": "business-comics"
+ },
+ {
+   "id": "business48",
+   "word": "diamonds",
+   "transcription": "ˈdaɪməndz",
+   "imageName": "business-diamonds"
+ },
+ {
+   "id": "business49",
+   "word": "figurines",
+   "transcription": "ˌfɪɡjɚˈriːnz",
+   "imageName": "business-figurines"
+ },
+ {
+   "id": "business50",
+   "word": "fossils",
+   "transcription": "ˈfɑsəlz",
+   "imageName": "business-fossils"
+ },
+ {
+   "id": "business51",
+   "word": "gold coins",
+   "transcription": "ˈɡoʊld ˈkɔɪnz",
+   "imageName": "business-gold coins"
+ },
+ {
+   "id": "business52",
+   "word": "model cars",
+   "transcription": "ˈmɑdl̩ ˈkɑrz",
+   "imageName": "business-model cars"
+ },
+ {
+   "id": "business53",
+   "word": "posters",
+   "transcription": "ˈpoʊstɚz",
+   "imageName": "business-posters"
+ },
+ {
+   "id": "business54",
+   "word": "rubies",
+   "transcription": "ˈruːbiːz",
+   "imageName": "business-rubies"
+ },
+ {
+   "id": "business55",
+   "word": "sapphires",
+   "transcription": "ˈsæˌfaɪɚz",
+   "imageName": "business-sapphires"
+ },
+ {
+   "id": "business56",
+   "word": "silverware",
+   "transcription": "ˈsɪlvɚˌwɛr",
+   "imageName": "business-silverware"
+ },
+ {
+   "id": "business57",
+   "word": "stamps",
+   "transcription": "ˈstæmps",
+   "imageName": "business-stamps"
+ },
+ {
+   "id": "business58",
+   "word": "vintage cars",
+   "transcription": "ˈvɪntɪdʒ ˈkɑrz",
+   "imageName": "business-vintage cars"
+ },
+ {
+   "id": "business59",
+   "word": "works of art",
+   "transcription": "ˈwɝks əv ˈɑrt",
+   "imageName": "business-works of art"
+ },
+ {
+   "id": "business60",
+   "word": "cash",
+   "transcription": "ˈkæʃ",
+   "imageName": "business-cash"
+ },
+ {
+   "id": "business61",
+   "word": "cashier",
+   "transcription": "kæˈʃɪr",
+   "imageName": "business-cashier"
+ },
+ {
+   "id": "business62",
+   "word": "credit card",
+   "transcription": "ˈkrɛdɪt ˈkɑrd",
+   "imageName": "business-credit card"
+ },
+ {
+   "id": "business63",
+   "word": "directory",
+   "transcription": "dɚˈrɛktɚrɪ",
+   "imageName": "business-directory"
+ },
+ {
+   "id": "business64",
+   "word": "fitting room",
+   "transcription": "ˈfiːtɪŋ ˈruːm",
+   "imageName": "business-fitting room"
+ },
+ {
+   "id": "business65",
+   "word": "keypad",
+   "transcription": "ˈkiːˌpæd",
+   "imageName": "business-keypad"
+ },
+ {
+   "id": "business66",
+   "word": "looking",
+   "transcription": "ˈlʊkɪŋ",
+   "imageName": "business-looking"
+ },
+ {
+   "id": "business67",
+   "word": "paying",
+   "transcription": "ˈpeɪɪŋ",
+   "imageName": "business-paying"
+ },
+ {
+   "id": "business68",
+   "word": "price tag",
+   "transcription": "ˈpraɪs ˈtæɡ",
+   "imageName": "business-price tag"
+ },
+ {
+   "id": "business69",
+   "word": "sale",
+   "transcription": "ˈseɪl",
+   "imageName": "business-sale"
+ },
+ {
+   "id": "business70",
+   "word": "shopping bag",
+   "transcription": "ˈʃɑpɪŋ ˈbæɡ",
+   "imageName": "business-shopping bag"
+ },
+ {
+   "id": "business71",
+   "word": "shopping",
+   "transcription": "ˈʃɑpɪŋ",
+   "imageName": "business-shopping"
+ },
+ {
+   "id": "business72",
+   "word": "transactions",
+   "transcription": "trænˈzækʃənz",
+   "imageName": "business-transactions"
+ },
+ {
+   "id": "business73",
+   "word": "trying on",
+   "transcription": "ˈtraɪɪŋ ˈɔn",
+   "imageName": "business-trying on"
+ },
+ {
+   "id": "business74",
+   "word": "withdrawal",
+   "transcription": "wɪθˈdrɔəl",
+   "imageName": "business-withdrawal"
+ },
+ {
+   "id": "business75",
+   "word": "bakery",
+   "transcription": "ˈbeɪkɚrɪ",
+   "imageName": "business-bakery"
+ },
+ {
+   "id": "business76",
+   "word": "bookstore",
+   "transcription": "ˈbʊkˌstɔr",
+   "imageName": "business-bookstore"
+ },
+ {
+   "id": "business77",
+   "word": "butcher shop",
+   "transcription": "ˈbʊtʃɚ ˈʃɑp",
+   "imageName": "business-butcher shop"
+ },
+ {
+   "id": "business78",
+   "word": "cake shop",
+   "transcription": "ˈkeɪk ˈʃɑp",
+   "imageName": "business-cake shop"
+ },
+ {
+   "id": "business79",
+   "word": "chemist shop",
+   "transcription": "ˈkɛmɪst ˈʃɑp",
+   "imageName": "business-chemist shop"
+ },
+ {
+   "id": "business80",
+   "word": "clothes store",
+   "transcription": "ˈkloʊz ˈstɔr",
+   "imageName": "business-clothes store"
+ },
+ {
+   "id": "business81",
+   "word": "fish and chips",
+   "transcription": "ˈfɪʃ ən ˈtʃɪps",
+   "imageName": "business-fish and chips"
+ },
+ {
+   "id": "business82",
+   "word": "flower shop",
+   "transcription": "ˈflaʊɚ ˈʃɑp",
+   "imageName": "business-flower shop"
+ },
+ {
+   "id": "business83",
+   "word": "fruit shop",
+   "transcription": "ˈfruːt ˈʃɑp",
+   "imageName": "business-fruit shop"
+ },
+ {
+   "id": "business84",
+   "word": "jewellery",
+   "transcription": "ˈdʒuːlrɪ",
+   "imageName": "business-jewellery"
+ },
+ {
+   "id": "business85",
+   "word": "market",
+   "transcription": "ˈmɑrkət",
+   "imageName": "business-market"
+ },
+ {
+   "id": "business86",
+   "word": "online store",
+   "transcription": "ˈɔnˌlaɪn ˈstɔr",
+   "imageName": "business-online store"
+ },
+ {
+   "id": "business87",
+   "word": "shoe shop",
+   "transcription": "ˈʃuː ˈʃɑp",
+   "imageName": "business-shoe shop"
+ },
+ {
+   "id": "business88",
+   "word": "toy shop",
+   "transcription": "ˈtɔɪ ˈʃɑp",
+   "imageName": "business-toy shop"
+ },
+ {
+   "id": "business89",
+   "word": "travel bureau",
+   "transcription": "ˈtrævəl ˈbjʊroʊ",
+   "imageName": "business-travel bureau"
+ }
+]

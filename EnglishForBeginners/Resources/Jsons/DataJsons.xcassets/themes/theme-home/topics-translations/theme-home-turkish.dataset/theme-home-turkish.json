@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Bathroom",
+    "word" : "Banyo"
+  },
+  {
+    "id" : "Dining Room",
+    "word" : "Yemek Odası"
+  },
+  {
+    "id" : "Home",
+    "word" : "Ev"
+  },
+  {
+    "id" : "House",
+    "word" : "Ev"
+  },
+  {
+    "id" : "Kitchen",
+    "word" : "Mutfak"
+  },
+  {
+    "id" : "Materials",
+    "word" : "Malzemeler"
+  }
+]

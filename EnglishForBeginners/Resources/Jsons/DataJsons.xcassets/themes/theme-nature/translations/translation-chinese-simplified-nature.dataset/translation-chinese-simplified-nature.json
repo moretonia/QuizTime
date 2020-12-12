@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "酸雨"
+  },
+  {
+    "id" : "nature1",
+    "word" : "皆伐"
+  },
+  {
+    "id" : "nature2",
+    "word" : "煤矿"
+  },
+  {
+    "id" : "nature3",
+    "word" : "死珊瑚"
+  },
+  {
+    "id" : "nature4",
+    "word" : "沙漠"
+  },
+  {
+    "id" : "nature5",
+    "word" : "侵蚀"
+  },
+  {
+    "id" : "nature6",
+    "word" : "排气"
+  },
+  {
+    "id" : "nature7",
+    "word" : "化石燃料"
+  },
+  {
+    "id" : "nature8",
+    "word" : "废弃物"
+  },
+  {
+    "id" : "nature9",
+    "word" : "油外泄"
+  },
+  {
+    "id" : "nature10",
+    "word" : "油井"
+  },
+  {
+    "id" : "nature11",
+    "word" : "污染"
+  },
+  {
+    "id" : "nature12",
+    "word" : "烟雾"
+  },
+  {
+    "id" : "nature13",
+    "word" : "太阳能电池板"
+  },
+  {
+    "id" : "nature14",
+    "word" : "风力发电场"
+  },
+  {
+    "id" : "nature15",
+    "word" : "谷仓"
+  },
+  {
+    "id" : "nature16",
+    "word" : "鸡舍"
+  },
+  {
+    "id" : "nature17",
+    "word" : "农民"
+  },
+  {
+    "id" : "nature18",
+    "word" : "栅栏"
+  },
+  {
+    "id" : "nature19",
+    "word" : "大门"
+  },
+  {
+    "id" : "nature20",
+    "word" : "收割机"
+  },
+  {
+    "id" : "nature21",
+    "word" : "灌溉"
+  },
+  {
+    "id" : "nature22",
+    "word" : "犁"
+  },
+  {
+    "id" : "nature23",
+    "word" : "池塘"
+  },
+  {
+    "id" : "nature24",
+    "word" : "稻草人"
+  },
+  {
+    "id" : "nature25",
+    "word" : "马厩"
+  },
+  {
+    "id" : "nature26",
+    "word" : "拖拉机"
+  },
+  {
+    "id" : "nature27",
+    "word" : "村庄"
+  },
+  {
+    "id" : "nature28",
+    "word" : "水井"
+  },
+  {
+    "id" : "nature29",
+    "word" : "风车"
+  },
+  {
+    "id" : "nature30",
+    "word" : "紫苑"
+  },
+  {
+    "id" : "nature31",
+    "word" : "康乃馨"
+  },
+  {
+    "id" : "nature32",
+    "word" : "水仙花"
+  },
+  {
+    "id" : "nature33",
+    "word" : "大丽花"
+  },
+  {
+    "id" : "nature34",
+    "word" : "雏菊"
+  },
+  {
+    "id" : "nature35",
+    "word" : "鸡蛋花"
+  },
+  {
+    "id" : "nature36",
+    "word" : "小苍兰"
+  },
+  {
+    "id" : "nature37",
+    "word" : "天竺葵"
+  },
+  {
+    "id" : "nature38",
+    "word" : "非洲菊"
+  },
+  {
+    "id" : "nature39",
+    "word" : "木槿"
+  },
+  {
+    "id" : "nature40",
+    "word" : "百合花"
+  },
+  {
+    "id" : "nature41",
+    "word" : "玉兰花"
+  },
+  {
+    "id" : "nature42",
+    "word" : "兰花"
+  },
+  {
+    "id" : "nature43",
+    "word" : "玫瑰"
+  },
+  {
+    "id" : "nature44",
+    "word" : "郁金香"
+  },
+  {
+    "id" : "nature45",
+    "word" : "蚂蚁"
+  },
+  {
+    "id" : "nature46",
+    "word" : "蜜蜂"
+  },
+  {
+    "id" : "nature47",
+    "word" : "甲虫"
+  },
+  {
+    "id" : "nature48",
+    "word" : "蝴蝶"
+  },
+  {
+    "id" : "nature49",
+    "word" : "蟑螂"
+  },
+  {
+    "id" : "nature50",
+    "word" : "蟋蟀"
+  },
+  {
+    "id" : "nature51",
+    "word" : "蜻蜓"
+  },
+  {
+    "id" : "nature52",
+    "word" : "苍蝇"
+  },
+  {
+    "id" : "nature53",
+    "word" : "蚱蜢"
+  },
+  {
+    "id" : "nature54",
+    "word" : "瓢虫"
+  },
+  {
+    "id" : "nature55",
+    "word" : "螳螂"
+  },
+  {
+    "id" : "nature56",
+    "word" : "蚊子"
+  },
+  {
+    "id" : "nature57",
+    "word" : "飞蛾"
+  },
+  {
+    "id" : "nature58",
+    "word" : "白蚁"
+  },
+  {
+    "id" : "nature59",
+    "word" : "黄蜂"
+  },
+  {
+    "id" : "nature60",
+    "word" : "蕨类"
+  },
+  {
+    "id" : "nature61",
+    "word" : "花园"
+  },
+  {
+    "id" : "nature62",
+    "word" : "草"
+  },
+  {
+    "id" : "nature63",
+    "word" : "草坪"
+  },
+  {
+    "id" : "nature64",
+    "word" : "叶子"
+  },
+  {
+    "id" : "nature65",
+    "word" : "棕榈"
+  },
+  {
+    "id" : "nature66",
+    "word" : "花瓣"
+  },
+  {
+    "id" : "nature67",
+    "word" : "松林"
+  },
+  {
+    "id" : "nature68",
+    "word" : "雨林"
+  },
+  {
+    "id" : "nature69",
+    "word" : "根"
+  },
+  {
+    "id" : "nature70",
+    "word" : "幼苗"
+  },
+  {
+    "id" : "nature71",
+    "word" : "种子"
+  },
+  {
+    "id" : "nature72",
+    "word" : "荆棘"
+  },
+  {
+    "id" : "nature73",
+    "word" : "树"
+  },
+  {
+    "id" : "nature74",
+    "word" : "树干"
+  },
+  {
+    "id" : "nature75",
+    "word" : "龙卷风"
+  },
+  {
+    "id" : "nature76",
+    "word" : "干旱"
+  },
+  {
+    "id" : "nature77",
+    "word" : "洪水"
+  },
+  {
+    "id" : "nature78",
+    "word" : "雾"
+  },
+  {
+    "id" : "nature79",
+    "word" : "预报"
+  },
+  {
+    "id" : "nature80",
+    "word" : "热浪"
+  },
+  {
+    "id" : "nature81",
+    "word" : "冰"
+  },
+  {
+    "id" : "nature82",
+    "word" : "闪电"
+  },
+  {
+    "id" : "nature83",
+    "word" : "水坑"
+  },
+  {
+    "id" : "nature84",
+    "word" : "雨"
+  },
+  {
+    "id" : "nature85",
+    "word" : "雨衣"
+  },
+  {
+    "id" : "nature86",
+    "word" : "沙尘暴"
+  },
+  {
+    "id" : "nature87",
+    "word" : "雪"
+  },
+  {
+    "id" : "nature88",
+    "word" : "旋风"
+  },
+  {
+    "id" : "nature89",
+    "word" : "伞"
+  }
+]

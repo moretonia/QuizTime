@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "body0",
+    "word" : "bench press"
+  },
+  {
+    "id" : "body1",
+    "word" : "biceps curl"
+  },
+  {
+    "id" : "body2",
+    "word" : "barfiks"
+  },
+  {
+    "id" : "body3",
+    "word" : "mekik"
+  },
+  {
+    "id" : "body4",
+    "word" : "deadlift"
+  },
+  {
+    "id" : "body5",
+    "word" : "dips"
+  },
+  {
+    "id" : "body6",
+    "word" : "fitness topu"
+  },
+  {
+    "id" : "body7",
+    "word" : "leg curls"
+  },
+  {
+    "id" : "body8",
+    "word" : "kalça egsersizi"
+  },
+  {
+    "id" : "body9",
+    "word" : "kum torbası"
+  },
+  {
+    "id" : "body10",
+    "word" : "şınav"
+  },
+  {
+    "id" : "body11",
+    "word" : "kürek çekme"
+  },
+  {
+    "id" : "body12",
+    "word" : "oturmak"
+  },
+  {
+    "id" : "body13",
+    "word" : "squats"
+  },
+  {
+    "id" : "body14",
+    "word" : "kalkmak"
+  },
+  {
+    "id" : "body15",
+    "word" : "Pazı"
+  },
+  {
+    "id" : "body16",
+    "word" : "alt"
+  },
+  {
+    "id" : "body17",
+    "word" : "büst"
+  },
+  {
+    "id" : "body18",
+    "word" : "baldır"
+  },
+  {
+    "id" : "body19",
+    "word" : "göğüs"
+  },
+  {
+    "id" : "body20",
+    "word" : "kalçalar"
+  },
+  {
+    "id" : "body21",
+    "word" : "eklem"
+  },
+  {
+    "id" : "body22",
+    "word" : "incik"
+  },
+  {
+    "id" : "body23",
+    "word" : "omuz"
+  },
+  {
+    "id" : "body24",
+    "word" : "ayak tabanı"
+  },
+  {
+    "id" : "body25",
+    "word" : "mide"
+  },
+  {
+    "id" : "body26",
+    "word" : "uyluk"
+  },
+  {
+    "id" : "body27",
+    "word" : "boğaz"
+  },
+  {
+    "id" : "body28",
+    "word" : "bel"
+  },
+  {
+    "id" : "body29",
+    "word" : "bilek"
+  },
+  {
+    "id" : "body30",
+    "word" : "ayak bileği"
+  },
+  {
+    "id" : "body31",
+    "word" : "kol"
+  },
+  {
+    "id" : "body32",
+    "word" : "ayak başparmağı"
+  },
+  {
+    "id" : "body33",
+    "word" : "dirsek"
+  },
+  {
+    "id" : "body34",
+    "word" : "parmak"
+  },
+  {
+    "id" : "body35",
+    "word" : "yumruk"
+  },
+  {
+    "id" : "body36",
+    "word" : "ayak"
+  },
+  {
+    "id" : "body37",
+    "word" : "kolun ön kısmı"
+  },
+  {
+    "id" : "body38",
+    "word" : "el"
+  },
+  {
+    "id" : "body39",
+    "word" : "kafa"
+  },
+  {
+    "id" : "body40",
+    "word" : "diz"
+  },
+  {
+    "id" : "body41",
+    "word" : "bacak"
+  },
+  {
+    "id" : "body42",
+    "word" : "göbek"
+  },
+  {
+    "id" : "body43",
+    "word" : "avuç içi"
+  },
+  {
+    "id" : "body44",
+    "word" : "başparmak"
+  },
+  {
+    "id" : "body45",
+    "word" : "Mavi gözler"
+  },
+  {
+    "id" : "body46",
+    "word" : "kahverengi gözler"
+  },
+  {
+    "id" : "body47",
+    "word" : "çiller"
+  },
+  {
+    "id" : "body48",
+    "word" : "tam sakal"
+  },
+  {
+    "id" : "body49",
+    "word" : "gözlükler"
+  },
+  {
+    "id" : "body50",
+    "word" : "Keçi sakalı"
+  },
+  {
+    "id" : "body51",
+    "word" : "yeşil gözler"
+  },
+  {
+    "id" : "body52",
+    "word" : "ben"
+  },
+  {
+    "id" : "body53",
+    "word" : "bıyık"
+  },
+  {
+    "id" : "body54",
+    "word" : "sivilce"
+  },
+  {
+    "id" : "body55",
+    "word" : "yara izi"
+  },
+  {
+    "id" : "body56",
+    "word" : "bronzlaşmış"
+  },
+  {
+    "id" : "body57",
+    "word" : "dövme"
+  },
+  {
+    "id" : "body58",
+    "word" : "zayıf yüz"
+  },
+  {
+    "id" : "body59",
+    "word" : "kırışıklıklar"
+  },
+  {
+    "id" : "body60",
+    "word" : "yanak"
+  },
+  {
+    "id" : "body61",
+    "word" : "çene"
+  },
+  {
+    "id" : "body62",
+    "word" : "gamze"
+  },
+  {
+    "id" : "body63",
+    "word" : "kulak memesi"
+  },
+  {
+    "id" : "body64",
+    "word" : "kulak"
+  },
+  {
+    "id" : "body65",
+    "word" : "göz"
+  },
+  {
+    "id" : "body66",
+    "word" : "kaş"
+  },
+  {
+    "id" : "body67",
+    "word" : "kirpikler"
+  },
+  {
+    "id" : "body68",
+    "word" : "alın"
+  },
+  {
+    "id" : "body69",
+    "word" : "kaş çatmak"
+  },
+  {
+    "id" : "body70",
+    "word" : "dudaklar"
+  },
+  {
+    "id" : "body71",
+    "word" : "boyun"
+  },
+  {
+    "id" : "body72",
+    "word" : "burun"
+  },
+  {
+    "id" : "body73",
+    "word" : "diş"
+  },
+  {
+    "id" : "body74",
+    "word" : "dil"
+  },
+  {
+    "id" : "body75",
+    "word" : "Afro"
+  },
+  {
+    "id" : "body76",
+    "word" : "kel"
+  },
+  {
+    "id" : "body77",
+    "word" : "topuz"
+  },
+  {
+    "id" : "body78",
+    "word" : "asker traşı"
+  },
+  {
+    "id" : "body79",
+    "word" : "kıvırcık"
+  },
+  {
+    "id" : "body80",
+    "word" : "darmadağınık"
+  },
+  {
+    "id" : "body81",
+    "word" : "rasta"
+  },
+  {
+    "id" : "body82",
+    "word" : "uzun saç"
+  },
+  {
+    "id" : "body83",
+    "word" : "mohikan saçı"
+  },
+  {
+    "id" : "body84",
+    "word" : "at kuyruğu"
+  },
+  {
+    "id" : "body85",
+    "word" : "traş olmuş"
+  },
+  {
+    "id" : "body86",
+    "word" : "kısa"
+  },
+  {
+    "id" : "body87",
+    "word" : "dikenli"
+  },
+  {
+    "id" : "body88",
+    "word" : "düz"
+  },
+  {
+    "id" : "body89",
+    "word" : "dalgalı"
+  }
+]

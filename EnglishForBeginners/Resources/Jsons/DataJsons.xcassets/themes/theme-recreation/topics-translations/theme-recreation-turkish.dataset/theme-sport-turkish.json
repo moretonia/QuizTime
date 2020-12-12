@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Games",
+    "word" : "Oyunlar"
+  },
+  {
+    "id" : "Games II",
+    "word" : "Oyunlar II"
+  },
+  {
+    "id" : "Sporting Equipment",
+    "word" : "Spor Ekipmanları"
+  },
+  {
+    "id" : "Sports",
+    "word" : "Sporlar"
+  },
+  {
+    "id" : "Sports II",
+    "word" : "Sporlar II"
+  },
+  {
+    "id" : "Leisure",
+    "word" : "Serbest"
+  }
+]

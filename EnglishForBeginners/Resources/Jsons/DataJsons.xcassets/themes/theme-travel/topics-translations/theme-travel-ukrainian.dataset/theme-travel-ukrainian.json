@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Air Travel",
+    "word" : "Авіаперельоти"
+  },
+  {
+    "id" : "Currency",
+    "word" : "Валюта"
+  },
+  {
+    "id" : "Famous Cities",
+    "word" : "Відомі міста"
+  },
+  {
+    "id" : "Famous Cities II",
+    "word" : "Відомі міста II"
+  },
+  {
+    "id" : "Hotel",
+    "word" : "Готель"
+  },
+  {
+    "id" : "Tourist Sights",
+    "word" : "Туристичні пам'ятки"
+  }
+]

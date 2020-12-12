@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "beliefs0",
+    "word" : "aumône"
+  },
+  {
+    "id" : "beliefs1",
+    "word" : "communion"
+  },
+  {
+    "id" : "beliefs2",
+    "word" : "incinération"
+  },
+  {
+    "id" : "beliefs3",
+    "word" : "remise de diplômes"
+  },
+  {
+    "id" : "beliefs4",
+    "word" : "hajj"
+  },
+  {
+    "id" : "beliefs5",
+    "word" : "encens"
+  },
+  {
+    "id" : "beliefs6",
+    "word" : "kava"
+  },
+  {
+    "id" : "beliefs7",
+    "word" : "lanterne"
+  },
+  {
+    "id" : "beliefs8",
+    "word" : "inauguration"
+  },
+  {
+    "id" : "beliefs9",
+    "word" : "prière"
+  },
+  {
+    "id" : "beliefs10",
+    "word" : "tapis rouge"
+  },
+  {
+    "id" : "beliefs11",
+    "word" : "retraite"
+  },
+  {
+    "id" : "beliefs12",
+    "word" : "salut royal"
+  },
+  {
+    "id" : "beliefs13",
+    "word" : "songkran"
+  },
+  {
+    "id" : "beliefs14",
+    "word" : "cérémonie du thé"
+  },
+  {
+    "id" : "beliefs15",
+    "word" : "bougie"
+  },
+  {
+    "id" : "beliefs16",
+    "word" : "carte de noël"
+  },
+  {
+    "id" : "beliefs17",
+    "word" : "sapin de noël"
+  },
+  {
+    "id" : "beliefs18",
+    "word" : "elfe"
+  },
+  {
+    "id" : "beliefs19",
+    "word" : "pain d'épices"
+  },
+  {
+    "id" : "beliefs20",
+    "word" : "houx"
+  },
+  {
+    "id" : "beliefs21",
+    "word" : "crèche"
+  },
+  {
+    "id" : "beliefs22",
+    "word" : "cadeaux"
+  },
+  {
+    "id" : "beliefs23",
+    "word" : "pudding"
+  },
+  {
+    "id" : "beliefs24",
+    "word" : "renne"
+  },
+  {
+    "id" : "beliefs25",
+    "word" : "Père Noël"
+  },
+  {
+    "id" : "beliefs26",
+    "word" : "traîneau"
+  },
+  {
+    "id" : "beliefs27",
+    "word" : "bonhomme de neige"
+  },
+  {
+    "id" : "beliefs28",
+    "word" : "chaussette de Noël"
+  },
+  {
+    "id" : "beliefs29",
+    "word" : "dinde"
+  },
+  {
+    "id" : "beliefs30",
+    "word" : "autel"
+  },
+  {
+    "id" : "beliefs31",
+    "word" : "abside"
+  },
+  {
+    "id" : "beliefs32",
+    "word" : "baptême"
+  },
+  {
+    "id" : "beliefs33",
+    "word" : "croix"
+  },
+  {
+    "id" : "beliefs34",
+    "word" : "bible"
+  },
+  {
+    "id" : "beliefs35",
+    "word" : "calice"
+  },
+  {
+    "id" : "beliefs36",
+    "word" : "chœur"
+  },
+  {
+    "id" : "beliefs37",
+    "word" : "congrégation"
+  },
+  {
+    "id" : "beliefs38",
+    "word" : "funérailles"
+  },
+  {
+    "id" : "beliefs39",
+    "word" : "cimetière"
+  },
+  {
+    "id" : "beliefs40",
+    "word" : "bancs"
+  },
+  {
+    "id" : "beliefs41",
+    "word" : "prédicateur"
+  },
+  {
+    "id" : "beliefs42",
+    "word" : "pupitre"
+  },
+  {
+    "id" : "beliefs43",
+    "word" : "clocher"
+  },
+  {
+    "id" : "beliefs44",
+    "word" : "mariage"
+  },
+  {
+    "id" : "beliefs45",
+    "word" : "glands"
+  },
+  {
+    "id" : "beliefs46",
+    "word" : "ambre"
+  },
+  {
+    "id" : "beliefs47",
+    "word" : "trèfle"
+  },
+  {
+    "id" : "beliefs48",
+    "word" : "croiser les doigts"
+  },
+  {
+    "id" : "beliefs49",
+    "word" : "cristal"
+  },
+  {
+    "id" : "beliefs50",
+    "word" : "dauphins"
+  },
+  {
+    "id" : "beliefs51",
+    "word" : "feng shui"
+  },
+  {
+    "id" : "beliefs52",
+    "word" : "fer à cheval"
+  },
+  {
+    "id" : "beliefs53",
+    "word" : "lutin"
+  },
+  {
+    "id" : "beliefs54",
+    "word" : "bambou de la chance"
+  },
+  {
+    "id" : "beliefs55",
+    "word" : "chat porte-bonheur"
+  },
+  {
+    "id" : "beliefs56",
+    "word" : "météores"
+  },
+  {
+    "id" : "beliefs57",
+    "word" : "arc-en-ciel"
+  },
+  {
+    "id" : "beliefs58",
+    "word" : "scarabée"
+  },
+  {
+    "id" : "beliefs59",
+    "word" : "os du bonheur"
+  },
+  {
+    "id" : "beliefs60",
+    "word" : "bouddha"
+  },
+  {
+    "id" : "beliefs61",
+    "word" : "cathédrale"
+  },
+  {
+    "id" : "beliefs62",
+    "word" : "confucius"
+  },
+  {
+    "id" : "beliefs63",
+    "word" : "imam"
+  },
+  {
+    "id" : "beliefs64",
+    "word" : "jésus"
+  },
+  {
+    "id" : "beliefs65",
+    "word" : "monastère"
+  },
+  {
+    "id" : "beliefs66",
+    "word" : "moine"
+  },
+  {
+    "id" : "beliefs67",
+    "word" : "mosquée"
+  },
+  {
+    "id" : "beliefs68",
+    "word" : "nonne"
+  },
+  {
+    "id" : "beliefs69",
+    "word" : "prêtre"
+  },
+  {
+    "id" : "beliefs70",
+    "word" : "rabbin"
+  },
+  {
+    "id" : "beliefs71",
+    "word" : "shinto"
+  },
+  {
+    "id" : "beliefs72",
+    "word" : "sikh"
+  },
+  {
+    "id" : "beliefs73",
+    "word" : "synagogue"
+  },
+  {
+    "id" : "beliefs74",
+    "word" : "taoïsme"
+  },
+  {
+    "id" : "beliefs75",
+    "word" : "verseau"
+  },
+  {
+    "id" : "beliefs76",
+    "word" : "bélier"
+  },
+  {
+    "id" : "beliefs77",
+    "word" : "cancer"
+  },
+  {
+    "id" : "beliefs78",
+    "word" : "capricorne"
+  },
+  {
+    "id" : "beliefs79",
+    "word" : "boule de cristal"
+  },
+  {
+    "id" : "beliefs80",
+    "word" : "gémeaux"
+  },
+  {
+    "id" : "beliefs81",
+    "word" : "horoscope"
+  },
+  {
+    "id" : "beliefs82",
+    "word" : "lion"
+  },
+  {
+    "id" : "beliefs83",
+    "word" : "balance"
+  },
+  {
+    "id" : "beliefs84",
+    "word" : "poissons"
+  },
+  {
+    "id" : "beliefs85",
+    "word" : "sagittaire"
+  },
+  {
+    "id" : "beliefs86",
+    "word" : "scorpion"
+  },
+  {
+    "id" : "beliefs87",
+    "word" : "cartes de tarot"
+  },
+  {
+    "id" : "beliefs88",
+    "word" : "taureau"
+  },
+  {
+    "id" : "beliefs89",
+    "word" : "vierge"
+  }
+]

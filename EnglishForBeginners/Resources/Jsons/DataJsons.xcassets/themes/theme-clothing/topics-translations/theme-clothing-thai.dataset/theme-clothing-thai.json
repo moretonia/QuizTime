@@ -1,0 +1,26 @@
+[
+  {
+    "id" : "Clothing",
+    "word" : "เสื้อผ้า"
+  },
+  {
+    "id" : "Glamour",
+    "word" : "เสื้อผ้าโก้หรู"
+  },
+  {
+    "id" : "Men's Items",
+    "word" : "เครื่องใช้ของผู้ชาย"
+  },
+  {
+    "id" : "Sportswear",
+    "word" : "อุปกรณ์กีฬา"
+  },
+  {
+    "id" : "Women's Clothes",
+    "word" : "เสื้อผ้าผู้หญิง"
+  },
+  {
+    "id" : "Women's Items",
+    "word" : "เครื่องใช้ของผู้หญิง"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id" : "nature0",
+    "word" : "pluie acide"
+  },
+  {
+    "id" : "nature1",
+    "word" : "coupe rase"
+  },
+  {
+    "id" : "nature2",
+    "word" : "mine de charbon"
+  },
+  {
+    "id" : "nature3",
+    "word" : "corail mort"
+  },
+  {
+    "id" : "nature4",
+    "word" : "désert"
+  },
+  {
+    "id" : "nature5",
+    "word" : "érosion"
+  },
+  {
+    "id" : "nature6",
+    "word" : "gaz d’échappement"
+  },
+  {
+    "id" : "nature7",
+    "word" : "combustible fossile"
+  },
+  {
+    "id" : "nature8",
+    "word" : "déchets"
+  },
+  {
+    "id" : "nature9",
+    "word" : "marée noire"
+  },
+  {
+    "id" : "nature10",
+    "word" : "puits de pétrole"
+  },
+  {
+    "id" : "nature11",
+    "word" : "pollution"
+  },
+  {
+    "id" : "nature12",
+    "word" : "brouillard enfumé"
+  },
+  {
+    "id" : "nature13",
+    "word" : "panneau solaire"
+  },
+  {
+    "id" : "nature14",
+    "word" : "parc éolien"
+  },
+  {
+    "id" : "nature15",
+    "word" : "grange"
+  },
+  {
+    "id" : "nature16",
+    "word" : "poulailler"
+  },
+  {
+    "id" : "nature17",
+    "word" : "fermier"
+  },
+  {
+    "id" : "nature18",
+    "word" : "clôture"
+  },
+  {
+    "id" : "nature19",
+    "word" : "porte"
+  },
+  {
+    "id" : "nature20",
+    "word" : "moissonneuse"
+  },
+  {
+    "id" : "nature21",
+    "word" : "irrigation"
+  },
+  {
+    "id" : "nature22",
+    "word" : "charrue"
+  },
+  {
+    "id" : "nature23",
+    "word" : "étang"
+  },
+  {
+    "id" : "nature24",
+    "word" : "épouvantail"
+  },
+  {
+    "id" : "nature25",
+    "word" : "écurie"
+  },
+  {
+    "id" : "nature26",
+    "word" : "tracteur"
+  },
+  {
+    "id" : "nature27",
+    "word" : "village"
+  },
+  {
+    "id" : "nature28",
+    "word" : "puits"
+  },
+  {
+    "id" : "nature29",
+    "word" : "moulin à vent"
+  },
+  {
+    "id" : "nature30",
+    "word" : "asters"
+  },
+  {
+    "id" : "nature31",
+    "word" : "œillet"
+  },
+  {
+    "id" : "nature32",
+    "word" : "jonquille"
+  },
+  {
+    "id" : "nature33",
+    "word" : "dahlia"
+  },
+  {
+    "id" : "nature34",
+    "word" : "marguerite"
+  },
+  {
+    "id" : "nature35",
+    "word" : "frangipanier"
+  },
+  {
+    "id" : "nature36",
+    "word" : "freesia"
+  },
+  {
+    "id" : "nature37",
+    "word" : "géranium"
+  },
+  {
+    "id" : "nature38",
+    "word" : "gerbera"
+  },
+  {
+    "id" : "nature39",
+    "word" : "hibiscus"
+  },
+  {
+    "id" : "nature40",
+    "word" : "lis"
+  },
+  {
+    "id" : "nature41",
+    "word" : "magnolia"
+  },
+  {
+    "id" : "nature42",
+    "word" : "orchidée"
+  },
+  {
+    "id" : "nature43",
+    "word" : "rose"
+  },
+  {
+    "id" : "nature44",
+    "word" : "tulipe"
+  },
+  {
+    "id" : "nature45",
+    "word" : "fourmi"
+  },
+  {
+    "id" : "nature46",
+    "word" : "abeille"
+  },
+  {
+    "id" : "nature47",
+    "word" : "scarabée"
+  },
+  {
+    "id" : "nature48",
+    "word" : "papillon"
+  },
+  {
+    "id" : "nature49",
+    "word" : "cafard"
+  },
+  {
+    "id" : "nature50",
+    "word" : "criquet"
+  },
+  {
+    "id" : "nature51",
+    "word" : "libellule"
+  },
+  {
+    "id" : "nature52",
+    "word" : "mouche"
+  },
+  {
+    "id" : "nature53",
+    "word" : "sauterelle"
+  },
+  {
+    "id" : "nature54",
+    "word" : "coccinelle"
+  },
+  {
+    "id" : "nature55",
+    "word" : "mante religieuse"
+  },
+  {
+    "id" : "nature56",
+    "word" : "moustique"
+  },
+  {
+    "id" : "nature57",
+    "word" : "mite"
+  },
+  {
+    "id" : "nature58",
+    "word" : "termites"
+  },
+  {
+    "id" : "nature59",
+    "word" : "guêpe"
+  },
+  {
+    "id" : "nature60",
+    "word" : "fougères"
+  },
+  {
+    "id" : "nature61",
+    "word" : "jardin"
+  },
+  {
+    "id" : "nature62",
+    "word" : "herbe"
+  },
+  {
+    "id" : "nature63",
+    "word" : "pelouse"
+  },
+  {
+    "id" : "nature64",
+    "word" : "feuille"
+  },
+  {
+    "id" : "nature65",
+    "word" : "palmier"
+  },
+  {
+    "id" : "nature66",
+    "word" : "pétales"
+  },
+  {
+    "id" : "nature67",
+    "word" : "forêt de pins"
+  },
+  {
+    "id" : "nature68",
+    "word" : "forêt tropicale"
+  },
+  {
+    "id" : "nature69",
+    "word" : "racines"
+  },
+  {
+    "id" : "nature70",
+    "word" : "plant"
+  },
+  {
+    "id" : "nature71",
+    "word" : "graines"
+  },
+  {
+    "id" : "nature72",
+    "word" : "épines"
+  },
+  {
+    "id" : "nature73",
+    "word" : "arbre"
+  },
+  {
+    "id" : "nature74",
+    "word" : "tronc"
+  },
+  {
+    "id" : "nature75",
+    "word" : "cyclone"
+  },
+  {
+    "id" : "nature76",
+    "word" : "sécheresse"
+  },
+  {
+    "id" : "nature77",
+    "word" : "inondation"
+  },
+  {
+    "id" : "nature78",
+    "word" : "brouillard"
+  },
+  {
+    "id" : "nature79",
+    "word" : "prévisions météorologiques"
+  },
+  {
+    "id" : "nature80",
+    "word" : "canicule"
+  },
+  {
+    "id" : "nature81",
+    "word" : "glace"
+  },
+  {
+    "id" : "nature82",
+    "word" : "foudre"
+  },
+  {
+    "id" : "nature83",
+    "word" : "flaque"
+  },
+  {
+    "id" : "nature84",
+    "word" : "pluie"
+  },
+  {
+    "id" : "nature85",
+    "word" : "imperméable"
+  },
+  {
+    "id" : "nature86",
+    "word" : "tempête de sable"
+  },
+  {
+    "id" : "nature87",
+    "word" : "neige"
+  },
+  {
+    "id" : "nature88",
+    "word" : "tornade"
+  },
+  {
+    "id" : "nature89",
+    "word" : "parapluie"
+  }
+]
