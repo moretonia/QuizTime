@@ -1,7 +1,8 @@
 [
   {
     "id" : "Indoor Tools",
-    "word" : "Narzędzia Wewnętrzne"
+    //"word" : "Narzędzia Wewnętrzne"
+    "word" : "Indoor Tools"
   },
   {
     "id" : "Jobs",

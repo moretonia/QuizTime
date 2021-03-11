@@ -1,7 +1,11 @@
 [
   {
     "id" : "Clothing",
-    "word" : "Oblečení"
+    //"word" : "Oblečení"
+    "word" : "Clothing"
+
+        
+
   },
   {
     "id" : "Glamour",

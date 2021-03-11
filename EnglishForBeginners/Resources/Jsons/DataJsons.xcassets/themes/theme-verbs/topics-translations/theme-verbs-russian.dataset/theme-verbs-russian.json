@@ -1,7 +1,8 @@
 [
   {
     "id" : "Verbs I",
-    "word" : "Глаголы I"
+    //"word" : "Глаголы I"
+    "word" : "Verbs I"    
   },
   {
     "id" : "Verbs II",

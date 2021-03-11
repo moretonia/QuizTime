@@ -1,4 +1,5 @@
 //
+//
 //  ThemeConverter.swift
 //  EnglishForBeginners
 //
@@ -42,12 +43,8 @@ class ThemeConverter: BaseConverter {
         theme.id = tempTheme.id
         theme.name = tempTheme.name
         theme.imageName = tempTheme.imageName
-        if (FeatureToggle.allThemesFree) {
-            theme.opened = true
-        } else {
-            theme.opened = theme.opened || (tempTheme.opened ?? false)
-        }
-
+        theme.opened = theme.opened || (tempTheme.opened ?? false)
+        
         guard let tempTopics = tempTheme.topics else {
             return theme
         }

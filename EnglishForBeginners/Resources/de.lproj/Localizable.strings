@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "Themen";
+//"themes" = "Themen";
 "3-themes" = "3 Themen";
 "6-topics" = "6 Themengebiete";
 "90-words" = "90 Wörter";
 "words" = "Wörter";
-"view" = "Anzeigen";
-"main-buy-button" = "Kaufen";
+//"view" = "Anzeigen";
+//"main-buy-button" = "Kaufen";
 
 // Topics
 "matching" = "Übereinstimmend";
 "translation" = "Übersetzung";
 "pronunciation" = "Aussprache";
 "spelling" = "Rechtschreibung";
-"dictionary" = "Wörterbuch";
-"buy-theme" = "Thema kaufen";
-"locked" = "gesperrt";
+//"dictionary" = "Wörterbuch";
+//"buy-theme" = "Thema kaufen";
+//"locked" = "gesperrt";
 
 // Quiz
 "some-theme-quiz" = "%@\nThemen-Quiz";
@@ -34,7 +34,8 @@
 
 // Match Level
 "match" = "Übereinstimmen";
-"verify" = "Verifizieren";
+//"verify" = "Verifizieren";
+
 
 // Translate level
 "translate" = "Übersetzen";
@@ -191,3 +192,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

@@ -1,7 +1,8 @@
 [
   {
     "id" : "Verbs I",
-    "word" : "Verbes I"
+    //"word" : "Verbes I"
+    "word" : "Verbs I"
   },
   {
     "id" : "Verbs II",

@@ -1,7 +1,8 @@
 [
   {
     "id" : "Environment",
-    "word" : "สภาพแวดล้อม"
+    //"word" : "สภาพแวดล้อม"
+    "word" : "Environment"
   },
   {
     "id" : "Farm",

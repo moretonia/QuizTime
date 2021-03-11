@@ -1,7 +1,8 @@
 [
   {
     "id" : "Art",
-    "word" : "ศิลปะ"
+    //"word" : "ศิลปะ"
+    "word" : "Art"
   },
   {
     "id" : "Musical Instruments",

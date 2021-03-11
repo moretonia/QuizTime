@@ -53,9 +53,8 @@ class ThemeInfo: CloudInfoProtocol {
             let examPassedInt = record.value(forKey: ICloudConstants.fieldExamPassed) as? Int else {
                 return nil
         }
-
-        let isPurchased = (FeatureToggle.allThemesFree) ? true : (isPurchasedInt == 1)
-
+        
+        let isPurchased = isPurchasedInt == 1
         let examPassed = examPassedInt == 1
         
         self.init(themeName: themeName, isPurchased: isPurchased, examPassed: examPassed, starsCount: 0)

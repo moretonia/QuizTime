@@ -1,7 +1,8 @@
 [
   {
     "id" : "Indoor Tools",
-    "word" : "İç Mekan Araçları"
+    //"word" : "İç Mekan Araçları"
+    "word" : "Indoor Tools"
   },
   {
     "id" : "Jobs",

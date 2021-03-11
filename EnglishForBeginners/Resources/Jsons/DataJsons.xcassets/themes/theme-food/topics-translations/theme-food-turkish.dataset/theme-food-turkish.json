@@ -1,7 +1,8 @@
 [
   {
     "id" : "Desserts",
-    "word" : "Tatlılar"
+    //"word" : "Tatlılar"
+    "word" : "Desserts"
   },
   {
     "id" : "Food",

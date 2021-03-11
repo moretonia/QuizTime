@@ -1,7 +1,8 @@
 [
   {
     "id" : "Body Building",
-    "word" : "fisicoculturismo"
+    //"word" : "fisicoculturismo"
+    "word" : "Body Building"
   },
   {
     "id" : "Body II",

@@ -61,7 +61,7 @@ class LevelsVC: BaseVC, LevelFailedDelegate, LessonActionViewDelegate, SpeechSyn
 
         cheatsButton.isHidden = !isDebug
 
-        AdManager.shared.requestInterstitial()
+        //AdManager.shared.requestInterstitial()
         
         setupPageViewController()
         

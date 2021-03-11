@@ -23,11 +23,6 @@ struct ThemesPack {
 class PackGenerator {
     
     static func getOrGeneratePack(completion: @escaping (ThemesPack?) -> ()) {
-        guard !FeatureToggle.allThemesFree else {
-            completion(nil)
-            return
-        }
-
         let currentDate = Date()
         
         if let removingDate = UserDefaultsManager.shared.currentThemesPackRemovingTime {

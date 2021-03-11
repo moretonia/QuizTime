@@ -1,7 +1,8 @@
 [
   {
     "id" : "Ceremonies",
-    "word" : "الاحتفالات"
+    //"word" : "الاحتفالات"
+    "Word" : "Ceremonies"
   },
   {
     "id" : "Christmas",

@@ -1,7 +1,8 @@
 [
   {
     "id" : "Bathroom",
-    "word" : "baño"
+    /"word" : "baño"
+    "word" : "Bathroom"
   },
   {
     "id" : "Dining Room",

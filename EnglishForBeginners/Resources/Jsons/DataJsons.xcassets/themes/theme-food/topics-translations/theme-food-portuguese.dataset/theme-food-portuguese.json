@@ -1,7 +1,8 @@
 [
   {
     "id" : "Desserts",
-    "word" : "Sobremesas"
+    //"word" : "Sobremesas"
+    "word" : "Desserts"
   },
   {
     "id" : "Food",

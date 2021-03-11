@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "Temalar";
+//"themes" = "Temalar";
 "3-themes" = "3 Tema";
 "6-topics" = "6 Konu";
 "90-words" = "90 Sözcük";
 "words" = "Sözcükler";
-"view" = "Görüntüle";
-"main-buy-button" = "Satın Al";
+//"view" = "Görüntüle";
+//"main-buy-button" = "Satın Al";
 
 // Topics
 "matching" = "Eşleşen";
 "translation" = "Çeviri";
 "pronunciation" = "Telaffuz";
 "spelling" = "Yazım";
-"dictionary" = "Sözlük";
-"buy-theme" = "Temayı Al";
-"locked" = "kilitli";
+//"dictionary" = "Sözlük";
+//"buy-theme" = "Temayı Al";
+//"locked" = "kilitli";
 
 // Quiz
 "some-theme-quiz" = "%@\nTema Quizi";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "Eşleştir";
-"verify" = "Doğrula";
+//"verify" = "Doğrula";
 
 // Translate level
 "translate" = "Çevir";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

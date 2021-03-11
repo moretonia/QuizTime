@@ -1,7 +1,8 @@
 [
   {
     "id" : "Indoor Tools",
-    "word" : "อุปกรณ์ก่อสร้างบ้าน"
+    //"word" : "อุปกรณ์ก่อสร้างบ้าน"
+     "word" : "Indoor Tools"
   },
   {
     "id" : "Jobs",

@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "テーマ";
+//"themes" = "テーマ";
 "3-themes" = "3つのテーマ";
 "6-topics" = "6つのトピック";
 "90-words" = "90の単語";
 "words" = "言葉";
-"view" = "観覧";
-"main-buy-button" = "購入";
+//"view" = "観覧";
+//"main-buy-button" = "購入";
 
 // Topics
 "matching" = "マッチング";
 "translation" = "翻訳";
 "pronunciation" = "発音";
 "spelling" = "つづり";
-"dictionary" = "辞書";
-"buy-theme" = "テーマの購入";
-"locked" = "ロックされています";
+//"dictionary" = "辞書";
+//"buy-theme" = "テーマの購入";
+//"locked" = "ロックされています";
 
 // Quiz
 "some-theme-quiz" = "%@\nテーマのクイズ";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "マッチ";
-"verify" = "確認";
+//"verify" = "確認";
 
 // Translate level
 "translate" = "翻訳";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

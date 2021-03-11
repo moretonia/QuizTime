@@ -1,7 +1,8 @@
 [
   {
     "id" : "Verbs I",
-    "word" : "动词I"
+    //"word" : "动词I"
+    "word" : "Verbs I"
   },
   {
     "id" : "Verbs II",

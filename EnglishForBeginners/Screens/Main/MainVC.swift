@@ -58,6 +58,7 @@ class MainVC: BaseVC, UITableViewDataSource, UITableViewDelegate, MainTableViewC
         }
         
         titleLabel.text = "themes".localizedWithCurrentLanguage()
+       // titleLabel.text = "themes".localized(NativeLanguage.english.currentLocale)
     }
     
     deinit {
@@ -300,7 +301,6 @@ class MainVC: BaseVC, UITableViewDataSource, UITableViewDelegate, MainTableViewC
         cell.cellState(opened: theme.opened)
         cell.themeLabel.text = theme.nativeWord?.word ?? theme.name
         cell.topicsCountLabel.text = "topics-count".localizedWithCurrentLanguage()
-        
         if let imageName = theme.imageName {
             cell.themeImage.image = UIImage(named: imageName)
         }

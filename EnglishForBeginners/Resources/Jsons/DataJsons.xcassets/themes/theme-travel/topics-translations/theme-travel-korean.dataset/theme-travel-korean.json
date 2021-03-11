@@ -1,7 +1,8 @@
 [
   {
     "id" : "Air Travel",
-    "word" : "비행기 여행"
+   // "word" : "비행기 여행"
+    "Word" : "Air Travel"
   },
   {
     "id" : "Currency",

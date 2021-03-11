@@ -1,7 +1,8 @@
 [
   {
     "id" : "Business I",
-    "word" : "Afacere I"
+    //"word" : "Afacere I"
+   "word" : "Business I"
   },
   {
     "id" : "Business II",

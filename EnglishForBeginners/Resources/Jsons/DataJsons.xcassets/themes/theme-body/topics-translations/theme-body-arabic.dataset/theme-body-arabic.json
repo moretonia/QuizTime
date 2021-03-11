@@ -1,7 +1,9 @@
 [
   {
     "id" : "Body Building",
-    "word" : "كمال الأجسام"
+    //"word" : "كمال الأجسام"
+    "word" : "Body Building"
+
   },
   {
     "id" : "Body II",

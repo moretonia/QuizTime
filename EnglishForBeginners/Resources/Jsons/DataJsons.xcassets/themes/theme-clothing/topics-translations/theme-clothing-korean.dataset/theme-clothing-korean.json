@@ -1,7 +1,8 @@
 [
   {
     "id" : "Clothing",
-    "word" : "의류"
+    //"word" : "의류"
+    "word" : "Clothing"
   },
   {
     "id" : "Glamour",

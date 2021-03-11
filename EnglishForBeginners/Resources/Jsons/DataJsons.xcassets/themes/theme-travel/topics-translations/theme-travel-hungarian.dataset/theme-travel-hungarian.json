@@ -1,7 +1,8 @@
 [
   {
     "id" : "Air Travel",
-    "word" : "Légi utazás"
+    //"word" : "Légi utazás"
+    "Word" : "Air Travel"
   },
   {
     "id" : "Currency",

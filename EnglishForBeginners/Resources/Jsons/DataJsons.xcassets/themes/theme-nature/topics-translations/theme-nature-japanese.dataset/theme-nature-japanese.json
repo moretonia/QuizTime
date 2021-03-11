@@ -1,7 +1,8 @@
 [
   {
     "id" : "Environment",
-    "word" : "環境"
+    //"word" : "環境"
+    "word" : "Environment"
   },
   {
     "id" : "Farm",

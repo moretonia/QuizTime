@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "테마";
+//"themes" = "테마";
 "3-themes" = "3개의 테마";
 "6-topics" = "6개의 주제";
 "90-words" = "90개의 단어";
 "words" = "단어";
-"view" = "보기";
-"main-buy-button" = "구입";
+//"view" = "보기";
+//"main-buy-button" = "구입";
 
 // Topics
 "matching" = "맞추기";
 "translation" = "번역";
 "pronunciation" = "발음";
 "spelling" = "스펠링";
-"dictionary" = "사전";
-"buy-theme" = "테마 구입";
-"locked" = "잠김";
+//"dictionary" = "사전";
+//"buy-theme" = "테마 구입";
+//"locked" = "잠김";
 
 // Quiz
 "some-theme-quiz" = "%@\n 테마 퀴즈";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "맞추기";
-"verify" = "확인하기";
+//"verify" = "확인하기";
 
 // Translate level
 "translate" = "번역하기";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

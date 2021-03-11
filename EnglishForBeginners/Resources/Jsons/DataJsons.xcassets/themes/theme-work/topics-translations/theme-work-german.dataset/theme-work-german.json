@@ -1,7 +1,8 @@
 [
   {
     "id" : "Indoor Tools",
-    "word" : "Indoor Werkzeuge"
+    //"word" : "Indoor Werkzeuge"
+    "word" : "Indoor Tools"
   },
   {
     "id" : "Jobs",

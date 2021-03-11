@@ -1,7 +1,9 @@
 [
   {
     "id" : "African Animals",
-    "word" : "Африканські тварини"
+    //"word" : "Африканські тварини"
+    "word" : "African Animals"
+
   },
   {
     "id" : "Dog Breeds",

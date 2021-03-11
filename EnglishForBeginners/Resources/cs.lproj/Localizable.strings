@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "Témata";
+//"themes" = "Témata";
 "3-themes" = "3 témata";
 "6-topics" = "6 podtémat";
 "90-words" = "90 slov";
 "words" = "Slova";
-"view" = "Prohlédnout";
-"main-buy-button" = "Koupit za";
+//"view" = "Prohlédnout";
+//"main-buy-button" = "Koupit za";
 
 // Topics
 "matching" = "Porovnávání";
 "translation" = "Překlad";
 "pronunciation" = "Výslovnost";
 "spelling" = "Hláskování";
-"dictionary" = "Slovník";
-"buy-theme" = "Koupit téma";
-"locked" = "zamčeno";
+//"dictionary" = "Slovník";
+//"buy-theme" = "Koupit téma";
+//"locked" = "zamčeno";
 
 // Quiz
 "some-theme-quiz" = "%@\nTematický kvíz";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "Porovnání";
-"verify" = "Ověřit";
+//"verify" = "Ověřit";
 
 // Translate level
 "translate" = "Překlad";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

@@ -1,7 +1,8 @@
 [
   {
     "id" : "Air Travel",
-    "word" : "Hava yolculuğu"
+    //"word" : "Hava yolculuğu"
+    "Word" : "Air Travel"
   },
   {
     "id" : "Currency",

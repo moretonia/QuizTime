@@ -1,7 +1,8 @@
 [
   {
     "id" : "Body Building",
-    "word" : "健身"
+    //"word" : "健身"
+    "word" : "Body Building"
   },
   {
     "id" : "Body II",

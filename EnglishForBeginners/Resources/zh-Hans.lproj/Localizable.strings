@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "主题";
+//"themes" = "主题";
 "3-themes" = "3个主题";
 "6-topics" = "6个话题";
 "90-words" = "90个词汇";
 "words" = "词汇";
-"view" = "游览";
-"main-buy-button" = "购买";
+//"view" = "游览";
+//"main-buy-button" = "购买";
 
 // Topics
 "matching" = "连连看";
 "translation" = "翻译";
 "pronunciation" = "发音";
 "spelling" = "拼字";
-"dictionary" = "字典";
-"buy-theme" = "购买主题";
-"locked" = "上锁";
+//"dictionary" = "字典";
+//"buy-theme" = "购买主题";
+//"locked" = "上锁";
 
 // Quiz
 "some-theme-quiz" = "%@\n主题测验";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "连连看";
-"verify" = "确认";
+//"verify" = "确认";
 
 // Translate level
 "translate" = "翻译";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

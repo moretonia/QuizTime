@@ -1,7 +1,9 @@
 [
   {
     "id" : "Art",
-    "word" : "Sanat"
+    //"word" : "Sanat"
+    
+   "word" : "Art"
   },
   {
     "id" : "Musical Instruments",

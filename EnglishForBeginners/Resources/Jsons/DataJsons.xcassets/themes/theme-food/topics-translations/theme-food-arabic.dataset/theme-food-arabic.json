@@ -1,7 +1,8 @@
 [
   {
     "id" : "Desserts",
-    "word" : "الحلويات"
+    //"word" : "الحلويات"
+    "word" : "Desserts"
   },
   {
     "id" : "Food",

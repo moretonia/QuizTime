@@ -1,7 +1,8 @@
 [
   {
     "id" : "Ceremonies",
-    "word" : "Seramoniler"
+    //"word" : "Seramoniler"
+    "Word" : "Ceremonies"
   },
   {
     "id" : "Christmas",

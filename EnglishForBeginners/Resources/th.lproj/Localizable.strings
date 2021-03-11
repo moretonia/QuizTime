@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "ธีม";
+//"themes" = "ธีม";
 "3-themes" = "3 ธีม";
 "6-topics" = "6 หัวข้อ";
 "90-words" = "90 คำ";
 "words" = "คำศัพท์";
-"view" = "ดู";
-"main-buy-button" = "ซื้อ";
+//"view" = "ดู";
+//"main-buy-button" = "ซื้อ";
 
 // Topics
 "matching" = "การจับคู่";
 "translation" = "การแปล";
 "pronunciation" = "การออกเสียง";
 "spelling" = "การสะกด";
-"dictionary" = "พจนานุกรม";
-"buy-theme" = "ซื้อธีม";
-"locked" = "ล็อค";
+//"dictionary" = "พจนานุกรม";
+//"buy-theme" = "ซื้อธีม";
+//"locked" = "ล็อค";
 
 // Quiz
 "some-theme-quiz" = "ธีมควิซ\n%@";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "จับคู่";
-"verify" = "ยืนยัน";
+//"verify" = "ยืนยัน";
 
 // Translate level
 "translate" = "แปล";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

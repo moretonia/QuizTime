@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "موضوعات";
+//"themes" = "موضوعات";
 "3-themes" = "3 موضوعات";
 "6-topics" = "6 موضوعات";
 "90-words" = "90 كلمة";
 "words" = "الكلمات";
-"view" = "عرض";
-"main-buy-button" = "شراء";
+//"view" = "عرض";
+//"main-buy-button" = "شراء";
 
 // Topics
 "matching" = "مطابقة";
 "translation" = "الترجمة";
 "pronunciation" = "النطق";
 "spelling" = "التهجئة";
-"dictionary" = "القاموس";
-"buy-theme" = "اشتري موضوع";
-"locked" = "مغلق";
+//"dictionary" = "القاموس";
+//"buy-theme" = "اشتري موضوع";
+//"locked" = "مغلق";
 
 // Quiz
 "some-theme-quiz" = "%@\nاختبار الموضوع .";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "مطابقة";
-"verify" = "تأكيد";
+//"verify" = "تأكيد";
 
 // Translate level
 "translate" = "ترجم";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

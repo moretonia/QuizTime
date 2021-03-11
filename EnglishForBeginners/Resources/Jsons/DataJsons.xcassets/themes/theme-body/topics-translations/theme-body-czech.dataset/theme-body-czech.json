@@ -1,7 +1,8 @@
 [
   {
     "id" : "Body Building",
-    "word" : "Posilování"
+    //"word" : "Posilování"
+    "word" : "Body Building"
   },
   {
     "id" : "Body II",

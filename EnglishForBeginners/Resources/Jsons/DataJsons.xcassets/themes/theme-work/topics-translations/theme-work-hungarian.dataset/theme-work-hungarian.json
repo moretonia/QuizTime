@@ -1,7 +1,8 @@
 [
   {
     "id" : "Indoor Tools",
-    "word" : "Beltéri szerszámok"
+    //"word" : "Beltéri szerszámok"
+    "word" : "Indoor Tools"
   },
   {
     "id" : "Jobs",

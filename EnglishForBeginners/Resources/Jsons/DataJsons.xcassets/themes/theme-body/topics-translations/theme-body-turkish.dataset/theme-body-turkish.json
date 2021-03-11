@@ -1,7 +1,8 @@
 [
   {
     "id" : "Body Building",
-    "word" : "Vücut Geliştirme"
+    //"word" : "Vücut Geliştirme"
+    "word" : "Body Building"
   },
   {
     "id" : "Body II",

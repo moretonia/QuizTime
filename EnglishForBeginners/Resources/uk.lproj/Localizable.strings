@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "Теми";
+//"themes" = "Теми";
 "3-themes" = "3 теми";
 "6-topics" = "6 тематик";
 "90-words" = "90 слів";
 "words" = "Слова";
-"view" = "Продивитись";
-"main-buy-button" = "Купити за";
+//"view" = "Продивитись";
+//"main-buy-button" = "Купити за";
 
 // Topics
 "matching" = "Співпадіння";
 "translation" = "Переклад";
 "pronunciation" = "Вимова";
 "spelling" = "Правопис";
-"dictionary" = "Словник";
-"buy-theme" = "Купити Тему";
-"locked" = "заблоковано";
+//"dictionary" = "Словник";
+//"buy-theme" = "Купити Тему";
+//"locked" = "заблоковано";
 
 // Quiz
 "some-theme-quiz" = "%@\nТема вікторини";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "Співпадіння";
-"verify" = "Перевірити";
+//"verify" = "Перевірити";
 
 // Translate level
 "translate" = "Перекладіть";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

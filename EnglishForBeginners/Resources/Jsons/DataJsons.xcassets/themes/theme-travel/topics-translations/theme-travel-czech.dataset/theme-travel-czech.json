@@ -1,7 +1,8 @@
 [
   {
     "id" : "Air Travel",
-    "word" : "Letecká doprava"
+    //"word" : "Letecká doprava"
+    "Word" : "Air Travel"
   },
   {
     "id" : "Currency",

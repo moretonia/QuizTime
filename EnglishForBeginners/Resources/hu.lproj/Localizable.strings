@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "Témák";
+//"themes" = "Témák";
 "3-themes" = "3 téma";
 "6-topics" = "6 témakör";
 "90-words" = "90 szó";
 "words" = "Szavak";
-"view" = "Nézet";
-"main-buy-button" = "Vásárol";
+//"view" = "Nézet";
+//"main-buy-button" = "Vásárol";
 
 // Topics
 "matching" = "Párosítás";
 "translation" = "Fordítás";
 "pronunciation" = "Kiejtés";
 "spelling" = "Helyesírás";
-"dictionary" = "Szótár";
-"buy-theme" = "Téma vásárlása";
-"locked" = "zárva";
+//"dictionary" = "Szótár";
+//"buy-theme" = "Téma vásárlása";
+//"locked" = "zárva";
 
 // Quiz
 "some-theme-quiz" = "%@\nTéma kvíz";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "Párosítsa";
-"verify" = "Ellenőrizze";
+//"verify" = "Ellenőrizze";
 
 // Translate level
 "translate" = "Fordítás";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

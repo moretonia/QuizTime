@@ -1,7 +1,8 @@
 [
   {
     "id" : "Environment",
-    "word" : "Навколишнє середовище"
+    //"word" : "Навколишнє середовище"
+    "word" : "Environment"
   },
   {
     "id" : "Farm",

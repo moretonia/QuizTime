@@ -1,7 +1,8 @@
 [
   {
     "id" : "Ceremonies",
-    "word" : "仪式"
+    //"word" : "仪式"
+     "Word" : "Ceremonies"
   },
   {
     "id" : "Christmas",

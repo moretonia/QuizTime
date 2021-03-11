@@ -1,7 +1,9 @@
 [
   {
     "id" : "Clothing",
-    "word" : "ropa"
+    //"word" : "ropa"
+    "word" : "Clothing"
+
   },
   {
     "id" : "Glamour",

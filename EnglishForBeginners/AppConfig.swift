@@ -11,7 +11,3 @@ import Foundation
 let isFlurryActive = true
 
 let isDebug = false
-
-struct FeatureToggle {
-    static let allThemesFree = true
-}

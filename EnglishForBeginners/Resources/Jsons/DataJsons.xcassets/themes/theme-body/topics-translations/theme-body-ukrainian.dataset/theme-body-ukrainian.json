@@ -1,7 +1,8 @@
 [
   {
     "id" : "Body Building",
-    "word" : "Культуризм"
+    //"word" : "Культуризм"
+    "word" : "Body Building"
   },
   {
     "id" : "Body II",

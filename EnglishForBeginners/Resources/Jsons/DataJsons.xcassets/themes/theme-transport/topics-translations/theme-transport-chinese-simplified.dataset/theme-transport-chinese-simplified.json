@@ -1,7 +1,8 @@
 [
   {
     "id" : "Bicycles",
-    "word" : "自行车"
+    //"word" : "自行车"
+    "word" : "Bicycles"
   },
   {
     "id" : "Boats",

@@ -7,22 +7,22 @@
 */
 
 // Main
-"themes" = "主題";
+//"themes" = "主題";
 "3-themes" = "3個主題";
 "6-topics" = "6個話題";
 "90-words" = "90個詞彙";
 "words" = "詞彙";
-"view" = "遊覽";
-"main-buy-button" = "購買";
+//"view" = "遊覽";
+//"main-buy-button" = "購買";
 
 // Topics
 "matching" = "連連看";
 "translation" = "翻譯";
 "pronunciation" = "發音";
 "spelling" = "拼字";
-"dictionary" = "字典";
-"buy-theme" = "購買主題";
-"locked" = "上鎖";
+//"dictionary" = "字典";
+//"buy-theme" = "購買主題";
+//"locked" = "上鎖";
 
 // Quiz
 "some-theme-quiz" = "%@\n主題測驗";
@@ -34,7 +34,7 @@
 
 // Match Level
 "match" = "連連看";
-"verify" = "確認";
+//"verify" = "確認";
 
 // Translate level
 "translate" = "翻譯";
@@ -191,3 +191,12 @@
 "congratulations" = "Congratulations!";
 "xp" = "+%d";
 "new-rank" = "New Rank";
+
+// Button Labels in English
+"view" = "Open";
+"themes"  = "Theme";
+"main-buy-button" = "Buy";
+"dictionary" = "Dictionary";
+"locked" = "Locked";
+"buy-theme" = "Buy";
+"verify" = "Verify";

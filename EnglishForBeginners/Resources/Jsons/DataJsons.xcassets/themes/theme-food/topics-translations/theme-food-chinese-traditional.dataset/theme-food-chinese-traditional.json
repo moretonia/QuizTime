@@ -1,7 +1,8 @@
 [
   {
     "id" : "Desserts",
-    "word" : "甜點"
+    //"word" : "甜點"
+    "word" : "Desserts"
   },
   {
     "id" : "Food",
