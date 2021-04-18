@@ -22,6 +22,8 @@ class UserDefaultsManager {
         case dateWhenLastPackWasRemoved
         
         case TimeWhenSessionStarted
+        
+        case lastMotivationalVideoNumber
     }
     
     var userLanguage: String? {
@@ -72,6 +74,15 @@ class UserDefaultsManager {
         }
         set {
             UserDefaults.standard.set(newValue, forKey: UserDefaultsKey.currentThemesPackThemesNames.rawValue)
+        }
+    }
+    
+    var lastMotivationalVideoNumber: Int? {
+        get {
+            return UserDefaults.standard.object(forKey: UserDefaultsKey.lastMotivationalVideoNumber.rawValue) as? Int
+        }
+        set {
+            UserDefaults.standard.set(newValue, forKey: UserDefaultsKey.lastMotivationalVideoNumber.rawValue)
         }
     }
 }
