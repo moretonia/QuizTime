@@ -8,6 +8,9 @@
 
 import UIKit
 import ORCommonCode_Swift
+import AVFoundation
+import AVKit
+import Reachability
 
 class LevelCompletionVC: BaseVC {
     @IBOutlet weak var viewStarsContainer: UIView!
@@ -35,12 +38,19 @@ class LevelCompletionVC: BaseVC {
 
     var displayedAd = false
     
+    lazy var playerViewController: AVPlayerViewController = {
+        let playerViewController = AVPlayerViewController()
+        playerViewController.showsPlaybackControls = false
+        return playerViewController
+    }()
+    
     // MARK: - ViewController lifecycle
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         prepareView()
+        setupNotifications()
     }
 
     override func viewWillAppear(_ animated: Bool) {
@@ -116,6 +126,15 @@ class LevelCompletionVC: BaseVC {
         }
     }
     
+    func setupNotifications() {
+        NotificationCenter.default.addObserver(
+            self,
+            selector: #selector(playerDidFinishPlaying),
+            name: .AVPlayerItemDidPlayToEndTime,
+            object: nil
+        )
+    }
+    
     func prepareForAnimation() {
         if !isExamCompletion {
             starsView = StarsView.or_loadFromNib(containerToFill: viewStarsContainer) 
@@ -141,10 +160,15 @@ class LevelCompletionVC: BaseVC {
 
         or_dispatch_in_main_queue_after(2.5) { [weak self] in
             if let sSelf = self {
-                sSelf.teacherView.isHidden = true
-                sSelf.animateStars()
+                sSelf.playVideo()
             }
         }
+    }
+    
+    func showResults() {
+        teacherView.isHidden = true
+        
+        animateStars()
     }
     
     func animateStars() {
@@ -227,4 +251,50 @@ class LevelCompletionVC: BaseVC {
         self.experience = experience
     }
     
+}
+
+// MARK: - Video
+extension LevelCompletionVC {
+    func playVideo() {
+        guard
+            let reachability = try? Reachability(),
+            [.cellular, .wifi].contains(reachability.connection)
+        else {
+            showResults()
+            
+            return
+        }
+        
+        let videoURL = MotivationalVideoManager.shared.nextVideoURL
+        
+        let player = AVPlayer(url: videoURL)
+        playerViewController.player = player
+        
+        addChild(playerViewController)
+        playerViewController.view.frame = view.frame
+        view.addSubview(playerViewController.view)
+        
+        playerViewController.view.alpha = 0
+        
+        UIView.animate(withDuration: 0.5, delay: 0, options: []) { [weak self] in
+            self?.playerViewController.view.alpha = 1
+        } completion: { _ in
+            player.play()
+            
+            MotivationalVideoManager.shared.setNextVideoAsLast()
+        }
+    }
+    
+    @objc func playerDidFinishPlaying() {
+        UIView.animate(withDuration: 0.5, delay: 0, options: []) { [weak self] in
+            self?.playerViewController.view.alpha = 0
+        } completion: { [weak self] _ in
+            or_dispatch_in_main_queue_after(0.5) { [weak self] in
+                self?.playerViewController.removeFromParent()
+                self?.playerViewController.view.removeFromSuperview()
+                
+                self?.showResults()
+            }
+        }
+    }
 }

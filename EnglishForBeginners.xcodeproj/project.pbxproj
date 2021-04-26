@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2B43BC1BE92E988E3D44C838 /* Pods_EnglishForBeginnersTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6CC6F2EA2D09D589972E6E5 /* Pods_EnglishForBeginnersTests.framework */; };
+		2FA6D080262CE28200566DFE /* MotivationalVideoManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FA6D07F262CE28200566DFE /* MotivationalVideoManager.swift */; };
 		33B3C2FF24D6ABD50041AE29 /* AdManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B3C2FE24D6ABD50041AE29 /* AdManager.swift */; };
 		33B53D2924D8AF3B005D140F /* excelent.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33B53D1D24D8AF37005D140F /* excelent.mp3 */; };
 		33B53D2A24D8AF3B005D140F /* correct.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33B53D1E24D8AF37005D140F /* correct.mp3 */; };
@@ -189,6 +190,7 @@
 
 /* Begin PBXFileReference section */
 		1CEE192B4258378535714BEA /* Pods-EnglishForBeginners.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EnglishForBeginners.release.xcconfig"; path = "Target Support Files/Pods-EnglishForBeginners/Pods-EnglishForBeginners.release.xcconfig"; sourceTree = "<group>"; };
+		2FA6D07F262CE28200566DFE /* MotivationalVideoManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotivationalVideoManager.swift; sourceTree = "<group>"; };
 		33B3C2FE24D6ABD50041AE29 /* AdManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdManager.swift; sourceTree = "<group>"; };
 		33B53D1D24D8AF37005D140F /* excelent.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = excelent.mp3; sourceTree = "<group>"; };
 		33B53D1E24D8AF37005D140F /* correct.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = correct.mp3; sourceTree = "<group>"; };
@@ -808,6 +810,7 @@
 		529365D220441AB4005134E0 /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				2FA6D07F262CE28200566DFE /* MotivationalVideoManager.swift */,
 				528247BF2085DEE600C08D89 /* Packs */,
 				527985A4207C858400A437ED /* iCloud */,
 				5274F740205A48B00092503A /* Speech */,
@@ -1263,6 +1266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FA6D080262CE28200566DFE /* MotivationalVideoManager.swift in Sources */,
 				526F70FF20483395000F8C97 /* VocabularyItem+CoreDataProperties.swift in Sources */,
 				527985A8207C8B8000A437ED /* ICloudSaver.swift in Sources */,
 				F930A45A2446F8250083707A /* TypeTheWordVC.swift in Sources */,
