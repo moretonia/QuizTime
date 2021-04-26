@@ -10,6 +10,7 @@ import UIKit
 import ORCommonCode_Swift
 import AVFoundation
 import AVKit
+import Reachability
 
 class LevelCompletionVC: BaseVC {
     @IBOutlet weak var viewStarsContainer: UIView!
@@ -255,6 +256,15 @@ class LevelCompletionVC: BaseVC {
 // MARK: - Video
 extension LevelCompletionVC {
     func playVideo() {
+        guard
+            let reachability = try? Reachability(),
+            [.cellular, .wifi].contains(reachability.connection)
+        else {
+            showResults()
+            
+            return
+        }
+        
         let videoURL = MotivationalVideoManager.shared.nextVideoURL
         
         let player = AVPlayer(url: videoURL)
