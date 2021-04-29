@@ -268,6 +268,7 @@ extension LevelCompletionVC {
         let videoURL = MotivationalVideoManager.shared.nextVideoURL
         
         let player = AVPlayer(url: videoURL)
+        player.volume = 5
         playerViewController.player = player
         
         addChild(playerViewController)
